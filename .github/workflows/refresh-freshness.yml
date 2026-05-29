@@ -1,0 +1,45 @@
+name: Refresh freshness markers
+
+# 鮮度マーカー(最終更新日・stars)を定期的に再取得して README / research-notes を更新する。
+# - 毎週月曜 00:00 UTC に自動実行
+# - 手動実行(workflow_dispatch)も可能
+on:
+  schedule:
+    - cron: "0 0 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Enrich metadata via GitHub API
+        env:
+          # ランナーに同梱の gh CLI はこのトークンで認証される
+          GH_TOKEN: ${{ github.token }}
+        run: python3 data/enrich.py
+
+      - name: Regenerate README and research-notes
+        run: python3 data/gen.py
+
+      - name: Commit if changed
+        run: |
+          if [[ -n "$(git status --porcelain README.md docs/research-notes.md data/enriched.json)" ]]; then
+            git config user.name  "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add README.md docs/research-notes.md data/enriched.json
+            git commit -m "chore: refresh freshness markers ($(date -u +%Y-%m-%d))
+
+          Generated with Claude Code"
+            git push
+          else
+            echo "鮮度に変化なし。コミットをスキップしました。"
+          fi
