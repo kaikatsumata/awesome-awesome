@@ -1,0 +1,5138 @@
+{
+  "jbhuang0604/awesome-computer-vision": {
+    "type": "awesome-list",
+    "field": "cv",
+    "subfield": "CV全般",
+    "desc": "CV全般の書籍・講義・論文・ツール・データセットを網羅した定番リスト"
+  },
+  "yarkable/Awesome-Computer-Vision-Paper-List": {
+    "type": "paper-list",
+    "field": "cv",
+    "subfield": "会議論文横断",
+    "desc": "トップ会議の採択論文を横断検索できるようまとめた論文リスト"
+  },
+  "tzxiang/awesome-computer-vision-papers": {
+    "type": "awesome-list",
+    "field": "cv",
+    "subfield": "CV全般・深層学習",
+    "desc": "CVと深層学習に関する論文・リソースのリスト"
+  },
+  "amusi/awesome-object-detection": {
+    "type": "awesome-list",
+    "field": "cv",
+    "subfield": "物体検出",
+    "desc": "R-CNN系・YOLO・SSD等の物体検出論文/実装をまとめた定番リスト"
+  },
+  "kuanhungchen/awesome-tiny-object-detection": {
+    "type": "paper-list",
+    "field": "cv",
+    "subfield": "微小物体検出",
+    "desc": "Tiny Object Detection(微小物体検出)の論文・リソース集"
+  },
+  "visionxiang/awesome-salient-object-detection": {
+    "type": "awesome-list",
+    "field": "cv",
+    "subfield": "顕著性物体検出",
+    "desc": "RGB-D等を含む顕著性物体検出のリソース集"
+  },
+  "Charles-Xie/awesome-described-object-detection": {
+    "type": "paper-list",
+    "field": "cv",
+    "subfield": "オープン語彙検出",
+    "desc": "Described/Open-Vocabulary物体検出・参照表現理解の論文集"
+  },
+  "mrgloom/awesome-semantic-segmentation": {
+    "type": "awesome-list",
+    "field": "cv",
+    "subfield": "セマンティックセグメンテーション",
+    "desc": "セマンティックセグメンテーションの定番リソース集"
+  },
+  "nightrome/really-awesome-semantic-segmentation": {
+    "type": "paper-list",
+    "field": "cv",
+    "subfield": "セマンティックセグメンテーション",
+    "desc": "セマンティックセグメンテーション論文リスト(2018で更新停止)"
+  },
+  "Qinying-Liu/Awesome-Open-Vocabulary-Semantic-Segmentation": {
+    "type": "paper-list",
+    "field": "cv",
+    "subfield": "オープン語彙セグメンテーション",
+    "desc": "オープン語彙/ゼロショットセマンティックセグメンテーション論文リスト"
+  },
+  "Vision-Intelligence-and-Robots-Group/Awesome-Segment-Anything": {
+    "type": "paper-list",
+    "field": "cv",
+    "subfield": "SAM",
+    "desc": "Segment Anything Model(SAM)関連の論文・プロジェクト集"
+  },
+  "GuoleiSun/Awesome-SAM2": {
+    "type": "paper-list",
+    "field": "cv",
+    "subfield": "SAM2/動画",
+    "desc": "画像・動画向けSAM2の論文・コード集"
+  },
+  "weiaicunzai/awesome-image-classification": {
+    "type": "paper-list",
+    "field": "cv",
+    "subfield": "画像分類",
+    "desc": "2014年以降の深層学習画像分類論文/実装のリスト"
+  },
+  "haoweiz23/Awesome-Fine-grained-Visual-Classification": {
+    "type": "paper-list",
+    "field": "cv",
+    "subfield": "細粒度画像分類",
+    "desc": "細粒度視覚分類(FGVC)の論文コレクション"
+  },
+  "immortal13/awesome-hyperspectral-image-classification": {
+    "type": "paper-list",
+    "field": "cv",
+    "subfield": "ハイパースペクトル画像分類",
+    "desc": "ハイパースペクトル画像分類の論文・コード集"
+  },
+  "zhjohnchan/awesome-image-captioning": {
+    "type": "awesome-list",
+    "field": "cv",
+    "subfield": "画像キャプション",
+    "desc": "画像キャプションと関連領域のリソースを年別整理"
+  },
+  "luo3300612/Awesome-image-captioning": {
+    "type": "paper-list",
+    "field": "cv",
+    "subfield": "画像キャプション",
+    "desc": "ICCV/ECCV/CVPR等の画像キャプション論文リスト"
+  },
+  "aimagelab/awesome-captioning-evaluation": {
+    "type": "paper-list",
+    "field": "cv",
+    "subfield": "キャプション評価",
+    "desc": "MLLM時代の画像キャプション評価に関する論文集"
+  },
+  "cbsudux/awesome-human-pose-estimation": {
+    "type": "awesome-list",
+    "field": "cv",
+    "subfield": "人物姿勢推定",
+    "desc": "人物姿勢推定の論文・リソース集"
+  },
+  "wangzheallen/awesome-human-pose-estimation": {
+    "type": "paper-list",
+    "field": "cv",
+    "subfield": "人物姿勢推定",
+    "desc": "2D/3D人物姿勢推定の関連論文集"
+  },
+  "bsridatta/Awesome-3D-Human-Pose-Estimation": {
+    "type": "paper-list",
+    "field": "cv",
+    "subfield": "3D人物姿勢推定",
+    "desc": "3D人物姿勢推定に特化した論文コレクション"
+  },
+  "ChanChiChoi/awesome-Face_Recognition": {
+    "type": "paper-list",
+    "field": "cv",
+    "subfield": "顔認識",
+    "desc": "顔検出/認識/再構成/生成等を網羅した大規模論文集"
+  },
+  "polarisZhao/awesome-face": {
+    "type": "awesome-list",
+    "field": "cv",
+    "subfield": "顔全般",
+    "desc": "顔関連アルゴリズム・データセット・論文のキュレーション"
+  },
+  "TaoWangzj/Awesome-Face-Restoration": {
+    "type": "paper-list",
+    "field": "cv",
+    "subfield": "顔復元",
+    "desc": "顔復元手法の論文・リポジトリを集めたリスト"
+  },
+  "clpeng/Awesome-Face-Forgery-Generation-and-Detection": {
+    "type": "paper-list",
+    "field": "cv",
+    "subfield": "顔偽造検出",
+    "desc": "顔偽造の生成と検出に関する論文・コード集"
+  },
+  "ZumingHuang/awesome-ocr-resources": {
+    "type": "awesome-list",
+    "field": "cv",
+    "subfield": "OCR",
+    "desc": "OCRの論文・データセットを集めたリソース集"
+  },
+  "hwalsuklee/awesome-deep-text-detection-recognition": {
+    "type": "paper-list",
+    "field": "cv",
+    "subfield": "テキスト検出・認識",
+    "desc": "深層学習ベースのテキスト検出/認識論文を整理"
+  },
+  "chongyangtao/Awesome-Scene-Text-Recognition": {
+    "type": "awesome-list",
+    "field": "cv",
+    "subfield": "シーンテキスト認識",
+    "desc": "シーンテキストの位置特定・認識に特化したリソース集"
+  },
+  "ChaofWang/Awesome-Super-Resolution": {
+    "type": "awesome-list",
+    "field": "cv",
+    "subfield": "超解像",
+    "desc": "超解像関連の論文・データ・リポジトリを集約"
+  },
+  "ptkin/Awesome-Super-Resolution": {
+    "type": "awesome-list",
+    "field": "cv",
+    "subfield": "超解像",
+    "desc": "超解像リソースのキュレーション"
+  },
+  "ChunmingHe/awesome-diffusion-models-in-low-level-vision": {
+    "type": "paper-list",
+    "field": "cv",
+    "subfield": "低レベル視覚",
+    "desc": "超解像/インペインティング等の低レベル視覚向け拡散モデル論文集"
+  },
+  "subeeshvasu/Awesome-Deblurring": {
+    "type": "awesome-list",
+    "field": "cv",
+    "subfield": "デブラー",
+    "desc": "画像・動画デブラーのリソースをまとめたリスト"
+  },
+  "yunfanLu/Awesome-Image-Prior": {
+    "type": "survey",
+    "field": "cv",
+    "subfield": "画像復元",
+    "desc": "深層画像復元/強調における事前分布のサーベイ"
+  },
+  "jinwchoi/awesome-action-recognition": {
+    "type": "awesome-list",
+    "field": "cv",
+    "subfield": "行動認識・動画理解",
+    "desc": "行動認識と関連領域のリソースを網羅した定番リスト"
+  },
+  "sujiongming/awesome-video-understanding": {
+    "type": "awesome-list",
+    "field": "cv",
+    "subfield": "動画理解",
+    "desc": "動画分類・行動認識・動画データセットのリソース集"
+  },
+  "firework8/Awesome-Skeleton-based-Action-Recognition": {
+    "type": "paper-list",
+    "field": "cv",
+    "subfield": "スケルトン行動認識",
+    "desc": "スケルトンベース行動認識の論文を月次更新するリスト"
+  },
+  "ttengwang/Awesome_Long_Form_Video_Understanding": {
+    "type": "paper-list",
+    "field": "cv",
+    "subfield": "長尺動画理解",
+    "desc": "長尺動画に特化した論文・データセット集"
+  },
+  "luanshiyinyang/awesome-multiple-object-tracking": {
+    "type": "awesome-list",
+    "field": "cv",
+    "subfield": "多物体追跡",
+    "desc": "MOTのレビュー論文・年別アルゴリズム・データセットを整理"
+  },
+  "SpyderXu/multi-object-tracking-paper-list": {
+    "type": "paper-list",
+    "field": "cv",
+    "subfield": "多物体追跡",
+    "desc": "多物体追跡の論文リストとソースコード集"
+  },
+  "Zhangyong-Tang/Awesome-MultiModal-Visual-Object-Tracking": {
+    "type": "survey",
+    "field": "cv",
+    "subfield": "マルチモーダル追跡",
+    "desc": "RGBT/RGBD/RGBE等のマルチモーダル視覚物体追跡サーベイ"
+  },
+  "JunMa11/SOTA-MedSeg": {
+    "type": "paper-list",
+    "field": "cv",
+    "subfield": "医用画像セグメンテーション",
+    "desc": "各種チャレンジに基づくSOTA医用画像セグメンテーション手法集"
+  },
+  "YichiZhang98/SAM4MIS": {
+    "type": "paper-list",
+    "field": "cv",
+    "subfield": "医用画像SAM",
+    "desc": "医用画像セグメンテーションへのSAM応用論文・OSSの要約"
+  },
+  "steve-zeyu-zhang/Awesome-3D-Medical-Imaging-Segmentation": {
+    "type": "survey",
+    "field": "cv",
+    "subfield": "3D医用画像セグメンテーション",
+    "desc": "3D医用画像セグメンテーションの包括サーベイ"
+  },
+  "TianhaoFu/Awesome-3D-Semantic-Segmentation": {
+    "type": "paper-list",
+    "field": "cv",
+    "subfield": "3Dセマンティックセグメンテーション",
+    "desc": "3Dセマンティックセグメンテーションの論文・コード集"
+  },
+  "hzwer/Awesome-Optical-Flow": {
+    "type": "awesome-list",
+    "field": "cv",
+    "subfield": "オプティカルフロー",
+    "desc": "オプティカルフローと関連研究の論文リスト"
+  },
+  "antran89/awesome-optical-flow-algorithm": {
+    "type": "awesome-list",
+    "field": "cv",
+    "subfield": "オプティカルフロー",
+    "desc": "古典手法からRAFT等の深層学習までのフローアルゴリズム集"
+  },
+  "scott89/awesome-depth": {
+    "type": "paper-list",
+    "field": "cv",
+    "subfield": "深度推定",
+    "desc": "深度推定の出版物を集めたキュレーションリスト"
+  },
+  "choyingw/Awesome-Monocular-Depth": {
+    "type": "paper-list",
+    "field": "cv",
+    "subfield": "単眼深度推定",
+    "desc": "2020年以降の単眼深度推定論文に焦点を当てたリスト"
+  },
+  "Malitha123/awesome-video-self-supervised-learning": {
+    "type": "paper-list",
+    "field": "cv",
+    "subfield": "動画自己教師あり",
+    "desc": "動画における自己教師あり学習手法の論文集"
+  },
+  "cmhungsteve/Awesome-Transformer-Attention": {
+    "type": "paper-list",
+    "field": "cv",
+    "subfield": "Vision Transformer",
+    "desc": "ViT/Attentionを網羅した極めて包括的な論文リスト"
+  },
+  "dk-liang/Awesome-Visual-Transformer": {
+    "type": "awesome-list",
+    "field": "cv",
+    "subfield": "Vision Transformer",
+    "desc": "CV向けTransformer論文を集めたコレクション"
+  },
+  "GuanRunwei/Awesome-Vision-Transformer-Collection": {
+    "type": "awesome-list",
+    "field": "cv",
+    "subfield": "Vision Transformer",
+    "desc": "ViTの派生と下流タスクをまとめたコレクション"
+  },
+  "DmitryRyumin/CVPR-2023-24-Papers": {
+    "type": "paper-list",
+    "field": "cv",
+    "subfield": "会議論文(CVPR)",
+    "desc": "CVPR 2023/2024採択論文をトピック別に整理"
+  },
+  "DmitryRyumin/ICCV-2023-25-Papers": {
+    "type": "paper-list",
+    "field": "cv",
+    "subfield": "会議論文(ICCV)",
+    "desc": "ICCV 2023-2025採択論文のキュレーション"
+  },
+  "SkalskiP/top-cvpr-2025-papers": {
+    "type": "paper-list",
+    "field": "cv",
+    "subfield": "会議論文(CVPR)",
+    "desc": "CVPR 2025の注目論文を厳選したコレクション"
+  },
+  "Kobaayyy/Awesome-CVPR2026-CVPR2025-ICCV2025-CVPR2024-ECCV2024-AIGC": {
+    "type": "paper-list",
+    "field": "cv",
+    "subfield": "会議論文(AIGC)",
+    "desc": "主要会議のAIGC関連論文・コードを集約"
+  },
+  "awesome-NeRF/awesome-NeRF": {
+    "type": "awesome-list",
+    "field": "cg",
+    "subfield": "NeRF",
+    "desc": "Neural Radiance Fields論文の定番キュレーションリスト"
+  },
+  "pdaicode/awesome-dynamic-NeRF": {
+    "type": "paper-list",
+    "field": "cg",
+    "subfield": "NeRF(動的)",
+    "desc": "動的シーン向けNeRFの論文集"
+  },
+  "MrNeRF/awesome-3D-gaussian-splatting": {
+    "type": "awesome-list",
+    "field": "cg",
+    "subfield": "3D Gaussian Splatting",
+    "desc": "3DGSの論文・実装・ビューア・ツールを集めた包括リスト"
+  },
+  "pdaicode/awesome-3dgs": {
+    "type": "paper-list",
+    "field": "cg",
+    "subfield": "3D Gaussian Splatting",
+    "desc": "3DGS関連論文のキュレーション"
+  },
+  "longxiang-ai/awesome-gaussians": {
+    "type": "paper-list",
+    "field": "cg",
+    "subfield": "3D Gaussian Splatting",
+    "desc": "arXivから毎日自動更新される3DGS論文追跡"
+  },
+  "weihaox/awesome-neural-rendering": {
+    "type": "awesome-list",
+    "field": "cg",
+    "subfield": "neural/differentiable rendering",
+    "desc": "ニューラルレンダリングと微分可能レンダリングの資料集"
+  },
+  "ingra14m/Awesome-Inverse-Rendering": {
+    "type": "paper-list",
+    "field": "cg",
+    "subfield": "inverse rendering",
+    "desc": "neural field基盤の逆レンダリング論文集"
+  },
+  "tkuri/Awesome-InverseRendering": {
+    "type": "paper-list",
+    "field": "cg",
+    "subfield": "inverse rendering",
+    "desc": "内在分解・逆レンダリング論文リスト"
+  },
+  "tkuri/Awesome-BRDF": {
+    "type": "paper-list",
+    "field": "cg",
+    "subfield": "material/BRDF",
+    "desc": "BRDF表現に関する論文を表現方式別に整理"
+  },
+  "lzhbrian/texture-synthesis-papers": {
+    "type": "paper-list",
+    "field": "cg",
+    "subfield": "texture synthesis",
+    "desc": "テクスチャ合成論文(コード付き)の集積"
+  },
+  "neil3d/awesome-pbr": {
+    "type": "awesome-list",
+    "field": "cg",
+    "subfield": "physically based rendering",
+    "desc": "PBRの資料・スライド・論文の総合コレクション"
+  },
+  "dannyfritz/awesome-ray-tracing": {
+    "type": "awesome-list",
+    "field": "cg",
+    "subfield": "ray/path tracing",
+    "desc": "レイトレーシングの論文・コース・実装リスト"
+  },
+  "zhaoguangyuan123/Awesome-SIGGRAPH-Computational-Optics": {
+    "type": "paper-list",
+    "field": "cg",
+    "subfield": "computational optics(SIGGRAPH)",
+    "desc": "SIGGRAPH掲載の計算光学論文の読書リスト"
+  },
+  "zishun/awesome-geometry-processing": {
+    "type": "awesome-list",
+    "field": "cg",
+    "subfield": "geometry processing",
+    "desc": "幾何処理のライブラリ・ツール・資料集"
+  },
+  "subeeshvasu/Awsome_Deep_Geometry_Learning": {
+    "type": "paper-list",
+    "field": "cg",
+    "subfield": "deep geometry",
+    "desc": "3D形状の深層学習ソリューション資料集"
+  },
+  "Bigger-and-Stronger/quad-meshing-survey": {
+    "type": "survey",
+    "field": "cg",
+    "subfield": "quad meshing",
+    "desc": "クワッドメッシング関連の論文・コード・プロジェクト集"
+  },
+  "openMVG/awesome_3DReconstruction_list": {
+    "type": "awesome-list",
+    "field": "cg",
+    "subfield": "3D reconstruction",
+    "desc": "画像からの3D復元の古典的論文・資料集"
+  },
+  "bluestyle97/awesome-3d-reconstruction-papers": {
+    "type": "paper-list",
+    "field": "cg",
+    "subfield": "3D reconstruction",
+    "desc": "深層学習時代の3D復元論文集"
+  },
+  "XYZ-qiyh/Awesome-Learning-MVS": {
+    "type": "paper-list",
+    "field": "cg",
+    "subfield": "multi-view stereo",
+    "desc": "学習ベースMVS論文のリスト"
+  },
+  "krahets/awesome-mvs": {
+    "type": "awesome-list",
+    "field": "cg",
+    "subfield": "multi-view stereo",
+    "desc": "MVSのチュートリアル・論文・ソフトウェア集"
+  },
+  "natowi/3D-Reconstruction-with-Deep-Learning-Methods": {
+    "type": "paper-list",
+    "field": "cg",
+    "subfield": "3D reconstruction",
+    "desc": "深層学習による3D復元プロジェクトの一覧"
+  },
+  "ruili3/awesome-dust3r": {
+    "type": "model-collection",
+    "field": "cg",
+    "subfield": "3D基盤モデル",
+    "desc": "DUSt3R系の幾何基盤モデル論文・資源追跡"
+  },
+  "PolySummit/Awesome-3D-Reconstruction-and-Generation": {
+    "type": "paper-list",
+    "field": "cg",
+    "subfield": "3D reconstruction/generation",
+    "desc": "3D復元・生成の論文・データセット集"
+  },
+  "kanster/awesome-slam": {
+    "type": "awesome-list",
+    "field": "cg",
+    "subfield": "SLAM",
+    "desc": "SLAMのチュートリアル・プロジェクト・コミュニティ集"
+  },
+  "tzutalin/awesome-visual-slam": {
+    "type": "awesome-list",
+    "field": "cg",
+    "subfield": "visual SLAM",
+    "desc": "視覚SLAM/視覚オドメトリのOSS・論文集"
+  },
+  "SilenceOverflow/Awesome-SLAM": {
+    "type": "paper-list",
+    "field": "cg",
+    "subfield": "SLAM",
+    "desc": "SLAM論文の継続更新リスト"
+  },
+  "3D-Vision-World/awesome-NeRF-and-3DGS-SLAM": {
+    "type": "paper-list",
+    "field": "cg",
+    "subfield": "SLAM(NeRF/3DGS)",
+    "desc": "暗黙表現・NeRF・3DGSを用いたSLAM論文集"
+  },
+  "KwanWaiPang/Awesome-3DGS-SLAM": {
+    "type": "survey",
+    "field": "cg",
+    "subfield": "SLAM(3DGS)",
+    "desc": "3DGS SLAMのサーベイ用論文集"
+  },
+  "Taeyoung96/awesome-Implicit-NeRF-SLAM": {
+    "type": "paper-list",
+    "field": "cg",
+    "subfield": "SLAM(暗黙表現)",
+    "desc": "暗黙表現・NeRFのSLAM/ロボティクス応用論文集"
+  },
+  "Yochengliu/awesome-point-cloud-analysis": {
+    "type": "awesome-list",
+    "field": "cg",
+    "subfield": "point cloud",
+    "desc": "点群解析・処理に関する論文とデータセットのリスト"
+  },
+  "NUAAXQ/awesome-point-cloud-analysis-2023": {
+    "type": "paper-list",
+    "field": "cg",
+    "subfield": "point cloud",
+    "desc": "2017年以降の点群解析論文を日次更新するリスト"
+  },
+  "mmolero/awesome-point-cloud-processing": {
+    "type": "awesome-list",
+    "field": "cg",
+    "subfield": "point cloud processing",
+    "desc": "点群処理のライブラリ・ソフト・資料集"
+  },
+  "vsitzmann/awesome-implicit-representations": {
+    "type": "awesome-list",
+    "field": "cg",
+    "subfield": "implicit neural representation/SDF",
+    "desc": "DeepSDF等の暗黙的ニューラル表現の資料集"
+  },
+  "justimyhxu/awesome-3D-generation": {
+    "type": "awesome-list",
+    "field": "cg",
+    "subfield": "3D generation",
+    "desc": "3D生成論文のキュレーションリスト"
+  },
+  "cwchenwang/awesome-3d-diffusion": {
+    "type": "paper-list",
+    "field": "cg",
+    "subfield": "3D generation(拡散)",
+    "desc": "3D生成向け拡散モデル論文集"
+  },
+  "yyeboah/Awesome-Text-to-3D": {
+    "type": "paper-list",
+    "field": "cg",
+    "subfield": "text-to-3D",
+    "desc": "Text-to-3D/Diffusion-to-3D研究のキュレーション"
+  },
+  "hitcslj/Awesome-AIGC-3D": {
+    "type": "awesome-list",
+    "field": "cg",
+    "subfield": "3D generation(AIGC)",
+    "desc": "AIGC 3D(生成・テクスチャ・素材)論文集"
+  },
+  "cwchenwang/awesome-4d-generation": {
+    "type": "paper-list",
+    "field": "cg",
+    "subfield": "4D generation",
+    "desc": "4D生成(text-to-4D等)論文リスト"
+  },
+  "yukangcao/Awesome-4D-Spatial-Intelligence": {
+    "type": "survey",
+    "field": "cg",
+    "subfield": "4D reconstruction",
+    "desc": "動画からの4D空間知能復元のサーベイ"
+  },
+  "yklcs/awesome-dynamic-scene-representations": {
+    "type": "paper-list",
+    "field": "cg",
+    "subfield": "dynamic/4D scene",
+    "desc": "動的シーン表現の資料集"
+  },
+  "weihaox/awesome-digital-human": {
+    "type": "awesome-list",
+    "field": "cg",
+    "subfield": "digital humans",
+    "desc": "2D/3D/4D人体モデリング・アバター生成の総合集"
+  },
+  "pansanity666/Awesome-Avatars": {
+    "type": "paper-list",
+    "field": "cg",
+    "subfield": "avatars",
+    "desc": "人間アバターの生成・復元・編集の最新進展"
+  },
+  "Jason-cs18/awesome-avatar": {
+    "type": "awesome-list",
+    "field": "cg",
+    "subfield": "avatars(talking)",
+    "desc": "talking-face/talking-body関連資源集"
+  },
+  "3DFaceBody/awesome-3dbody-papers": {
+    "type": "paper-list",
+    "field": "cg",
+    "subfield": "3D body",
+    "desc": "3D人体(SMPL等)の論文集"
+  },
+  "Run542968/Awesome-3D-Human-Motion-Generation": {
+    "type": "paper-list",
+    "field": "cg",
+    "subfield": "human motion/animation",
+    "desc": "Text-to-Motion中心の人体動作生成論文集"
+  },
+  "Kedreamix/Awesome-Talking-Head-Synthesis": {
+    "type": "awesome-list",
+    "field": "cg",
+    "subfield": "talking head",
+    "desc": "トーキングフェイス合成の広範な資源集"
+  },
+  "JosephPai/Awesome-Talking-Face": {
+    "type": "awesome-list",
+    "field": "cg",
+    "subfield": "talking face",
+    "desc": "トーキングフェイス専門のキュレーション"
+  },
+  "Housz/awesome-simulation": {
+    "type": "awesome-list",
+    "field": "cg",
+    "subfield": "physics simulation",
+    "desc": "CGの物理シミュレーション資源整理"
+  },
+  "taichi-dev/awesome-taichi": {
+    "type": "awesome-list",
+    "field": "cg",
+    "subfield": "physics simulation(Taichi)",
+    "desc": "Taichi製シミュレーション(流体・布等)アプリ集"
+  },
+  "ericjang/awesome-graphics": {
+    "type": "awesome-list",
+    "field": "cg",
+    "subfield": "computer graphics",
+    "desc": "CGチュートリアル・論文の総合リスト"
+  },
+  "luisdnsantos/awesome-computer-graphics": {
+    "type": "awesome-list",
+    "field": "cg",
+    "subfield": "computer graphics(学習)",
+    "desc": "CG学習用の書籍・講座・資料集"
+  },
+  "jslee02/awesome-graphics-libraries": {
+    "type": "awesome-list",
+    "field": "cg",
+    "subfield": "3D graphics libraries",
+    "desc": "3Dグラフィックスライブラリのキュレーション"
+  },
+  "Hannibal046/Awesome-LLM": {
+    "type": "awesome-list",
+    "field": "nlp",
+    "subfield": "LLM全般",
+    "desc": "LLM論文・モデル・ツール・コースを網羅した最大級のリスト"
+  },
+  "RUCAIBox/LLMSurvey": {
+    "type": "survey",
+    "field": "nlp",
+    "subfield": "LLM全般",
+    "desc": "「A Survey of Large Language Models」公式リポジトリ"
+  },
+  "Mooler0410/LLMsPracticalGuide": {
+    "type": "survey",
+    "field": "nlp",
+    "subfield": "LLM全般",
+    "desc": "LLM進化系統樹と実務活用ガイドをまとめたサーベイ集"
+  },
+  "keon/awesome-nlp": {
+    "type": "awesome-list",
+    "field": "nlp",
+    "subfield": "NLP全般",
+    "desc": "NLP全般のライブラリ・データ・チュートリアルを集めた定番リスト"
+  },
+  "NiuTrans/ABigSurvey": {
+    "type": "survey",
+    "field": "nlp",
+    "subfield": "NLP/ML全般",
+    "desc": "NLP・MLの数百本のサーベイ論文を一覧化したサーベイのサーベイ"
+  },
+  "promptslab/Awesome-Prompt-Engineering": {
+    "type": "awesome-list",
+    "field": "nlp",
+    "subfield": "prompt engineering",
+    "desc": "GPT/ChatGPT向けプロンプト技法の論文・ツールを集めたリスト"
+  },
+  "ai-boost/awesome-prompts": {
+    "type": "awesome-list",
+    "field": "nlp",
+    "subfield": "prompt engineering",
+    "desc": "高評価GPTsのプロンプトと先端プロンプト工学論文のコレクション"
+  },
+  "EgoAlpha/prompt-in-context-learning": {
+    "type": "paper-list",
+    "field": "nlp",
+    "subfield": "in-context learning",
+    "desc": "ICLとプロンプト工学の最新リソースを継続更新する論文リスト"
+  },
+  "dqxiu/ICL_PaperList": {
+    "type": "paper-list",
+    "field": "nlp",
+    "subfield": "in-context learning",
+    "desc": "In-Context Learningサーベイに基づく論文リスト"
+  },
+  "zjunlp/Prompt4ReasoningPapers": {
+    "type": "paper-list",
+    "field": "nlp",
+    "subfield": "chain-of-thought reasoning",
+    "desc": "ACL2023サーベイ「Reasoning with LM Prompting」の論文リスト"
+  },
+  "hijkzzz/Awesome-LLM-Strawberry": {
+    "type": "paper-list",
+    "field": "nlp",
+    "subfield": "reasoning(o1)",
+    "desc": "OpenAI o1と推論技法に焦点を当てた論文・ブログ集"
+  },
+  "Junting-Lu/Awesome-LLM-Reasoning-Techniques": {
+    "type": "paper-list",
+    "field": "nlp",
+    "subfield": "reasoning",
+    "desc": "CoTやo1を含むLLM推論技法の論文・リソース集"
+  },
+  "Meirtz/Awesome-Context-Engineering": {
+    "type": "survey",
+    "field": "nlp",
+    "subfield": "context engineering",
+    "desc": "プロンプト工学から本番AIシステムまでのコンテキスト工学サーベイ"
+  },
+  "hymie122/RAG-Survey": {
+    "type": "survey",
+    "field": "nlp",
+    "subfield": "RAG",
+    "desc": "「RAG for AI-Generated Content」サーベイの分類体系と論文集"
+  },
+  "DEEP-PolyU/Awesome-GraphRAG": {
+    "type": "awesome-list",
+    "field": "nlp",
+    "subfield": "RAG(graph-based)",
+    "desc": "グラフベースRAGのサーベイ・論文・ベンチマーク集"
+  },
+  "USTCAGI/Awesome-Papers-Retrieval-Augmented-Generation": {
+    "type": "paper-list",
+    "field": "nlp",
+    "subfield": "RAG",
+    "desc": "知識指向RAGサーベイに基づく論文分類リスト"
+  },
+  "YHPeter/Awesome-RAG-Evaluation": {
+    "type": "paper-list",
+    "field": "nlp",
+    "subfield": "RAG evaluation",
+    "desc": "「Evaluation of RAG: A Survey」公式の評価論文リスト"
+  },
+  "RenzeLou/awesome-instruction-learning": {
+    "type": "paper-list",
+    "field": "nlp",
+    "subfield": "instruction tuning",
+    "desc": "Instruction Tuning/Following論文とデータセット集"
+  },
+  "Magnetic2014/llm-alignment-survey": {
+    "type": "survey",
+    "field": "nlp",
+    "subfield": "alignment",
+    "desc": "「LLM Alignment: A Survey」のアライメント読み物リスト"
+  },
+  "HillZhang1999/llm-hallucination-survey": {
+    "type": "survey",
+    "field": "nlp",
+    "subfield": "hallucination",
+    "desc": "「Siren's Song in the AI Ocean」幻覚サーベイの読み物リスト"
+  },
+  "EdinburghNLP/awesome-hallucination-detection": {
+    "type": "paper-list",
+    "field": "nlp",
+    "subfield": "hallucination detection",
+    "desc": "LLMの幻覚検出論文をモデル別に整理したリスト"
+  },
+  "LuckyyySTA/Awesome-LLM-hallucination": {
+    "type": "paper-list",
+    "field": "nlp",
+    "subfield": "hallucination",
+    "desc": "LLM幻覚に関する論文リスト"
+  },
+  "tjunlp-lab/Awesome-LLMs-Evaluation-Papers": {
+    "type": "survey",
+    "field": "nlp",
+    "subfield": "LLM evaluation",
+    "desc": "「Evaluating LLMs: A Comprehensive Survey」の論文集"
+  },
+  "CSHaitao/Awesome-LLMs-as-Judges": {
+    "type": "survey",
+    "field": "nlp",
+    "subfield": "LLM-as-judge",
+    "desc": "「LLMs-as-Judges」評価手法サーベイの公式論文集"
+  },
+  "pprp/Awesome-LLM-Quantization": {
+    "type": "awesome-list",
+    "field": "nlp",
+    "subfield": "quantization",
+    "desc": "LLM量子化に特化した論文リスト"
+  },
+  "xlite-dev/Awesome-LLM-Inference": {
+    "type": "paper-list",
+    "field": "nlp",
+    "subfield": "efficient transformers/inference",
+    "desc": "FlashAttention・PagedAttention等の推論高速化論文集"
+  },
+  "Xnhyacinth/Awesome-LLM-Long-Context-Modeling": {
+    "type": "paper-list",
+    "field": "nlp",
+    "subfield": "long context",
+    "desc": "長文脈モデリング(効率的注意・KVキャッシュ・位置符号化等)の論文集"
+  },
+  "withinmiaov/A-Survey-on-Mixture-of-Experts-in-LLMs": {
+    "type": "survey",
+    "field": "nlp",
+    "subfield": "MoE",
+    "desc": "TKDE採択「MoE in LLMs」サーベイの公式論文集"
+  },
+  "codecaution/Awesome-Mixture-of-Experts-Papers": {
+    "type": "paper-list",
+    "field": "nlp",
+    "subfield": "MoE",
+    "desc": "MoE研究の読み物リスト"
+  },
+  "MoE-Inf/awesome-moe-inference": {
+    "type": "paper-list",
+    "field": "nlp",
+    "subfield": "MoE inference",
+    "desc": "MoEモデルの推論最適化論文を集めたリスト"
+  },
+  "zjukg/KG-LLM-Papers": {
+    "type": "paper-list",
+    "field": "nlp",
+    "subfield": "knowledge graph + LLM",
+    "desc": "知識グラフとLLMを統合する論文リスト"
+  },
+  "XiaoxinHe/Awesome-Graph-LLM": {
+    "type": "awesome-list",
+    "field": "nlp",
+    "subfield": "graph + LLM",
+    "desc": "グラフ関連LLMのリソースを集めたキュレーション"
+  },
+  "PeterGriffinJin/Awesome-Language-Model-on-Graphs": {
+    "type": "survey",
+    "field": "nlp",
+    "subfield": "LLM on graphs",
+    "desc": "「LLMs on Graphs」TKDEサーベイの論文・リソース集"
+  },
+  "zjunlp/KnowledgeEditingPapers": {
+    "type": "paper-list",
+    "field": "nlp",
+    "subfield": "knowledge editing",
+    "desc": "LLMの知識編集に関する論文リスト"
+  },
+  "huybery/Awesome-Code-LLM": {
+    "type": "awesome-list",
+    "field": "nlp",
+    "subfield": "code generation",
+    "desc": "コード生成LLM研究の厳選キュレーションリスト"
+  },
+  "DEEP-PolyU/Awesome-LLM-based-Text2SQL": {
+    "type": "survey",
+    "field": "nlp",
+    "subfield": "text-to-SQL",
+    "desc": "TKDE2025サーベイに基づくLLM Text-to-SQLの論文・ベンチマーク集"
+  },
+  "eosphoros-ai/Awesome-Text2SQL": {
+    "type": "awesome-list",
+    "field": "nlp",
+    "subfield": "text-to-SQL",
+    "desc": "Text2SQL/Text2DSL等のチュートリアルとリソース集"
+  },
+  "tjunlp-lab/Awesome-Multilingual-LLMs-Papers": {
+    "type": "paper-list",
+    "field": "nlp",
+    "subfield": "multilingual NLP",
+    "desc": "多言語LLMの論文リスト"
+  },
+  "simran-khanuja/awesome-multilingual-nlp": {
+    "type": "awesome-list",
+    "field": "nlp",
+    "subfield": "multilingual NLP",
+    "desc": "英語以外を対象とした多言語NLP研究のキュレーション"
+  },
+  "NiuTrans/MT-paper-lists": {
+    "type": "paper-list",
+    "field": "nlp",
+    "subfield": "machine translation",
+    "desc": "会議別に機械翻訳論文を整理したリスト"
+  },
+  "mathsyouth/awesome-text-summarization": {
+    "type": "awesome-list",
+    "field": "nlp",
+    "subfield": "summarization",
+    "desc": "テキスト要約の論文・ツール・データセット集"
+  },
+  "seriousran/awesome-qa": {
+    "type": "awesome-list",
+    "field": "nlp",
+    "subfield": "question answering",
+    "desc": "質問応答のデータセット・論文・リソース集"
+  },
+  "RUCAIBox/Awesome-KBQA": {
+    "type": "paper-list",
+    "field": "nlp",
+    "subfield": "knowledge base QA",
+    "desc": "知識ベースQA(KBQA)の論文・ツール・リーダーボード集"
+  },
+  "thuiar/AWESOME-Dialogue": {
+    "type": "paper-list",
+    "field": "nlp",
+    "subfield": "dialogue systems",
+    "desc": "対話・インタラクティブシステムの論文リスト"
+  },
+  "iwangjian/Paper-Reading-ConvAI": {
+    "type": "paper-list",
+    "field": "nlp",
+    "subfield": "conversational AI",
+    "desc": "対話システムとNLG中心の会話AI論文リスト"
+  },
+  "pfliu-nlp/Named-Entity-Recognition-NER-Papers": {
+    "type": "paper-list",
+    "field": "nlp",
+    "subfield": "named entity recognition",
+    "desc": "7会議のNER論文を網羅したリスト"
+  },
+  "declare-lab/awesome-sentiment-analysis": {
+    "type": "paper-list",
+    "field": "nlp",
+    "subfield": "sentiment analysis",
+    "desc": "感情分析論文の読み物リスト"
+  },
+  "ZhengZixiang/ABSAPapers": {
+    "type": "paper-list",
+    "field": "nlp",
+    "subfield": "aspect-based sentiment",
+    "desc": "アスペクトベース感情分析(ABSA)の論文・リソース集"
+  },
+  "MLNLP-World/Top-AI-Conferences-Paper-with-Code": {
+    "type": "paper-list",
+    "field": "nlp",
+    "subfield": "conference papers",
+    "desc": "ACL/EMNLP/NAACL/COLING等トップ会議のコード付き論文集"
+  },
+  "yxwangnju/Accepted-Papers-Lists": {
+    "type": "paper-list",
+    "field": "nlp",
+    "subfield": "conference papers",
+    "desc": "主要ジャーナル・会議の採択論文リストをまとめたリポジトリ"
+  },
+  "diff-usion/Awesome-Diffusion-Models": {
+    "type": "awesome-list",
+    "field": "genai",
+    "subfield": "diffusion総合",
+    "desc": "Diffusion Modelの論文・資源を網羅した最大級のリスト"
+  },
+  "wangkai930418/awesome-diffusion-categorized": {
+    "type": "awesome-list",
+    "field": "genai",
+    "subfield": "diffusion総合",
+    "desc": "Diffusion論文をサブ領域別に分類した実用的コレクション"
+  },
+  "kuleshov-group/awesome-discrete-diffusion-models": {
+    "type": "awesome-list",
+    "field": "genai",
+    "subfield": "離散拡散",
+    "desc": "離散拡散モデルに特化した資源リスト"
+  },
+  "hindupuravinash/the-gan-zoo": {
+    "type": "paper-list",
+    "field": "genai",
+    "subfield": "GAN",
+    "desc": "命名された全GANを一覧化した古典的リスト"
+  },
+  "nashory/gans-awesome-applications": {
+    "type": "awesome-list",
+    "field": "genai",
+    "subfield": "GAN応用",
+    "desc": "GANの応用・デモを集めたキュレーションリスト"
+  },
+  "nightrome/really-awesome-gan": {
+    "type": "paper-list",
+    "field": "genai",
+    "subfield": "GAN",
+    "desc": "GAN論文を集めた網羅的リスト"
+  },
+  "Yutong-Zhou-cv/Awesome-Text-to-Image": {
+    "type": "survey",
+    "field": "genai",
+    "subfield": "text-to-image",
+    "desc": "テキストから画像生成のサーベイ的論文リスト"
+  },
+  "AlonzoLeeeooo/awesome-text-to-image-studies": {
+    "type": "awesome-list",
+    "field": "genai",
+    "subfield": "text-to-image",
+    "desc": "text-to-image研究を集めた継続更新リスト"
+  },
+  "kobeshegu/awesome-few-shot-generation": {
+    "type": "paper-list",
+    "field": "genai",
+    "subfield": "few-shot生成",
+    "desc": "少数枚画像生成の論文リスト"
+  },
+  "atfortes/Awesome-Controllable-Diffusion": {
+    "type": "awesome-list",
+    "field": "genai",
+    "subfield": "制御生成",
+    "desc": "ControlNet・DreamBooth・IP-Adapter等の制御生成資源"
+  },
+  "xinchengshuai/Awesome-Image-Editing": {
+    "type": "survey",
+    "field": "genai",
+    "subfield": "画像編集",
+    "desc": "T2Iモデルによる画像編集のサーベイ"
+  },
+  "wenhao728/awesome-diffusion-v2v": {
+    "type": "paper-list",
+    "field": "genai",
+    "subfield": "動画編集",
+    "desc": "拡散ベースVideo-to-Video編集の論文+ベンチマーク"
+  },
+  "cobanov/awesome-controlnet": {
+    "type": "awesome-list",
+    "field": "genai",
+    "subfield": "ControlNet",
+    "desc": "ControlNet関連資源のリスト"
+  },
+  "showlab/Awesome-Video-Diffusion": {
+    "type": "awesome-list",
+    "field": "genai",
+    "subfield": "動画生成",
+    "desc": "動画生成・編集の拡散モデルを集めた定番リスト"
+  },
+  "ChenHsing/Awesome-Video-Diffusion-Models": {
+    "type": "survey",
+    "field": "genai",
+    "subfield": "動画生成",
+    "desc": "Video Diffusion Modelのサーベイ(CSUR)"
+  },
+  "AlonzoLeeeooo/awesome-video-generation": {
+    "type": "awesome-list",
+    "field": "genai",
+    "subfield": "動画生成",
+    "desc": "動画生成研究を集めたコレクション"
+  },
+  "jianzhnie/awesome-text-to-video": {
+    "type": "survey",
+    "field": "genai",
+    "subfield": "text-to-video",
+    "desc": "Text-to-Video生成のサーベイ"
+  },
+  "gracezhao1997/Awesome-Video-World-Models-with-AR-Diffusion": {
+    "type": "awesome-list",
+    "field": "genai",
+    "subfield": "世界モデル",
+    "desc": "AR+拡散の動画世界モデル(アルゴリズム/応用/基盤)"
+  },
+  "ziqihuangg/Awesome-From-Video-Generation-to-World-Model": {
+    "type": "paper-list",
+    "field": "genai",
+    "subfield": "世界モデル",
+    "desc": "動画生成から世界モデルへの流れを整理"
+  },
+  "soraw-ai/Awesome-Text-to-Video-Generation": {
+    "type": "survey",
+    "field": "genai",
+    "subfield": "text-to-video",
+    "desc": "Soraサーベイ準拠のT2V/I2V論文リスト"
+  },
+  "altryne/awesome-ai-art-image-synthesis": {
+    "type": "awesome-list",
+    "field": "genai",
+    "subfield": "AIアート",
+    "desc": "DALL·E2/MidJourney/SD等のツール・プロンプト集"
+  },
+  "lixinustc/Awesome-diffusion-model-for-image-processing": {
+    "type": "survey",
+    "field": "genai",
+    "subfield": "画像処理",
+    "desc": "復元/強調/符号化/品質評価の拡散モデル整理"
+  },
+  "AlonzoLeeeooo/awesome-image-inpainting-studies": {
+    "type": "awesome-list",
+    "field": "genai",
+    "subfield": "inpainting",
+    "desc": "画像インペインティング研究のコレクション"
+  },
+  "yulunzhang/awesome-diffusion-low-level-vision": {
+    "type": "paper-list",
+    "field": "genai",
+    "subfield": "低レベルビジョン",
+    "desc": "低レベルビジョン拡散モデルのリスト"
+  },
+  "GuoLanqing/Awesome-High-Resolution-Diffusion": {
+    "type": "paper-list",
+    "field": "genai",
+    "subfield": "高解像度生成",
+    "desc": "高解像度画像/動画合成の拡散論文"
+  },
+  "Daisy-Zhang/Awesome-Deepfakes-Detection": {
+    "type": "awesome-list",
+    "field": "genai",
+    "subfield": "Deepfake検出",
+    "desc": "Deepfake検出のツール/論文/コード"
+  },
+  "flyingby/Awesome-Deepfake-Generation-and-Detection": {
+    "type": "survey",
+    "field": "genai",
+    "subfield": "Deepfake検出",
+    "desc": "Deepfake生成と検出のサーベイ"
+  },
+  "ant-research/Awesome-AIGC-Image-Video-Detection": {
+    "type": "paper-list",
+    "field": "genai",
+    "subfield": "AI生成検出",
+    "desc": "AI生成画像/動画検出の最新研究集"
+  },
+  "qiqitao77/Awesome-Comprehensive-Deepfake-Detection": {
+    "type": "paper-list",
+    "field": "genai",
+    "subfield": "Deepfake検出",
+    "desc": "Deepfake検出の包括的論文リスト"
+  },
+  "showlab/Awesome-Unified-Multimodal-Models": {
+    "type": "paper-list",
+    "field": "genai",
+    "subfield": "統一マルチモーダル",
+    "desc": "理解と生成を統一するモデルの論文集"
+  },
+  "ChaofanTao/Autoregressive-Models-in-Vision-Survey": {
+    "type": "survey",
+    "field": "genai",
+    "subfield": "自己回帰生成",
+    "desc": "ビジョンの自己回帰モデルサーベイ(TMLR 2025)"
+  },
+  "shaopengw/Awesome-Music-Generation": {
+    "type": "model-collection",
+    "field": "genai",
+    "subfield": "音楽生成",
+    "desc": "音楽生成モデルMG²の資源"
+  },
+  "ziqihuangg/Awesome-Evaluation-of-Visual-Generation": {
+    "type": "paper-list",
+    "field": "genai",
+    "subfield": "生成評価",
+    "desc": "視覚生成の評価指標/モデル/システム集"
+  },
+  "lxa9867/Awesome-Autoregressive-Visual-Generation": {
+    "type": "paper-list",
+    "field": "genai",
+    "subfield": "自己回帰生成",
+    "desc": "自己回帰ビジュアル生成の最新論文追跡"
+  },
+  "G-U-N/Awesome-Consistency-Models": {
+    "type": "awesome-list",
+    "field": "genai",
+    "subfield": "consistency/flow",
+    "desc": "Consistency Modelの資源リスト"
+  },
+  "moatifbutt/awesome-diffusion-iclr-2025": {
+    "type": "paper-list",
+    "field": "genai",
+    "subfield": "学会拡散",
+    "desc": "ICLR 2025の拡散関連投稿リスト"
+  },
+  "minar09/awesome-virtual-try-on": {
+    "type": "awesome-list",
+    "field": "genai",
+    "subfield": "仮想試着",
+    "desc": "仮想試着の論文/コード/データセットの定番リスト"
+  },
+  "Zheng-Chong/Awesome-Try-On-Models": {
+    "type": "paper-list",
+    "field": "genai",
+    "subfield": "仮想試着",
+    "desc": "仮想試着モデル(2025含む)を整理"
+  },
+  "harlanhong/awesome-talking-head-generation": {
+    "type": "paper-list",
+    "field": "genai",
+    "subfield": "talking head",
+    "desc": "トーキングヘッド生成の論文リスト"
+  },
+  "ZeroLu/awesome-nanobanana-pro": {
+    "type": "model-collection",
+    "field": "model",
+    "subfield": "Nano Banana",
+    "desc": "Nano Banana Pro(Nano Banana 2)のプロンプト・作例集"
+  },
+  "JimmyLv/awesome-nano-banana": {
+    "type": "model-collection",
+    "field": "model",
+    "subfield": "Nano Banana",
+    "desc": "Gemini-2.5-Flash-Image(Nano Banana)の作例/プロンプト集"
+  },
+  "PicoTrex/Awesome-Nano-Banana-images": {
+    "type": "model-collection",
+    "field": "model",
+    "subfield": "Nano Banana",
+    "desc": "Gemini系Nano Bananaの生成例・プロンプト集(データセット公開)"
+  },
+  "ImgEdify/Awesome-GPT4o-Image-Prompts": {
+    "type": "model-collection",
+    "field": "model",
+    "subfield": "GPT-4o画像",
+    "desc": "GPT-4o画像生成のプロンプト辞典"
+  },
+  "Eris2025/awesome-flux": {
+    "type": "model-collection",
+    "field": "model",
+    "subfield": "FLUX",
+    "desc": "FLUXエコシステム(LoRA/ControlNet/量子化)の資源集"
+  },
+  "githubssg/awesome-nano-banana-images": {
+    "type": "model-collection",
+    "field": "model",
+    "subfield": "GPT-4o/Sora画像",
+    "desc": "GPT-4o/gpt-image-1の画像・プロンプト集"
+  },
+  "Curated-Awesome-Lists/Awesome-Open-AI-Sora": {
+    "type": "model-collection",
+    "field": "model",
+    "subfield": "Sora",
+    "desc": "Sora関連記事/動画/ニュースのリソースハブ"
+  },
+  "shauray8/awesome-qwen-image-2512": {
+    "type": "model-collection",
+    "field": "model",
+    "subfield": "Qwen-Image",
+    "desc": "qwen-image-2512の作例/プロンプト集"
+  },
+  "aikorea/awesome-rl": {
+    "type": "awesome-list",
+    "field": "rl",
+    "subfield": "総合",
+    "desc": "RL全般のコード・講義・論文・環境を集めた定番キュレーション"
+  },
+  "tigerneil/awesome-deep-rl": {
+    "type": "awesome-list",
+    "field": "rl",
+    "subfield": "deep RL",
+    "desc": "Deep RLとAIの将来に向けた資源を幅広く収集したリスト"
+  },
+  "kengz/awesome-deep-rl": {
+    "type": "awesome-list",
+    "field": "rl",
+    "subfield": "deep RL",
+    "desc": "Deep RLのライブラリ・環境・ベンチマークを整理したリスト"
+  },
+  "jgvictores/awesome-deep-reinforcement-learning": {
+    "type": "awesome-list",
+    "field": "rl",
+    "subfield": "deep RL",
+    "desc": "フレームワーク・モデル・データセット・gym・ベースラインを収録"
+  },
+  "LantaoYu/MARL-Papers": {
+    "type": "paper-list",
+    "field": "rl",
+    "subfield": "MARL",
+    "desc": "マルチエージェントRLの研究・サーベイ論文リスト(定番)"
+  },
+  "junhyukoh/deep-reinforcement-learning-papers": {
+    "type": "paper-list",
+    "field": "rl",
+    "subfield": "deep RL",
+    "desc": "Deep RLの主要論文をトピック別にまとめた古典的リスト"
+  },
+  "yingchengyang/Reinforcement-Learning-Papers": {
+    "type": "paper-list",
+    "field": "rl",
+    "subfield": "総合(トップ会議)",
+    "desc": "ICLR/ICML/NeurIPSの古典+最新論文を年別に整理"
+  },
+  "Allenpandas/Reinforcement-Learning-Papers": {
+    "type": "paper-list",
+    "field": "rl",
+    "subfield": "総合(トップ会議)",
+    "desc": "NeurIPS/ICML/ICLR/AAAI/IJCAI/AAMAS/ICRAの論文を網羅"
+  },
+  "opendilab/awesome-RLHF": {
+    "type": "paper-list",
+    "field": "rl",
+    "subfield": "RLHF",
+    "desc": "人間フィードバックによるRLの論文・資源を継続更新"
+  },
+  "TsinghuaC3I/Awesome-RL-for-LRMs": {
+    "type": "survey",
+    "field": "rl",
+    "subfield": "RL for LLM/推論",
+    "desc": "大規模推論モデル向けRLのサーベイ論文リポジトリ"
+  },
+  "opendilab/awesome-model-based-RL": {
+    "type": "paper-list",
+    "field": "rl",
+    "subfield": "model-based RL",
+    "desc": "モデルベースRLの論文を継続更新で収集"
+  },
+  "clvrai/awesome-rl-envs": {
+    "type": "awesome-list",
+    "field": "rl",
+    "subfield": "benchmarks/environments",
+    "desc": "RL用環境・シミュレータを網羅したリスト"
+  },
+  "hanjuku-kaso/awesome-offline-rl": {
+    "type": "paper-list",
+    "field": "rl",
+    "subfield": "offline RL",
+    "desc": "オフラインRLのアルゴリズム索引(継続更新)"
+  },
+  "datamllab/awesome-game-ai": {
+    "type": "awesome-list",
+    "field": "rl",
+    "subfield": "game AI/MARL",
+    "desc": "マルチエージェント学習中心のゲームAI資源集"
+  },
+  "chauncygu/Safe-Reinforcement-Learning-Baselines": {
+    "type": "paper-list",
+    "field": "rl",
+    "subfield": "safe RL",
+    "desc": "Safe RLのベースライン・論文を集めたリポジトリ"
+  },
+  "opendilab/awesome-exploration-rl": {
+    "type": "paper-list",
+    "field": "rl",
+    "subfield": "exploration",
+    "desc": "探索(exploration)に特化したRL論文リスト"
+  },
+  "kristery/Awesome-Imitation-Learning": {
+    "type": "paper-list",
+    "field": "rl",
+    "subfield": "imitation learning",
+    "desc": "模倣学習の論文・資源を集めたリスト"
+  },
+  "opendilab/awesome-multi-modal-reinforcement-learning": {
+    "type": "paper-list",
+    "field": "rl",
+    "subfield": "multi-modal RL",
+    "desc": "マルチモーダルRL資源を継続更新"
+  },
+  "weijiawu/Awesome-RL-for-Multimodal-Foundation-Models": {
+    "type": "paper-list",
+    "field": "rl",
+    "subfield": "visual/multimodal RL",
+    "desc": "視覚RL・マルチモーダル基盤モデル向けRLの論文整理"
+  },
+  "TimeBreaker/MARL-papers-with-code": {
+    "type": "paper-list",
+    "field": "rl",
+    "subfield": "MARL",
+    "desc": "コード付きMARL論文を手法別に整理"
+  },
+  "dunnolab/awesome-in-context-rl": {
+    "type": "paper-list",
+    "field": "rl",
+    "subfield": "in-context RL/meta RL",
+    "desc": "In-Context RLの論文キュレーション"
+  },
+  "libo-huang/Awesome-Causal-Reinforcement-Learning": {
+    "type": "survey",
+    "field": "rl",
+    "subfield": "causal RL",
+    "desc": "因果RLのサーベイ(TNNLS 2024)公式リポジトリ"
+  },
+  "opendilab/awesome-RLVR": {
+    "type": "paper-list",
+    "field": "rl",
+    "subfield": "RLVR",
+    "desc": "検証可能報酬によるRL(RLVR)の論文を継続更新"
+  },
+  "apexrl/Imitation-Learning-Paper-Lists": {
+    "type": "paper-list",
+    "field": "rl",
+    "subfield": "imitation learning",
+    "desc": "模倣学習の論文を簡潔な紹介付きで収集"
+  },
+  "operator22th/awesome-world-models-for-robots": {
+    "type": "paper-list",
+    "field": "rl",
+    "subfield": "world models/robotics",
+    "desc": "ロボティクス向けワールドモデル論文集"
+  },
+  "dit7ya/awesome-irl": {
+    "type": "awesome-list",
+    "field": "rl",
+    "subfield": "inverse RL",
+    "desc": "逆強化学習の論文・コード・動画・チュートリアル集"
+  },
+  "metarl/awesome-metarl": {
+    "type": "paper-list",
+    "field": "rl",
+    "subfield": "meta RL",
+    "desc": "メタ強化学習のキュレーションリスト"
+  },
+  "leofan90/Awesome-World-Models": {
+    "type": "paper-list",
+    "field": "rl",
+    "subfield": "world models",
+    "desc": "ワールドモデル(動画生成・Embodied AI・自動運転)の論文網羅"
+  },
+  "GT-RIPL/Awesome-LLM-Robotics": {
+    "type": "paper-list",
+    "field": "rl",
+    "subfield": "RL for robotics/LLM",
+    "desc": "ロボティクス/RLへのLLM・マルチモーダル活用論文集"
+  },
+  "BradyFU/Awesome-Multimodal-Large-Language-Models": {
+    "type": "survey",
+    "field": "mm",
+    "subfield": "MLLM",
+    "desc": "MLLM分野の最有名サーベイ。アーキテクチャ・学習・評価を網羅追跡"
+  },
+  "jingyi0000/VLM_survey": {
+    "type": "survey",
+    "field": "mm",
+    "subfield": "VLM",
+    "desc": "視覚タスク向けVision-Languageモデルの系統的レビュー"
+  },
+  "gokayfem/awesome-vlm-architectures": {
+    "type": "paper-list",
+    "field": "mm",
+    "subfield": "VLM",
+    "desc": "著名なVLMとそのアーキテクチャを解説したコレクション"
+  },
+  "SuperBruceJia/Awesome-Large-Vision-Language-Model": {
+    "type": "awesome-list",
+    "field": "mm",
+    "subfield": "VLM",
+    "desc": "大規模VLMと医療基盤モデルの論文・リソース集"
+  },
+  "zhengli97/Awesome-Prompt-Adapter-Learning-for-VLMs-CLIP": {
+    "type": "paper-list",
+    "field": "mm",
+    "subfield": "VLM(prompt/adapter)",
+    "desc": "CLIP等のVLM向けプロンプト/アダプタ学習手法の厳選リスト"
+  },
+  "Lab-LVM/awesome-VLM": {
+    "type": "paper-list",
+    "field": "mm",
+    "subfield": "VLM",
+    "desc": "対照学習・PrefixLM・融合など手法別に整理したVLM論文集"
+  },
+  "swordlidev/Evaluation-Multimodal-LLMs-Survey": {
+    "type": "survey",
+    "field": "mm",
+    "subfield": "MLLM評価",
+    "desc": "MLLMのベンチマーク200件以上をレビューした評価サーベイ"
+  },
+  "swordlidev/Efficient-Multimodal-LLMs-Survey": {
+    "type": "survey",
+    "field": "mm",
+    "subfield": "効率的MLLM",
+    "desc": "効率的MLLM(軽量構造・戦略)の体系的レビュー"
+  },
+  "WenkeHuang/Awesome-MLLM-Tuning": {
+    "type": "paper-list",
+    "field": "mm",
+    "subfield": "MLLMチューニング",
+    "desc": "MLLMの下流タスク向けチューニング手法サーベイ"
+  },
+  "friedrichor/Awesome-Multimodal-Papers": {
+    "type": "awesome-list",
+    "field": "mm",
+    "subfield": "マルチモーダル全般",
+    "desc": "マルチモーダル研究全般の厳選論文集"
+  },
+  "yunlong10/Awesome-LLMs-for-Video-Understanding": {
+    "type": "paper-list",
+    "field": "mm",
+    "subfield": "動画理解LLM",
+    "desc": "動画理解向けVid-LLMの最新論文・コード・データセット"
+  },
+  "krantiparida/awesome-audio-visual": {
+    "type": "awesome-list",
+    "field": "mm",
+    "subfield": "audio-visual",
+    "desc": "音声・視覚処理の各領域の論文・データセット集"
+  },
+  "zzw922cn/awesome-speech-recognition-speech-synthesis-papers": {
+    "type": "paper-list",
+    "field": "speech",
+    "subfield": "音声全般",
+    "desc": "ASR・話者認証・TTS・音声合成・VCを網羅した論文リスト"
+  },
+  "ga642381/speech-trident": {
+    "type": "paper-list",
+    "field": "speech",
+    "subfield": "音声LLM",
+    "desc": "音声/オーディオLLM・表現学習・codecモデルの論文集"
+  },
+  "Wenzhe-Liu/awesome-speech-enhancement": {
+    "type": "paper-list",
+    "field": "speech",
+    "subfield": "音声強調",
+    "desc": "speech enhancement・音源分離・定位の論文/コード/ツール集"
+  },
+  "wenet-e2e/speech-synthesis-paper": {
+    "type": "paper-list",
+    "field": "speech",
+    "subfield": "TTS",
+    "desc": "音声合成(TTS)論文の体系的リスト"
+  },
+  "AudioLLMs/Awesome-Audio-LLM": {
+    "type": "awesome-list",
+    "field": "speech",
+    "subfield": "音声LLM",
+    "desc": "オーディオ大規模言語モデルの論文・リソース集"
+  },
+  "EmulationAI/awesome-large-audio-models": {
+    "type": "awesome-list",
+    "field": "speech",
+    "subfield": "音声LLM",
+    "desc": "LLMのAudio AI応用に関するリソース集"
+  },
+  "guan-yuan/Awesome-Singing-Voice-Synthesis-and-Singing-Voice-Conversion": {
+    "type": "paper-list",
+    "field": "speech",
+    "subfield": "歌声合成/変換",
+    "desc": "歌声合成(SVS)・歌声変換(SVC)・自動採譜の論文/プロジェクト集"
+  },
+  "wildminder/awesome-ai-voice": {
+    "type": "model-collection",
+    "field": "speech",
+    "subfield": "音声生成",
+    "desc": "OSSのTTS・音声クローン・音楽生成モデル集"
+  },
+  "JeffC0628/awesome-voice-conversion": {
+    "type": "awesome-list",
+    "field": "speech",
+    "subfield": "voice conversion",
+    "desc": "voice conversion(声質変換)のプロジェクト・コミュニティ集"
+  },
+  "seungwonpark/awesome-tts-samples": {
+    "type": "paper-list",
+    "field": "speech",
+    "subfield": "TTS",
+    "desc": "音声サンプル付きTTS論文リスト"
+  },
+  "tleyden/awesome-llm-speech-to-speech": {
+    "type": "awesome-list",
+    "field": "speech",
+    "subfield": "speech-to-speech",
+    "desc": "LLMベースのspeech-to-speechモデル/フレームワーク集"
+  },
+  "jonyzhang2023/awesome-embodied-vla-va-vln": {
+    "type": "paper-list",
+    "field": "robot",
+    "subfield": "VLA/VLN",
+    "desc": "embodied AIのVLA・VLN・マルチモーダル学習の最先端研究集"
+  },
+  "YanjieZe/awesome-humanoid-robot-learning": {
+    "type": "paper-list",
+    "field": "robot",
+    "subfield": "ヒューマノイド",
+    "desc": "ヒューマノイドロボット学習の論文リスト"
+  },
+  "zchoi/Awesome-Embodied-Robotics-and-Agent": {
+    "type": "awesome-list",
+    "field": "robot",
+    "subfield": "embodied AI",
+    "desc": "LLMを用いたembodied AI/ロボット研究のキュレーション"
+  },
+  "curieuxjy/Awesome_Quadrupedal_Robots": {
+    "type": "paper-list",
+    "field": "robot",
+    "subfield": "四足歩行",
+    "desc": "四足歩行ロボットの論文・リソース集"
+  },
+  "BaiShuanghao/Awesome-Robotics-Manipulation": {
+    "type": "paper-list",
+    "field": "robot",
+    "subfield": "manipulation",
+    "desc": "ロボットマニピュレーションの論文・コード集"
+  },
+  "DravenALG/awesome-vla-wam": {
+    "type": "awesome-list",
+    "field": "robot",
+    "subfield": "VLA/WAM",
+    "desc": "VLAとWorld Action Model(WAM)研究のキュレーション"
+  },
+  "yueen-ma/awesome-vla": {
+    "type": "survey",
+    "field": "robot",
+    "subfield": "VLA",
+    "desc": "embodied AI向けVLAモデルのサーベイ論文付きリスト"
+  },
+  "Jiaaqiliu/Awesome-VLA-Robotics": {
+    "type": "paper-list",
+    "field": "robot",
+    "subfield": "VLA",
+    "desc": "ロボティクスのVLAモデル論文・モデル・データセット集"
+  },
+  "gaiyi7788/awesome-legged-locomotion-learning": {
+    "type": "awesome-list",
+    "field": "robot",
+    "subfield": "脚式ロコモーション",
+    "desc": "脚式ロコモーション学習のリソース集"
+  },
+  "wadeKeith/Awesome-Embodied-AI": {
+    "type": "awesome-list",
+    "field": "robot",
+    "subfield": "embodied AI",
+    "desc": "embodied AIのサーベイ・VLA・データセット・シミュレータ等を網羅"
+  },
+  "RayYoh/Awesome-Robot-Learning": {
+    "type": "awesome-list",
+    "field": "robot",
+    "subfield": "robot learning",
+    "desc": "ロボット学習(主にマニピュレーション)のリソース集"
+  },
+  "TrustAGI-Lab/Awesome-Graph-Neural-Networks": {
+    "type": "paper-list",
+    "field": "gnn",
+    "subfield": "GNN",
+    "desc": "グラフニューラルネットワークの論文リスト"
+  },
+  "shaoxiongji/knowledge-graphs": {
+    "type": "paper-list",
+    "field": "gnn",
+    "subfield": "knowledge graph",
+    "desc": "知識グラフ研究(埋め込み・補完・時系列KG・応用)の論文集"
+  },
+  "ChandlerBang/awesome-self-supervised-gnn": {
+    "type": "paper-list",
+    "field": "gnn",
+    "subfield": "自己教師ありGNN",
+    "desc": "GNNの事前学習・自己教師あり学習の論文集"
+  },
+  "wehos/awesome-graph-transformer": {
+    "type": "paper-list",
+    "field": "gnn",
+    "subfield": "graph transformer",
+    "desc": "グラフトランスフォーマーの論文集"
+  },
+  "SpaceLearner/Awesome-DynamicGraphLearning": {
+    "type": "paper-list",
+    "field": "gnn",
+    "subfield": "動的グラフ",
+    "desc": "動的(時系列)グラフ・知識グラフ上の機械学習論文集"
+  },
+  "ch-wan/awesome-gnn-systems": {
+    "type": "awesome-list",
+    "field": "gnn",
+    "subfield": "GNNシステム",
+    "desc": "GNNシステム・高速化に関するリソース集"
+  },
+  "mengliu1998/awesome-expressive-gnn": {
+    "type": "paper-list",
+    "field": "gnn",
+    "subfield": "GNN表現力",
+    "desc": "GNNの表現力に関する研究・改善論文集"
+  },
+  "MGitHubL/Awesome-Temporal-Graph-Learning": {
+    "type": "paper-list",
+    "field": "gnn",
+    "subfield": "temporal graph",
+    "desc": "temporal graph learning手法(論文・コード・データセット)集"
+  },
+  "claws-lab/awesome-GNN-social-recsys": {
+    "type": "paper-list",
+    "field": "gnn",
+    "subfield": "GNN推薦",
+    "desc": "GNNベースのソーシャル推薦論文集"
+  },
+  "guyulongcs/Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising": {
+    "type": "paper-list",
+    "field": "recsys",
+    "subfield": "検索・推薦・広告",
+    "desc": "検索・推薦・広告向け深層学習論文集"
+  },
+  "WLiK/LLM4Rec-Awesome-Papers": {
+    "type": "survey",
+    "field": "recsys",
+    "subfield": "LLM推薦",
+    "desc": "LLMを用いた推薦システムの論文・リソース集(サーベイ付き)"
+  },
+  "CHIANGEL/Awesome-LLM-for-RecSys": {
+    "type": "survey",
+    "field": "recsys",
+    "subfield": "LLM推薦",
+    "desc": "LLM関連の推薦システム論文集(TOIS採録サーベイ付き)"
+  },
+  "RUCAIBox/Awesome-RSPapers": {
+    "type": "paper-list",
+    "field": "recsys",
+    "subfield": "推薦全般",
+    "desc": "推薦システム論文の網羅的リスト"
+  },
+  "nancheng58/Awesome-LLM4RS-Papers": {
+    "type": "paper-list",
+    "field": "recsys",
+    "subfield": "LLM推薦",
+    "desc": "LLM強化推薦システムの論文集"
+  },
+  "YuanchenBei/Awesome-Cold-Start-Recommendation": {
+    "type": "survey",
+    "field": "recsys",
+    "subfield": "コールドスタート",
+    "desc": "コールドスタート推薦のリソース集(LLM時代のサーベイ付き)"
+  },
+  "HqWu-HITCS/Awesome-Sequence-Modeling-for-Recommendation": {
+    "type": "paper-list",
+    "field": "recsys",
+    "subfield": "系列推薦",
+    "desc": "系列推薦・系列モデリングの論文集"
+  },
+  "qingsongedu/awesome-AI-for-time-series-papers": {
+    "type": "paper-list",
+    "field": "ts",
+    "subfield": "時系列全般",
+    "desc": "トップ会議・ジャーナルの時系列AI論文・チュートリアル・サーベイ集"
+  },
+  "qingsongedu/Awesome-TimeSeries-SpatioTemporal-LM-LLM": {
+    "type": "paper-list",
+    "field": "ts",
+    "subfield": "時系列LLM",
+    "desc": "時系列・時空間・イベントデータ向けLLM/基盤モデルの論文集"
+  },
+  "hushuguo/awesome-time-series-papers": {
+    "type": "paper-list",
+    "field": "ts",
+    "subfield": "時系列全般",
+    "desc": "トップAI会議の最新時系列論文・コード集"
+  },
+  "TongjiFinLab/awesome-time-series-forecasting": {
+    "type": "paper-list",
+    "field": "ts",
+    "subfield": "時系列予測",
+    "desc": "時系列予測の論文・コード集"
+  },
+  "mala-lab/Awesome-Anomaly-Detection-Foundation-Models": {
+    "type": "paper-list",
+    "field": "ts",
+    "subfield": "異常検知",
+    "desc": "基盤モデルによる異常検知の論文集"
+  },
+  "start2020/Awesome-TimeSeries-LLM-FM": {
+    "type": "paper-list",
+    "field": "ts",
+    "subfield": "時系列LLM",
+    "desc": "時系列タスク向けLLM・基盤モデルのリソース集"
+  },
+  "lzz19980125/awesome-multivariate-time-series-anomaly-detection-algorithms": {
+    "type": "paper-list",
+    "field": "ts",
+    "subfield": "異常検知",
+    "desc": "多変量時系列異常検知の論文リスト"
+  },
+  "qhliu26/awesome-time-series-analysis": {
+    "type": "awesome-list",
+    "field": "ts",
+    "subfield": "時系列全般",
+    "desc": "時系列の論文・ベンチマーク・データセット・チュートリアル集"
+  },
+  "SJTU-DMTai/Awesome-Large-Models-for-Time-Series": {
+    "type": "paper-list",
+    "field": "ts",
+    "subfield": "時系列LLM",
+    "desc": "時系列解析向けLLM・基盤モデルの論文集"
+  },
+  "josephmisiti/awesome-machine-learning": {
+    "type": "awesome-list",
+    "field": "ml",
+    "subfield": "ML全般",
+    "desc": "言語別のMLフレームワーク・ライブラリの定番キュレーションリスト"
+  },
+  "ChristosChristofidis/awesome-deep-learning": {
+    "type": "awesome-list",
+    "field": "ml",
+    "subfield": "DL全般",
+    "desc": "DLのチュートリアル・プロジェクト・コミュニティを集めた定番リスト"
+  },
+  "terryum/awesome-deep-learning-papers": {
+    "type": "paper-list",
+    "field": "ml",
+    "subfield": "DL論文(歴史的)",
+    "desc": "2012〜2016年の最も引用された重要DL論文Top100"
+  },
+  "endymecy/awesome-deeplearning-resources": {
+    "type": "paper-list",
+    "field": "ml",
+    "subfield": "DL論文",
+    "desc": "DLおよび深層強化学習の論文・コードを時系列で整理"
+  },
+  "solaris33/awesome-machine-learning-papers": {
+    "type": "paper-list",
+    "field": "ml",
+    "subfield": "ML論文",
+    "desc": "重要なML論文・リポジトリのキュレーションリスト"
+  },
+  "guoji-fu/MLT-Papers": {
+    "type": "paper-list",
+    "field": "theory",
+    "subfield": "ML理論",
+    "desc": "機械学習理論(汎化バウンド・最適化・深層学習の数学)の論文リスト"
+  },
+  "kwignb/NeuralTangentKernel-Papers": {
+    "type": "paper-list",
+    "field": "theory",
+    "subfield": "NTK",
+    "desc": "Neural Tangent Kernel(NTK)関連論文の集約リスト"
+  },
+  "MinghuiChen43/awesome-deep-phenomena": {
+    "type": "paper-list",
+    "field": "theory",
+    "subfield": "DL現象/理論",
+    "desc": "grokking・二重降下・宝くじ仮説等DLの経験的現象と理論の論文リスト"
+  },
+  "jason718/awesome-self-supervised-learning": {
+    "type": "awesome-list",
+    "field": "ssl",
+    "subfield": "自己教師あり",
+    "desc": "自己教師あり学習手法の定番キュレーションリスト"
+  },
+  "asheeshcric/awesome-contrastive-self-supervised-learning": {
+    "type": "paper-list",
+    "field": "ssl",
+    "subfield": "対照学習",
+    "desc": "対照型自己教師あり学習(SimCLR/VICReg等)の論文集"
+  },
+  "ys-zong/awesome-self-supervised-multimodal-learning": {
+    "type": "paper-list",
+    "field": "ssl",
+    "subfield": "マルチモーダルSSL",
+    "desc": "自己教師ありマルチモーダル学習のリソース(T-PAMI連動)"
+  },
+  "qingsongedu/Awesome-SSL4TS": {
+    "type": "paper-list",
+    "field": "ssl",
+    "subfield": "時系列SSL",
+    "desc": "時系列向け自己教師あり学習(SSL4TS)の論文・コード・データ集"
+  },
+  "uncbiag/Awesome-Foundation-Models": {
+    "type": "paper-list",
+    "field": "ssl",
+    "subfield": "基盤モデル",
+    "desc": "視覚・言語タスク向け基盤モデルのキュレーションリスト"
+  },
+  "srebroa/Awesome-LLM-VLM-Foundation-Models": {
+    "type": "awesome-list",
+    "field": "ssl",
+    "subfield": "基盤モデル",
+    "desc": "LLM・VLM・基盤モデルのキュレーションリスト"
+  },
+  "jphall663/awesome-machine-learning-interpretability": {
+    "type": "awesome-list",
+    "field": "safety",
+    "subfield": "解釈性",
+    "desc": "責任あるML・解釈性の総合リソースリスト"
+  },
+  "altamiracorp/awesome-xai": {
+    "type": "awesome-list",
+    "field": "safety",
+    "subfield": "XAI",
+    "desc": "説明可能AI(XAI)・解釈可能MLの論文とリソース"
+  },
+  "wangyongjie-ntu/Awesome-explainable-AI": {
+    "type": "paper-list",
+    "field": "safety",
+    "subfield": "XAI",
+    "desc": "説明可能AI/MLの研究資料集"
+  },
+  "lopusz/awesome-interpretable-machine-learning": {
+    "type": "awesome-list",
+    "field": "safety",
+    "subfield": "解釈性",
+    "desc": "解釈可能機械学習のリソースリスト"
+  },
+  "gauravfs-14/awesome-mechanistic-interpretability": {
+    "type": "awesome-list",
+    "field": "safety",
+    "subfield": "機械的解釈性",
+    "desc": "ニューラルネットを理解可能な計算要素へ逆解析する機械的解釈性のリソース集"
+  },
+  "MinghuiChen43/awesome-trustworthy-deep-learning": {
+    "type": "paper-list",
+    "field": "safety",
+    "subfield": "信頼性",
+    "desc": "OOD汎化・敵対的サンプル・バックドア等の信頼性論文(毎日更新)"
+  },
+  "dit7ya/awesome-ai-alignment": {
+    "type": "awesome-list",
+    "field": "safety",
+    "subfield": "alignment",
+    "desc": "AIアライメント研究の優れたリソースのキュレーションリスト"
+  },
+  "Giskard-AI/awesome-ai-safety": {
+    "type": "paper-list",
+    "field": "safety",
+    "subfield": "AI安全性",
+    "desc": "AI品質・安全性に関する論文と技術記事のキュレーションリスト"
+  },
+  "hari-sikchi/awesome-ai-safety": {
+    "type": "awesome-list",
+    "field": "safety",
+    "subfield": "AI安全性",
+    "desc": "AI安全性の論文・プロジェクト・コミュニティのリスト"
+  },
+  "ydyjya/Awesome-LLM-Safety": {
+    "type": "awesome-list",
+    "field": "safety",
+    "subfield": "LLM安全性",
+    "desc": "LLM安全性の論文・記事・データセット・ベンチマーク集"
+  },
+  "tjunlp-lab/Awesome-LLM-Safety-Papers": {
+    "type": "survey",
+    "field": "safety",
+    "subfield": "LLM安全性",
+    "desc": "LLM安全性のサーベイ論文リスト"
+  },
+  "corca-ai/awesome-llm-security": {
+    "type": "awesome-list",
+    "field": "safety",
+    "subfield": "LLMセキュリティ",
+    "desc": "LLMセキュリティのツール・文献・プロジェクト集"
+  },
+  "Efficient-ML/Awesome-Model-Quantization": {
+    "type": "paper-list",
+    "field": "eff",
+    "subfield": "量子化",
+    "desc": "モデル量子化の論文・コード・ドキュメントのリスト"
+  },
+  "cedrickchee/awesome-ml-model-compression": {
+    "type": "awesome-list",
+    "field": "eff",
+    "subfield": "モデル圧縮",
+    "desc": "モデル圧縮・量子化のリサーチ論文・ツール・学習資料"
+  },
+  "chenbong/awesome-compression-papers": {
+    "type": "paper-list",
+    "field": "eff",
+    "subfield": "圧縮",
+    "desc": "圧縮・高速化(枝刈り・量子化・蒸留・低ランク分解)の論文集"
+  },
+  "ChanChiChoi/awesome-model-compression": {
+    "type": "paper-list",
+    "field": "eff",
+    "subfield": "モデル圧縮",
+    "desc": "モデル圧縮(構造・蒸留・二値化・量子化・枝刈り)論文集"
+  },
+  "FLHonker/Awesome-Knowledge-Distillation": {
+    "type": "paper-list",
+    "field": "eff",
+    "subfield": "知識蒸留",
+    "desc": "知識蒸留の論文を分類整理(2014-2021)"
+  },
+  "Tebmer/Awesome-Knowledge-Distillation-of-LLMs": {
+    "type": "survey",
+    "field": "eff",
+    "subfield": "LLM知識蒸留",
+    "desc": "LLMの知識蒸留サーベイ連動の論文集"
+  },
+  "HuangOwen/Awesome-LLM-Compression": {
+    "type": "awesome-list",
+    "field": "eff",
+    "subfield": "LLM圧縮",
+    "desc": "量子化・枝刈り・蒸留などLLM圧縮の論文とツール集"
+  },
+  "horseee/Awesome-Efficient-LLM": {
+    "type": "awesome-list",
+    "field": "eff",
+    "subfield": "効率的LLM",
+    "desc": "効率的LLM(枝刈り・量子化・蒸留等)のキュレーションリスト"
+  },
+  "PrunaAI/awesome-ai-efficiency": {
+    "type": "awesome-list",
+    "field": "eff",
+    "subfield": "AI効率化",
+    "desc": "AIモデルの高速化・小型化・省エネ手法のリスト"
+  },
+  "Openning07/Awesome-NAS": {
+    "type": "awesome-list",
+    "field": "eff",
+    "subfield": "NAS",
+    "desc": "ニューラルアーキテクチャ探索(NAS)リソースのキュレーション"
+  },
+  "jackguagua/awesome-nas-papers": {
+    "type": "paper-list",
+    "field": "eff",
+    "subfield": "NAS",
+    "desc": "Neural Architecture Search論文の集約リスト"
+  },
+  "chenyaofo/awesome-architecture-search": {
+    "type": "paper-list",
+    "field": "eff",
+    "subfield": "NAS",
+    "desc": "NASの進展を最新追跡する論文リスト"
+  },
+  "D-X-Y/Awesome-AutoDL": {
+    "type": "awesome-list",
+    "field": "eff",
+    "subfield": "AutoML",
+    "desc": "自動深層学習(AutoDL)のリソースと詳細分析"
+  },
+  "windmaple/awesome-AutoML": {
+    "type": "awesome-list",
+    "field": "eff",
+    "subfield": "AutoML",
+    "desc": "AutoMLのキュレーションリスト"
+  },
+  "automl/awesome-transformer-search": {
+    "type": "awesome-list",
+    "field": "eff",
+    "subfield": "NAS",
+    "desc": "TransformerとNASを組み合わせたリソースのリスト"
+  },
+  "poga/awesome-federated-learning": {
+    "type": "awesome-list",
+    "field": "fl",
+    "subfield": "連合学習",
+    "desc": "連合学習とMLにおけるプライバシーのリソース集"
+  },
+  "chaoyanghe/Awesome-Federated-Learning": {
+    "type": "paper-list",
+    "field": "fl",
+    "subfield": "連合学習",
+    "desc": "FedML連携の連合学習研究・プロダクション統合リスト"
+  },
+  "Willjay5991/awesome-federated-learning": {
+    "type": "awesome-list",
+    "field": "fl",
+    "subfield": "連合学習",
+    "desc": "連合学習の論文・記事・フレームワーク・講義資料"
+  },
+  "JeffffffFu/Awesome-Differential-Privacy-and-Meachine-Learning": {
+    "type": "paper-list",
+    "field": "fl",
+    "subfield": "差分プライバシー",
+    "desc": "差分プライバシーを用いた連合学習・MLの論文と実装"
+  },
+  "csl-cqu/awesome-secure-federated-learning-papers": {
+    "type": "paper-list",
+    "field": "fl",
+    "subfield": "安全な連合学習",
+    "desc": "安全な連合学習(攻撃・防御・勾配反転)の論文集"
+  },
+  "AmberLJC/FLsystem-paper": {
+    "type": "paper-list",
+    "field": "fl",
+    "subfield": "連合学習システム",
+    "desc": "連合学習システム・フレームワークの論文リスト"
+  },
+  "gnipping/Awesome-ML-SP-Papers": {
+    "type": "paper-list",
+    "field": "fl",
+    "subfield": "MLセキュリティ",
+    "desc": "セキュリティトップ4会議のML Security & Privacy論文集"
+  },
+  "xialeiliu/Awesome-Incremental-Learning": {
+    "type": "paper-list",
+    "field": "cl",
+    "subfield": "継続学習",
+    "desc": "増分学習・継続学習・破滅的忘却の主要会議論文集"
+  },
+  "lywang3081/Awesome-Continual-Learning": {
+    "type": "paper-list",
+    "field": "cl",
+    "subfield": "継続学習",
+    "desc": "継続学習サーベイ連動の論文リストと有用なリソース"
+  },
+  "prprbr/awesome-lifelong-continual-learning": {
+    "type": "awesome-list",
+    "field": "cl",
+    "subfield": "生涯学習",
+    "desc": "生涯/継続学習の論文・ブログ・データセット・ソフトウェアのリスト"
+  },
+  "feifeiobama/Awesome-Continual-Learning": {
+    "type": "paper-list",
+    "field": "cl",
+    "subfield": "継続学習",
+    "desc": "継続学習論文とBibTeXエントリのキュレーションリスト"
+  },
+  "Vision-Intelligence-and-Robots-Group/Best-Incremental-Learning": {
+    "type": "paper-list",
+    "field": "cl",
+    "subfield": "増分学習",
+    "desc": "増分・継続・生涯学習のリポジトリ"
+  },
+  "zzz47zzz/awesome-lifelong-learning-methods-for-llm": {
+    "type": "survey",
+    "field": "cl",
+    "subfield": "LLM生涯学習",
+    "desc": "LLMの生涯学習に関するサーベイ・論文集"
+  },
+  "kelvins/awesome-mlops": {
+    "type": "awesome-list",
+    "field": "mlops",
+    "subfield": "MLOps",
+    "desc": "MLOpsツールのキュレーションリスト"
+  },
+  "visenger/awesome-mlops": {
+    "type": "awesome-list",
+    "field": "mlops",
+    "subfield": "MLOps",
+    "desc": "MLOpsの参考文献・リソース集"
+  },
+  "EthicalML/awesome-production-machine-learning": {
+    "type": "awesome-list",
+    "field": "mlops",
+    "subfield": "MLシステム",
+    "desc": "MLのデプロイ・監視・スケーリング用OSSライブラリのリスト"
+  },
+  "daochenzha/data-centric-AI": {
+    "type": "awesome-list",
+    "field": "mlops",
+    "subfield": "データ中心AI",
+    "desc": "データ中心AIのリソースキュレーションリスト"
+  },
+  "Data-Centric-AI-Community/awesome-data-centric-ai": {
+    "type": "awesome-list",
+    "field": "mlops",
+    "subfield": "データ中心AI",
+    "desc": "データ中心AIのOSS・チュートリアル・研究"
+  },
+  "HazyResearch/data-centric-ai": {
+    "type": "awesome-list",
+    "field": "mlops",
+    "subfield": "データ中心AI",
+    "desc": "データ中心AIのリソース集(Stanford HazyResearch)"
+  },
+  "Renumics/awesome-open-data-centric-ai": {
+    "type": "awesome-list",
+    "field": "mlops",
+    "subfield": "データ中心AI",
+    "desc": "非構造化データ向けデータ中心AIのOSSツール集"
+  },
+  "AI-in-Health/MedLLMsPracticalGuide": {
+    "type": "survey",
+    "field": "med",
+    "subfield": "医療LLM",
+    "desc": "医療LLM実践ガイド(Nature Reviews Bioengineering掲載)"
+  },
+  "burglarhobbit/Awesome-Medical-Large-Language-Models": {
+    "type": "paper-list",
+    "field": "med",
+    "subfield": "医療LLM",
+    "desc": "医療・ヘルスケア領域のLLM論文を厳選したコレクション"
+  },
+  "mingze-yuan/Awesome-LLM-Healthcare": {
+    "type": "paper-list",
+    "field": "med",
+    "subfield": "医療LLM",
+    "desc": "医療分野のLLMレビュー論文に対応した論文リスト"
+  },
+  "xmindflow/Awesome-Foundation-Models-in-Medical-Imaging": {
+    "type": "survey",
+    "field": "med",
+    "subfield": "医用画像基盤モデル",
+    "desc": "医用画像の視覚・言語基盤モデルの厳選リスト"
+  },
+  "YutingHe-list/Awesome-Foundation-Models-for-Advancing-Healthcare": {
+    "type": "survey",
+    "field": "med",
+    "subfield": "ヘルスケア基盤モデル",
+    "desc": "ヘルスケア基盤モデル(HFM)の課題・機会・将来展望の包括レビュー"
+  },
+  "Jianing-Qiu/Awesome-Healthcare-Foundation-Models": {
+    "type": "paper-list",
+    "field": "med",
+    "subfield": "ヘルスケア基盤モデル",
+    "desc": "ヘルスケア基盤モデルの論文コレクション"
+  },
+  "faresbougourzi/Awesome-DL-for-Medical-Imaging-Segmentation": {
+    "type": "paper-list",
+    "field": "med",
+    "subfield": "医用画像セグメンテーション",
+    "desc": "医用画像セグメンテーションの深層学習論文集"
+  },
+  "richard-peng-xia/awesome-multimodal-in-medical-imaging": {
+    "type": "awesome-list",
+    "field": "med",
+    "subfield": "医用マルチモーダル",
+    "desc": "医用画像へのマルチモーダル学習応用のリソース集"
+  },
+  "AIM-Research-Lab/Awesome-AI-Agents-Medicine": {
+    "type": "paper-list",
+    "field": "med",
+    "subfield": "医療AIエージェント",
+    "desc": "医療向けエージェントAIの最新サーベイ集"
+  },
+  "LightersWang/Awesome-Active-Learning-for-Medical-Image-Analysis": {
+    "type": "survey",
+    "field": "med",
+    "subfield": "医用能動学習",
+    "desc": "医用画像解析の能動学習サーベイ論文・コード"
+  },
+  "ai-boost/awesome-ai-for-science": {
+    "type": "awesome-list",
+    "field": "med",
+    "subfield": "AI for Science",
+    "desc": "物理・化学・生物・材料など科学的発見を加速するAIツール・論文集"
+  },
+  "shengchaochen82/Awesome-Foundation-Models-for-Weather-and-Climate": {
+    "type": "survey",
+    "field": "med",
+    "subfield": "気象気候",
+    "desc": "気象・気候データ理解向け基盤モデルの包括サーベイ"
+  },
+  "jaychempan/Awesome-LWMs": {
+    "type": "awesome-list",
+    "field": "med",
+    "subfield": "気象気候",
+    "desc": "大規模気象モデル(LWMs)コレクション(AI4Earth)"
+  },
+  "taohan10200/Awesome_AI4Earth": {
+    "type": "paper-list",
+    "field": "med",
+    "subfield": "AI4Earth",
+    "desc": "地球システム(特に気象・気候)の機械学習論文集"
+  },
+  "ESIPFed/Awesome-Earth-Artificial-Intelligence": {
+    "type": "awesome-list",
+    "field": "med",
+    "subfield": "地球科学AI",
+    "desc": "地球科学AIのチュートリアル・ソフト・データセット・論文集"
+  },
+  "LirongWu/awesome-protein-representation-learning": {
+    "type": "paper-list",
+    "field": "med",
+    "subfield": "タンパク質表現学習",
+    "desc": "タンパク質表現学習(AlphaFold含む)の論文集"
+  },
+  "OmicsML/awesome-molecule-protein-pretrain-papers": {
+    "type": "paper-list",
+    "field": "med",
+    "subfield": "分子・タンパク質事前学習",
+    "desc": "分子・タンパク質の事前学習論文集(創薬・ドッキング)"
+  },
+  "yboulaamane/awesome-drug-discovery": {
+    "type": "awesome-list",
+    "field": "med",
+    "subfield": "創薬",
+    "desc": "計算創薬手法に特化した厳選リソースリスト"
+  },
+  "twoXes/awesome-structural-bioinformatics": {
+    "type": "awesome-list",
+    "field": "med",
+    "subfield": "構造バイオインフォマティクス",
+    "desc": "構造バイオインフォマティクスのリソース集"
+  },
+  "AspirinCode/awesome-AI4MolConformation-MD": {
+    "type": "paper-list",
+    "field": "med",
+    "subfield": "分子動力学",
+    "desc": "生成AI/深層学習による分子コンフォメーション・分子動力学の論文集"
+  },
+  "OpenDriveLab/Birds-eye-view-Perception": {
+    "type": "survey",
+    "field": "ad",
+    "subfield": "BEV知覚",
+    "desc": "BEV知覚研究とクックブック(IEEE T-PAMI 2023)"
+  },
+  "ylhua/Awesome-BEV-Perception": {
+    "type": "paper-list",
+    "field": "ad",
+    "subfield": "BEV知覚",
+    "desc": "BEV知覚関連論文(BEVFormer, PETRv2, FIERY等)"
+  },
+  "autodriving-heart/Awesome-BEV-Perception": {
+    "type": "paper-list",
+    "field": "ad",
+    "subfield": "BEV知覚",
+    "desc": "BEV知覚の厳選論文コレクション"
+  },
+  "PeterJaq/Awesome-Autonomous-Driving": {
+    "type": "awesome-list",
+    "field": "ad",
+    "subfield": "自動運転全般",
+    "desc": "自動運転全般の広範なリスト"
+  },
+  "PJLab-ADG/awesome-knowledge-driven-AD": {
+    "type": "paper-list",
+    "field": "ad",
+    "subfield": "知識駆動自動運転",
+    "desc": "知識駆動型自動運転の厳選論文集"
+  },
+  "LincanLi-X/Awesome-Data-Centric-Autonomous-Driving": {
+    "type": "survey",
+    "field": "ad",
+    "subfield": "データ中心自動運転",
+    "desc": "データ中心の自動運転サーベイの公式リポジトリ"
+  },
+  "autodriving-heart/Awesome-Trajectory-Prediction": {
+    "type": "paper-list",
+    "field": "ad",
+    "subfield": "軌道予測",
+    "desc": "軌道予測の論文コレクション"
+  },
+  "jiachenli94/Awesome-Interaction-Aware-Trajectory-Prediction": {
+    "type": "paper-list",
+    "field": "ad",
+    "subfield": "軌道予測",
+    "desc": "相互作用を考慮した軌道予測の最先端研究資料集"
+  },
+  "colorfulfuture/Awesome-Trajectory-Motion-Prediction-Papers": {
+    "type": "paper-list",
+    "field": "ad",
+    "subfield": "軌道・運動予測",
+    "desc": "軌道・運動予測の包括的論文集"
+  },
+  "chaytonmin/Awesome-Occupancy-Prediction-Autonomous-Driving": {
+    "type": "paper-list",
+    "field": "ad",
+    "subfield": "占有予測",
+    "desc": "マルチカメラ意味的占有予測論文(Occ3D等)"
+  },
+  "autodriving-heart/Awesome-occupancy-perception": {
+    "type": "paper-list",
+    "field": "ad",
+    "subfield": "占有知覚",
+    "desc": "占有知覚(Occupancy)論文コレクション"
+  },
+  "opendilab/awesome-driving-behavior-prediction": {
+    "type": "paper-list",
+    "field": "ad",
+    "subfield": "運転行動予測",
+    "desc": "運転行動予測の研究論文集"
+  },
+  "onejune2018/Awesome-LLM-Eval": {
+    "type": "awesome-list",
+    "field": "bench",
+    "subfield": "LLM評価",
+    "desc": "LLM評価のツール・ベンチマーク・リーダーボード・論文の厳選リスト"
+  },
+  "BenchGecko/awesome-llm-benchmarks": {
+    "type": "awesome-list",
+    "field": "bench",
+    "subfield": "LLMベンチマーク",
+    "desc": "LLM/AIモデルのベンチマーク・データセット・リーダーボード集"
+  },
+  "SihyeongPark/Awesome-LLM-Benchmark": {
+    "type": "awesome-list",
+    "field": "bench",
+    "subfield": "LLMベンチマーク",
+    "desc": "大規模言語モデル向けベンチマーク一覧"
+  },
+  "leobeeson/llm_benchmarks": {
+    "type": "awesome-list",
+    "field": "bench",
+    "subfield": "LLMベンチマーク",
+    "desc": "LLM評価用ベンチマーク・データセットのコレクション"
+  },
+  "ahammadmejbah/Awesome-Datasets-Hub": {
+    "type": "awesome-list",
+    "field": "bench",
+    "subfield": "データセット",
+    "desc": "医療AI・NLP・マルチモーダル等のLLM向けデータセット集"
+  },
+  "WooooDyy/LLM-Agent-Paper-List": {
+    "type": "survey",
+    "field": "agent",
+    "subfield": "LLMエージェント",
+    "desc": "86ページのサーベイ「The Rise and Potential of LLM Based Agents」の論文リスト"
+  },
+  "hyp1231/awesome-llm-powered-agent": {
+    "type": "awesome-list",
+    "field": "agent",
+    "subfield": "LLMエージェント",
+    "desc": "LLM駆動エージェントの論文・リポジトリ・ブログ集"
+  },
+  "AGI-Edgerunners/LLM-Agents-Papers": {
+    "type": "paper-list",
+    "field": "agent",
+    "subfield": "LLMエージェント",
+    "desc": "LLMベースエージェント関連論文のリスト"
+  },
+  "luo-junyu/Awesome-Agent-Papers": {
+    "type": "survey",
+    "field": "agent",
+    "subfield": "LLMエージェント",
+    "desc": "LLMエージェントの手法・応用・課題サーベイの論文集"
+  },
+  "VoltAgent/awesome-ai-agent-papers": {
+    "type": "paper-list",
+    "field": "agent",
+    "subfield": "AIエージェント",
+    "desc": "AIエージェント研究論文集(工学・メモリ・評価・ワークフロー)"
+  },
+  "Jenqyang/Awesome-AI-Agents": {
+    "type": "awesome-list",
+    "field": "agent",
+    "subfield": "AIエージェント",
+    "desc": "LLM駆動の自律エージェントコレクション"
+  },
+  "kaushikb11/awesome-llm-agents": {
+    "type": "awesome-list",
+    "field": "agent",
+    "subfield": "LLMエージェント",
+    "desc": "LLMエージェントフレームワークの厳選リスト"
+  },
+  "junhua/awesome-llm-agents": {
+    "type": "paper-list",
+    "field": "agent",
+    "subfield": "LLMエージェント",
+    "desc": "LLMエージェントの高品質論文・OSSプロジェクト集"
+  },
+  "OSU-NLP-Group/GUI-Agents-Paper-List": {
+    "type": "paper-list",
+    "field": "agent",
+    "subfield": "GUIエージェント",
+    "desc": "GUIエージェント論文の厳選リスト"
+  },
+  "ranpox/awesome-computer-use": {
+    "type": "awesome-list",
+    "field": "agent",
+    "subfield": "computer use",
+    "desc": "Computer-use GUIエージェントの動画・ブログ・論文・プロジェクト集"
+  },
+  "showlab/Awesome-GUI-Agent": {
+    "type": "paper-list",
+    "field": "agent",
+    "subfield": "GUIエージェント",
+    "desc": "マルチモーダルGUIエージェントの論文・リソース集"
+  },
+  "Andrewzh112/Awesome-LLM-based-MultiAgents": {
+    "type": "paper-list",
+    "field": "agent",
+    "subfield": "マルチエージェント",
+    "desc": "LLMベースのマルチエージェント論文集"
+  },
+  "XiudingCai/Awesome-Mamba-Collection": {
+    "type": "paper-list",
+    "field": "arch",
+    "subfield": "SSM/Mamba",
+    "desc": "Mambaの論文・チュートリアル・実装を分野横断で網羅した代表的キュレーション"
+  },
+  "radarFudan/Awesome-state-space-models": {
+    "type": "paper-list",
+    "field": "arch",
+    "subfield": "SSM/S4",
+    "desc": "S4からMambaまで状態空間モデルの理論寄り論文を集めたリスト"
+  },
+  "Event-AHU/Mamba_State_Space_Model_Paper_List": {
+    "type": "paper-list",
+    "field": "arch",
+    "subfield": "SSM/Mamba",
+    "desc": "Mambaサーベイ付属の応用先別ペーパーリスト"
+  },
+  "xmindflow/Awesome_Mamba": {
+    "type": "survey",
+    "field": "arch",
+    "subfield": "SSM/Mamba(医療画像)",
+    "desc": "医療画像解析におけるSSMの包括サーベイ対応リスト"
+  },
+  "vgthengane/Awesome-Mamba-in-Vision": {
+    "type": "paper-list",
+    "field": "arch",
+    "subfield": "SSM/Mamba(視覚)",
+    "desc": "コンピュータビジョン分野のMamba論文を集約"
+  },
+  "mintisan/awesome-kan": {
+    "type": "awesome-list",
+    "field": "arch",
+    "subfield": "KAN",
+    "desc": "KANのライブラリ・実装・論文・チュートリアルを網羅する事実上の標準リスト"
+  },
+  "RamtinMoslemi/KAN-Papers": {
+    "type": "paper-list",
+    "field": "arch",
+    "subfield": "KAN",
+    "desc": "arXivから抽出したKAN論文の完全リスト"
+  },
+  "weigao266/Awesome-Efficient-Arch": {
+    "type": "survey",
+    "field": "arch",
+    "subfield": "効率的アーキテクチャ",
+    "desc": "LLM向け効率アーキテクチャ(線形注意・SSM・RWKV等)の大規模サーベイ"
+  },
+  "attention-survey/Efficient_Attention_Survey": {
+    "type": "survey",
+    "field": "arch",
+    "subfield": "efficient attention",
+    "desc": "効率的注意機構をハードウェア効率・スパース・線形等に分類したサーベイ"
+  },
+  "btzyd/Awesome-Linear-Attention-Survey": {
+    "type": "survey",
+    "field": "arch",
+    "subfield": "linear attention",
+    "desc": "線形注意のアルゴリズム・理論・応用・インフラを扱うサーベイ付随リスト"
+  },
+  "Yaziwel/Awesome-RWKV-in-Vision": {
+    "type": "paper-list",
+    "field": "arch",
+    "subfield": "RWKV(視覚)",
+    "desc": "RWKVのコンピュータビジョン応用論文を集めたリスト"
+  },
+  "Separius/awesome-fast-attention": {
+    "type": "awesome-list",
+    "field": "arch",
+    "subfield": "efficient attention",
+    "desc": "効率的注意モジュールの古典的網羅リスト"
+  },
+  "LAMDA-NeSy/Awesome-LLM-Reasoning-with-NeSy": {
+    "type": "paper-list",
+    "field": "arch",
+    "subfield": "neuro-symbolic(LLM)",
+    "desc": "LLM時代のニューロシンボリック学習の最新動向を追うリスト"
+  },
+  "ccclyu/awesome-deeplogic": {
+    "type": "paper-list",
+    "field": "arch",
+    "subfield": "neuro-symbolic(NLP)",
+    "desc": "NLP応用中心のニューラル記号AI論文集"
+  },
+  "thuwzy/Neural-Symbolic-and-Probabilistic-Logic-Papers": {
+    "type": "paper-list",
+    "field": "arch",
+    "subfield": "neuro-symbolic",
+    "desc": "ニューラル記号・確率論理の論文キュレーション"
+  },
+  "TheBrainLab/Awesome-Spiking-Neural-Networks": {
+    "type": "paper-list",
+    "field": "arch",
+    "subfield": "SNN",
+    "desc": "トップ会議・誌のSNN論文とコードを継続更新"
+  },
+  "AXYZdong/awesome-snn-conference-paper": {
+    "type": "paper-list",
+    "field": "arch",
+    "subfield": "SNN",
+    "desc": "SNN分野の難関会議・誌論文とコード実装をまとめたリスト"
+  },
+  "coderonion/awesome-snn": {
+    "type": "model-collection",
+    "field": "arch",
+    "subfield": "SNN",
+    "desc": "Spike-Driven-Transformer等の公開SNN実装集"
+  },
+  "open-neuromorphic/awesome-neuromorphic-hw": {
+    "type": "paper-list",
+    "field": "arch",
+    "subfield": "ニューロモルフィックHW",
+    "desc": "SNNのASIC/FPGA等ニューロモルフィックハードウェア論文集"
+  },
+  "artix41/awesome-quantum-ml": {
+    "type": "paper-list",
+    "field": "arch",
+    "subfield": "量子ML",
+    "desc": "量子デバイス上で動くMLアルゴリズムの論文・資料キュレーション"
+  },
+  "krishnakumarsekar/awesome-quantum-machine-learning": {
+    "type": "awesome-list",
+    "field": "arch",
+    "subfield": "量子ML",
+    "desc": "QMLの基礎・アルゴリズム・教材・プロジェクトを大規模に収集"
+  },
+  "marlin-codes/Awesome-Hyperbolic-Representation-and-Deep-Learning": {
+    "type": "paper-list",
+    "field": "arch",
+    "subfield": "双曲DL",
+    "desc": "双曲埋め込み・双曲モデル・応用の最新論文を活発に更新"
+  },
+  "sekwiatkowski/awesome-capsule-networks": {
+    "type": "awesome-list",
+    "field": "arch",
+    "subfield": "capsule networks",
+    "desc": "Dynamic Routing/EM Routing等カプセルネットの主要論文・実装集"
+  },
+  "sudharsan13296/Awesome-Meta-Learning": {
+    "type": "awesome-list",
+    "field": "learn",
+    "subfield": "メタ学習",
+    "desc": "メタ学習の論文・コード・書籍・動画・データセットを網羅した定番リスト"
+  },
+  "indussky8/awesome-few-shot-learning": {
+    "type": "paper-list",
+    "field": "learn",
+    "subfield": "few-shot",
+    "desc": "標準データセット上の比較結果を含むfew-shot学習の論文キュレーション"
+  },
+  "WilliamYi96/Awesome-Zero-Shot-Learning": {
+    "type": "paper-list",
+    "field": "learn",
+    "subfield": "zero-shot",
+    "desc": "ゼロショット学習の最新の論文・データセットの進展をまとめたリスト"
+  },
+  "sbharadwajj/awesome-zero-shot-learning": {
+    "type": "awesome-list",
+    "field": "learn",
+    "subfield": "zero-shot",
+    "desc": "ゼロショット学習の論文・コード・リソースを集めたキュレーション"
+  },
+  "uqzhichen/Awesome-compositional-zero-shot-learning": {
+    "type": "paper-list",
+    "field": "learn",
+    "subfield": "compositional ZSL",
+    "desc": "構成的ゼロショット学習(属性と物体の組合せ汎化)に特化した論文リスト"
+  },
+  "jindongwang/transferlearning": {
+    "type": "paper-list",
+    "field": "learn",
+    "subfield": "転移学習",
+    "desc": "転移学習分野の最大級リポジトリ。論文・コード・データセットを網羅"
+  },
+  "zhaoxin94/awesome-domain-adaptation": {
+    "type": "awesome-list",
+    "field": "learn",
+    "subfield": "ドメイン適応",
+    "desc": "ドメイン適応に関する論文・コードを集めた定番リスト"
+  },
+  "cmhungsteve/awsome-domain-adaptation": {
+    "type": "awesome-list",
+    "field": "learn",
+    "subfield": "ドメイン適応",
+    "desc": "ドメイン適応関連の論文を分類整理した広く参照される一覧"
+  },
+  "junkunyuan/Awesome-Domain-Generalization": {
+    "type": "awesome-list",
+    "field": "learn",
+    "subfield": "ドメイン汎化",
+    "desc": "ドメイン汎化の論文・コード・データセットを集めたリスト"
+  },
+  "shuolucs/Awesome-Out-Of-Distribution-Detection": {
+    "type": "survey",
+    "field": "learn",
+    "subfield": "OOD検出",
+    "desc": "ACM CSUR 2025採択のタスク指向OOD検出サーベイに対応する論文リスト"
+  },
+  "huytransformer/Awesome-Out-Of-Distribution-Detection": {
+    "type": "awesome-list",
+    "field": "learn",
+    "subfield": "OOD検出",
+    "desc": "OOD検出と汎化のベンチマーク・論文・ライブラリを網羅"
+  },
+  "AtsuMiyai/Awesome-OOD-VLM": {
+    "type": "survey",
+    "field": "learn",
+    "subfield": "OOD検出(VLM)",
+    "desc": "視覚言語モデル時代の一般化OOD検出サーベイ(TMLR2025)対応リスト"
+  },
+  "iCGY96/awesome_OpenSetRecognition_list": {
+    "type": "paper-list",
+    "field": "learn",
+    "subfield": "open-set認識",
+    "desc": "オープンセット認識・OOD・オープンワールド認識の論文を集めた定番リスト"
+  },
+  "Impression2805/Awesome-Failure-Detection": {
+    "type": "paper-list",
+    "field": "learn",
+    "subfield": "誤分類検出",
+    "desc": "OOD検出と誤分類検出(failure detection)を統合的に扱う論文リスト"
+  },
+  "weitianxin/awesome-distribution-shift": {
+    "type": "awesome-list",
+    "field": "learn",
+    "subfield": "分布シフト",
+    "desc": "分布シフトとベンチマークの論文集"
+  },
+  "tim-learn/awesome-test-time-adaptation": {
+    "type": "awesome-list",
+    "field": "learn",
+    "subfield": "テスト時適応",
+    "desc": "SFDA/TTBA/TTIA/OTTA等を網羅したテスト時適応の定番リスト"
+  },
+  "YuejiangLIU/awesome-source-free-test-time-adaptation": {
+    "type": "paper-list",
+    "field": "learn",
+    "subfield": "TTA/SFDA",
+    "desc": "テスト時適応・テスト時訓練・ソースフリードメイン適応の論文リスト"
+  },
+  "yassouali/awesome-semi-supervised-learning": {
+    "type": "awesome-list",
+    "field": "learn",
+    "subfield": "半教師あり学習",
+    "desc": "半教師あり学習の論文・手法をCV/NLP/生成/グラフ別に整理"
+  },
+  "JieyuZ2/Awesome-Weak-Supervision": {
+    "type": "awesome-list",
+    "field": "learn",
+    "subfield": "弱教師あり学習",
+    "desc": "プログラム的/ルールベース弱教師あり学習の論文・リソース集"
+  },
+  "subeeshvasu/Awesome-Learning-with-Label-Noise": {
+    "type": "awesome-list",
+    "field": "learn",
+    "subfield": "ラベルノイズ学習",
+    "desc": "ノイズラベル学習の論文・コード・サーベイを網羅した最大級リスト"
+  },
+  "songhwanjun/Awesome-Noisy-Labels": {
+    "type": "survey",
+    "field": "learn",
+    "subfield": "ラベルノイズ学習",
+    "desc": "ノイズラベル学習のサーベイに対応する論文リスト"
+  },
+  "Vanint/Awesome-LongTailed-Learning": {
+    "type": "survey",
+    "field": "learn",
+    "subfield": "長尾学習",
+    "desc": "TPAMI2023サーベイ対応。クラス再均衡/情報拡張/モジュール改善で分類"
+  },
+  "ZhiningLiu1998/awesome-imbalanced-learning": {
+    "type": "awesome-list",
+    "field": "learn",
+    "subfield": "不均衡学習",
+    "desc": "クラス不均衡/長尾学習の論文・コード・フレームワーク・ライブラリを総覧"
+  },
+  "baifanxxx/awesome-active-learning": {
+    "type": "awesome-list",
+    "field": "learn",
+    "subfield": "能動学習",
+    "desc": "能動学習の論文・ツール・ベンチマークを集めたリスト"
+  },
+  "WeihongLi-ac/Awesome-Multi-Task-Learning": {
+    "type": "paper-list",
+    "field": "learn",
+    "subfield": "マルチタスク学習",
+    "desc": "マルチタスク学習の最新論文を時系列整理"
+  },
+  "thuml/awesome-multi-task-learning": {
+    "type": "awesome-list",
+    "field": "learn",
+    "subfield": "マルチタスク学習",
+    "desc": "MTLのデータセット・コードベース・論文を集約(清華大THUML)"
+  },
+  "Openning07/awesome-curriculum-learning": {
+    "type": "awesome-list",
+    "field": "learn",
+    "subfield": "カリキュラム学習",
+    "desc": "カリキュラム学習の論文を検出/分割/分類/転移/RL別にタグ付け"
+  },
+  "robi56/awesome-bayesian-deep-learning": {
+    "type": "awesome-list",
+    "field": "prob",
+    "subfield": "ベイズ深層学習",
+    "desc": "ベイズ深層学習の論文・学位論文を年代別に整理した定番リスト"
+  },
+  "RaulPL/awesome-gaussian-processes": {
+    "type": "awesome-list",
+    "field": "prob",
+    "subfield": "ガウス過程",
+    "desc": "ガウス過程を学ぶための書籍・動画・ソフトウェア・論文を集約"
+  },
+  "ENSTA-U2IS-AI/awesome-uncertainty-deeplearning": {
+    "type": "awesome-list",
+    "field": "prob",
+    "subfield": "不確実性推定",
+    "desc": "深層学習の予測的不確実性推定のサーベイ・論文・コードを網羅した活発なリスト"
+  },
+  "valeman/awesome-conformal-prediction": {
+    "type": "awesome-list",
+    "field": "prob",
+    "subfield": "コンフォーマル予測",
+    "desc": "分布フリー不確実性定量化(CP)の動画・論文・ライブラリを集めた充実リスト"
+  },
+  "janosh/awesome-normalizing-flows": {
+    "type": "awesome-list",
+    "field": "prob",
+    "subfield": "正規化フロー",
+    "desc": "正規化フローの論文・実装(PyTorch/JAX/Julia)・動画を集めた代表的リスト"
+  },
+  "dongzhuoyao/awesome-flow-matching": {
+    "type": "awesome-list",
+    "field": "prob",
+    "subfield": "フローマッチング",
+    "desc": "フローマッチング・確率的補間関連研究をまとめた活発なリスト"
+  },
+  "yataobian/awesome-ebm": {
+    "type": "awesome-list",
+    "field": "prob",
+    "subfield": "エネルギーベースモデル",
+    "desc": "EBMの論文・ライブラリ・チュートリアルを年代順に整理した活発なリスト"
+  },
+  "Zymrael/awesome-neural-ode": {
+    "type": "awesome-list",
+    "field": "prob",
+    "subfield": "ニューラル微分方程式",
+    "desc": "Neural ODE/SDE/CDE・力学系・制御・数値解法の交差領域を網羅"
+  },
+  "kilianFatras/awesome-optimal-transport": {
+    "type": "awesome-list",
+    "field": "prob",
+    "subfield": "最適輸送",
+    "desc": "機械学習向け最適輸送(OT)の論文・チュートリアル・ライブラリ・書籍集"
+  },
+  "changwxx/Awesome-Optimal-Transport-in-Deep-Learning": {
+    "type": "awesome-list",
+    "field": "prob",
+    "subfield": "深層学習×最適輸送",
+    "desc": "深層学習における最適輸送の論文・コード・資料を集約"
+  },
+  "rguo12/awesome-causality-algorithms": {
+    "type": "awesome-list",
+    "field": "prob",
+    "subfield": "因果推論",
+    "desc": "再現可能な因果推論・因果ML手法のインデックス(サーベイ論文付き)"
+  },
+  "matthewvowels1/Awesome-Causal-Inference": {
+    "type": "paper-list",
+    "field": "prob",
+    "subfield": "因果推論",
+    "desc": "機械学習寄りの因果推論・因果発見論文を年代順にまとめた文献リスト"
+  },
+  "CharonWangg/Awesome-Causal-Discovery": {
+    "type": "awesome-list",
+    "field": "prob",
+    "subfield": "因果発見",
+    "desc": "因果発見・因果表現学習にフォーカスした論文・書籍リスト"
+  },
+  "zdhNarsil/Awesome-GFlowNets": {
+    "type": "awesome-list",
+    "field": "prob",
+    "subfield": "GFlowNets",
+    "desc": "GFlowNetの基礎論文・応用・チュートリアルを集めた中心的リスト"
+  },
+  "YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy": {
+    "type": "survey",
+    "field": "prob",
+    "subfield": "拡散・スコアベース生成",
+    "desc": "ACM CSUR掲載サーベイ対応の拡散・スコアベース・SDE生成モデル論文分類"
+  },
+  "matthewvowels1/Awesome-VAEs": {
+    "type": "paper-list",
+    "field": "prob",
+    "subfield": "VAE",
+    "desc": "VAE・ディスエンタングルメント・表現学習・生成モデルの論文を約900件集約"
+  },
+  "rese1f/Awesome-VQVAE": {
+    "type": "awesome-list",
+    "field": "prob",
+    "subfield": "VQ-VAE",
+    "desc": "Vector Quantized VAE(VQ-VAE)とその応用に関する論文・リソース集"
+  },
+  "bismex/Awesome-person-re-identification": {
+    "type": "awesome-list",
+    "field": "cv",
+    "subfield": "Person ReID",
+    "desc": "教師あり/教師なし/クロスモーダルReIDを網羅した大規模論文リスト"
+  },
+  "FDU-VTS/Awesome-Person-Re-Identification": {
+    "type": "awesome-list",
+    "field": "cv",
+    "subfield": "Person ReID",
+    "desc": "データセットとサーベイを含む人物再同定リスト"
+  },
+  "ChocoWu/Awesome-Scene-Graph-Generation": {
+    "type": "awesome-list",
+    "field": "cv",
+    "subfield": "Scene Graph",
+    "desc": "LLM/非LLM手法・2D/3D/動画を網羅する活発なシーングラフ生成リスト"
+  },
+  "DennisRotondi/awesome-3D-scene-graphs": {
+    "type": "awesome-list",
+    "field": "cv",
+    "subfield": "3D Scene Graph",
+    "desc": "ロボティクス応用を含む3Dシーングラフ専門リスト"
+  },
+  "Taaccoo/awesome-vqa-latest": {
+    "type": "paper-list",
+    "field": "cv",
+    "subfield": "VQA",
+    "desc": "VQA論文を継続更新する読書リスト"
+  },
+  "DirtyHarryLYL/HOI-Learning-List": {
+    "type": "awesome-list",
+    "field": "cv",
+    "subfield": "HOI検出",
+    "desc": "データセット・ベンチマーク・論文を網羅するHOI学習リスト(活発)"
+  },
+  "KainingYing/Awesome-Human-Object-Interaction-Detection": {
+    "type": "paper-list",
+    "field": "cv",
+    "subfield": "HOI検出",
+    "desc": "会議・年次別のHOI検出論文集"
+  },
+  "gjy3035/Awesome-Crowd-Counting": {
+    "type": "awesome-list",
+    "field": "cv",
+    "subfield": "群衆計数",
+    "desc": "群衆計数の定番リスト。データセット・コード付きで活発"
+  },
+  "wchstrife/Awesome-Image-Matting": {
+    "type": "awesome-list",
+    "field": "cv",
+    "subfield": "Image Matting",
+    "desc": "深層学習ベースのマッティング論文・コード厳選リスト"
+  },
+  "bcmi/Awesome-Image-Harmonization": {
+    "type": "awesome-list",
+    "field": "cv",
+    "subfield": "Image Harmonization",
+    "desc": "画像ハーモナイゼーションの論文・コード・リソース集(活発)"
+  },
+  "gaomingqi/Awesome-Video-Object-Segmentation": {
+    "type": "awesome-list",
+    "field": "cv",
+    "subfield": "VOS",
+    "desc": "VOSの最新論文・データセット・プロジェクト集"
+  },
+  "MarkMoHR/Awesome-Referring-Image-Segmentation": {
+    "type": "awesome-list",
+    "field": "cv",
+    "subfield": "Referring Seg",
+    "desc": "参照画像セグメンテーションの論文・データセット集"
+  },
+  "henghuiding/Awesome-Multimodal-Referring-Segmentation": {
+    "type": "awesome-list",
+    "field": "cv",
+    "subfield": "Referring Seg",
+    "desc": "マルチモーダル参照セグメンテーションのリスト"
+  },
+  "cvlab-uob/Awesome-Gaze-Estimation": {
+    "type": "awesome-list",
+    "field": "cv",
+    "subfield": "視線推定",
+    "desc": "視線推定論文の厳選キュレーションリスト"
+  },
+  "xinghaochen/awesome-hand-pose-estimation": {
+    "type": "awesome-list",
+    "field": "cv",
+    "subfield": "手姿勢推定",
+    "desc": "手姿勢推定/トラッキング(3D含む)の定番リスト"
+  },
+  "M-3LAB/awesome-industrial-anomaly-detection": {
+    "type": "awesome-list",
+    "field": "cv",
+    "subfield": "産業異常検知",
+    "desc": "産業画像の異常/欠陥検出の論文・データセット集(非常に活発)"
+  },
+  "M-3LAB/awesome-3d-anomaly-detection": {
+    "type": "awesome-list",
+    "field": "cv",
+    "subfield": "3D異常検知",
+    "desc": "点群・マルチモーダル3D異常検出のサーベイリポジトリ"
+  },
+  "vlislab2022/Awesome-Events-Deep-Learning": {
+    "type": "awesome-list",
+    "field": "cv",
+    "subfield": "イベントカメラ",
+    "desc": "イベントカメラ向け深層学習リソース集"
+  },
+  "Event-AHU/Event_Camera_in_Top_Conference": {
+    "type": "paper-list",
+    "field": "cv",
+    "subfield": "イベントカメラ",
+    "desc": "トップ国際会議掲載のイベント/スパイクカメラ論文集"
+  },
+  "CNJianLiu/Awesome-Object-Pose-Estimation": {
+    "type": "survey",
+    "field": "cv",
+    "subfield": "6D姿勢推定",
+    "desc": "IJCV2026サーベイ「Deep Learning-Based Object Pose Estimation」のプロジェクトページ"
+  },
+  "GeorgeDu/6d-object-pose-estimation": {
+    "type": "paper-list",
+    "field": "cv",
+    "subfield": "6D姿勢推定",
+    "desc": "6D物体姿勢推定の論文・コードまとめ"
+  },
+  "liuyuan-pal/Awesome-generalizable-6D-object-pose": {
+    "type": "paper-list",
+    "field": "cv",
+    "subfield": "6D姿勢推定",
+    "desc": "汎化可能な6DoF物体姿勢推定の最新論文集"
+  },
+  "visionxiang/awesome-camouflaged-object-detection": {
+    "type": "awesome-list",
+    "field": "cv",
+    "subfield": "カモフラージュ物体検出",
+    "desc": "カモフラージュ/隠蔽物体検出の厳選リソース集"
+  },
+  "ChunmingHe/awesome-concealed-object-segmentation": {
+    "type": "awesome-list",
+    "field": "cv",
+    "subfield": "隠蔽物体セグメンテーション",
+    "desc": "隠蔽物体セグメンテーションのリソース集"
+  },
+  "Xinjie-Q/Awesome-Neural-Compression": {
+    "type": "awesome-list",
+    "field": "lowlevel",
+    "subfield": "ニューラル圧縮",
+    "desc": "画像・動画・点群・NeRF・3DGSまで網羅したニューラル圧縮の論文/リソース集"
+  },
+  "ppingzhang/Awesome-Deep-Learning-Based-Video-Compression": {
+    "type": "paper-list",
+    "field": "lowlevel",
+    "subfield": "動画圧縮",
+    "desc": "深層学習ベース動画圧縮の論文リスト"
+  },
+  "ycjing/Neural-Style-Transfer-Papers": {
+    "type": "paper-list",
+    "field": "lowlevel",
+    "subfield": "スタイル変換",
+    "desc": "サーベイ「Neural Style Transfer: A Review」付随の代表論文・コード集"
+  },
+  "MarkMoHR/Awesome-Image-Colorization": {
+    "type": "awesome-list",
+    "field": "lowlevel",
+    "subfield": "カラー化",
+    "desc": "深層学習ベースの画像/動画カラー化論文(2025-2026まで活発)"
+  },
+  "SerialLain3170/AwesomeAnimeResearch": {
+    "type": "awesome-list",
+    "field": "lowlevel",
+    "subfield": "アニメ",
+    "desc": "アニメ/漫画研究の論文・データセット集(生成・カラー化・キャラアニメ等)"
+  },
+  "qyzdao/Sketch-Based-Deep-Learning": {
+    "type": "paper-list",
+    "field": "lowlevel",
+    "subfield": "スケッチ/線画",
+    "desc": "スケッチベース深層学習の論文集(線画カラー化・ベクトル化等)"
+  },
+  "IShengFang/TypographyResearchCollection": {
+    "type": "paper-list",
+    "field": "lowlevel",
+    "subfield": "フォント生成",
+    "desc": "タイポグラフィ関連のCG/CV/ML研究収集(フォント生成・アニメーション含む)"
+  },
+  "zhihongz/awesome-low-light-image-enhancement": {
+    "type": "awesome-list",
+    "field": "lowlevel",
+    "subfield": "低照度強調",
+    "desc": "低照度画像強調のデータセット/手法/論文/評価指標を網羅(活発)"
+  },
+  "nnUyi/DerainZoo": {
+    "type": "paper-list",
+    "field": "lowlevel",
+    "subfield": "雨除去",
+    "desc": "雨除去の手法・データセット・コード集(単一画像/動画)"
+  },
+  "TaoWangzj/Awesome-Image-Restoration": {
+    "type": "survey",
+    "field": "lowlevel",
+    "subfield": "画像復元(包括)",
+    "desc": "サーベイ「Deep Image Restoration」付随、denoise/deblur/SR/dehaze/derain等横断"
+  },
+  "youngguncho/awesome-dehazing": {
+    "type": "awesome-list",
+    "field": "lowlevel",
+    "subfield": "デヘイズ",
+    "desc": "単一/複数画像デヘイズ・水中強調・データセットを分類した論文集"
+  },
+  "rebeccaeexu/Awesome-High-Dynamic-Range-Imaging": {
+    "type": "awesome-list",
+    "field": "lowlevel",
+    "subfield": "HDR",
+    "desc": "HDR論文集(マルチ/シングルフレーム・HDRTV・HDR動画・トーンマッピング)"
+  },
+  "oneTaken/Awesome-Denoise": {
+    "type": "awesome-list",
+    "field": "lowlevel",
+    "subfield": "デノイズ",
+    "desc": "画像/バースト/動画デノイズ論文を色空間・ノイズモデル別に整理"
+  },
+  "chaofengc/Awesome-Image-Quality-Assessment": {
+    "type": "awesome-list",
+    "field": "lowlevel",
+    "subfield": "画質評価(IQA)",
+    "desc": "IQA論文/データセット/コードの包括集(非常に活発)"
+  },
+  "Linfeng-Tang/Image-Fusion": {
+    "type": "survey",
+    "field": "lowlevel",
+    "subfield": "画像融合",
+    "desc": "「Deep Learning-based Image Fusion」サーベイ、赤外-可視/医用/マルチ露出等横断"
+  },
+  "YuZhao1999/UIE": {
+    "type": "paper-list",
+    "field": "lowlevel",
+    "subfield": "水中画像強調",
+    "desc": "水中画像強調のリソースリスト"
+  },
+  "GuoLanqing/Awesome-Shadow-Removal": {
+    "type": "awesome-list",
+    "field": "lowlevel",
+    "subfield": "影除去",
+    "desc": "影除去の論文/コード/データセット/指標集(活発)"
+  },
+  "ChenyangLEI/awesome-reflection-removal": {
+    "type": "awesome-list",
+    "field": "lowlevel",
+    "subfield": "反射除去",
+    "desc": "反射除去手法集(単一画像/フラッシュ/偏光/インタラクティブ)"
+  },
+  "THUDM/Awesome-Parameter-Efficient-Fine-Tuning-for-Foundation-Models": {
+    "type": "survey",
+    "field": "nlp",
+    "subfield": "PEFT",
+    "desc": "基盤モデル向けPEFT手法を体系的にまとめたサーベイ兼論文リスト"
+  },
+  "XiaoshuangJi/Awesome-PEFT": {
+    "type": "awesome-list",
+    "field": "nlp",
+    "subfield": "PEFT/LoRA",
+    "desc": "LoRA各種派生を中心としたPEFT論文・ライブラリ・実装集"
+  },
+  "quchangle1/LLM-Tool-Survey": {
+    "type": "survey",
+    "field": "nlp",
+    "subfield": "tool learning",
+    "desc": "ツール学習サーベイの公式リポジトリ。task planning/tool selection等で分類"
+  },
+  "zorazrw/awesome-tool-llm": {
+    "type": "awesome-list",
+    "field": "nlp",
+    "subfield": "tool use",
+    "desc": "ツール拡張LLM(ToRA, MINT等)を集めたキュレーションリスト"
+  },
+  "AngxiaoYue/awesome-llm-tool-learning": {
+    "type": "paper-list",
+    "field": "nlp",
+    "subfield": "tool learning",
+    "desc": "LLMのツール学習論文(Gorilla, HuggingGPT, ART等)のリスト"
+  },
+  "Applied-Machine-Learning-Lab/Awesome-Function-Callings": {
+    "type": "paper-list",
+    "field": "nlp",
+    "subfield": "function calling",
+    "desc": "LLMのfunction calling特化の論文リスト"
+  },
+  "caiyinqiong/Semantic-Retrieval-Models": {
+    "type": "survey",
+    "field": "nlp",
+    "subfield": "dense retrieval",
+    "desc": "意味検索モデル(DPR, RAG, RepBERT等)を網羅したTOIS採択サーベイの論文リスト"
+  },
+  "ict-bigdatalab/awesome-pretrained-models-for-information-retrieval": {
+    "type": "awesome-list",
+    "field": "nlp",
+    "subfield": "neural IR",
+    "desc": "IR向け事前学習モデル(pretraining for IR)の論文集"
+  },
+  "Doragd/Awesome-Sentence-Embedding": {
+    "type": "awesome-list",
+    "field": "nlp",
+    "subfield": "文埋め込み",
+    "desc": "文表現学習論文とSTSリーダーボード(SimCSE等)を収録"
+  },
+  "wutong8023/Awesome_Information_Extraction": {
+    "type": "survey",
+    "field": "nlp",
+    "subfield": "情報抽出",
+    "desc": "RE・EE・slot fillingを含むIE文献サーベイ"
+  },
+  "quqxui/Awesome-LLM4IE-Papers": {
+    "type": "paper-list",
+    "field": "nlp",
+    "subfield": "生成的情報抽出",
+    "desc": "LLMによる生成的情報抽出(NER/RE/EE)の論文集"
+  },
+  "roomylee/awesome-relation-extraction": {
+    "type": "awesome-list",
+    "field": "nlp",
+    "subfield": "関係抽出",
+    "desc": "関係抽出に特化したリソースリスト"
+  },
+  "BaptisteBlouin/EventExtractionPapers": {
+    "type": "paper-list",
+    "field": "nlp",
+    "subfield": "イベント抽出",
+    "desc": "イベント抽出タスク中心のNLPリソースリスト"
+  },
+  "aarsri/AwesomeSemanticParsing": {
+    "type": "awesome-list",
+    "field": "nlp",
+    "subfield": "意味解析",
+    "desc": "意味解析の論文・リソース集"
+  },
+  "wangbing1416/Awesome-Fake-News-Detection": {
+    "type": "awesome-list",
+    "field": "nlp",
+    "subfield": "フェイクニュース検出",
+    "desc": "フェイクニュース・噂検出の論文リスト"
+  },
+  "neemakot/Fact-Checking-Survey": {
+    "type": "survey",
+    "field": "nlp",
+    "subfield": "ファクトチェック",
+    "desc": "COLING2020「Explainable Automated Fact-Checking」サーベイの論文集"
+  },
+  "zjunlp/Low-resource-KEPapers": {
+    "type": "paper-list",
+    "field": "nlp",
+    "subfield": "低リソース情報抽出",
+    "desc": "低リソース情報抽出(NER/RE/EE)の論文・ツール・データセット集"
+  },
+  "gotutiyan/GEC-Info": {
+    "type": "paper-list",
+    "field": "nlp",
+    "subfield": "文法誤り訂正(GEC)",
+    "desc": "GEC論文を収集・分類したリポジトリ"
+  },
+  "BobXWu/Paper-Neural-Topic-Models": {
+    "type": "paper-list",
+    "field": "nlp",
+    "subfield": "トピックモデル",
+    "desc": "ニューラルトピックモデル(NTM)の論文集"
+  },
+  "hzy312/Awesome-LLM-Watermark": {
+    "type": "paper-list",
+    "field": "nlp",
+    "subfield": "LLMウォーターマーク",
+    "desc": "最新のLLMウォーターマーク論文を継続更新するリスト"
+  },
+  "Xianjun-Yang/Awesome_papers_on_LLMs_detection": {
+    "type": "paper-list",
+    "field": "nlp",
+    "subfield": "生成テキスト検出",
+    "desc": "LLM生成テキスト・コード検出の論文リスト"
+  },
+  "hemingkx/SpeculativeDecodingPapers": {
+    "type": "survey",
+    "field": "nlp",
+    "subfield": "投機的デコーディング",
+    "desc": "投機的デコーディングの必読論文・ブログ集(サーベイ連動)"
+  },
+  "RUCAIBox/awesome-llm-pretraining": {
+    "type": "awesome-list",
+    "field": "nlp",
+    "subfield": "事前学習データ",
+    "desc": "LLM事前学習のデータ・フレームワーク・手法リソース集"
+  },
+  "lmmlzn/Awesome-LLMs-Datasets": {
+    "type": "awesome-list",
+    "field": "nlp",
+    "subfield": "LLMデータセット",
+    "desc": "事前学習コーパス・指示/選好/評価データセットを5観点で整理"
+  },
+  "weAIDB/awesome-data-llm": {
+    "type": "survey",
+    "field": "nlp",
+    "subfield": "データキュレーション",
+    "desc": "「LLM × DATA」サーベイ公式リポジトリ"
+  },
+  "VanillaCreamer/Awesome-Personalized-LLMs": {
+    "type": "paper-list",
+    "field": "nlp",
+    "subfield": "パーソナライズLLM",
+    "desc": "パーソナライズドLLM(嗜好モデル化・persona制御・記憶ベース)の最新論文集"
+  },
+  "TsinghuaC3I/Awesome-Memory-for-Agents": {
+    "type": "paper-list",
+    "field": "agent",
+    "subfield": "エージェント記憶",
+    "desc": "言語エージェントの記憶(ユーザプロファイル・対話履歴)に関する論文集"
+  },
+  "codefuse-ai/Awesome-Code-LLM": {
+    "type": "paper-list",
+    "field": "app",
+    "subfield": "AI for Code",
+    "desc": "コード向け言語モデル研究とデータセットの網羅的キュレーション"
+  },
+  "iSEngLab/AwesomeLLM4SE": {
+    "type": "survey",
+    "field": "app",
+    "subfield": "LLM for SE",
+    "desc": "要件・開発・テスト・保守までSE全領域のLLM論文を整理"
+  },
+  "shaohua0116/awesome-program": {
+    "type": "paper-list",
+    "field": "app",
+    "subfield": "プログラム合成",
+    "desc": "プログラム合成・帰納・実行・修復・programmatic RLの論文集"
+  },
+  "zhaoyu-li/DL4TP": {
+    "type": "survey",
+    "field": "app",
+    "subfield": "自動定理証明",
+    "desc": "定理証明への深層学習の調査。autoformalization・proof search等で分類"
+  },
+  "tongyx361/Awesome-LLM4Math": {
+    "type": "paper-list",
+    "field": "app",
+    "subfield": "数学推論",
+    "desc": "LLM数学推論の高品質厳選リスト。学習データ・SFT・RL・ベンチを整理"
+  },
+  "georgezouq/awesome-ai-in-finance": {
+    "type": "awesome-list",
+    "field": "app",
+    "subfield": "AI for Finance",
+    "desc": "金融市場のLLM・深層学習戦略・ツールの定番リスト"
+  },
+  "adlnlp/FinLLMs": {
+    "type": "survey",
+    "field": "app",
+    "subfield": "LLM for Finance",
+    "desc": "論文「Large Language Models in Finance」の関連研究・ベンチ・データセット集"
+  },
+  "maastrichtlawtech/awesome-legal-nlp": {
+    "type": "awesome-list",
+    "field": "app",
+    "subfield": "法務NLP",
+    "desc": "判決予測・契約分類・判例検索・法務QA等のLegalNLPリソース集"
+  },
+  "CSHaitao/Awesome-LegalAI-Resources": {
+    "type": "awesome-list",
+    "field": "app",
+    "subfield": "司法AI",
+    "desc": "司法AI向けのコーパス・ベンチ・QA・要約データセットを集約"
+  },
+  "Geralt-Targaryen/Awesome-Education-LLM": {
+    "type": "paper-list",
+    "field": "app",
+    "subfield": "教育LLM",
+    "desc": "教育向けLLM研究・応用(教授支援・問題生成・自動採点等)の整理"
+  },
+  "GeminiLight/awesome-ai-llm4education": {
+    "type": "paper-list",
+    "field": "app",
+    "subfield": "教育AI",
+    "desc": "トップ会議・ジャーナルの教育向けAI/LLM論文を収集"
+  },
+  "Jack-bo1220/Awesome-Remote-Sensing-Foundation-Models": {
+    "type": "paper-list",
+    "field": "app",
+    "subfield": "リモートセンシング基盤モデル",
+    "desc": "RSFMの論文・データセット・ベンチ・事前学習重みを網羅(活発)"
+  },
+  "satellite-image-deep-learning/techniques": {
+    "type": "awesome-list",
+    "field": "app",
+    "subfield": "衛星画像",
+    "desc": "衛星・航空画像の深層学習手法の超大規模リファレンス"
+  },
+  "xiaoaoran/awesome-rsfms": {
+    "type": "survey",
+    "field": "app",
+    "subfield": "リモートセンシング",
+    "desc": "サーベイ「Foundation Models for Remote Sensing and Earth Observation」公式リポジトリ"
+  },
+  "wenhwu/awesome-remote-sensing-change-detection": {
+    "type": "awesome-list",
+    "field": "app",
+    "subfield": "リモートセンシング変化検出",
+    "desc": "RS変化検出のデータセット・手法・サーベイ集"
+  },
+  "brycejohnston/awesome-agriculture": {
+    "type": "awesome-list",
+    "field": "app",
+    "subfield": "農業AI",
+    "desc": "農業・農場・園芸向けOSS技術(ML・GIS・リモセン・ロボティクス含む)の定番リスト"
+  },
+  "px39n/Awesome-Precision-Agriculture": {
+    "type": "paper-list",
+    "field": "app",
+    "subfield": "精密農業",
+    "desc": "UAV・深層学習による収量予測・作物検出・雑草検出等の論文集"
+  },
+  "JuDFTteam/best-of-atomistic-machine-learning": {
+    "type": "awesome-list",
+    "field": "app",
+    "subfield": "原子論的ML/材料",
+    "desc": "原子論的機械学習プロジェクト約510件をスコア付きランキング(活発)"
+  },
+  "sherrylixuecheng/awesome-ai4chem": {
+    "type": "paper-list",
+    "field": "app",
+    "subfield": "AI for Chemistry",
+    "desc": "化学向けAI論文のキュレーション"
+  },
+  "tilde-lab/awesome-materials-informatics": {
+    "type": "awesome-list",
+    "field": "app",
+    "subfield": "材料インフォマティクス",
+    "desc": "現代材料科学におけるマテリアルズ・インフォマティクスの取り組み集"
+  },
+  "idrl-lab/PINNpapers": {
+    "type": "paper-list",
+    "field": "app",
+    "subfield": "PINN",
+    "desc": "PINNの必読論文集。並列化・加速・転移学習・不確実性定量化・応用で整理"
+  },
+  "gauravfs-14/awesome-pinns": {
+    "type": "awesome-list",
+    "field": "app",
+    "subfield": "PINN/SciML",
+    "desc": "PINN/物理情報機械学習のライブラリ・論文・チュートリアル厳選集"
+  },
+  "frutik/awesome-search": {
+    "type": "awesome-list",
+    "field": "app",
+    "subfield": "検索/EC",
+    "desc": "EC検索を中心にセマンティック検索・LTR・クエリ理解・検索品質を網羅"
+  },
+  "yuzhimanhua/Awesome-Scientific-Language-Models": {
+    "type": "survey",
+    "field": "app",
+    "subfield": "科学LLM",
+    "desc": "数学・物理・化学・材料・生物・地球科学等の科学ドメイン事前学習モデルの包括サーベイ"
+  },
+  "czyssrs/LLM_X_papers": {
+    "type": "paper-list",
+    "field": "app",
+    "subfield": "ドメインLLM横断",
+    "desc": "金融・医療・法務のLLM論文を継続更新する読書リスト"
+  },
+  "DefTruth/Awesome-LLM-Inference": {
+    "type": "paper-list",
+    "field": "sys",
+    "subfield": "LLM推論",
+    "desc": "LLM/VLM推論最適化(FlashAttention,PagedAttention,MLA等)の論文+コード集"
+  },
+  "sihyeong/Awesome-LLM-Inference-Engine": {
+    "type": "survey",
+    "field": "sys",
+    "subfield": "LLM推論エンジン",
+    "desc": "LLM推論最適化手法をレイテンシ/スループット/メモリ別に分類した網羅的まとめ"
+  },
+  "dujiangsu/Awesome-MLSys": {
+    "type": "paper-list",
+    "field": "sys",
+    "subfield": "MLSys",
+    "desc": "大規模モデル推論を中心としたMLSys分野の学術論文集"
+  },
+  "Shenggan/awesome-distributed-ml": {
+    "type": "awesome-list",
+    "field": "sys",
+    "subfield": "分散学習",
+    "desc": "大規模モデルの分散学習・推論に関するプロジェクトと論文の厳選リスト"
+  },
+  "HuaizhengZhang/Awesome-System-for-Machine-Learning": {
+    "type": "awesome-list",
+    "field": "sys",
+    "subfield": "MLシステム",
+    "desc": "AIシステム論文と産業実践(OSDI/NSDI/MLSys等、LLM・GenAI含む)を集めた定番"
+  },
+  "byungsoo-oh/ml-systems-papers": {
+    "type": "paper-list",
+    "field": "sys",
+    "subfield": "MLシステム",
+    "desc": "MLシステム分野の論文を体系的に集めたコレクション"
+  },
+  "lambda7xx/awesome-AI-system": {
+    "type": "paper-list",
+    "field": "sys",
+    "subfield": "AIシステム",
+    "desc": "AIシステムの論文とそのコードをまとめたリスト"
+  },
+  "RaviVijay/awesome-dl-hw-resources": {
+    "type": "awesome-list",
+    "field": "sys",
+    "subfield": "DLハードウェア",
+    "desc": "深層学習向けハードウェア/チップ設計リソースの厳選リスト"
+  },
+  "wasiahmad/Awesome-LLM-Synthetic-Data": {
+    "type": "paper-list",
+    "field": "sys",
+    "subfield": "合成データ",
+    "desc": "LLMによる合成データ生成のリーディングリスト(活発)"
+  },
+  "statice/awesome-synthetic-data": {
+    "type": "awesome-list",
+    "field": "sys",
+    "subfield": "合成データ",
+    "desc": "OSS/商用の合成データツール厳選リスト(SDV等)"
+  },
+  "CrazyVertigo/awesome-data-augmentation": {
+    "type": "awesome-list",
+    "field": "sys",
+    "subfield": "データ拡張",
+    "desc": "データ拡張手法(AugMix, CutMix等)の厳選リスト"
+  },
+  "AgaMiko/data-augmentation-review": {
+    "type": "awesome-list",
+    "field": "sys",
+    "subfield": "データ拡張",
+    "desc": "データ拡張の手法・ライブラリ・論文を幅広く集めたレビュー"
+  },
+  "yandex-research/rtdl": {
+    "type": "paper-list",
+    "field": "sys",
+    "subfield": "テーブル深層学習",
+    "desc": "テーブルデータ深層学習の論文とパッケージ集(Yandex Research)"
+  },
+  "LAMDA-Tabular/Tabular-Survey": {
+    "type": "survey",
+    "field": "sys",
+    "subfield": "テーブル深層学習",
+    "desc": "「Representation Learning for Tabular Data」サーベイ付随リスト"
+  },
+  "dangkhoasdc/awesome-vector-database": {
+    "type": "awesome-list",
+    "field": "sys",
+    "subfield": "ベクトルDB",
+    "desc": "高次元ベクトル検索・データベース関連の厳選リスト(活発)"
+  },
+  "currentslab/awesome-vector-search": {
+    "type": "awesome-list",
+    "field": "sys",
+    "subfield": "ベクトル検索",
+    "desc": "ベクトル検索のライブラリ・サービス・論文集(Faiss, Annoy等)"
+  },
+  "AmrMKayid/awesome-affective-computing": {
+    "type": "awesome-list",
+    "field": "mm",
+    "subfield": "感情コンピューティング",
+    "desc": "感情コンピューティングの論文・ソフト・OSS・リソース集"
+  },
+  "EvelynFan/AWESOME-MER": {
+    "type": "paper-list",
+    "field": "mm",
+    "subfield": "マルチモーダル感情認識",
+    "desc": "マルチモーダル感情認識(MER)のリーディングリスト"
+  },
+  "declare-lab/awesome-emotion-recognition-in-conversations": {
+    "type": "paper-list",
+    "field": "mm",
+    "subfield": "会話感情認識",
+    "desc": "会話における感情認識(ERC)の網羅的リーディングリスト"
+  },
+  "ZechengLi19/Awesome-Sign-Language": {
+    "type": "paper-list",
+    "field": "speech",
+    "subfield": "手話",
+    "desc": "手話認識(SLR)・翻訳(SLT)等の論文リスト(活発)"
+  },
+  "VIPL-SLP/awesome-sign-language-processing": {
+    "type": "awesome-list",
+    "field": "speech",
+    "subfield": "手話処理",
+    "desc": "手話処理(認識/翻訳/生成)の包括リソース集"
+  },
+  "soham97/awesome-sound_event_detection": {
+    "type": "paper-list",
+    "field": "speech",
+    "subfield": "音響イベント検出",
+    "desc": "Sound AI(音響イベント検出、音声キャプショニング等)の研究リーディングリスト"
+  },
+  "yamathcy/awesome-music-informatics": {
+    "type": "awesome-list",
+    "field": "speech",
+    "subfield": "音楽情報学",
+    "desc": "音楽情報学の論文・チュートリアル・ライブラリ・ツールの厳選リスト"
+  },
+  "ybayle/awesome-deep-learning-music": {
+    "type": "paper-list",
+    "field": "speech",
+    "subfield": "音楽深層学習",
+    "desc": "音楽に応用された深層学習の論文・学位論文集"
+  },
+  "dqqcasia/awesome-speech-translation": {
+    "type": "paper-list",
+    "field": "speech",
+    "subfield": "音声翻訳",
+    "desc": "音声翻訳(パイプライン/E2E/ストリーミング/多言語)の論文リスト"
+  },
+  "Rongjiehuang/awesome-speech-to-speech-translation": {
+    "type": "paper-list",
+    "field": "speech",
+    "subfield": "音声間翻訳",
+    "desc": "直接音声間翻訳(S2ST)の論文リスト"
+  },
+  "huangcanan/Awesome-Large-Speech-Model": {
+    "type": "awesome-list",
+    "field": "speech",
+    "subfield": "大規模音声モデル",
+    "desc": "大規模音声/オーディオモデルの論文・データ・応用・ツール集"
+  },
+  "abikaki/awesome-speech-emotion-recognition": {
+    "type": "awesome-list",
+    "field": "speech",
+    "subfield": "音声感情認識",
+    "desc": "音声感情認識(SER)の論文・データセット・ツールの厳選リスト"
+  },
+  "nus-cvml/awesome-temporal-action-segmentation": {
+    "type": "paper-list",
+    "field": "cv",
+    "subfield": "行動セグメンテーション",
+    "desc": "時系列行動セグメンテーションの論文・データセット集(活発)"
+  },
+  "Alvin-Zeng/Awesome-Temporal-Action-Localization": {
+    "type": "paper-list",
+    "field": "cv",
+    "subfield": "時系列行動位置推定",
+    "desc": "temporal action localization/detection/proposalの論文・ベンチマークまとめ"
+  },
+  "zhenyingfang/Awesome-Temporal-Action-Detection-Temporal-Action-Proposal-Generation": {
+    "type": "paper-list",
+    "field": "cv",
+    "subfield": "時系列行動検出",
+    "desc": "時系列行動検出・提案生成・弱教師ありを横断的に収集"
+  },
+  "tgc1997/Awesome-Video-Captioning": {
+    "type": "paper-list",
+    "field": "cv",
+    "subfield": "動画キャプション",
+    "desc": "動画キャプション生成の論文集"
+  },
+  "forence/Awesome-Visual-Captioning": {
+    "type": "paper-list",
+    "field": "cv",
+    "subfield": "視覚キャプション",
+    "desc": "画像/動画キャプションとSeq2Seq学習にフォーカスした論文集"
+  },
+  "linhuixiao/Awesome-Visual-Grounding": {
+    "type": "survey",
+    "field": "cv",
+    "subfield": "Visual Grounding",
+    "desc": "TPAMI 2025サーベイ。REC/phrase grounding/grounding MLLMを網羅(活発)"
+  },
+  "TheShadow29/awesome-grounding": {
+    "type": "paper-list",
+    "field": "cv",
+    "subfield": "Visual Grounding",
+    "desc": "画像/動画/3Dの参照表現・grounding論文集"
+  },
+  "daqingliu/awesome-rec": {
+    "type": "paper-list",
+    "field": "cv",
+    "subfield": "参照表現理解",
+    "desc": "Referring Expression Comprehension(REC)専用の論文リスト"
+  },
+  "liudaizong/Awesome-3D-Visual-Grounding": {
+    "type": "paper-list",
+    "field": "cv",
+    "subfield": "3D Visual Grounding",
+    "desc": "3D視覚grounding論文に特化(活発)"
+  },
+  "willard-yuan/awesome-cbir-papers": {
+    "type": "paper-list",
+    "field": "cv",
+    "subfield": "画像検索(CBIR)",
+    "desc": "古典的・代表的な内容ベース画像検索(CBIR)論文集"
+  },
+  "lgbwust/awesome-image-retrieval-papers": {
+    "type": "paper-list",
+    "field": "cv",
+    "subfield": "画像検索",
+    "desc": "画像検索論文・実装の包括的コレクション"
+  },
+  "qdrant/awesome-metric-learning": {
+    "type": "awesome-list",
+    "field": "cv",
+    "subfield": "メトリック学習",
+    "desc": "実用的なメトリック学習とその応用のキュレーション"
+  },
+  "RizhaoCai/Awesome-FAS": {
+    "type": "paper-list",
+    "field": "cv",
+    "subfield": "顔アンチスプーフィング",
+    "desc": "顔アンチスプーフィング/PAD/liveness論文の包括的コレクション"
+  },
+  "BNU-IVC/Awesome-Gait-Recognition": {
+    "type": "paper-list",
+    "field": "cv",
+    "subfield": "歩容認識",
+    "desc": "歩容認識の論文・データセット集(CVPR'25等収録、活発)"
+  },
+  "vlislab22/360_Survey": {
+    "type": "survey",
+    "field": "cv",
+    "subfield": "全方位ビジョン",
+    "desc": "全方位ビジョン(深度推定・3D復元・セグメンテーション)の包括サーベイ"
+  },
+  "hsientzucheng/awesome-360-vision": {
+    "type": "paper-list",
+    "field": "cv",
+    "subfield": "360度ビジョン",
+    "desc": "360度ビジョン全般の論文集"
+  },
+  "XuyangBai/awesome-point-cloud-registration": {
+    "type": "paper-list",
+    "field": "cv",
+    "subfield": "点群レジストレーション",
+    "desc": "マッチング戦略別に整理した点群レジストレーション論文集"
+  },
+  "PointsCoder/Awesome-3D-Object-Detection-for-Autonomous-Driving": {
+    "type": "survey",
+    "field": "cv",
+    "subfield": "LiDAR 3D検出",
+    "desc": "IJCV 2023サーベイ。LiDAR/カメラ/マルチモーダル3D検出を体系化"
+  },
+  "Hub-Tian/Awesome-3D-Detectors": {
+    "type": "paper-list",
+    "field": "cv",
+    "subfield": "3D物体検出",
+    "desc": "LiDAR中心の3D検出手法の論文・コード集"
+  },
+  "aimagelab/awesome-human-visual-attention": {
+    "type": "paper-list",
+    "field": "cv",
+    "subfield": "視覚的注意/saliency",
+    "desc": "saliency・scanpath・視線予測・視覚的注意の論文/リソース集"
+  },
+  "CMLab-Korea/Awesome-Video-Frame-Interpolation": {
+    "type": "survey",
+    "field": "lowlevel",
+    "subfield": "動画フレーム補間",
+    "desc": "IEEE TCSVT'26採録のVFIサーベイ。250+論文を体系化(活発)"
+  },
+  "lyh-18/Video-Frame-Interpolation-Collections": {
+    "type": "paper-list",
+    "field": "lowlevel",
+    "subfield": "動画フレーム補間",
+    "desc": "SOTA VFI手法のコレクション"
+  },
+  "liuzhen03/awesome-video-enhancement": {
+    "type": "paper-list",
+    "field": "lowlevel",
+    "subfield": "動画強調",
+    "desc": "動画超解像・補間・デノイズ・デブラー・インペインティングを横断する論文集"
+  },
+  "kawchar85/Awesome-Deblurring-Resources": {
+    "type": "paper-list",
+    "field": "lowlevel",
+    "subfield": "デブラー",
+    "desc": "年別に整理された画像・動画デブラー論文/データセット(活発)"
+  },
+  "tzxiang/awesome-image-alignment-and-stitching": {
+    "type": "paper-list",
+    "field": "lowlevel",
+    "subfield": "画像スティッチング",
+    "desc": "画像アラインメント・スティッチングのキュレーション"
+  },
+  "visionxiang/awesome-computational-photography": {
+    "type": "paper-list",
+    "field": "lowlevel",
+    "subfield": "計算写真",
+    "desc": "深層学習による計算写真(画像マッチング・アラインメント・スティッチング・安定化)"
+  },
+  "BearCleverProud/AwesomeWSI": {
+    "type": "survey",
+    "field": "med",
+    "subfield": "病理WSI",
+    "desc": "WSI解析と病理基盤モデルの包括的コレクション(IJCAI 2025サーベイ準拠、活発)"
+  },
+  "open-pathology/awesome-pathology": {
+    "type": "awesome-list",
+    "field": "med",
+    "subfield": "計算病理",
+    "desc": "デジタル/計算病理の資源(自己教師あり・特徴抽出・データセット等)を網羅"
+  },
+  "yuanzhang7/Awesome-Generative-Models-in-Pathology": {
+    "type": "survey",
+    "field": "med",
+    "subfield": "病理生成モデル",
+    "desc": "病理における生成モデル(画像合成・レポート生成・クロスモーダル)150本超のサーベイ"
+  },
+  "mk-runner/Awesome-Radiology-Report-Generation": {
+    "type": "paper-list",
+    "field": "med",
+    "subfield": "放射線レポート生成",
+    "desc": "放射線レポート生成の論文・データセット・ツール集(非常に活発)"
+  },
+  "zhjohnchan/awesome-radiology-report-generation": {
+    "type": "awesome-list",
+    "field": "med",
+    "subfield": "医療レポート生成",
+    "desc": "放射線/医療レポート生成と関連領域のキュレーションリスト"
+  },
+  "Deepak-Mewada/Awesome-AI4BCI": {
+    "type": "paper-list",
+    "field": "med",
+    "subfield": "BCI/脳信号",
+    "desc": "脳信号エンコーディング/デコーディングの深層学習モデル資源集"
+  },
+  "okbalefthanded/awesome-bci-reviews": {
+    "type": "survey",
+    "field": "med",
+    "subfield": "BCI",
+    "desc": "BCIの査読済みレビュー・サーベイを年代順に整理(活発)"
+  },
+  "willxxy/awesome-mmps": {
+    "type": "awesome-list",
+    "field": "med",
+    "subfield": "マルチモーダル生理信号",
+    "desc": "EEG/ECG/EMG等の生理信号×機械学習の資源・データセット集(活発)"
+  },
+  "ziyujia/Physiological-Signal-Classification-Papers": {
+    "type": "paper-list",
+    "field": "med",
+    "subfield": "生理信号分類",
+    "desc": "EEG/ECG/EMG/EOGの分類論文をタスク別に整理"
+  },
+  "hsd1503/DL-ECG-Review": {
+    "type": "survey",
+    "field": "med",
+    "subfield": "ECG深層学習",
+    "desc": "ECGの深層学習手法レビューと論文サマリ表"
+  },
+  "OmicsML/awesome-deep-learning-single-cell-papers": {
+    "type": "paper-list",
+    "field": "med",
+    "subfield": "シングルセル",
+    "desc": "シングルセル解析×深層学習の最新論文を30以上のタスク別に整理"
+  },
+  "OmicsML/awesome-foundation-model-single-cell-papers": {
+    "type": "paper-list",
+    "field": "med",
+    "subfield": "シングルセル基盤モデル",
+    "desc": "シングルセル基盤モデルに特化した論文リスト"
+  },
+  "shi-ang/SurvivalAnalysisPapers": {
+    "type": "paper-list",
+    "field": "med",
+    "subfield": "生存時間解析",
+    "desc": "生存時間解析の論文・資源をカテゴリ別に整理(活発)"
+  },
+  "hurcy/awesome-ehr-deeplearning": {
+    "type": "awesome-list",
+    "field": "med",
+    "subfield": "EHR深層学習",
+    "desc": "EHRマイニング・機械学習・深層学習論文集"
+  },
+  "JHU-MedImage-Reg/MedImgReg_Survey": {
+    "type": "survey",
+    "field": "med",
+    "subfield": "医用画像レジストレーション",
+    "desc": "学習ベース医用画像レジストレーションの論文集+損失関数/評価指標の実装"
+  },
+  "Awesome-Image-Registration-Organization/awesome-image-registration": {
+    "type": "awesome-list",
+    "field": "med",
+    "subfield": "画像レジストレーション",
+    "desc": "画像レジストレーション全般の書籍・論文・ツールボックス集"
+  },
+  "yenchenlin/awesome-adversarial-machine-learning": {
+    "type": "awesome-list",
+    "field": "safety",
+    "subfield": "敵対的攻撃",
+    "desc": "敵対的機械学習の論文・ブログ・講演を集めた古典的キュレーション"
+  },
+  "KululuMi/Awesome-Adversarial-Training": {
+    "type": "paper-list",
+    "field": "safety",
+    "subfield": "敵対的学習",
+    "desc": "FGSM/PGD/TRADES/AutoAttack等の敵対的訓練論文リスト"
+  },
+  "zihao-ai/Awesome-Backdoor-in-Deep-Learning": {
+    "type": "paper-list",
+    "field": "safety",
+    "subfield": "バックドア攻撃",
+    "desc": "深層学習のバックドア攻撃と防御を攻撃種別・防御段階で整理した論文集(活発)"
+  },
+  "usnistgov/trojai-literature": {
+    "type": "paper-list",
+    "field": "safety",
+    "subfield": "トロイの木馬攻撃",
+    "desc": "NISTが運営するAIトロイの木馬攻撃研究文献の総覧"
+  },
+  "jivoi/awesome-ml-for-cybersecurity": {
+    "type": "awesome-list",
+    "field": "safety",
+    "subfield": "サイバーセキュリティML",
+    "desc": "マルウェア・侵入検知等にMLを使うツール・論文・教材の定番リスト"
+  },
+  "Billy1900/Awesome-AI-for-cybersecurity": {
+    "type": "awesome-list",
+    "field": "safety",
+    "subfield": "サイバーセキュリティAI",
+    "desc": "ネットワーク侵入検知・アンチマルウェア・WAF・不正対策を網羅したAIリスト"
+  },
+  "and-mill/Awesome-GenAI-Watermarking": {
+    "type": "awesome-list",
+    "field": "safety",
+    "subfield": "生成AI電子透かし",
+    "desc": "生成AIモデル向け電子透かし手法を画像・音声・テキスト別に整理(活発)"
+  },
+  "TracyCuiq/Learning-Deep-Hiding": {
+    "type": "paper-list",
+    "field": "safety",
+    "subfield": "深層情報秘匿",
+    "desc": "画像ステガノグラフィと電子透かしを含む「deep hiding」論文を体系整理"
+  },
+  "AI4Risk/awesome-fraud-detection": {
+    "type": "paper-list",
+    "field": "safety",
+    "subfield": "金融不正検知",
+    "desc": "GNNによる金融不正検知のサーベイ付き論文・コード集(活発)"
+  },
+  "benedekrozemberczki/awesome-fraud-detection-papers": {
+    "type": "paper-list",
+    "field": "safety",
+    "subfield": "不正検知",
+    "desc": "ICDM/KDD/SDM等の不正検知データマイニング論文の定番リスト"
+  },
+  "stratosphereips/awesome-ml-privacy-attacks": {
+    "type": "awesome-list",
+    "field": "safety",
+    "subfield": "MLプライバシー攻撃",
+    "desc": "メンバーシップ推論・モデル反転・属性推論・モデル抽出を網羅した論文リスト"
+  },
+  "AndrewZhou924/Awesome-model-inversion-attack": {
+    "type": "paper-list",
+    "field": "safety",
+    "subfield": "モデル反転攻撃",
+    "desc": "モデル反転攻撃サーベイの公式リスト。CV/グラフ/NLP別に整理"
+  },
+  "HongshengHu/membership-inference-machine-learning-literature": {
+    "type": "paper-list",
+    "field": "safety",
+    "subfield": "メンバーシップ推論",
+    "desc": "メンバーシップ推論攻撃に特化した文献集"
+  },
+  "ch-shin/awesome-data-poisoning": {
+    "type": "awesome-list",
+    "field": "safety",
+    "subfield": "データポイズニング",
+    "desc": "トップ会議のデータポイズニング攻撃・防御論文集"
+  },
+  "yueliu1999/Awesome-Jailbreak-on-LLMs": {
+    "type": "paper-list",
+    "field": "safety",
+    "subfield": "LLMジェイルブレイク",
+    "desc": "LLMジェイルブレイク手法の論文・コード・データセット・評価集(非常に活発)"
+  },
+  "tldrsec/prompt-injection-defenses": {
+    "type": "awesome-list",
+    "field": "safety",
+    "subfield": "プロンプトインジェクション防御",
+    "desc": "プロンプトインジェクションに対する実用・提案済み防御策を網羅"
+  },
+  "tamlhp/awesome-machine-unlearning": {
+    "type": "awesome-list",
+    "field": "safety",
+    "subfield": "機械アンラーニング",
+    "desc": "機械unラーニングのサーベイ公式リスト。手法・データセット・評価指標を網羅"
+  },
+  "chrisliu298/awesome-llm-unlearning": {
+    "type": "paper-list",
+    "field": "safety",
+    "subfield": "LLMアンラーニング",
+    "desc": "LLMの機械unラーニング論文・サーベイ・ベンチマーク集"
+  },
+  "franciscoliu/Awesome-GenAI-Unlearning": {
+    "type": "paper-list",
+    "field": "safety",
+    "subfield": "生成AIアンラーニング",
+    "desc": "生成AIのunラーニング論文をモダリティ・用途別に整理"
+  },
+  "Libr-AI/OpenRedTeaming": {
+    "type": "paper-list",
+    "field": "safety",
+    "subfield": "LLMレッドチーミング",
+    "desc": "LLM/マルチモーダルのレッドチーミング論文集(30+手法実装)"
+  },
+  "minbeomkim/Constitutional-AI-awesome-papers": {
+    "type": "paper-list",
+    "field": "safety",
+    "subfield": "Constitutional AI",
+    "desc": "Constitutional AI/倫理指針下のAIに関する論文リスト"
+  },
+  "datamllab/awesome-fairness-in-ai": {
+    "type": "awesome-list",
+    "field": "safety",
+    "subfield": "ML公平性",
+    "desc": "AIにおける公平性リソースの厳選集"
+  },
+  "brandeis-machine-learning/awesome-ml-fairness": {
+    "type": "paper-list",
+    "field": "safety",
+    "subfield": "ML公平性",
+    "desc": "機械学習の公平性に関する論文・リソース集"
+  },
+  "materials-data-facility/awesome-bayesian-optimization": {
+    "type": "awesome-list",
+    "field": "theory",
+    "subfield": "ベイズ最適化",
+    "desc": "材料科学・化学向けベイズ最適化のソフト/論文/チュートリアル集"
+  },
+  "hibayesian/awesome-automl-papers": {
+    "type": "paper-list",
+    "field": "theory",
+    "subfield": "AutoML/HPO",
+    "desc": "AutoML論文・記事・チュートリアル・プロジェクトの定番大規模リスト"
+  },
+  "Alro10/awesome-deep-neuroevolution": {
+    "type": "awesome-list",
+    "field": "theory",
+    "subfield": "神経進化",
+    "desc": "深層学習に進化計算を適用するDeep Neuroevolutionのリソース集"
+  },
+  "Thinklab-SJTU/awesome-ml4co": {
+    "type": "paper-list",
+    "field": "theory",
+    "subfield": "組合せ最適化×ML",
+    "desc": "組合せ最適化への機械学習適用論文を36分野超で網羅(活発)"
+  },
+  "VITA-Group/Open-L2O": {
+    "type": "paper-list",
+    "field": "theory",
+    "subfield": "Learning to Optimize",
+    "desc": "L2O手法の初の包括的ベンチマーク兼論文整理リポジトリ"
+  },
+  "gigwegbe/tinyml-papers-and-projects": {
+    "type": "paper-list",
+    "field": "eff",
+    "subfield": "TinyML",
+    "desc": "TinyMLの論文・プロジェクト集(活発に更新)"
+  },
+  "Bisonai/awesome-edge-machine-learning": {
+    "type": "awesome-list",
+    "field": "eff",
+    "subfield": "エッジML",
+    "desc": "エッジ機械学習の論文・推論エンジン・課題・書籍を網羅"
+  },
+  "csarron/awesome-emdl": {
+    "type": "awesome-list",
+    "field": "eff",
+    "subfield": "組込み/モバイルDL",
+    "desc": "組込み・モバイル深層学習の論文/ライブラリ/ツール集"
+  },
+  "jeho-lee/Awesome-On-Device-AI-Systems": {
+    "type": "awesome-list",
+    "field": "eff",
+    "subfield": "オンデバイスAIシステム",
+    "desc": "オンデバイスAIシステム(推論エンジン/ベンチ/論文)、活発"
+  },
+  "samuelrince/awesome-green-ai": {
+    "type": "awesome-list",
+    "field": "eff",
+    "subfield": "Green AI",
+    "desc": "AIの環境影響を評価・削減するGreen AIツール/論文の定番リスト"
+  },
+  "IAAR-Shanghai/CTGSurvey": {
+    "type": "survey",
+    "field": "nlp",
+    "subfield": "制御テキスト生成",
+    "desc": "LLM向け制御テキスト生成のサーベイ論文リスト(学習時/推論時手法を分類)"
+  },
+  "fuzhenxin/Style-Transfer-in-Text": {
+    "type": "paper-list",
+    "field": "nlp",
+    "subfield": "テキストスタイル変換",
+    "desc": "テキストスタイル変換の定番論文リスト(教師あり/なし/評価を分類)"
+  },
+  "SuperBruceJia/Awesome-Text-Generation-Evaluation": {
+    "type": "awesome-list",
+    "field": "nlp",
+    "subfield": "NLG評価",
+    "desc": "NLG評価指標(参照あり/なし)のキュレーションリスト"
+  },
+  "accelerated-text/awesome-nlg": {
+    "type": "awesome-list",
+    "field": "nlp",
+    "subfield": "NLG全般",
+    "desc": "NLG全般のリソース集(ツール/論文/データ)"
+  },
+  "liang8qi/Data-to-Text-Generation": {
+    "type": "paper-list",
+    "field": "nlp",
+    "subfield": "Data-to-text",
+    "desc": "data-to-text生成の論文・データセット集"
+  },
+  "ThreeSR/Awesome-Inference-Time-Scaling": {
+    "type": "awesome-list",
+    "field": "nlp",
+    "subfield": "推論時スケーリング",
+    "desc": "推論時/テスト時スケーリングの論文リスト(活発)"
+  },
+  "Dereck0602/Awesome_Test_Time_LLMs": {
+    "type": "awesome-list",
+    "field": "nlp",
+    "subfield": "テスト時計算",
+    "desc": "テスト時LLM(self-correction/refine含む)論文集"
+  },
+  "Eclipsess/Awesome-Efficient-Reasoning-LLMs": {
+    "type": "survey",
+    "field": "nlp",
+    "subfield": "効率的推論",
+    "desc": "「Stop Overthinking」効率的推論サーベイ(TMLR2025)の論文集"
+  },
+  "atfortes/Awesome-LLM-Reasoning": {
+    "type": "awesome-list",
+    "field": "nlp",
+    "subfield": "LLM推論",
+    "desc": "CoTからo1/DeepSeek-R1までのLLM推論論文集(非常に活発)"
+  },
+  "ryokamoi/llm-self-correction-papers": {
+    "type": "paper-list",
+    "field": "nlp",
+    "subfield": "自己修正",
+    "desc": "LLM自己修正の論文リスト(サーベイ準拠)"
+  },
+  "InfiMM/Awesome-Multimodal-LLM-for-Math-STEM": {
+    "type": "awesome-list",
+    "field": "mm",
+    "subfield": "マルチモーダル数学推論",
+    "desc": "Math/STEM/Code向けマルチモーダルLLMの論文集"
+  },
+  "kyegomez/awesome-multi-agent-papers": {
+    "type": "awesome-list",
+    "field": "agent",
+    "subfield": "マルチエージェント",
+    "desc": "マルチエージェント論文のキュレーション集(Swarms team)"
+  },
+  "shizhl/Multi-Agent-Papers": {
+    "type": "paper-list",
+    "field": "agent",
+    "subfield": "マルチエージェント",
+    "desc": "複雑タスク向けマルチエージェント協調の必読論文集"
+  },
+  "gozsari/Awesome-GNN-based-drug-discovery": {
+    "type": "awesome-list",
+    "field": "gnn",
+    "subfield": "創薬GNN",
+    "desc": "GNNによる創薬(論文・データセット・ツール)の厳選リスト"
+  },
+  "junxia97/awesome-pretrain-on-molecules": {
+    "type": "survey",
+    "field": "gnn",
+    "subfield": "分子事前学習",
+    "desc": "化学事前学習モデル(IJCAI 2023 survey)の論文リスト"
+  },
+  "benb111/awesome-small-molecule-ml": {
+    "type": "awesome-list",
+    "field": "gnn",
+    "subfield": "低分子創薬ML",
+    "desc": "低分子創薬向け機械学習リソースの厳選集"
+  },
+  "yuanqidu/awesome-graph-generation": {
+    "type": "paper-list",
+    "field": "gnn",
+    "subfield": "グラフ生成",
+    "desc": "グラフ・分子生成の論文を網羅した最新リスト"
+  },
+  "amorehead/awesome-molecular-generation": {
+    "type": "paper-list",
+    "field": "gnn",
+    "subfield": "分子生成",
+    "desc": "生成的な分子モデリング・設計の論文集"
+  },
+  "AzureLeon1/awesome-molecular-diffusion-models": {
+    "type": "paper-list",
+    "field": "gnn",
+    "subfield": "分子拡散モデル",
+    "desc": "分子拡散モデル関連論文の厳選リスト(活発)"
+  },
+  "PolarisRisingWar/HGNN_Collection": {
+    "type": "paper-list",
+    "field": "gnn",
+    "subfield": "異種グラフNN",
+    "desc": "異種グラフNNのデータセット・アルゴリズム集"
+  },
+  "jwwthu/GNN4Traffic": {
+    "type": "paper-list",
+    "field": "gnn",
+    "subfield": "交通予測GNN",
+    "desc": "交通予測向けGNN論文・コードの大規模コレクション"
+  },
+  "KimMeen/Awesome-GNN4TS": {
+    "type": "survey",
+    "field": "gnn",
+    "subfield": "時系列GNN",
+    "desc": "時系列解析向けGNN(TPAMI 2024)のリソース集"
+  },
+  "yyysjz1997/Awesome-TimeSeries-SpatioTemporal-Diffusion-Model": {
+    "type": "survey",
+    "field": "gnn",
+    "subfield": "時空間拡散モデル",
+    "desc": "時系列・時空間データ向け拡散モデルのサーベイ＆論文集(活発)"
+  },
+  "LirongWu/awesome-graph-self-supervised-learning": {
+    "type": "survey",
+    "field": "gnn",
+    "subfield": "グラフ自己教師あり",
+    "desc": "TKDE論文(対照/生成/予測型)の付随リスト"
+  },
+  "THUMNLab/awesome-graph-ood": {
+    "type": "paper-list",
+    "field": "gnn",
+    "subfield": "グラフOOD",
+    "desc": "グラフのOOD汎化に関する論文集"
+  },
+  "kaize0409/Awesome-Graph-OOD": {
+    "type": "paper-list",
+    "field": "gnn",
+    "subfield": "グラフOOD",
+    "desc": "グラフOOD(汎化・訓練時/テスト時適応)の論文リスト"
+  },
+  "gzcsudo/Awesome-Hypergraph-Network": {
+    "type": "awesome-list",
+    "field": "gnn",
+    "subfield": "ハイパーグラフ",
+    "desc": "ハイパーグラフ学習・理論・データ・ツールの厳選集"
+  },
+  "chihming/awesome-network-embedding": {
+    "type": "awesome-list",
+    "field": "gnn",
+    "subfield": "ネットワーク埋め込み",
+    "desc": "ネットワーク埋め込み手法の定番厳選リスト"
+  },
+  "benedekrozemberczki/awesome-graph-classification": {
+    "type": "paper-list",
+    "field": "gnn",
+    "subfield": "グラフ分類/埋め込み",
+    "desc": "グラフ埋め込み・分類・表現学習の重要論文集(実装付)"
+  },
+  "Radical3-HeZhang/Awesome-Trustworthy-GNNs": {
+    "type": "survey",
+    "field": "gnn",
+    "subfield": "信頼できるGNN",
+    "desc": "信頼できるGNN(プライバシ/頑健性/公平性/説明性)サーベイ(Proc. IEEE 2024)"
+  },
+  "mala-lab/Awesome-Deep-Graph-Anomaly-Detection": {
+    "type": "survey",
+    "field": "gnn",
+    "subfield": "グラフ異常検知",
+    "desc": "2025年TKDEサーベイ公式リポジトリ。GNNベースのグラフ異常検知論文・データセット"
+  },
+  "XiaoxiaoMa-MQ/Awesome-Deep-Graph-Anomaly-Detection": {
+    "type": "awesome-list",
+    "field": "gnn",
+    "subfield": "グラフ異常検知",
+    "desc": "深層学習によるグラフ異常検知の論文・データセット・実装集"
+  },
+  "safe-graph/graph-fraud-detection-papers": {
+    "type": "paper-list",
+    "field": "gnn",
+    "subfield": "グラフ不正検知",
+    "desc": "グラフ/Transformerベースの不正・異常・外れ値検知論文集"
+  },
+  "EdisonLeeeee/Awesome-Fair-Graph-Learning": {
+    "type": "paper-list",
+    "field": "gnn",
+    "subfield": "公平なグラフ学習",
+    "desc": "公平なグラフ学習(FairGL)の論文リスト"
+  },
+  "WenjieDu/Awesome_Imputation": {
+    "type": "survey",
+    "field": "ts",
+    "subfield": "時系列補完",
+    "desc": "時系列の欠損値補完(imputation)の論文・手法を集めたサーベイリポジトリ"
+  },
+  "XiaomingX/awesome-qwen-prompt-insight": {
+    "type": "model-collection",
+    "field": "model",
+    "subfield": "Qwen",
+    "desc": "Qwen向け優良プロンプトの大規模コレクション"
+  },
+  "langgptai/awesome-llama-prompts": {
+    "type": "model-collection",
+    "field": "model",
+    "subfield": "Llama",
+    "desc": "Llama2/Llama3向けプロンプト集"
+  },
+  "langgptai/awesome-grok-prompts": {
+    "type": "model-collection",
+    "field": "model",
+    "subfield": "Grok",
+    "desc": "Grok(xAI)向け高度プロンプト・テンプレート集"
+  },
+  "ai-boost/Awesome-GPTs": {
+    "type": "model-collection",
+    "field": "model",
+    "subfield": "GPT Store",
+    "desc": "GPT Store掲載のGPTを集めたキュレーション"
+  },
+  "leeguandong/Awesome-Chinese-Stable-Diffusion": {
+    "type": "model-collection",
+    "field": "model",
+    "subfield": "中文SD/Kolors/Hunyuan",
+    "desc": "中国系文生図SDモデル集(Kolors/HunyuanDiT等含む)"
+  },
+  "songguoxs/awesome-video-prompts": {
+    "type": "model-collection",
+    "field": "model",
+    "subfield": "Veo3/Kling/Hailuo",
+    "desc": "Veo3/Kling/Hailuo向け動画プロンプト集"
+  },
+  "YouMind-OpenLab/awesome-seedance-2-prompts": {
+    "type": "model-collection",
+    "field": "model",
+    "subfield": "Seedance 2.0",
+    "desc": "Seedance 2.0動画生成プロンプト2000+(毎日更新)"
+  },
+  "geekjourneyx/awesome-ai-video-prompts": {
+    "type": "model-collection",
+    "field": "model",
+    "subfield": "Veo/Sora/Kling/Runway",
+    "desc": "複数動画モデル横断のプロンプト/技法集"
+  },
+  "YouMind-OpenLab/awesome-nano-banana-pro-prompts": {
+    "type": "model-collection",
+    "field": "model",
+    "subfield": "Nano Banana Pro",
+    "desc": "世界最大級のNano Banana Proプロンプト集10,000+/16言語(毎日更新)"
+  },
+  "muset-ai/awesome-nano-banana-pro": {
+    "type": "model-collection",
+    "field": "model",
+    "subfield": "Nano Banana Pro",
+    "desc": "Nano Banana Proの画像・プロンプト作例集"
+  },
+  "jamez-bondos/awesome-gpt4o-images": {
+    "type": "model-collection",
+    "field": "model",
+    "subfield": "GPT-4o/gpt-image-1",
+    "desc": "GPT-4o・gpt-image-1の画像・プロンプト作例集"
+  },
+  "YouMind-OpenLab/awesome-grok-imagine-prompts": {
+    "type": "model-collection",
+    "field": "model",
+    "subfield": "Grok Imagine",
+    "desc": "Grok Imagine(xAI)動画生成プロンプト集"
+  },
+  "deepseek-ai/awesome-deepseek-integration": {
+    "type": "model-collection",
+    "field": "tools",
+    "subfield": "DeepSeek",
+    "desc": "DeepSeek APIを各種ソフトに統合する公式キュレーション"
+  },
+  "deepseek-ai/awesome-deepseek-coder": {
+    "type": "model-collection",
+    "field": "tools",
+    "subfield": "DeepSeek Coder",
+    "desc": "DeepSeek Coder関連のOSSプロジェクトをまとめた公式リスト"
+  },
+  "webfuse-com/awesome-claude": {
+    "type": "awesome-list",
+    "field": "tools",
+    "subfield": "Claude",
+    "desc": "Anthropic Claude全般のキュレーションリスト"
+  },
+  "hesreallyhim/awesome-claude-code": {
+    "type": "awesome-list",
+    "field": "tools",
+    "subfield": "Claude Code",
+    "desc": "Claude Code向けskill/hook/slash-command/プラグイン集"
+  },
+  "ComposioHQ/awesome-claude-skills": {
+    "type": "awesome-list",
+    "field": "tools",
+    "subfield": "Claude Skills",
+    "desc": "Claude Skill/ツールのキュレーション"
+  },
+  "Piebald-AI/awesome-gemini-cli": {
+    "type": "awesome-list",
+    "field": "tools",
+    "subfield": "Gemini CLI",
+    "desc": "Gemini CLI向けツール/拡張/リソース集"
+  },
+  "samouraiworld/awesome-mistral": {
+    "type": "awesome-list",
+    "field": "tools",
+    "subfield": "Mistral AI",
+    "desc": "Mistral AIエコシステムのリソース/ツール/プロジェクト集"
+  },
+  "formulahendry/awesome-gpt": {
+    "type": "awesome-list",
+    "field": "tools",
+    "subfield": "GPT/ChatGPT",
+    "desc": "GPT/ChatGPT/OpenAI関連プロジェクト・リソース集"
+  },
+  "sindresorhus/awesome-chatgpt": {
+    "type": "awesome-list",
+    "field": "tools",
+    "subfield": "ChatGPT",
+    "desc": "ChatGPT向けawesomeリスト(sindresorhus系列)"
+  },
+  "eon01/awesome-chatgpt": {
+    "type": "awesome-list",
+    "field": "tools",
+    "subfield": "ChatGPT",
+    "desc": "ChatGPTのライブラリ/SDK/APIキュレーション"
+  },
+  "ComfyUI-Workflow/awesome-comfyui": {
+    "type": "awesome-list",
+    "field": "tools",
+    "subfield": "ComfyUI",
+    "desc": "ComfyUIカスタムノードの大規模コレクション"
+  },
+  "doanbactam/awesome-stable-diffusion": {
+    "type": "awesome-list",
+    "field": "tools",
+    "subfield": "Stable Diffusion",
+    "desc": "Stable Diffusionリソースのキュレーション"
+  },
+  "AINativeLab/awesome-flux-ai": {
+    "type": "awesome-list",
+    "field": "tools",
+    "subfield": "FLUX",
+    "desc": "Flux AIのツール/ライブラリ/アプリ網羅"
+  },
+  "Shubhamsaboo/awesome-llm-apps": {
+    "type": "awesome-list",
+    "field": "tools",
+    "subfield": "LLMアプリ/RAG/Agent",
+    "desc": "実行可能なLLMアプリ/RAG/エージェントのコレクション"
+  },
+  "punkpeye/awesome-mcp-servers": {
+    "type": "awesome-list",
+    "field": "tools",
+    "subfield": "MCP",
+    "desc": "最大手のMCP(Model Context Protocol)サーバーコレクション"
+  },
+  "appcypher/awesome-mcp-servers": {
+    "type": "awesome-list",
+    "field": "tools",
+    "subfield": "MCP",
+    "desc": "MCPサーバーのキュレーション"
+  },
+  "Danielskry/Awesome-RAG": {
+    "type": "awesome-list",
+    "field": "tools",
+    "subfield": "RAGアプリ",
+    "desc": "生成AIにおけるRAGアプリのawesomeリスト"
+  },
+  "tensorchord/Awesome-LLMOps": {
+    "type": "awesome-list",
+    "field": "tools",
+    "subfield": "LLMOps",
+    "desc": "LLM開発・運用向けツール(学習/サービング/監視)の厳選リスト"
+  },
+  "EthicalML/awesome-artificial-intelligence-regulation": {
+    "type": "awesome-list",
+    "field": "ethics",
+    "subfield": "AI規制/政策",
+    "desc": "各国のAI規制・ガイドライン・倫理規範・標準を地域別に網羅"
+  },
+  "AthenaCore/AwesomeResponsibleAI": {
+    "type": "awesome-list",
+    "field": "ethics",
+    "subfield": "責任あるAI",
+    "desc": "責任あるAIの研究・書籍・規制・成熟度モデル・ツールを17分野で集約"
+  },
+  "bwang514/awesome-HAI": {
+    "type": "awesome-list",
+    "field": "ethics",
+    "subfield": "Human-AI Interaction",
+    "desc": "HCI視点での人間とAIのインタラクション設計に関する学術資料集"
+  },
+  "zhijing-jin/NLP4SocialGood_Papers": {
+    "type": "paper-list",
+    "field": "ethics",
+    "subfield": "NLP for Social Good",
+    "desc": "社会善のためのNLP論文の読解リスト(救命・QoL・公平性等)"
+  },
+  "gesiscss/awesome-computational-social-science": {
+    "type": "awesome-list",
+    "field": "ethics",
+    "subfield": "計算社会科学",
+    "desc": "計算社会科学の書籍・講座・OSS資源の網羅リスト(GESIS運営)"
+  },
+  "ValueByte-AI/Awesome-LLM-in-Social-Science": {
+    "type": "paper-list",
+    "field": "ethics",
+    "subfield": "LLM×社会科学",
+    "desc": "社会科学にLLMを応用する論文集"
+  },
+  "ValueByte-AI/Awesome-LLM-Psychometrics": {
+    "type": "survey",
+    "field": "ethics",
+    "subfield": "LLM心理測定",
+    "desc": "LLMの人格・価値観・心の理論・認知能力を心理測定の観点で扱う論文集"
+  },
+  "wq2012/awesome-diarization": {
+    "type": "awesome-list",
+    "field": "speech",
+    "subfield": "話者ダイアライゼーション",
+    "desc": "話者ダイアライゼーションの論文・ライブラリ・データセット・評価ツールを網羅した定番リスト"
+  },
+  "DongKeon/Awesome-Speaker-Diarization": {
+    "type": "paper-list",
+    "field": "speech",
+    "subfield": "話者ダイアライゼーション",
+    "desc": "End-to-End/クラスタリング/マルチモーダル等を体系化した論文集(活発)"
+  },
+  "zycv/awesome-keyword-spotting": {
+    "type": "awesome-list",
+    "field": "speech",
+    "subfield": "キーワードスポッティング",
+    "desc": "音声キーワード検出/ウェイクワード検出の論文・実装・データセット集"
+  },
+  "bigcash/awesome-vad": {
+    "type": "awesome-list",
+    "field": "speech",
+    "subfield": "音声区間検出(VAD)",
+    "desc": "VADの実装・ツール・研究を集めたリスト"
+  },
+  "tstanislawek/awesome-document-understanding": {
+    "type": "awesome-list",
+    "field": "mm",
+    "subfield": "文書理解",
+    "desc": "KIE・レイアウト解析・DocQA・OCR等を網羅した定番リスト"
+  },
+  "khuangaf/Awesome-Chart-Understanding": {
+    "type": "survey",
+    "field": "mm",
+    "subfield": "チャート理解",
+    "desc": "IEEE TKDEサーベイ準拠のチャート理解(QA/captioning/fact-checking)論文集"
+  },
+  "MathamPollard/awesome-table-structure-recognition": {
+    "type": "awesome-list",
+    "field": "mm",
+    "subfield": "表構造認識",
+    "desc": "表構造認識(TSR)のモデル・論文・データセット・コード集"
+  },
+  "cv-small-snails/Awesome-Table-Recognition": {
+    "type": "awesome-list",
+    "field": "mm",
+    "subfield": "表認識",
+    "desc": "表認識の論文・データセット・コンペ解法を整理"
+  },
+  "harrytea/Awesome-Document-Understanding": {
+    "type": "paper-list",
+    "field": "mm",
+    "subfield": "マルチモーダル文書理解",
+    "desc": "MLLM/OCR-free等のマルチモーダル文書AI論文・コード・データセット集"
+  },
+  "danieljf24/awesome-video-text-retrieval": {
+    "type": "awesome-list",
+    "field": "mm",
+    "subfield": "動画テキスト検索",
+    "desc": "動画テキスト検索の深層学習リソース集"
+  },
+  "Paranioar/Awesome_Matching_Pretraining_Transfering": {
+    "type": "paper-list",
+    "field": "mm",
+    "subfield": "画像テキストマッチング",
+    "desc": "画像テキストマッチング・VL事前学習・マルチモーダルモデルの大規模論文リスト"
+  },
+  "kkzhang95/Awesome-Composed-Multi-modal-Retrieval": {
+    "type": "survey",
+    "field": "mm",
+    "subfield": "合成マルチモーダル検索",
+    "desc": "合成画像検索(CIR)・合成動画検索(CVR)を含むCMRサーベイ"
+  },
+  "mll-lab-nu/Awesome-Spatial-Intelligence-in-VLM": {
+    "type": "paper-list",
+    "field": "mm",
+    "subfield": "空間知能(VLM)",
+    "desc": "VLMの空間推論に関する論文・ベンチマーク約200本(非常に活発)"
+  },
+  "ActiveVisionLab/Awesome-LLM-3D": {
+    "type": "awesome-list",
+    "field": "mm",
+    "subfield": "3D-LLM",
+    "desc": "3D世界における多モーダルLLM資源の網羅リスト"
+  },
+  "AIDC-AI/Awesome-Unified-Multimodal-Models": {
+    "type": "survey",
+    "field": "mm",
+    "subfield": "統合マルチモーダル",
+    "desc": "理解と生成を統合する多モーダルモデルの網羅集(活発)"
+  },
+  "JarvisUSTC/Awesome-Multimodal-RAG": {
+    "type": "paper-list",
+    "field": "mm",
+    "subfield": "マルチモーダルRAG",
+    "desc": "テキスト/画像/動画/音声を跨ぐマルチモーダルRAGの論文・ツール集"
+  },
+  "Tangkfan/Awesome-Temporal-Video-Grounding": {
+    "type": "paper-list",
+    "field": "cv",
+    "subfield": "動画時間的グラウンディング",
+    "desc": "VMR/TVG/TSGVの論文リスト"
+  },
+  "ki-lw/Awesome-MLLMs-for-Video-Temporal-Grounding": {
+    "type": "paper-list",
+    "field": "cv",
+    "subfield": "動画時間的グラウンディング",
+    "desc": "MLLMを用いた動画時間的グラウンディング(VTG-LLM)の最新論文・コード・データ集"
+  },
+  "Huntersxsx/TSGV-Learning-List": {
+    "type": "paper-list",
+    "field": "cv",
+    "subfield": "時間文グラウンディング",
+    "desc": "TSGV/NLVL/VMRの関連研究まとめ"
+  },
+  "Guang000/Awesome-Dataset-Distillation": {
+    "type": "awesome-list",
+    "field": "mlops",
+    "subfield": "データセット蒸留",
+    "desc": "勾配/分布マッチング・生成手法・応用を網羅した定番リスト(非常に活発)"
+  },
+  "PatrickZH/Awesome-Coreset-Selection": {
+    "type": "awesome-list",
+    "field": "mlops",
+    "subfield": "コアセット選択",
+    "desc": "コアセット/サブセット選択・data pruningの論文集"
+  },
+  "SJTU-DMTai/awesome-ml-data-quality-papers": {
+    "type": "paper-list",
+    "field": "mlops",
+    "subfield": "データ品質/評価",
+    "desc": "データ評価・データ帰属・データ選定/プルーニング/コアセットを網羅"
+  },
+  "CYHSM/awesome-neuro-ai-papers": {
+    "type": "paper-list",
+    "field": "theory",
+    "subfield": "NeuroAI",
+    "desc": "深層学習と神経科学の交差領域の論文・レビュー集(活発)"
+  },
+  "RZFan525/Awesome-ScalingLaws": {
+    "type": "awesome-list",
+    "field": "theory",
+    "subfield": "スケーリング則",
+    "desc": "LLMのスケーリング則に特化した資源集"
+  },
+  "Furyton/awesome-language-model-analysis": {
+    "type": "paper-list",
+    "field": "theory",
+    "subfield": "言語モデル理論分析",
+    "desc": "言語モデルの理論・実証分析(創発能力・スケーリング則・ICL理論・grokking)"
+  },
+  "hurshd0/must-read-papers-for-ml": {
+    "type": "paper-list",
+    "field": "theory",
+    "subfield": "ML/DL必読論文",
+    "desc": "データサイエンス・ML/DLエンジニア向けの必読論文集(古典含む)"
+  },
+  "floodsung/Deep-Learning-Papers-Reading-Roadmap": {
+    "type": "paper-list",
+    "field": "ml",
+    "subfield": "DL研究ロードマップ",
+    "desc": "深層学習の主要論文を学習順に整理した古典的ロードマップ"
+  },
+  "itsqyh/Awesome-LMMs-Mechanistic-Interpretability": {
+    "type": "survey",
+    "field": "safety",
+    "subfield": "マルチモーダル機械的解釈性",
+    "desc": "大規模多モーダルモデルの内部表現を扱う機械的解釈性資源集(活発)"
+  },
+  "HCPLab-SYSU/Embodied_AI_Paper_List": {
+    "type": "survey",
+    "field": "robot",
+    "subfield": "身体性AI",
+    "desc": "身体性AIの知覚・相互作用・エージェント・sim-to-realを網羅(IEEE/ASME ToM 2025)"
+  },
+  "tsinghua-fib-lab/World-Model": {
+    "type": "survey",
+    "field": "rl",
+    "subfield": "世界モデル(包括)",
+    "desc": "世界モデルの包括的サーベイ(ACM CSUR 2025採録)"
+  },
+  "tsinghua-fib-lab/Awesome-Embodied-World-Model": {
+    "type": "survey",
+    "field": "rl",
+    "subfield": "身体性世界モデル",
+    "desc": "身体性エージェント向け世界モデルに特化した論文集"
+  },
+  "jiapuwang/Awesome-TKGC": {
+    "type": "paper-list",
+    "field": "gnn",
+    "subfield": "時系列KG補完",
+    "desc": "時系列知識グラフ補完(TKGC)の論文・資源を5段階分類で網羅"
+  },
+  "LIANGKE23/Awesome-Knowledge-Graph-Reasoning": {
+    "type": "paper-list",
+    "field": "gnn",
+    "subfield": "KG推論",
+    "desc": "知識グラフ推論の論文・コード・データセット集"
+  },
+  "RUCAIBox/CRSPapers": {
+    "type": "paper-list",
+    "field": "recsys",
+    "subfield": "対話型推薦",
+    "desc": "対話型推薦システム(CRS)の論文リスト"
+  },
+  "Thinklab-SJTU/awesome-ai4eda": {
+    "type": "paper-list",
+    "field": "app",
+    "subfield": "AI for EDA",
+    "desc": "電子設計自動化(EDA・チップ設計)へのAI応用論文集"
+  },
+  "Bigger-and-Stronger/direction-field-survey": {
+    "type": "survey",
+    "field": "cg",
+    "subfield": "direction field",
+    "desc": "方向場(direction field)に関する論文・プロジェクト・コードの継続更新サーベイ"
+  },
+  "Bigger-and-Stronger/offset-mesh-survey": {
+    "type": "survey",
+    "field": "cg",
+    "subfield": "offset mesh",
+    "desc": "オフセットメッシュ生成に関する論文・プロジェクト・コードの継続更新サーベイ"
+  },
+  "Bigger-and-Stronger/parameterization-survey": {
+    "type": "survey",
+    "field": "cg",
+    "subfield": "parameterization",
+    "desc": "メッシュパラメータ化に関する論文・プロジェクト・コードの継続更新サーベイ"
+  },
+  "Bigger-and-Stronger/awesome-brep-reconstruction": {
+    "type": "survey",
+    "field": "cg",
+    "subfield": "B-rep reconstruction",
+    "desc": "B-rep(境界表現)再構成の論文とOSSプロジェクト集。定期更新"
+  },
+  "Bigger-and-Stronger/awesome-3d-medial-axis": {
+    "type": "survey",
+    "field": "cg",
+    "subfield": "medial axis/skeleton",
+    "desc": "中心軸(medial axis)/スケルトンとその応用の論文・OSS集。定期更新"
+  },
+  "Bigger-and-Stronger/awesome-visualization": {
+    "type": "awesome-list",
+    "field": "cg",
+    "subfield": "data visualization",
+    "desc": "CG関連のデータ可視化手法・レンダリング事例を記録するリポジトリ"
+  },
+  "Bigger-and-Stronger/boundary-layer-generation-survey": {
+    "type": "survey",
+    "field": "cg",
+    "subfield": "boundary layer generation",
+    "desc": "境界層メッシュ生成に関する論文・プロジェクト・コードの継続更新サーベイ"
+  },
+  "amusi/CVPR2026-Papers-with-Code": {
+    "type": "paper-list",
+    "field": "cv",
+    "subfield": "会議論文(CVPR)",
+    "desc": "CVPR 2026の論文とオープンソースプロジェクトの大規模集約(定番)"
+  },
+  "amusi/ICCV2025-Papers-with-Code": {
+    "type": "paper-list",
+    "field": "cv",
+    "subfield": "会議論文(ICCV)",
+    "desc": "ICCV 2025の論文とオープンソースプロジェクト集"
+  },
+  "amusi/ECCV2024-Papers-with-Code": {
+    "type": "paper-list",
+    "field": "cv",
+    "subfield": "会議論文(ECCV)",
+    "desc": "ECCV 2024の論文とオープンソースプロジェクト集"
+  },
+  "amusi/awesome-lane-detection": {
+    "type": "paper-list",
+    "field": "ad",
+    "subfield": "車線検出",
+    "desc": "車線検出(lane detection)の論文リスト"
+  },
+  "amusi/awesome-ai-awesomeness": {
+    "type": "awesome-list",
+    "field": "ml",
+    "subfield": "awesome of awesome",
+    "desc": "AIに関するawesomeリストを集めた『awesomeのawesome』"
+  },
+  "jindongwang/activityrecognition": {
+    "type": "paper-list",
+    "field": "cv",
+    "subfield": "行動認識",
+    "desc": "行動認識(activity recognition)の資料・コード・データセット集"
+  },
+  "Vision-Intelligence-and-Robots-Group/awesome-micro-expression-recognition": {
+    "type": "paper-list",
+    "field": "cv",
+    "subfield": "微表情認識",
+    "desc": "微表情(micro-expression)認識・検出・スポッティングの論文集"
+  },
+  "DmitryRyumin/WACV-2024-Papers": {
+    "type": "paper-list",
+    "field": "cv",
+    "subfield": "会議論文(WACV)",
+    "desc": "WACV 2024の論文を体系的に整理したコレクション"
+  },
+  "thunlp/GNNPapers": {
+    "type": "paper-list",
+    "field": "gnn",
+    "subfield": "GNN必読論文",
+    "desc": "グラフニューラルネットワーク(GNN)の必読論文集(定番)"
+  },
+  "zjunlp/PromptKG": {
+    "type": "paper-list",
+    "field": "gnn",
+    "subfield": "プロンプト×KG",
+    "desc": "プロンプト学習・知識グラフ関連の研究・ツール・論文ギャラリー"
+  },
+  "zjunlp/Generative_KG_Construction_Papers": {
+    "type": "survey",
+    "field": "gnn",
+    "subfield": "生成的KG構築",
+    "desc": "生成的知識グラフ構築のレビュー(EMNLP 2022)の論文集"
+  },
+  "thunlp/PromptPapers": {
+    "type": "paper-list",
+    "field": "nlp",
+    "subfield": "プロンプトチューニング",
+    "desc": "事前学習モデルのプロンプトベースチューニングの必読論文集"
+  },
+  "thunlp/ToolLearningPapers": {
+    "type": "paper-list",
+    "field": "nlp",
+    "subfield": "tool learning",
+    "desc": "基盤モデルのツール学習(tool learning)の必読論文集"
+  },
+  "thunlp/DeltaPapers": {
+    "type": "paper-list",
+    "field": "nlp",
+    "subfield": "PEFT/Delta Tuning",
+    "desc": "事前学習モデルのパラメータ効率チューニング(Delta Tuning)の必読論文集"
+  },
+  "NiuTrans/CNSurvey": {
+    "type": "survey",
+    "field": "nlp",
+    "subfield": "中文サーベイ集",
+    "desc": "NLP・機械学習の中国語サーベイ文章リスト"
+  },
+  "NiuTrans/ABigSurveyOfLLMs": {
+    "type": "survey",
+    "field": "nlp",
+    "subfield": "LLMサーベイ集",
+    "desc": "LLMに関する150本以上のサーベイを集めたコレクション"
+  },
+  "AGI-Edgerunners/LLM-Optimizers-Papers": {
+    "type": "paper-list",
+    "field": "nlp",
+    "subfield": "LLMオプティマイザ",
+    "desc": "LLMを最適化器として使う/プロンプト自動最適化の必読論文集"
+  },
+  "luo-junyu/Awesome-Data-Efficient-LLM": {
+    "type": "survey",
+    "field": "nlp",
+    "subfield": "データ効率LLM",
+    "desc": "データ効率・データ中心のLLM論文集(サーベイ付き)"
+  },
+  "marlin-codes/awesome-lora-adapter": {
+    "type": "paper-list",
+    "field": "nlp",
+    "subfield": "LoRA/adapter",
+    "desc": "LoRA・アダプタ系の手法を集めた論文リスト"
+  },
+  "DmitryRyumin/EMNLP-2023-Papers": {
+    "type": "paper-list",
+    "field": "nlp",
+    "subfield": "会議論文(EMNLP)",
+    "desc": "EMNLP 2023の論文を体系的に整理したコレクション"
+  },
+  "tjunlp-lab/awesome-NLP-Machine-Learning": {
+    "type": "paper-list",
+    "field": "nlp",
+    "subfield": "NLP×ML技法",
+    "desc": "NLP研究向けの機械学習技法(RL/自己教師あり等)の論文・コード集"
+  },
+  "zjunlp/LLMAgentPapers": {
+    "type": "paper-list",
+    "field": "agent",
+    "subfield": "LLMエージェント",
+    "desc": "LLMエージェントの必読論文集"
+  },
+  "AGI-Edgerunners/LLM-Planning-Papers": {
+    "type": "paper-list",
+    "field": "agent",
+    "subfield": "LLMプランニング",
+    "desc": "LLMのプランニング(planning)に関する必読論文集"
+  },
+  "opendilab/awesome-ui-agents": {
+    "type": "awesome-list",
+    "field": "agent",
+    "subfield": "UIエージェント",
+    "desc": "Web/App/OSを横断するUIエージェント資源の継続更新リスト"
+  },
+  "DEEP-PolyU/Awesome-GraphMemory": {
+    "type": "survey",
+    "field": "agent",
+    "subfield": "グラフエージェント記憶",
+    "desc": "グラフベースのエージェント記憶のサーベイ・論文・ベンチマーク集"
+  },
+  "qingsongedu/time-series-transformers-review": {
+    "type": "survey",
+    "field": "ts",
+    "subfield": "時系列Transformer",
+    "desc": "時系列向けTransformerのリソース(論文・コード・データ)を専門的にまとめたレビュー"
+  },
+  "opendilab/awesome-diffusion-model-in-rl": {
+    "type": "awesome-list",
+    "field": "rl",
+    "subfield": "RL拡散モデル",
+    "desc": "強化学習における拡散モデルの資源を継続更新するリスト"
+  },
+  "opendilab/awesome-decision-transformer": {
+    "type": "awesome-list",
+    "field": "rl",
+    "subfield": "Decision Transformer",
+    "desc": "Decision Transformer資源の継続更新リスト"
+  },
+  "weihaox/awesome-image-translation": {
+    "type": "awesome-list",
+    "field": "genai",
+    "subfield": "画像間変換",
+    "desc": "image-to-image translationに関する優良資源のコレクション"
+  },
+  "weihaox/GAN-Inversion": {
+    "type": "survey",
+    "field": "genai",
+    "subfield": "GAN Inversion",
+    "desc": "GAN Inversionのサーベイ(TPAMI 2022)付随リポジトリ"
+  },
+  "subeeshvasu/Awsome-GAN-Training": {
+    "type": "awesome-list",
+    "field": "genai",
+    "subfield": "GAN学習",
+    "desc": "GANの学習(training)に関する資源を集めたリスト"
+  },
+  "showlab/Awesome-MLLM-Hallucination": {
+    "type": "awesome-list",
+    "field": "mm",
+    "subfield": "MLLM幻覚",
+    "desc": "マルチモーダルLLMの幻覚(hallucination)に関する資源の厳選リスト"
+  },
+  "Event-AHU/Prompt_Learning_Paper_List": {
+    "type": "paper-list",
+    "field": "mm",
+    "subfield": "プロンプト学習",
+    "desc": "(視覚言語)プロンプト学習の論文リスト"
+  },
+  "showlab/Awesome-Robotics-Diffusion": {
+    "type": "paper-list",
+    "field": "robot",
+    "subfield": "ロボティクス拡散",
+    "desc": "ロボット学習に拡散モデルを取り入れた最新論文の厳選リスト"
+  },
+  "KwanWaiPang/Awesome-VLN": {
+    "type": "survey",
+    "field": "robot",
+    "subfield": "視覚言語ナビゲーション",
+    "desc": "視覚言語ナビゲーション(VLN)のサーベイ用論文集"
+  },
+  "KwanWaiPang/Awesome-VLA": {
+    "type": "survey",
+    "field": "robot",
+    "subfield": "VLA",
+    "desc": "Vision-Language-Action(VLA)のサーベイ用論文集"
+  },
+  "KwanWaiPang/Awesome-Legged-Robot-Localization-and-Mapping": {
+    "type": "survey",
+    "field": "robot",
+    "subfield": "脚式ロボットSLAM",
+    "desc": "脚式ロボットのSLAMに関するサーベイ用論文集"
+  },
+  "thunlp/TAADpapers": {
+    "type": "paper-list",
+    "field": "safety",
+    "subfield": "テキスト敵対的攻撃",
+    "desc": "テキストの敵対的攻撃・防御(TAAD)の必読論文集"
+  },
+  "autodriving-heart/Awesome-Autonomous-Driving": {
+    "type": "awesome-list",
+    "field": "ad",
+    "subfield": "自動運転全般",
+    "desc": "自動運転全般のawesomeリスト"
+  },
+  "opendilab/awesome-end-to-end-autonomous-driving": {
+    "type": "awesome-list",
+    "field": "ad",
+    "subfield": "End-to-End自動運転",
+    "desc": "End-to-End自動運転の資源を継続更新するリスト"
+  },
+  "autodriving-heart/CVPR-2024-Papers-Autonomous-Driving": {
+    "type": "paper-list",
+    "field": "ad",
+    "subfield": "会議論文(CVPR/AD)",
+    "desc": "CVPR 2024の自動運転関連論文リスト"
+  },
+  "autodriving-heart/CVPR2025-Papers-about-Autonomous-Driving-and-Embodied-AI": {
+    "type": "paper-list",
+    "field": "ad",
+    "subfield": "会議論文(CVPR/AD+Embodied)",
+    "desc": "CVPR 2025の自動運転・身体性AI関連論文リスト"
+  },
+  "autodriving-heart/Awesome-4D-Radar": {
+    "type": "paper-list",
+    "field": "ad",
+    "subfield": "4Dレーダ",
+    "desc": "4Dレーダ知覚に関する論文・リソース集"
+  },
+  "opendilab/awesome-AI-based-protein-design": {
+    "type": "paper-list",
+    "field": "med",
+    "subfield": "AIタンパク質設計",
+    "desc": "AIベースのタンパク質設計の研究論文集"
+  },
+  "subeeshvasu/Awesome-Neuron-Segmentation-in-EM-Images": {
+    "type": "awesome-list",
+    "field": "med",
+    "subfield": "EM画像神経セグメンテーション",
+    "desc": "電子顕微鏡(EM)画像における神経突起の3Dセグメンテーション資源集"
+  },
+  "OmicsML/awesome-bio-chatgpt": {
+    "type": "paper-list",
+    "field": "med",
+    "subfield": "バイオ×ChatGPT",
+    "desc": "生物学・医療分野へのChatGPT/LLM応用の論文・資源集"
+  },
+  "DmitryRyumin/INTERSPEECH-2023-24-Papers": {
+    "type": "paper-list",
+    "field": "speech",
+    "subfield": "会議論文(INTERSPEECH)",
+    "desc": "INTERSPEECH 2023-2024の論文を網羅したコレクション"
+  },
+  "DmitryRyumin/ICASSP-2023-24-Papers": {
+    "type": "paper-list",
+    "field": "speech",
+    "subfield": "会議論文(ICASSP)",
+    "desc": "ICASSP 2023-2024の論文を網羅したコレクション"
+  },
+  "DmitryRyumin/Awesome-Speech-Enhancement": {
+    "type": "paper-list",
+    "field": "speech",
+    "subfield": "音声強調",
+    "desc": "音声強調の論文・効果指標を整理したインタラクティブなリスト"
+  },
+  "KwanWaiPang/Awesome-Transformer-based-SLAM": {
+    "type": "survey",
+    "field": "cg",
+    "subfield": "Transformer SLAM",
+    "desc": "Transformerベースの SLAM のサーベイ用論文集"
+  },
+  "KwanWaiPang/Awesome-Learning-based-VO-VIO": {
+    "type": "survey",
+    "field": "cg",
+    "subfield": "学習ベースVO/VIO",
+    "desc": "学習ベースの視覚オドメトリ(VO/VIO)のサーベイ用論文集"
+  },
+  "KwanWaiPang/Awesome-Event-based-SLAM": {
+    "type": "survey",
+    "field": "cg",
+    "subfield": "イベントSLAM",
+    "desc": "イベントベースSLAMのサーベイ用論文集"
+  },
+  "KwanWaiPang/Awesome-Diffusion-based-SLAM": {
+    "type": "survey",
+    "field": "cg",
+    "subfield": "拡散SLAM",
+    "desc": "拡散モデルベースのSLAMのサーベイ用論文集"
+  },
+  "weihaox/Gen3D": {
+    "type": "survey",
+    "field": "cg",
+    "subfield": "生成的3D画像合成",
+    "desc": "深層生成的3D-aware画像合成のサーベイ(CSUR 2023)"
+  },
+  "subeeshvasu/Awesome-Image-Distortion-Correction": {
+    "type": "awesome-list",
+    "field": "lowlevel",
+    "subfield": "歪み補正",
+    "desc": "ローリングシャッター効果・放射状歪みの補正に関する資源集"
+  },
+  "NiuTrans/NASPapers": {
+    "type": "paper-list",
+    "field": "eff",
+    "subfield": "NAS",
+    "desc": "ニューラルアーキテクチャ探索(NAS)の論文リスト"
+  },
+  "AGI-Edgerunners/LLM-Continual-Learning-Papers": {
+    "type": "paper-list",
+    "field": "cl",
+    "subfield": "LLM継続学習",
+    "desc": "LLMの継続学習(continual learning)の必読論文集"
+  },
+  "Event-AHU/PINN_Paper_List": {
+    "type": "paper-list",
+    "field": "app",
+    "subfield": "PINN",
+    "desc": "物理情報ニューラルネットワーク(PINN)の論文リスト"
+  },
+  "Event-AHU/Awesome_Modern_Hopfield_Networks": {
+    "type": "paper-list",
+    "field": "arch",
+    "subfield": "Hopfield Networks",
+    "desc": "現代的ホップフィールドネットワークの論文リスト"
+  },
+  "DmitryRyumin/AAAI-2024-Papers": {
+    "type": "paper-list",
+    "field": "ml",
+    "subfield": "会議論文(AAAI)",
+    "desc": "AAAI 2024の革新的研究論文を網羅したコレクション"
+  },
+  "qingsongedu/awesome-AI-tutorials-surveys": {
+    "type": "survey",
+    "field": "ml",
+    "subfield": "チュートリアル/サーベイ",
+    "desc": "トップAI会議のDL/ML/DM/CV/NLP/音声のチュートリアル・サーベイ集"
+  },
+  "Doragd/Awesome-Paper-List": {
+    "type": "awesome-list",
+    "field": "ml",
+    "subfield": "論文リスト集約",
+    "desc": "NLP/CV/MLの多数の論文リスト・関連資源を集約したメタリスト"
+  },
+  "papercopilot/paperlists": {
+    "type": "paper-list",
+    "field": "ml",
+    "subfield": "会議論文横断",
+    "desc": "Paper Copilotの整形済みデータ。主要会議を年度別JSONで横断網羅し継続更新(大型)"
+  },
+  "Lionelsy/Conference-Accepted-Paper-List": {
+    "type": "paper-list",
+    "field": "ml",
+    "subfield": "会議採択論文",
+    "desc": "主要AI/ML/ロボティクス会議の採択論文リンクと締切情報を2015-2025で集約(活発)"
+  },
+  "george-gca/ai_papers_scrapper": {
+    "type": "paper-list",
+    "field": "ml",
+    "subfield": "会議論文スクレイパ",
+    "desc": "主要AI会議(2017-)のPDF・著者・要旨等を会議×年度で取得するスクレイパ"
+  },
+  "hzxwonder/Conference-Paper": {
+    "type": "paper-list",
+    "field": "ml",
+    "subfield": "CCF-A会議論文",
+    "desc": "CCF-A会議の採択論文をタイトル・著者・URL・要旨付きで整理"
+  },
+  "huggingface/ai-deadlines": {
+    "type": "awesome-list",
+    "field": "ml",
+    "subfield": "会議締切トラッカー",
+    "desc": "主要AI会議の締切カウントダウン(paperswithcode版の後継、現行主流)"
+  },
+  "tranhungnghiep/AI-Conference-Info": {
+    "type": "awesome-list",
+    "field": "ml",
+    "subfield": "会議採択率/情報",
+    "desc": "主要AI会議40+の採択率・投稿統計・締切を年度横断で集約"
+  },
+  "DmitryRyumin/ICML-2025-Papers": {
+    "type": "paper-list",
+    "field": "ml",
+    "subfield": "会議論文(ICML)",
+    "desc": "ICML 2025採択論文をコード実装リンク付きで体系化"
+  },
+  "JunMa11/MICCAI-OpenSourcePapers": {
+    "type": "paper-list",
+    "field": "med",
+    "subfield": "会議論文(MICCAI)",
+    "desc": "MICCAI 2019-2023のオープンソース論文をコードリンク付き表で整理"
+  },
+  "ambicuity/Awesome-MICCAI-2026": {
+    "type": "paper-list",
+    "field": "med",
+    "subfield": "会議論文(MICCAI)",
+    "desc": "MICCAI 2026論文をarXivから自動収集しbotが毎日更新、分野別分類"
+  },
+  "Songwxuan/Embodied-AI-Paper-TopConf": {
+    "type": "paper-list",
+    "field": "robot",
+    "subfield": "会議論文(Embodied AI)",
+    "desc": "トップ会議採択のEmbodied AI論文を継続収集(2026会議まで反映、活発)"
+  },
+  "01Zhangbw/Speech-and-audio-papers-Top-Conference": {
+    "type": "paper-list",
+    "field": "speech",
+    "subfield": "会議論文(音声・音響)",
+    "desc": "トップ会議(INTERSPEECH/ICASSP等)の音声・音響論文を集約"
+  },
+  "hongleizhang/RSPapers": {
+    "type": "awesome-list",
+    "field": "recsys",
+    "subfield": "推薦必読論文",
+    "desc": "推薦システム必読論文を17カテゴリで整理、毎週更新(LLM/Agentic RS等も追加)"
+  },
+  "ai4lam/awesome-ai4lam": {
+    "type": "awesome-list",
+    "field": "app",
+    "subfield": "AI for 図書館・文書館・博物館",
+    "desc": "図書館・文書館・博物館(GLAM/LAM)向けAIのプロジェクト・事例・リソース集(AI4LAMコミュニティ運営)"
+  }
+}
