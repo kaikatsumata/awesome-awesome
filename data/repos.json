@@ -2983,20 +2983,20 @@
   },
   "SerialLain3170/AwesomeAnimeResearch": {
     "type": "awesome-list",
-    "field": "lowlevel",
-    "subfield": "アニメ",
+    "field": "anim",
+    "subfield": "アニメ研究",
     "desc": "アニメ/漫画研究の論文・データセット集(生成・カラー化・キャラアニメ等)"
   },
   "qyzdao/Sketch-Based-Deep-Learning": {
     "type": "paper-list",
-    "field": "lowlevel",
+    "field": "anim",
     "subfield": "スケッチ/線画",
     "desc": "スケッチベース深層学習の論文集(線画カラー化・ベクトル化等)"
   },
   "IShengFang/TypographyResearchCollection": {
     "type": "paper-list",
-    "field": "lowlevel",
-    "subfield": "フォント生成",
+    "field": "anim",
+    "subfield": "タイポグラフィ/フォント生成",
     "desc": "タイポグラフィ関連のCG/CV/ML研究収集(フォント生成・アニメーション含む)"
   },
   "zhihongz/awesome-low-light-image-enhancement": {
@@ -5374,5 +5374,41 @@
     "field": "app",
     "subfield": "LLMソフトウェアテスト",
     "desc": "LLMを用いたテスト生成・テスト補完等の論文集"
+  },
+  "zhenglinpan/Awesome-Animation-Research": {
+    "type": "paper-list",
+    "field": "anim",
+    "subfield": "アニメーション研究",
+    "desc": "アニメーション(2D/カートゥーン等)の研究論文・データセットを集めたリスト"
+  },
+  "yunlong10/Awesome-AI4Animation": {
+    "type": "paper-list",
+    "field": "anim",
+    "subfield": "AI×アニメーション",
+    "desc": "AIによるアニメーション生成・補間・着色・制作支援の論文集"
+  },
+  "MarkMoHR/Awesome-Edge-Detection-Papers": {
+    "type": "paper-list",
+    "field": "cv",
+    "subfield": "エッジ検出",
+    "desc": "エッジ/輪郭/境界検出の論文・ツールボックス集"
+  },
+  "MarkMoHR/Awesome-Sketch-Based-Applications": {
+    "type": "paper-list",
+    "field": "anim",
+    "subfield": "スケッチ応用",
+    "desc": "スケッチベースのアプリケーション論文集"
+  },
+  "MarkMoHR/Awesome-Sketch-Synthesis": {
+    "type": "paper-list",
+    "field": "anim",
+    "subfield": "スケッチ合成",
+    "desc": "スケッチ合成(生成)に関する論文集"
+  },
+  "MarkMoHR/Awesome-2D-Animation": {
+    "type": "paper-list",
+    "field": "anim",
+    "subfield": "2Dアニメーション",
+    "desc": "中割り(inbetweening)・2Dアニメーションのツール・データセット・論文集"
   }
 }

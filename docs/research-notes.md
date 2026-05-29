@@ -1,9 +1,8 @@
 # 調査結果ノート (Research Notes)
 
-本ドキュメントは [README.md](../README.md) の分類済みリストの裏付けとなる、
-AI研究分野の awesome list / survey / 論文リスト調査の**詳細な生データと統計**です。
+本ドキュメントは多言語READMEの裏付けとなる、AI研究分野の awesome list / survey / 論文リスト調査の**詳細な生データと統計**です。
 
-- 収録総数: **896 件**(実在確認済み)
+- 収録総数: **902 件**(実在確認済み)
 - 生成日: 2026-05-29(GitHubメタデータ取得時点)
 - 鮮度マーカー: 🟢 ≤12ヶ月 / 🟡 13-30ヶ月 / 🔴 >30ヶ月 / 📑 査読付きサーベイ(curated) / 📚 歴史的 / 📦 archived
 
@@ -11,7 +10,7 @@ AI研究分野の awesome list / survey / 論文リスト調査の**詳細な生
 
 ### 分野別 件数
 
-| 分野 | 件数 | 🟢 | 🟡 | 🔴/📦/📚 |
+| 分野 | 件数 | 🟢 | 🟡 | その他 |
 |:--|--:|--:|--:|--:|
 | 🧠 機械学習一般 / Deep Learning | 24 | 12 | 5 | 7 |
 | 📐 ML理論 / 最適化 | 12 | 3 | 5 | 4 |
@@ -19,9 +18,10 @@ AI研究分野の awesome list / survey / 論文リスト調査の**詳細な生
 | 🏗️ 新アーキテクチャ(SSM・Mamba・KAN・SNN・量子ML) | 24 | 16 | 5 | 3 |
 | 🌱 自己教師あり / 表現学習 / 基盤モデル | 6 | 3 | 3 | 0 |
 | 🎓 学習パラダイム(メタ / 転移 / 少数 / OOD / 半教師) | 27 | 10 | 6 | 11 |
-| 👁️ Computer Vision | 110 | 44 | 19 | 47 |
+| 👁️ Computer Vision | 111 | 44 | 20 | 47 |
 | 🎨 Computer Graphics / 3D / レンダリング | 65 | 30 | 19 | 16 |
-| 🖌️ 低レベル画像処理 / 復元 / 圧縮 | 25 | 11 | 7 | 7 |
+| 🖌️ 低レベル画像処理 / 復元 / 圧縮 | 22 | 9 | 7 | 6 |
+| 🎬 アニメ・アニメーション・イラスト・フォント | 8 | 7 | 0 | 1 |
 | 💬 NLP / 大規模言語モデル(LLM) | 98 | 42 | 23 | 33 |
 | 🖼️ 生成AI / Diffusion / 画像・動画生成 | 42 | 29 | 4 | 9 |
 | 🍌 特定モデルのプロンプト・作例コレクション | 21 | 18 | 3 | 0 |
@@ -45,13 +45,13 @@ AI研究分野の awesome list / survey / 論文リスト調査の**詳細な生
 | 🖥️ MLシステム / 学習・推論インフラ / データ基盤 | 19 | 10 | 5 | 4 |
 | 🛠️ MLOps / データ中心AI | 12 | 5 | 6 | 1 |
 | 📊 データセット / ベンチマーク | 5 | 4 | 1 | 0 |
-| **合計** | **896** | **454** | **204** | **238** |
+| **合計** | **902** | **459** | **205** | **238** |
 
 ### 種別別 件数
 
 | 種別 | 件数 |
 |:--|--:|
-| paper-list | 402 |
+| paper-list | 408 |
 | awesome | 341 |
 | survey | 125 |
 | model | 28 |
@@ -63,10 +63,10 @@ AI研究分野の awesome list / survey / 論文リスト調査の**詳細な生
 
 | 鮮度 | リポジトリ | 種別 | サブ分野 | ⭐ | 最終更新 | 説明 |
 |:--:|:--|:--|:--|--:|:--:|:--|
-| 🟢 | [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) | awesome | ML全般 | 72611 | 2026-05 | 言語別のMLフレームワーク・ライブラリの定番キュレーションリスト |
+| 🟢 | [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) | awesome | ML全般 | 72612 | 2026-05 | 言語別のMLフレームワーク・ライブラリの定番キュレーションリスト |
 | 🟢 | [academic/awesome-datascience](https://github.com/academic/awesome-datascience) | awesome | データサイエンス | 29288 | 2026-05 | データサイエンスを学び実問題に適用するための定番リソース集 |
-| 🟢 | [ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) | awesome | DL全般 | 28317 | 2025-05 | DLのチュートリアル・プロジェクト・コミュニティを集めた定番リスト |
-| 🟢 | [Leey21/awesome-ai-research-writing](https://github.com/Leey21/awesome-ai-research-writing) | awesome | AI研究執筆支援 | 26162 | 2026-05 | AI研究の論文執筆・推敲を支援するツール・リソース集 |
+| 🟢 | [ChristosChristofidis/awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) | awesome | DL全般 | 28318 | 2025-05 | DLのチュートリアル・プロジェクト・コミュニティを集めた定番リスト |
+| 🟢 | [Leey21/awesome-ai-research-writing](https://github.com/Leey21/awesome-ai-research-writing) | awesome | AI研究執筆支援 | 26184 | 2026-05 | AI研究の論文執筆・推敲を支援するツール・リソース集 |
 | 🟢 | [yzhao062/anomaly-detection-resources](https://github.com/yzhao062/anomaly-detection-resources) | awesome | 異常検知(汎用) | 9298 | 2026-03 | 異常検知の書籍・論文・動画・ツールボックスを網羅した定番リスト |
 | 🟢 | [faridrashidi/kaggle-solutions](https://github.com/faridrashidi/kaggle-solutions) | awesome | Kaggleソリューション | 6438 | 2026-05 | Kaggleコンペの解法・アイデアを集めたコレクション |
 | 🟢 | [krzjoa/awesome-python-data-science](https://github.com/krzjoa/awesome-python-data-science) | awesome | Pythonデータサイエンス | 3441 | 2026-04 | Pythonのデータサイエンスソフトウェアを厳選したリスト |
@@ -138,7 +138,7 @@ AI研究分野の awesome list / survey / 論文リスト調査の**詳細な生
 | 🟢 | [radarFudan/Awesome-state-space-models](https://github.com/radarFudan/Awesome-state-space-models) | paper-list | SSM/S4 | 621 | 2025-11 | S4からMambaまで状態空間モデルの理論寄り論文を集めたリスト |
 | 🟢 | [marlin-codes/Awesome-Hyperbolic-Representation-and-Deep-Learning](https://github.com/marlin-codes/Awesome-Hyperbolic-Representation-and-Deep-Learning) | paper-list | 双曲DL | 595 | 2026-05 | 双曲埋め込み・双曲モデル・応用の最新論文を活発に更新 |
 | 🟢 | [AXYZdong/awesome-snn-conference-paper](https://github.com/AXYZdong/awesome-snn-conference-paper) | paper-list | SNN | 450 | 2026-05 | SNN分野の難関会議・誌論文とコード実装をまとめたリスト |
-| 🟢 | [weigao266/Awesome-Efficient-Arch](https://github.com/weigao266/Awesome-Efficient-Arch) | survey | 効率的アーキテクチャ | 407 | 2025-11 | LLM向け効率アーキテクチャ(線形注意・SSM・RWKV等)の大規模サーベイ |
+| 🟢 | [weigao266/Awesome-Efficient-Arch](https://github.com/weigao266/Awesome-Efficient-Arch) | survey | 効率的アーキテクチャ | 408 | 2025-11 | LLM向け効率アーキテクチャ(線形注意・SSM・RWKV等)の大規模サーベイ |
 | 🟢 | [attention-survey/Efficient_Attention_Survey](https://github.com/attention-survey/Efficient_Attention_Survey) | survey | efficient attention | 298 | 2025-12 | 効率的注意機構をハードウェア効率・スパース・線形等に分類したサーベイ |
 | 🟢 | [LAMDA-NeSy/Awesome-LLM-Reasoning-with-NeSy](https://github.com/LAMDA-NeSy/Awesome-LLM-Reasoning-with-NeSy) | paper-list | neuro-symbolic(LLM) | 298 | 2025-06 | LLM時代のニューロシンボリック学習の最新動向を追うリスト |
 | 🟢 | [xmindflow/Awesome_Mamba](https://github.com/xmindflow/Awesome_Mamba) | survey | SSM/Mamba(医療画像) | 267 | 2025-07 | 医療画像解析におけるSSMの包括サーベイ対応リスト |
@@ -199,7 +199,7 @@ AI研究分野の awesome list / survey / 論文リスト調査の**詳細な生
 | 🔴 | [uqzhichen/Awesome-compositional-zero-shot-learning](https://github.com/uqzhichen/Awesome-compositional-zero-shot-learning) | paper-list | compositional ZSL | 11 | 2022-07 | 構成的ゼロショット学習(属性と物体の組合せ汎化)に特化した論文リスト |
 | 🔴 | [cmhungsteve/awsome-domain-adaptation](https://github.com/cmhungsteve/awsome-domain-adaptation) | awesome | ドメイン適応 | 1 | 2019-09 | ドメイン適応関連の論文を分類整理した広く参照される一覧 |
 
-### 👁️ Computer Vision  (110件)
+### 👁️ Computer Vision  (111件)
 
 | 鮮度 | リポジトリ | 種別 | サブ分野 | ⭐ | 最終更新 | 説明 |
 |:--:|:--|:--|:--|--:|:--:|:--|
@@ -254,6 +254,7 @@ AI研究分野の awesome list / survey / 論文リスト調査の**詳細な生
 | 🟡 | [kba/awesome-ocr](https://github.com/kba/awesome-ocr) | awesome | OCR/HTR | 3109 | 2024-07 | OCR・手書き文字認識(HTR)のソフト・ライブラリ・文献集(歴史文書デジタル化の中核) |
 | 🟡 | [amusi/ECCV2024-Papers-with-Code](https://github.com/amusi/ECCV2024-Papers-with-Code) | paper-list | 会議論文(ECCV) | 2275 | 2024-08 | ECCV 2024の論文とオープンソースプロジェクト集 |
 | 🟡 | [JunMa11/SOTA-MedSeg](https://github.com/JunMa11/SOTA-MedSeg) | paper-list | 医用画像セグメンテーション | 1675 | 2023-12 | 各種チャレンジに基づくSOTA医用画像セグメンテーション手法集 |
+| 🟡 | [MarkMoHR/Awesome-Edge-Detection-Papers](https://github.com/MarkMoHR/Awesome-Edge-Detection-Papers) | paper-list | エッジ検出 | 1562 | 2024-12 | エッジ/輪郭/境界検出の論文・ツールボックス集 |
 | 🟡 | [bismex/Awesome-person-re-identification](https://github.com/bismex/Awesome-person-re-identification) | awesome | Person ReID | 1346 | 2024-06 | 教師あり/教師なし/クロスモーダルReIDを網羅した大規模論文リスト |
 | 🟡 | [XuyangBai/awesome-point-cloud-registration](https://github.com/XuyangBai/awesome-point-cloud-registration) | paper-list | 点群レジストレーション | 946 | 2024-07 | マッチング戦略別に整理した点群レジストレーション論文集 |
 | 🟡 | [yarkable/Awesome-Computer-Vision-Paper-List](https://github.com/yarkable/Awesome-Computer-Vision-Paper-List) | paper-list | 会議論文横断 | 761 | 2024-04 | トップ会議の採択論文を横断検索できるようまとめた論文リスト |
@@ -268,14 +269,14 @@ AI研究分野の awesome list / survey / 論文リスト調査の**詳細な生
 | 🟡 | [visionxiang/awesome-salient-object-detection](https://github.com/visionxiang/awesome-salient-object-detection) | awesome | 顕著性物体検出 | 147 | 2024-09 | RGB-D等を含む顕著性物体検出のリソース集 |
 | 🟡 | [DennisRotondi/awesome-3D-scene-graphs](https://github.com/DennisRotondi/awesome-3D-scene-graphs) | awesome | 3D Scene Graph | 109 | 2024-12 | ロボティクス応用を含む3Dシーングラフ専門リスト |
 | 🟡 | [DmitryRyumin/WACV-2024-Papers](https://github.com/DmitryRyumin/WACV-2024-Papers) | paper-list | 会議論文(WACV) | 97 | 2024-09 | WACV 2024の論文を体系的に整理したコレクション |
-| 📚 | [jbhuang0604/awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) | awesome | CV全般 | 23290 | 2024-05 | CV全般の書籍・講義・論文・ツール・データセットを網羅した定番リスト |
+| 📚 | [jbhuang0604/awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) | awesome | CV全般 | 23291 | 2024-05 | CV全般の書籍・講義・論文・ツール・データセットを網羅した定番リスト |
 | 📚 | [nightrome/really-awesome-semantic-segmentation](https://github.com/nightrome/really-awesome-semantic-segmentation) | paper-list | セマンティックセグメンテーション | 404 | 2018-03 | セマンティックセグメンテーション論文リスト(2018で更新停止) |
 | 🔴 | [mrgloom/awesome-semantic-segmentation](https://github.com/mrgloom/awesome-semantic-segmentation) | awesome | セマンティックセグメンテーション | 10834 | 2021-05 | セマンティックセグメンテーションの定番リソース集 |
 | 🔴 | [amusi/awesome-object-detection](https://github.com/amusi/awesome-object-detection) | awesome | 物体検出 | 7501 | 2022-12 | R-CNN系・YOLO・SSD等の物体検出論文/実装をまとめた定番リスト |
-| 🔴 | [ChanChiChoi/awesome-Face_Recognition](https://github.com/ChanChiChoi/awesome-Face_Recognition) | paper-list | 顔認識 | 4740 | 2023-02 | 顔検出/認識/再構成/生成等を網羅した大規模論文集 |
+| 🔴 | [ChanChiChoi/awesome-Face_Recognition](https://github.com/ChanChiChoi/awesome-Face_Recognition) | paper-list | 顔認識 | 4738 | 2023-02 | 顔検出/認識/再構成/生成等を網羅した大規模論文集 |
 | 🔴 | [jinwchoi/awesome-action-recognition](https://github.com/jinwchoi/awesome-action-recognition) | awesome | 行動認識・動画理解 | 4003 | 2023-05 | 行動認識と関連領域のリソースを網羅した定番リスト |
 | 🔴 | [weiaicunzai/awesome-image-classification](https://github.com/weiaicunzai/awesome-image-classification) | paper-list | 画像分類 | 3058 | 2022-04 | 2014年以降の深層学習画像分類論文/実装のリスト |
-| 🔴 | [hwalsuklee/awesome-deep-text-detection-recognition](https://github.com/hwalsuklee/awesome-deep-text-detection-recognition) | paper-list | テキスト検出・認識 | 2526 | 2021-08 | 深層学習ベースのテキスト検出/認識論文を整理 |
+| 🔴 | [hwalsuklee/awesome-deep-text-detection-recognition](https://github.com/hwalsuklee/awesome-deep-text-detection-recognition) | paper-list | テキスト検出・認識 | 2525 | 2021-08 | 深層学習ベースのテキスト検出/認識論文を整理 |
 | 🔴 | [cbsudux/awesome-human-pose-estimation](https://github.com/cbsudux/awesome-human-pose-estimation) | awesome | 人物姿勢推定 | 2480 | 2022-10 | 人物姿勢推定の論文・リソース集 |
 | 🔴 | [willard-yuan/awesome-cbir-papers](https://github.com/willard-yuan/awesome-cbir-papers) | paper-list | 画像検索(CBIR) | 1763 | 2023-10 | 古典的・代表的な内容ベース画像検索(CBIR)論文集 |
 | 🔴 | [SpyderXu/multi-object-tracking-paper-list](https://github.com/SpyderXu/multi-object-tracking-paper-list) | paper-list | 多物体追跡 | 1686 | 2020-04 | 多物体追跡の論文リストとソースコード集 |
@@ -284,7 +285,7 @@ AI研究分野の awesome list / survey / 論文リスト調査の**詳細な生
 | 🔴 | [wangzheallen/awesome-human-pose-estimation](https://github.com/wangzheallen/awesome-human-pose-estimation) | paper-list | 人物姿勢推定 | 1374 | 2020-08 | 2D/3D人物姿勢推定の関連論文集 |
 | 🔴 | [zhjohnchan/awesome-image-captioning](https://github.com/zhjohnchan/awesome-image-captioning) | awesome | 画像キャプション | 1072 | 2023-03 | 画像キャプションと関連領域のリソースを年別整理 |
 | 🔴 | [jindongwang/activityrecognition](https://github.com/jindongwang/activityrecognition) | paper-list | 行動認識 | 930 | 2019-08 | 行動認識(activity recognition)の資料・コード・データセット集 |
-| 🔴 | [polarisZhao/awesome-face](https://github.com/polarisZhao/awesome-face) | awesome | 顔全般 | 914 | 2019-08 | 顔関連アルゴリズム・データセット・論文のキュレーション |
+| 🔴 | [polarisZhao/awesome-face](https://github.com/polarisZhao/awesome-face) | awesome | 顔全般 | 915 | 2019-08 | 顔関連アルゴリズム・データセット・論文のキュレーション |
 | 🔴 | [clpeng/Awesome-Face-Forgery-Generation-and-Detection](https://github.com/clpeng/Awesome-Face-Forgery-Generation-and-Detection) | paper-list | 顔偽造検出 | 780 | 2022-11 | 顔偽造の生成と検出に関する論文・コード集 |
 | 🔴 | [Alvin-Zeng/Awesome-Temporal-Action-Localization](https://github.com/Alvin-Zeng/Awesome-Temporal-Action-Localization) | paper-list | 時系列行動位置推定 | 589 | 2022-09 | temporal action localization/detection/proposalの論文・ベンチマークまとめ |
 | 🔴 | [qdrant/awesome-metric-learning](https://github.com/qdrant/awesome-metric-learning) | awesome | メトリック学習 | 520 | 2023-04 | 実用的なメトリック学習とその応用のキュレーション |
@@ -320,16 +321,16 @@ AI研究分野の awesome list / survey / 論文リスト調査の**詳細な生
 |:--:|:--|:--|:--|--:|:--:|:--|
 | 🟢 | [MrNeRF/awesome-3D-gaussian-splatting](https://github.com/MrNeRF/awesome-3D-gaussian-splatting) | awesome | 3D Gaussian Splatting | 8654 | 2026-05 | 3DGSの論文・実装・ビューア・ツールを集めた包括リスト |
 | 🟢 | [weihaox/awesome-neural-rendering](https://github.com/weihaox/awesome-neural-rendering) | awesome | neural/differentiable rendering | 2350 | 2026-03 | ニューラルレンダリングと微分可能レンダリングの資料集 |
-| 🟢 | [3D-Vision-World/awesome-NeRF-and-3DGS-SLAM](https://github.com/3D-Vision-World/awesome-NeRF-and-3DGS-SLAM) | paper-list | SLAM(NeRF/3DGS) | 2019 | 2026-05 | 暗黙表現・NeRF・3DGSを用いたSLAM論文集 |
-| 🟢 | [weihaox/awesome-digital-human](https://github.com/weihaox/awesome-digital-human) | awesome | digital humans | 1945 | 2026-04 | 2D/3D/4D人体モデリング・アバター生成の総合集 |
+| 🟢 | [3D-Vision-World/awesome-NeRF-and-3DGS-SLAM](https://github.com/3D-Vision-World/awesome-NeRF-and-3DGS-SLAM) | paper-list | SLAM(NeRF/3DGS) | 2021 | 2026-05 | 暗黙表現・NeRF・3DGSを用いたSLAM論文集 |
+| 🟢 | [weihaox/awesome-digital-human](https://github.com/weihaox/awesome-digital-human) | awesome | digital humans | 1946 | 2026-04 | 2D/3D/4D人体モデリング・アバター生成の総合集 |
 | 🟢 | [Kedreamix/Awesome-Talking-Head-Synthesis](https://github.com/Kedreamix/Awesome-Talking-Head-Synthesis) | awesome | talking head | 1508 | 2026-05 | トーキングフェイス合成の広範な資源集 |
 | 🟢 | [cwchenwang/awesome-3d-diffusion](https://github.com/cwchenwang/awesome-3d-diffusion) | paper-list | 3D generation(拡散) | 1254 | 2026-01 | 3D生成向け拡散モデル論文集 |
 | 🟢 | [mmolero/awesome-point-cloud-processing](https://github.com/mmolero/awesome-point-cloud-processing) | awesome | point cloud processing | 797 | 2025-11 | 点群処理のライブラリ・ソフト・資料集 |
 | 🟢 | [ruili3/awesome-dust3r](https://github.com/ruili3/awesome-dust3r) | model | 3D基盤モデル | 792 | 2025-11 | DUSt3R系の幾何基盤モデル論文・資源追跡 |
 | 🟢 | [hitcslj/Awesome-AIGC-3D](https://github.com/hitcslj/Awesome-AIGC-3D) | awesome | 3D generation(AIGC) | 776 | 2026-05 | AIGC 3D(生成・テクスチャ・素材)論文集 |
-| 🟢 | [dannyfritz/awesome-ray-tracing](https://github.com/dannyfritz/awesome-ray-tracing) | awesome | ray/path tracing | 656 | 2025-10 | レイトレーシングの論文・コース・実装リスト |
+| 🟢 | [dannyfritz/awesome-ray-tracing](https://github.com/dannyfritz/awesome-ray-tracing) | awesome | ray/path tracing | 657 | 2025-10 | レイトレーシングの論文・コース・実装リスト |
 | 🟢 | [yyeboah/Awesome-Text-to-3D](https://github.com/yyeboah/Awesome-Text-to-3D) | paper-list | text-to-3D | 587 | 2026-05 | Text-to-3D/Diffusion-to-3D研究のキュレーション |
-| 🟢 | [jslee02/awesome-graphics-libraries](https://github.com/jslee02/awesome-graphics-libraries) | awesome | 3D graphics libraries | 525 | 2026-05 | 3Dグラフィックスライブラリのキュレーション |
+| 🟢 | [jslee02/awesome-graphics-libraries](https://github.com/jslee02/awesome-graphics-libraries) | awesome | 3D graphics libraries | 523 | 2026-05 | 3Dグラフィックスライブラリのキュレーション |
 | 🟢 | [yukangcao/Awesome-4D-Spatial-Intelligence](https://github.com/yukangcao/Awesome-4D-Spatial-Intelligence) | survey | 4D reconstruction | 497 | 2026-05 | 動画からの4D空間知能復元のサーベイ |
 | 🟢 | [Housz/awesome-simulation](https://github.com/Housz/awesome-simulation) | awesome | physics simulation | 388 | 2026-03 | CGの物理シミュレーション資源整理 |
 | 🟢 | [longxiang-ai/awesome-gaussians](https://github.com/longxiang-ai/awesome-gaussians) | paper-list | 3D Gaussian Splatting | 287 | 2026-05 | arXivから毎日自動更新される3DGS論文追跡 |
@@ -340,7 +341,7 @@ AI研究分野の awesome list / survey / 論文リスト調査の**詳細な生
 | 🟢 | [zhaoguangyuan123/Awesome-SIGGRAPH-Computational-Optics](https://github.com/zhaoguangyuan123/Awesome-SIGGRAPH-Computational-Optics) | paper-list | computational optics(SIGGRAPH) | 104 | 2026-04 | SIGGRAPH掲載の計算光学論文の読書リスト |
 | 🟢 | [PolySummit/Awesome-3D-Reconstruction-and-Generation](https://github.com/PolySummit/Awesome-3D-Reconstruction-and-Generation) | paper-list | 3D reconstruction/generation | 78 | 2026-03 | 3D復元・生成の論文・データセット集 |
 | 🟢 | [pdaicode/awesome-dynamic-NeRF](https://github.com/pdaicode/awesome-dynamic-NeRF) | paper-list | NeRF(動的) | 67 | 2026-04 | 動的シーン向けNeRFの論文集 |
-| 🟢 | [Bigger-and-Stronger/quad-meshing-survey](https://github.com/Bigger-and-Stronger/quad-meshing-survey) | survey | quad meshing | 34 | 2026-05 | クワッドメッシング関連の論文・コード・プロジェクト集 |
+| 🟢 | [Bigger-and-Stronger/quad-meshing-survey](https://github.com/Bigger-and-Stronger/quad-meshing-survey) | survey | quad meshing | 35 | 2026-05 | クワッドメッシング関連の論文・コード・プロジェクト集 |
 | 🟢 | [KwanWaiPang/Awesome-Diffusion-based-SLAM](https://github.com/KwanWaiPang/Awesome-Diffusion-based-SLAM) | survey | 拡散SLAM | 34 | 2026-05 | 拡散モデルベースのSLAMのサーベイ用論文集 |
 | 🟢 | [Bigger-and-Stronger/awesome-brep-reconstruction](https://github.com/Bigger-and-Stronger/awesome-brep-reconstruction) | survey | B-rep reconstruction | 29 | 2026-01 | B-rep(境界表現)再構成の論文とOSSプロジェクト集。定期更新 |
 | 🟢 | [KwanWaiPang/Awesome-Event-based-SLAM](https://github.com/KwanWaiPang/Awesome-Event-based-SLAM) | survey | イベントSLAM | 21 | 2026-01 | イベントベースSLAMのサーベイ用論文集 |
@@ -362,7 +363,7 @@ AI研究分野の awesome list / survey / 論文リスト調査の**詳細な生
 | 🟡 | [cwchenwang/awesome-4d-generation](https://github.com/cwchenwang/awesome-4d-generation) | paper-list | 4D generation | 331 | 2024-10 | 4D生成(text-to-4D等)論文リスト |
 | 🟡 | [pansanity666/Awesome-Avatars](https://github.com/pansanity666/Awesome-Avatars) | paper-list | avatars | 276 | 2024-04 | 人間アバターの生成・復元・編集の最新進展 |
 | 🟡 | [ingra14m/Awesome-Inverse-Rendering](https://github.com/ingra14m/Awesome-Inverse-Rendering) | paper-list | inverse rendering | 258 | 2024-12 | neural field基盤の逆レンダリング論文集 |
-| 🟡 | [tkuri/Awesome-InverseRendering](https://github.com/tkuri/Awesome-InverseRendering) | paper-list | inverse rendering | 233 | 2025-04 | 内在分解・逆レンダリング論文リスト |
+| 🟡 | [tkuri/Awesome-InverseRendering](https://github.com/tkuri/Awesome-InverseRendering) | paper-list | inverse rendering | 234 | 2025-04 | 内在分解・逆レンダリング論文リスト |
 | 🟡 | [pdaicode/awesome-3dgs](https://github.com/pdaicode/awesome-3dgs) | paper-list | 3D Gaussian Splatting | 122 | 2024-08 | 3DGS関連論文のキュレーション |
 | 🟡 | [Jason-cs18/awesome-avatar](https://github.com/Jason-cs18/awesome-avatar) | awesome | avatars(talking) | 59 | 2024-11 | talking-face/talking-body関連資源集 |
 | 🟡 | [Run542968/Awesome-3D-Human-Motion-Generation](https://github.com/Run542968/Awesome-3D-Human-Motion-Generation) | paper-list | human motion/animation | 25 | 2024-07 | Text-to-Motion中心の人体動作生成論文集 |
@@ -381,22 +382,20 @@ AI研究分野の awesome list / survey / 論文リスト調査の**詳細な生
 | 🔴 | [subeeshvasu/Awsome_Deep_Geometry_Learning](https://github.com/subeeshvasu/Awsome_Deep_Geometry_Learning) | paper-list | deep geometry | 361 | 2021-08 | 3D形状の深層学習ソリューション資料集 |
 | 🔴 | [krahets/awesome-mvs](https://github.com/krahets/awesome-mvs) | awesome | multi-view stereo | 277 | 2022-08 | MVSのチュートリアル・論文・ソフトウェア集 |
 | 🔴 | [neil3d/awesome-pbr](https://github.com/neil3d/awesome-pbr) | awesome | physically based rendering | 118 | 2021-01 | PBRの資料・スライド・論文の総合コレクション |
-| 🔴 | [tkuri/Awesome-BRDF](https://github.com/tkuri/Awesome-BRDF) | paper-list | material/BRDF | 28 | 2021-06 | BRDF表現に関する論文を表現方式別に整理 |
+| 🔴 | [tkuri/Awesome-BRDF](https://github.com/tkuri/Awesome-BRDF) | paper-list | material/BRDF | 29 | 2021-06 | BRDF表現に関する論文を表現方式別に整理 |
 | 🔴 | [lzhbrian/texture-synthesis-papers](https://github.com/lzhbrian/texture-synthesis-papers) | paper-list | texture synthesis | 4 | 2019-03 | テクスチャ合成論文(コード付き)の集積 |
 
-### 🖌️ 低レベル画像処理 / 復元 / 圧縮  (25件)
+### 🖌️ 低レベル画像処理 / 復元 / 圧縮  (22件)
 
 | 鮮度 | リポジトリ | 種別 | サブ分野 | ⭐ | 最終更新 | 説明 |
 |:--:|:--|:--|:--|--:|:--:|:--|
 | 🟢 | [zhihongz/awesome-low-light-image-enhancement](https://github.com/zhihongz/awesome-low-light-image-enhancement) | awesome | 低照度強調 | 1821 | 2026-05 | 低照度画像強調のデータセット/手法/論文/評価指標を網羅(活発) |
 | 🟢 | [chaofengc/Awesome-Image-Quality-Assessment](https://github.com/chaofengc/Awesome-Image-Quality-Assessment) | awesome | 画質評価(IQA) | 1514 | 2026-04 | IQA論文/データセット/コードの包括集(非常に活発) |
-| 🟢 | [SerialLain3170/AwesomeAnimeResearch](https://github.com/SerialLain3170/AwesomeAnimeResearch) | awesome | アニメ | 1237 | 2025-12 | アニメ/漫画研究の論文・データセット集(生成・カラー化・キャラアニメ等) |
 | 🟢 | [Linfeng-Tang/Image-Fusion](https://github.com/Linfeng-Tang/Image-Fusion) | survey | 画像融合 | 1193 | 2026-04 | 「Deep Learning-based Image Fusion」サーベイ、赤外-可視/医用/マルチ露出等横断 |
 | 🟢 | [MarkMoHR/Awesome-Image-Colorization](https://github.com/MarkMoHR/Awesome-Image-Colorization) | awesome | カラー化 | 1157 | 2026-04 | 深層学習ベースの画像/動画カラー化論文(2025-2026まで活発) |
 | 🟢 | [ppingzhang/Awesome-Deep-Learning-Based-Video-Compression](https://github.com/ppingzhang/Awesome-Deep-Learning-Based-Video-Compression) | paper-list | 動画圧縮 | 292 | 2025-09 | 深層学習ベース動画圧縮の論文リスト |
 | 🟢 | [rebeccaeexu/Awesome-High-Dynamic-Range-Imaging](https://github.com/rebeccaeexu/Awesome-High-Dynamic-Range-Imaging) | awesome | HDR | 236 | 2026-02 | HDR論文集(マルチ/シングルフレーム・HDRTV・HDR動画・トーンマッピング) |
 | 🟢 | [visionxiang/awesome-computational-photography](https://github.com/visionxiang/awesome-computational-photography) | paper-list | 計算写真 | 179 | 2025-07 | 深層学習による計算写真(画像マッチング・アラインメント・スティッチング・安定化) |
-| 🟢 | [IShengFang/TypographyResearchCollection](https://github.com/IShengFang/TypographyResearchCollection) | paper-list | フォント生成 | 159 | 2025-08 | タイポグラフィ関連のCG/CV/ML研究収集(フォント生成・アニメーション含む) |
 | 🟢 | [CMLab-Korea/Awesome-Video-Frame-Interpolation](https://github.com/CMLab-Korea/Awesome-Video-Frame-Interpolation) | survey | 動画フレーム補間 | 147 | 2026-04 | IEEE TCSVT'26採録のVFIサーベイ。250+論文を体系化(活発) |
 | 🟢 | [TaoWangzj/Awesome-Image-Restoration](https://github.com/TaoWangzj/Awesome-Image-Restoration) | survey | 画像復元(包括) | 13 | 2025-11 | サーベイ「Deep Image Restoration」付随、denoise/deblur/SR/dehaze/derain等横断 |
 | 🟡 | [oneTaken/Awesome-Denoise](https://github.com/oneTaken/Awesome-Denoise) | awesome | デノイズ | 503 | 2024-04 | 画像/バースト/動画デノイズ論文を色空間・ノイズモデル別に整理 |
@@ -411,8 +410,20 @@ AI研究分野の awesome list / survey / 論文リスト調査の**詳細な生
 | 🔴 | [tzxiang/awesome-image-alignment-and-stitching](https://github.com/tzxiang/awesome-image-alignment-and-stitching) | paper-list | 画像スティッチング | 462 | 2022-08 | 画像アラインメント・スティッチングのキュレーション |
 | 🔴 | [subeeshvasu/Awesome-Image-Distortion-Correction](https://github.com/subeeshvasu/Awesome-Image-Distortion-Correction) | awesome | 歪み補正 | 281 | 2023-07 | ローリングシャッター効果・放射状歪みの補正に関する資源集 |
 | 🔴 | [youngguncho/awesome-dehazing](https://github.com/youngguncho/awesome-dehazing) | awesome | デヘイズ | 202 | 2020-08 | 単一/複数画像デヘイズ・水中強調・データセットを分類した論文集 |
-| 🔴 | [qyzdao/Sketch-Based-Deep-Learning](https://github.com/qyzdao/Sketch-Based-Deep-Learning) | paper-list | スケッチ/線画 | 178 | 2021-05 | スケッチベース深層学習の論文集(線画カラー化・ベクトル化等) |
 | 🔴 | [lyh-18/Video-Frame-Interpolation-Collections](https://github.com/lyh-18/Video-Frame-Interpolation-Collections) | paper-list | 動画フレーム補間 | 65 | 2021-11 | SOTA VFI手法のコレクション |
+
+### 🎬 アニメ・アニメーション・イラスト・フォント  (8件)
+
+| 鮮度 | リポジトリ | 種別 | サブ分野 | ⭐ | 最終更新 | 説明 |
+|:--:|:--|:--|:--|--:|:--:|:--|
+| 🟢 | [SerialLain3170/AwesomeAnimeResearch](https://github.com/SerialLain3170/AwesomeAnimeResearch) | awesome | アニメ研究 | 1237 | 2025-12 | アニメ/漫画研究の論文・データセット集(生成・カラー化・キャラアニメ等) |
+| 🟢 | [MarkMoHR/Awesome-Sketch-Based-Applications](https://github.com/MarkMoHR/Awesome-Sketch-Based-Applications) | paper-list | スケッチ応用 | 706 | 2026-05 | スケッチベースのアプリケーション論文集 |
+| 🟢 | [MarkMoHR/Awesome-Sketch-Synthesis](https://github.com/MarkMoHR/Awesome-Sketch-Synthesis) | paper-list | スケッチ合成 | 566 | 2026-05 | スケッチ合成(生成)に関する論文集 |
+| 🟢 | [zhenglinpan/Awesome-Animation-Research](https://github.com/zhenglinpan/Awesome-Animation-Research) | paper-list | アニメーション研究 | 202 | 2026-04 | アニメーション(2D/カートゥーン等)の研究論文・データセットを集めたリスト |
+| 🟢 | [yunlong10/Awesome-AI4Animation](https://github.com/yunlong10/Awesome-AI4Animation) | paper-list | AI×アニメーション | 202 | 2026-01 | AIによるアニメーション生成・補間・着色・制作支援の論文集 |
+| 🟢 | [IShengFang/TypographyResearchCollection](https://github.com/IShengFang/TypographyResearchCollection) | paper-list | タイポグラフィ/フォント生成 | 159 | 2025-08 | タイポグラフィ関連のCG/CV/ML研究収集(フォント生成・アニメーション含む) |
+| 🟢 | [MarkMoHR/Awesome-2D-Animation](https://github.com/MarkMoHR/Awesome-2D-Animation) | paper-list | 2Dアニメーション | 37 | 2026-05 | 中割り(inbetweening)・2Dアニメーションのツール・データセット・論文集 |
+| 🔴 | [qyzdao/Sketch-Based-Deep-Learning](https://github.com/qyzdao/Sketch-Based-Deep-Learning) | paper-list | スケッチ/線画 | 178 | 2021-05 | スケッチベース深層学習の論文集(線画カラー化・ベクトル化等) |
 
 ### 💬 NLP / 大規模言語モデル(LLM)  (98件)
 
@@ -423,10 +434,10 @@ AI研究分野の awesome list / survey / 論文リスト調査の**詳細な生
 | 🟢 | [keon/awesome-nlp](https://github.com/keon/awesome-nlp) | awesome | NLP全般 | 18653 | 2026-05 | NLP全般のライブラリ・データ・チュートリアルを集めた定番リスト |
 | 🟢 | [Mooler0410/LLMsPracticalGuide](https://github.com/Mooler0410/LLMsPracticalGuide) | survey | LLM全般 | 10189 | 2026-04 | LLM進化系統樹と実務活用ガイドをまとめたサーベイ集 |
 | 🟢 | [WangRongsheng/awesome-LLM-resources](https://github.com/WangRongsheng/awesome-LLM-resources) | awesome | LLMリソース総覧 | 8438 | 2026-05 | 多モーダル生成・Agent・補助コーディング・データ処理・訓練・推論等のLLM資料総まとめ |
-| 🟢 | [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) | awesome | prompt engineering | 8059 | 2026-05 | 高評価GPTsのプロンプトと先端プロンプト工学論文のコレクション |
+| 🟢 | [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) | awesome | prompt engineering | 8060 | 2026-05 | 高評価GPTsのプロンプトと先端プロンプト工学論文のコレクション |
 | 🟢 | [hijkzzz/Awesome-LLM-Strawberry](https://github.com/hijkzzz/Awesome-LLM-Strawberry) | paper-list | reasoning(o1) | 6898 | 2025-12 | OpenAI o1と推論技法に焦点を当てた論文・ブログ集 |
 | 🟢 | [promptslab/Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) | awesome | prompt engineering | 5979 | 2026-05 | GPT/ChatGPT向けプロンプト技法の論文・ツールを集めたリスト |
-| 🟢 | [xlite-dev/Awesome-LLM-Inference](https://github.com/xlite-dev/Awesome-LLM-Inference) | paper-list | efficient transformers/inference | 5260 | 2026-04 | FlashAttention・PagedAttention等の推論高速化論文集 |
+| 🟢 | [xlite-dev/Awesome-LLM-Inference](https://github.com/xlite-dev/Awesome-LLM-Inference) | paper-list | efficient transformers/inference | 5261 | 2026-04 | FlashAttention・PagedAttention等の推論高速化論文集 |
 | 🟢 | [eosphoros-ai/Awesome-Text2SQL](https://github.com/eosphoros-ai/Awesome-Text2SQL) | awesome | text-to-SQL | 3659 | 2026-01 | Text2SQL/Text2DSL等のチュートリアルとリソース集 |
 | 🟢 | [atfortes/Awesome-LLM-Reasoning](https://github.com/atfortes/Awesome-LLM-Reasoning) | awesome | LLM推論 | 3622 | 2026-04 | CoTからo1/DeepSeek-R1までのLLM推論論文集(非常に活発) |
 | 🟢 | [Meirtz/Awesome-Context-Engineering](https://github.com/Meirtz/Awesome-Context-Engineering) | survey | context engineering | 3157 | 2026-05 | プロンプト工学から本番AIシステムまでのコンテキスト工学サーベイ |
@@ -568,8 +579,8 @@ AI研究分野の awesome list / survey / 論文リスト調査の**詳細な生
 
 | 鮮度 | リポジトリ | 種別 | サブ分野 | ⭐ | 最終更新 | 説明 |
 |:--:|:--|:--|:--|--:|:--:|:--|
-| 🟢 | [PicoTrex/Awesome-Nano-Banana-images](https://github.com/PicoTrex/Awesome-Nano-Banana-images) | model | Nano Banana | 22884 | 2025-12 | Gemini系Nano Bananaの生成例・プロンプト集(データセット公開) |
-| 🟢 | [EvoLinkAI/awesome-gpt-image-2-API-and-Prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts) | model | GPT-Image-2 | 15712 | 2026-05 | GPT-Image-2のAPIとプロンプト・作例集 |
+| 🟢 | [PicoTrex/Awesome-Nano-Banana-images](https://github.com/PicoTrex/Awesome-Nano-Banana-images) | model | Nano Banana | 22885 | 2025-12 | Gemini系Nano Bananaの生成例・プロンプト集(データセット公開) |
+| 🟢 | [EvoLinkAI/awesome-gpt-image-2-API-and-Prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts) | model | GPT-Image-2 | 15718 | 2026-05 | GPT-Image-2のAPIとプロンプト・作例集 |
 | 🟢 | [YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts) | model | Nano Banana Pro | 12269 | 2026-05 | 世界最大級のNano Banana Proプロンプト集10,000+/16言語(毎日更新) |
 | 🟢 | [ZeroLu/awesome-nanobanana-pro](https://github.com/ZeroLu/awesome-nanobanana-pro) | model | Nano Banana | 10027 | 2026-05 | Nano Banana Pro(Nano Banana 2)のプロンプト・作例集 |
 | 🟢 | [JimmyLv/awesome-nano-banana](https://github.com/JimmyLv/awesome-nano-banana) | model | Nano Banana | 8755 | 2025-09 | Gemini-2.5-Flash-Image(Nano Banana)の作例/プロンプト集 |
@@ -594,11 +605,11 @@ AI研究分野の awesome list / survey / 論文リスト調査の**詳細な生
 
 | 鮮度 | リポジトリ | 種別 | サブ分野 | ⭐ | 最終更新 | 説明 |
 |:--:|:--|:--|:--|--:|:--:|:--|
-| 🟢 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | awesome | LLMアプリ/RAG/Agent | 112084 | 2026-05 | 実行可能なLLMアプリ/RAG/エージェントのコレクション |
-| 🟢 | [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | awesome | MCP | 88119 | 2026-05 | 最大手のMCP(Model Context Protocol)サーバーコレクション |
-| 🟢 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | awesome | Claude Skills | 62362 | 2026-05 | Claude Skill/ツールのキュレーション |
-| 🟢 | [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) | awesome | Claude Code | 45115 | 2026-04 | Claude Code向けskill/hook/slash-command/プラグイン集 |
-| 🟢 | [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) | model | DeepSeek | 37650 | 2026-02 | DeepSeek APIを各種ソフトに統合する公式キュレーション |
+| 🟢 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | awesome | LLMアプリ/RAG/Agent | 112087 | 2026-05 | 実行可能なLLMアプリ/RAG/エージェントのコレクション |
+| 🟢 | [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | awesome | MCP | 88124 | 2026-05 | 最大手のMCP(Model Context Protocol)サーバーコレクション |
+| 🟢 | [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | awesome | Claude Skills | 62368 | 2026-05 | Claude Skill/ツールのキュレーション |
+| 🟢 | [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) | awesome | Claude Code | 45122 | 2026-04 | Claude Code向けskill/hook/slash-command/プラグイン集 |
+| 🟢 | [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) | model | DeepSeek | 37651 | 2026-02 | DeepSeek APIを各種ソフトに統合する公式キュレーション |
 | 🟢 | [bharathgs/Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list) | awesome | PyTorchエコシステム | 16511 | 2026-02 | PyTorch関連のモデル・実装・ライブラリを網羅した大規模リスト |
 | 🟢 | [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) | awesome | 生成AIプロジェクト/サービス | 12082 | 2026-05 | 現代の生成AIプロジェクト・サービスを厳選したリスト |
 | 🟢 | [kyrolabs/awesome-langchain](https://github.com/kyrolabs/awesome-langchain) | awesome | LangChain | 9383 | 2026-04 | LangChainフレームワークのツール・プロジェクトのリスト |
@@ -618,7 +629,7 @@ AI研究分野の awesome list / survey / 論文リスト調査の**詳細な生
 | 🟢 | [AINativeLab/awesome-flux-ai](https://github.com/AINativeLab/awesome-flux-ai) | awesome | FLUX | 111 | 2025-05 | Flux AIのツール/ライブラリ/アプリ網羅 |
 | 🟢 | [doanbactam/awesome-stable-diffusion](https://github.com/doanbactam/awesome-stable-diffusion) | awesome | Stable Diffusion | 75 | 2026-03 | Stable Diffusionリソースのキュレーション |
 | 🟢 | [samouraiworld/awesome-mistral](https://github.com/samouraiworld/awesome-mistral) | awesome | Mistral AI | 42 | 2026-05 | Mistral AIエコシステムのリソース/ツール/プロジェクト集 |
-| 🟡 | [formulahendry/awesome-gpt](https://github.com/formulahendry/awesome-gpt) | awesome | GPT/ChatGPT | 1045 | 2024-05 | GPT/ChatGPT/OpenAI関連プロジェクト・リソース集 |
+| 🟡 | [formulahendry/awesome-gpt](https://github.com/formulahendry/awesome-gpt) | awesome | GPT/ChatGPT | 1046 | 2024-05 | GPT/ChatGPT/OpenAI関連プロジェクト・リソース集 |
 
 ### 🎮 強化学習(RL)  (35件)
 
@@ -738,7 +749,7 @@ AI研究分野の awesome list / survey / 論文リスト調査の**詳細な生
 | 🟢 | [HCPLab-SYSU/Embodied_AI_Paper_List](https://github.com/HCPLab-SYSU/Embodied_AI_Paper_List) | survey | 身体性AI | 2067 | 2026-05 | 身体性AIの知覚・相互作用・エージェント・sim-to-realを網羅(IEEE/ASME ToM 2025) |
 | 🟢 | [zchoi/Awesome-Embodied-Robotics-and-Agent](https://github.com/zchoi/Awesome-Embodied-Robotics-and-Agent) | awesome | embodied AI | 1803 | 2026-05 | LLMを用いたembodied AI/ロボット研究のキュレーション |
 | 🟢 | [curieuxjy/Awesome_Quadrupedal_Robots](https://github.com/curieuxjy/Awesome_Quadrupedal_Robots) | paper-list | 四足歩行 | 1100 | 2026-05 | 四足歩行ロボットの論文・リソース集 |
-| 🟢 | [BaiShuanghao/Awesome-Robotics-Manipulation](https://github.com/BaiShuanghao/Awesome-Robotics-Manipulation) | paper-list | manipulation | 988 | 2026-05 | ロボットマニピュレーションの論文・コード集 |
+| 🟢 | [BaiShuanghao/Awesome-Robotics-Manipulation](https://github.com/BaiShuanghao/Awesome-Robotics-Manipulation) | paper-list | manipulation | 989 | 2026-05 | ロボットマニピュレーションの論文・コード集 |
 | 🟢 | [Songwxuan/Embodied-AI-Paper-TopConf](https://github.com/Songwxuan/Embodied-AI-Paper-TopConf) | paper-list | 会議論文(Embodied AI) | 654 | 2026-05 | トップ会議採択のEmbodied AI論文を継続収集(2026会議まで反映、活発) |
 | 🟢 | [DravenALG/awesome-vla-wam](https://github.com/DravenALG/awesome-vla-wam) | awesome | VLA/WAM | 626 | 2026-05 | VLAとWorld Action Model(WAM)研究のキュレーション |
 | 🟢 | [yueen-ma/Awesome-VLA](https://github.com/yueen-ma/Awesome-VLA) | survey | VLA | 576 | 2026-02 | embodied AI向けVLAモデルのサーベイ論文付きリスト |
@@ -759,7 +770,7 @@ AI研究分野の awesome list / survey / 論文リスト調査の**詳細な生
 | 🟢 | [safe-graph/graph-fraud-detection-papers](https://github.com/safe-graph/graph-fraud-detection-papers) | paper-list | グラフ不正検知 | 1839 | 2026-05 | グラフ/Transformerベースの不正・異常・外れ値検知論文集 |
 | 🟢 | [LIANGKE23/Awesome-Knowledge-Graph-Reasoning](https://github.com/LIANGKE23/Awesome-Knowledge-Graph-Reasoning) | paper-list | KG推論 | 1452 | 2025-11 | 知識グラフ推論の論文・コード・データセット集 |
 | 🟢 | [yyysjz1997/Awesome-TimeSeries-SpatioTemporal-Diffusion-Model](https://github.com/yyysjz1997/Awesome-TimeSeries-SpatioTemporal-Diffusion-Model) | survey | 時空間拡散モデル | 986 | 2026-02 | 時系列・時空間データ向け拡散モデルのサーベイ＆論文集(活発) |
-| 🟢 | [SpaceLearner/Awesome-DynamicGraphLearning](https://github.com/SpaceLearner/Awesome-DynamicGraphLearning) | paper-list | 動的グラフ | 709 | 2025-06 | 動的(時系列)グラフ・知識グラフ上の機械学習論文集 |
+| 🟢 | [SpaceLearner/Awesome-DynamicGraphLearning](https://github.com/SpaceLearner/Awesome-DynamicGraphLearning) | paper-list | 動的グラフ | 710 | 2025-06 | 動的(時系列)グラフ・知識グラフ上の機械学習論文集 |
 | 🟢 | [amorehead/awesome-molecular-generation](https://github.com/amorehead/awesome-molecular-generation) | paper-list | 分子生成 | 343 | 2025-07 | 生成的な分子モデリング・設計の論文集 |
 | 🟢 | [ch-wan/awesome-gnn-systems](https://github.com/ch-wan/awesome-gnn-systems) | awesome | GNNシステム | 342 | 2026-05 | GNNシステム・高速化に関するリソース集 |
 | 🟢 | [mala-lab/Awesome-Deep-Graph-Anomaly-Detection](https://github.com/mala-lab/Awesome-Deep-Graph-Anomaly-Detection) | survey | グラフ異常検知 | 212 | 2026-05 | 2025年TKDEサーベイ公式リポジトリ。GNNベースのグラフ異常検知論文・データセット |
@@ -815,7 +826,7 @@ AI研究分野の awesome list / survey / 論文リスト調査の**詳細な生
 |:--:|:--|:--|:--|--:|:--:|:--|
 | 🟢 | [TSCenter/awesome-time-series-papers](https://github.com/TSCenter/awesome-time-series-papers) | paper-list | 時系列全般 | 994 | 2026-04 | トップAI会議の最新時系列論文・コード集 |
 | 🟢 | [WenjieDu/Awesome_Imputation](https://github.com/WenjieDu/Awesome_Imputation) | survey | 時系列補完 | 420 | 2026-03 | 時系列の欠損値補完(imputation)の論文・手法を集めたサーベイリポジトリ |
-| 🟢 | [TongjiFinLab/awesome-time-series-forecasting](https://github.com/TongjiFinLab/awesome-time-series-forecasting) | paper-list | 時系列予測 | 262 | 2026-04 | 時系列予測の論文・コード集 |
+| 🟢 | [TongjiFinLab/awesome-time-series-forecasting](https://github.com/TongjiFinLab/awesome-time-series-forecasting) | paper-list | 時系列予測 | 263 | 2026-04 | 時系列予測の論文・コード集 |
 | 🟢 | [mala-lab/Awesome-Anomaly-Detection-Foundation-Models](https://github.com/mala-lab/Awesome-Anomaly-Detection-Foundation-Models) | paper-list | 異常検知 | 194 | 2026-05 | 基盤モデルによる異常検知の論文集 |
 | 🟢 | [lzz19980125/awesome-multivariate-time-series-anomaly-detection-algorithms](https://github.com/lzz19980125/awesome-multivariate-time-series-anomaly-detection-algorithms) | paper-list | 異常検知 | 76 | 2025-09 | 多変量時系列異常検知の論文リスト |
 | 🟢 | [qhliu26/awesome-time-series-analysis](https://github.com/qhliu26/awesome-time-series-analysis) | awesome | 時系列全般 | 65 | 2025-09 | 時系列の論文・ベンチマーク・データセット・チュートリアル集 |
@@ -830,7 +841,7 @@ AI研究分野の awesome list / survey / 論文リスト調査の**詳細な生
 
 | 鮮度 | リポジトリ | 種別 | サブ分野 | ⭐ | 最終更新 | 説明 |
 |:--:|:--|:--|:--|--:|:--:|:--|
-| 🟢 | [WooooDyy/LLM-Agent-Paper-List](https://github.com/WooooDyy/LLM-Agent-Paper-List) | survey | LLMエージェント | 8134 | 2025-09 | 86ページのサーベイ「The Rise and Potential of LLM Based Agents」の論文リスト |
+| 🟢 | [WooooDyy/LLM-Agent-Paper-List](https://github.com/WooooDyy/LLM-Agent-Paper-List) | survey | LLMエージェント | 8135 | 2025-09 | 86ページのサーベイ「The Rise and Potential of LLM Based Agents」の論文リスト |
 | 🟢 | [zjunlp/LLMAgentPapers](https://github.com/zjunlp/LLMAgentPapers) | paper-list | LLMエージェント | 3019 | 2026-04 | LLMエージェントの必読論文集 |
 | 🟢 | [luo-junyu/Awesome-Agent-Papers](https://github.com/luo-junyu/Awesome-Agent-Papers) | survey | LLMエージェント | 2720 | 2025-11 | LLMエージェントの手法・応用・課題サーベイの論文集 |
 | 🟢 | [AGI-Edgerunners/LLM-Agents-Papers](https://github.com/AGI-Edgerunners/LLM-Agents-Papers) | paper-list | LLMエージェント | 2302 | 2025-07 | LLMベースエージェント関連論文のリスト |
@@ -838,7 +849,7 @@ AI研究分野の awesome list / survey / 論文リスト調査の**詳細な生
 | 🟢 | [kaushikb11/awesome-llm-agents](https://github.com/kaushikb11/awesome-llm-agents) | awesome | LLMエージェント | 1497 | 2026-05 | LLMエージェントフレームワークの厳選リスト |
 | 🟢 | [showlab/Awesome-GUI-Agent](https://github.com/showlab/Awesome-GUI-Agent) | paper-list | GUIエージェント | 1192 | 2025-08 | マルチモーダルGUIエージェントの論文・リソース集 |
 | 🟢 | [Jenqyang/Awesome-AI-Agents](https://github.com/Jenqyang/Awesome-AI-Agents) | awesome | AIエージェント | 1138 | 2026-05 | LLM駆動の自律エージェントコレクション |
-| 🟢 | [VoltAgent/awesome-ai-agent-papers](https://github.com/VoltAgent/awesome-ai-agent-papers) | paper-list | AIエージェント | 897 | 2026-05 | AIエージェント研究論文集(工学・メモリ・評価・ワークフロー) |
+| 🟢 | [VoltAgent/awesome-ai-agent-papers](https://github.com/VoltAgent/awesome-ai-agent-papers) | paper-list | AIエージェント | 898 | 2026-05 | AIエージェント研究論文集(工学・メモリ・評価・ワークフロー) |
 | 🟢 | [OSU-NLP-Group/GUI-Agents-Paper-List](https://github.com/OSU-NLP-Group/GUI-Agents-Paper-List) | paper-list | GUIエージェント | 803 | 2026-05 | GUIエージェント論文の厳選リスト |
 | 🟢 | [ranpox/awesome-computer-use](https://github.com/ranpox/awesome-computer-use) | awesome | computer use | 557 | 2026-04 | Computer-use GUIエージェントの動画・ブログ・論文・プロジェクト集 |
 | 🟢 | [TsinghuaC3I/Awesome-Memory-for-Agents](https://github.com/TsinghuaC3I/Awesome-Memory-for-Agents) | paper-list | エージェント記憶 | 518 | 2026-05 | 言語エージェントの記憶(ユーザプロファイル・対話履歴)に関する論文集 |
@@ -877,7 +888,7 @@ AI研究分野の awesome list / survey / 論文リスト調査の**詳細な生
 | 🟢 | [BearCleverProud/AwesomeWSI](https://github.com/BearCleverProud/AwesomeWSI) | survey | 病理WSI | 35 | 2026-02 | WSI解析と病理基盤モデルの包括的コレクション(IJCAI 2025サーベイ準拠、活発) |
 | 🟢 | [yuanzhang7/Awesome-Generative-Models-in-Pathology](https://github.com/yuanzhang7/Awesome-Generative-Models-in-Pathology) | survey | 病理生成モデル | 27 | 2025-10 | 病理における生成モデル(画像合成・レポート生成・クロスモーダル)150本超のサーベイ |
 | 🟢 | [AIM-Research-Lab/Awesome-AI-Agents-Medicine](https://github.com/AIM-Research-Lab/Awesome-AI-Agents-Medicine) | paper-list | 医療AIエージェント | 23 | 2026-03 | 医療向けエージェントAIの最新サーベイ集 |
-| 🟢 | [ambicuity/Awesome-MICCAI-2026](https://github.com/ambicuity/Awesome-MICCAI-2026) | paper-list | 会議論文(MICCAI) | 20 | 2026-05 | MICCAI 2026論文をarXivから自動収集しbotが毎日更新、分野別分類 |
+| 🟢 | [ambicuity/Awesome-MICCAI-2026](https://github.com/ambicuity/Awesome-MICCAI-2026) | paper-list | 会議論文(MICCAI) | 21 | 2026-05 | MICCAI 2026論文をarXivから自動収集しbotが毎日更新、分野別分類 |
 | 🟢 | [Deepak-Mewada/Awesome-AI4BCI](https://github.com/Deepak-Mewada/Awesome-AI4BCI) | paper-list | BCI/脳信号 | 17 | 2025-09 | 脳信号エンコーディング/デコーディングの深層学習モデル資源集 |
 | 📑 | [xmindflow/Awesome-Foundation-Models-in-Medical-Imaging](https://github.com/xmindflow/Awesome-Foundation-Models-in-Medical-Imaging) | survey | 医用画像基盤モデル | 301 | 2024-06 | 医用画像の視覚・言語基盤モデルの厳選リスト |
 | 📑 | [shengchaochen82/Awesome-Foundation-Models-for-Weather-and-Climate](https://github.com/shengchaochen82/Awesome-Foundation-Models-for-Weather-and-Climate) | survey | 気象気候 | 293 | 2025-02 | 気象・気候データ理解向け基盤モデルの包括サーベイ |
@@ -891,7 +902,7 @@ AI研究分野の awesome list / survey / 論文リスト調査の**詳細な生
 | 🟡 | [subeeshvasu/Awesome-Neuron-Segmentation-in-EM-Images](https://github.com/subeeshvasu/Awesome-Neuron-Segmentation-in-EM-Images) | awesome | EM画像神経セグメンテーション | 57 | 2024-03 | 電子顕微鏡(EM)画像における神経突起の3Dセグメンテーション資源集 |
 | 🟡 | [OmicsML/awesome-molecule-protein-pretrain-papers](https://github.com/OmicsML/awesome-molecule-protein-pretrain-papers) | paper-list | 分子・タンパク質事前学習 | 47 | 2024-03 | 分子・タンパク質の事前学習論文集(創薬・ドッキング) |
 | 🟡 | [taohan10200/Awesome_AI4Earth](https://github.com/taohan10200/Awesome_AI4Earth) | paper-list | AI4Earth | 14 | 2023-12 | 地球システム(特に気象・気候)の機械学習論文集 |
-| 🔴 | [hurcy/awesome-ehr-deeplearning](https://github.com/hurcy/awesome-ehr-deeplearning) | awesome | EHR深層学習 | 428 | 2022-10 | EHRマイニング・機械学習・深層学習論文集 |
+| 🔴 | [hurcy/awesome-ehr-deeplearning](https://github.com/hurcy/awesome-ehr-deeplearning) | awesome | EHR深層学習 | 429 | 2022-10 | EHRマイニング・機械学習・深層学習論文集 |
 | 🔴 | [ziyujia/Physiological-Signal-Classification-Papers](https://github.com/ziyujia/Physiological-Signal-Classification-Papers) | paper-list | 生理信号分類 | 249 | 2022-07 | EEG/ECG/EMG/EOGの分類論文をタスク別に整理 |
 | 🔴 | [zhjohnchan/awesome-radiology-report-generation](https://github.com/zhjohnchan/awesome-radiology-report-generation) | awesome | 医療レポート生成 | 180 | 2022-05 | 放射線/医療レポート生成と関連領域のキュレーションリスト |
 | 🔴 | [twoXes/awesome-structural-bioinformatics](https://github.com/twoXes/awesome-structural-bioinformatics) | awesome | 構造バイオインフォマティクス | 79 | 2023-05 | 構造バイオインフォマティクスのリソース集 |
@@ -982,7 +993,7 @@ AI研究分野の awesome list / survey / 論文リスト調査の**詳細な生
 | 🟢 | [AI-in-Transportation-Lab/awesome-mechanistic-interpretability](https://github.com/AI-in-Transportation-Lab/awesome-mechanistic-interpretability) | awesome | 機械的解釈性 | 97 | 2026-05 | ニューラルネットを理解可能な計算要素へ逆解析する機械的解釈性のリソース集 |
 | 🟢 | [AI4Risk/awesome-fraud-detection](https://github.com/AI4Risk/awesome-fraud-detection) | paper-list | 金融不正検知 | 43 | 2026-05 | GNNによる金融不正検知のサーベイ付き論文・コード集(活発) |
 | 📑 | [tjunlp-lab/Awesome-LLM-Safety-Papers](https://github.com/tjunlp-lab/Awesome-LLM-Safety-Papers) | survey | LLM安全性 | 56 | 2024-12 | LLM安全性のサーベイ論文リスト |
-| 🟡 | [jivoi/awesome-ml-for-cybersecurity](https://github.com/jivoi/awesome-ml-for-cybersecurity) | awesome | サイバーセキュリティML | 8776 | 2024-08 | マルウェア・侵入検知等にMLを使うツール・論文・教材の定番リスト |
+| 🟡 | [jivoi/awesome-ml-for-cybersecurity](https://github.com/jivoi/awesome-ml-for-cybersecurity) | awesome | サイバーセキュリティML | 8777 | 2024-08 | マルウェア・侵入検知等にMLを使うツール・論文・教材の定番リスト |
 | 🟡 | [tldrsec/prompt-injection-defenses](https://github.com/tldrsec/prompt-injection-defenses) | awesome | プロンプトインジェクション防御 | 696 | 2025-02 | プロンプトインジェクションに対する実用・提案済み防御策を網羅 |
 | 🟡 | [stratosphereips/awesome-ml-privacy-attacks](https://github.com/stratosphereips/awesome-ml-privacy-attacks) | awesome | MLプライバシー攻撃 | 639 | 2024-03 | メンバーシップ推論・モデル反転・属性推論・モデル抽出を網羅した論文リスト |
 | 🟡 | [zihao-ai/Awesome-Backdoor-in-Deep-Learning](https://github.com/zihao-ai/Awesome-Backdoor-in-Deep-Learning) | paper-list | バックドア攻撃 | 238 | 2024-03 | 深層学習のバックドア攻撃と防御を攻撃種別・防御段階で整理した論文集(活発) |
@@ -1028,7 +1039,7 @@ AI研究分野の awesome list / survey / 論文リスト調査の**詳細な生
 | 📑 | [Tebmer/Awesome-Knowledge-Distillation-of-LLMs](https://github.com/Tebmer/Awesome-Knowledge-Distillation-of-LLMs) | survey | LLM知識蒸留 | 1281 | 2025-03 | LLMの知識蒸留サーベイ連動の論文集 |
 | 🟡 | [cedrickchee/awesome-ml-model-compression](https://github.com/cedrickchee/awesome-ml-model-compression) | awesome | モデル圧縮 | 543 | 2024-09 | モデル圧縮・量子化のリサーチ論文・ツール・学習資料 |
 | 🟡 | [jackguagua/awesome-nas-papers](https://github.com/jackguagua/awesome-nas-papers) | paper-list | NAS | 405 | 2024-01 | Neural Architecture Search論文の集約リスト |
-| 🔴 | [ysh329/deep-learning-model-convertor](https://github.com/ysh329/deep-learning-model-convertor) | awesome | モデル変換 | 3241 | 2023-06 | 異なる深層学習フレームワーク間のモデル変換ツールの一覧 |
+| 🔴 | [ysh329/deep-learning-model-convertor](https://github.com/ysh329/deep-learning-model-convertor) | awesome | モデル変換 | 3240 | 2023-06 | 異なる深層学習フレームワーク間のモデル変換ツールの一覧 |
 | 🔴 | [FLHonker/Awesome-Knowledge-Distillation](https://github.com/FLHonker/Awesome-Knowledge-Distillation) | paper-list | 知識蒸留 | 2665 | 2023-05 | 知識蒸留の論文を分類整理(2014-2021) |
 | 🔴 | [D-X-Y/Awesome-AutoDL](https://github.com/D-X-Y/Awesome-AutoDL) | awesome | AutoML | 2337 | 2022-09 | 自動深層学習(AutoDL)のリソースと詳細分析 |
 | 🔴 | [csarron/awesome-emdl](https://github.com/csarron/awesome-emdl) | awesome | 組込み/モバイルDL | 768 | 2023-03 | 組込み・モバイル深層学習の論文/ライブラリ/ツール集 |
@@ -1120,6 +1131,5 @@ AI研究分野の awesome list / survey / 論文リスト調査の**詳細な生
 ## 調査メモ
 
 - 各分野は専任の調査エージェントがWebSearch/WebFetchおよびGitHub APIで実在確認のうえ収集。
-- 重複(複数分野に該当するリスト)は代表分野に正規化して1件に集約。
-- HTTP 404 のリポジトリ(例: `steve-zeyu-zhang/Awesome-3D-Medical-Imaging-Segmentation`)は除外済み。
-- リダイレクト(リネーム/移管)されたリポジトリは正規 full_name に解決済み。
+- 重複(複数分野に該当)は正規名で1件に集約。リダイレクトは正規 full_name に解決。404は除外。
+- 説明文の多言語訳は `data/i18n/desc.<lang>.json` に保持(欠損時は日本語にフォールバック)。
