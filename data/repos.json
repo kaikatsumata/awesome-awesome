@@ -251,12 +251,6 @@
     "subfield": "医用画像SAM",
     "desc": "医用画像セグメンテーションへのSAM応用論文・OSSの要約"
   },
-  "steve-zeyu-zhang/Awesome-3D-Medical-Imaging-Segmentation": {
-    "type": "survey",
-    "field": "cv",
-    "subfield": "3D医用画像セグメンテーション",
-    "desc": "3D医用画像セグメンテーションの包括サーベイ"
-  },
   "TianhaoFu/Awesome-3D-Semantic-Segmentation": {
     "type": "paper-list",
     "field": "cv",
@@ -5134,5 +5128,251 @@
     "field": "app",
     "subfield": "AI for 図書館・文書館・博物館",
     "desc": "図書館・文書館・博物館(GLAM/LAM)向けAIのプロジェクト・事例・リソース集(AI4LAMコミュニティ運営)"
+  },
+  "academic/awesome-datascience": {
+    "type": "awesome-list",
+    "field": "ml",
+    "subfield": "データサイエンス",
+    "desc": "データサイエンスを学び実問題に適用するための定番リソース集"
+  },
+  "ujjwalkarn/Machine-Learning-Tutorials": {
+    "type": "awesome-list",
+    "field": "ml",
+    "subfield": "チュートリアル",
+    "desc": "機械学習・深層学習のチュートリアル・記事・リソースの大規模集"
+  },
+  "krzjoa/awesome-python-data-science": {
+    "type": "awesome-list",
+    "field": "ml",
+    "subfield": "Pythonデータサイエンス",
+    "desc": "Pythonのデータサイエンスソフトウェアを厳選したリスト"
+  },
+  "yzhao062/anomaly-detection-resources": {
+    "type": "awesome-list",
+    "field": "ml",
+    "subfield": "異常検知(汎用)",
+    "desc": "異常検知の書籍・論文・動画・ツールボックスを網羅した定番リスト"
+  },
+  "Leey21/awesome-ai-research-writing": {
+    "type": "awesome-list",
+    "field": "ml",
+    "subfield": "AI研究執筆支援",
+    "desc": "AI研究の論文執筆・推敲を支援するツール・リソース集"
+  },
+  "faridrashidi/kaggle-solutions": {
+    "type": "awesome-list",
+    "field": "ml",
+    "subfield": "Kaggleソリューション",
+    "desc": "Kaggleコンペの解法・アイデアを集めたコレクション"
+  },
+  "NirantK/awesome-project-ideas": {
+    "type": "awesome-list",
+    "field": "ml",
+    "subfield": "プロジェクトアイデア",
+    "desc": "ML/NLP/Vision/推薦のプロジェクトアイデアを集めたリスト"
+  },
+  "AiHubCN/Awesome-Chinese-LLM": {
+    "type": "awesome-list",
+    "field": "nlp",
+    "subfield": "中文LLM",
+    "desc": "オープンソースの中文大規模言語モデル(底座/領域微調整/データ/教程)を整理"
+  },
+  "WangRongsheng/awesome-LLM-resources": {
+    "type": "awesome-list",
+    "field": "nlp",
+    "subfield": "LLMリソース総覧",
+    "desc": "多モーダル生成・Agent・補助コーディング・データ処理・訓練・推論等のLLM資料総まとめ"
+  },
+  "e2b-dev/awesome-ai-agents": {
+    "type": "awesome-list",
+    "field": "agent",
+    "subfield": "AI自律エージェント",
+    "desc": "AI自律エージェント(プロジェクト/フレームワーク)の大規模リスト"
+  },
+  "timzhang642/3D-Machine-Learning": {
+    "type": "awesome-list",
+    "field": "cg",
+    "subfield": "3D機械学習",
+    "desc": "3D機械学習(点群/メッシュ/ボクセル/SDF等)のリソースリポジトリ"
+  },
+  "jianzongwu/Awesome-Open-Vocabulary": {
+    "type": "survey",
+    "field": "cv",
+    "subfield": "オープン語彙学習",
+    "desc": "TPAMI 2024「Towards Open Vocabulary Learning: A Survey」のcompanion"
+  },
+  "kba/awesome-ocr": {
+    "type": "awesome-list",
+    "field": "cv",
+    "subfield": "OCR/HTR",
+    "desc": "OCR・手書き文字認識(HTR)のソフト・ライブラリ・文献集(歴史文書デジタル化の中核)"
+  },
+  "bharathgs/Awesome-pytorch-list": {
+    "type": "awesome-list",
+    "field": "tools",
+    "subfield": "PyTorchエコシステム",
+    "desc": "PyTorch関連のモデル・実装・ライブラリを網羅した大規模リスト"
+  },
+  "steven2358/awesome-generative-ai": {
+    "type": "awesome-list",
+    "field": "tools",
+    "subfield": "生成AIプロジェクト/サービス",
+    "desc": "現代の生成AIプロジェクト・サービスを厳選したリスト"
+  },
+  "kyrolabs/awesome-langchain": {
+    "type": "awesome-list",
+    "field": "tools",
+    "subfield": "LangChain",
+    "desc": "LangChainフレームワークのツール・プロジェクトのリスト"
+  },
+  "ai-collection/ai-collection": {
+    "type": "awesome-list",
+    "field": "tools",
+    "subfield": "生成AIアプリ",
+    "desc": "生成AIアプリケーションを集めたランドスケープ"
+  },
+  "ikaijua/Awesome-AITools": {
+    "type": "awesome-list",
+    "field": "tools",
+    "subfield": "AIツール",
+    "desc": "AI関連の実用ツールを収集したコレクション(中英併記)"
+  },
+  "mahseema/awesome-ai-tools": {
+    "type": "awesome-list",
+    "field": "tools",
+    "subfield": "AIツール",
+    "desc": "AIのトップツールを厳選したリスト"
+  },
+  "alvinreal/awesome-opensource-ai": {
+    "type": "awesome-list",
+    "field": "tools",
+    "subfield": "オープンソースAI",
+    "desc": "真にオープンソースなAIプロジェクト・モデル・ツール・基盤の厳選リスト"
+  },
+  "likedan/Awesome-CoreML-Models": {
+    "type": "model-collection",
+    "field": "eff",
+    "subfield": "CoreMLモデル",
+    "desc": "iOS向けCore MLモデルの最大級のリスト"
+  },
+  "ysh329/deep-learning-model-convertor": {
+    "type": "awesome-list",
+    "field": "eff",
+    "subfield": "モデル変換",
+    "desc": "異なる深層学習フレームワーク間のモデル変換ツールの一覧"
+  },
+  "HumanSignal/awesome-data-labeling": {
+    "type": "awesome-list",
+    "field": "mlops",
+    "subfield": "データラベリング",
+    "desc": "データラベリングツールを厳選したリスト"
+  },
+  "paperswithcode/releasing-research-code": {
+    "type": "awesome-list",
+    "field": "mlops",
+    "subfield": "研究コード公開",
+    "desc": "ML研究コード公開のベストプラクティス(NeurIPS 2020公式推奨)"
+  },
+  "rob-med/awesome-TS-anomaly-detection": {
+    "type": "awesome-list",
+    "field": "ts",
+    "subfield": "時系列異常検知",
+    "desc": "時系列データの異常検知ツール・データセットのリスト"
+  },
+  "EvoLinkAI/awesome-gpt-image-2-API-and-Prompts": {
+    "type": "model-collection",
+    "field": "model",
+    "subfield": "GPT-Image-2",
+    "desc": "GPT-Image-2のAPIとプロンプト・作例集"
+  },
+  "jslee02/awesome-robotics-libraries": {
+    "type": "awesome-list",
+    "field": "robot",
+    "subfield": "ロボティクスライブラリ",
+    "desc": "ロボティクスのライブラリ・ソフトウェアを厳選したリスト"
+  },
+  "Ly0n/awesome-robotic-tooling": {
+    "type": "awesome-list",
+    "field": "robot",
+    "subfield": "ロボティクスツール",
+    "desc": "C++/Python/ROSによるプロ向けロボット開発ツールの集約"
+  },
+  "LongchaoDa/AwesomeSim2Real": {
+    "type": "survey",
+    "field": "rl",
+    "subfield": "sim-to-real",
+    "desc": "サーベイ「A Survey of Sim-to-Real Methods in RL」のcompanion"
+  },
+  "ugurkanates/awesome-real-world-rl": {
+    "type": "awesome-list",
+    "field": "rl",
+    "subfield": "実世界RL",
+    "desc": "実世界で強化学習を動かすための論文・プロジェクト集(sim2real含む)"
+  },
+  "HKUDS/Awesome-SSLRec-Papers": {
+    "type": "survey",
+    "field": "recsys",
+    "subfield": "自己教師あり推薦",
+    "desc": "ACM CSUR「Self-Supervised Learning for Recommendation」サーベイのcompanion"
+  },
+  "jiawei-chen/RecDebiasing": {
+    "type": "survey",
+    "field": "recsys",
+    "subfield": "推薦バイアス除去",
+    "desc": "TOIS 2023「Bias and Debias in Recommender System: A Survey」のバイアス除去手法集"
+  },
+  "YuyingZhao/Awesome-Fairness-and-Diversity-Papers-in-Recommender-Systems": {
+    "type": "paper-list",
+    "field": "recsys",
+    "subfield": "推薦の公平性・多様性",
+    "desc": "推薦システムの公平性・多様性研究を包括的に整理"
+  },
+  "Wind-Gone/awesome-ai4db-paper": {
+    "type": "paper-list",
+    "field": "sys",
+    "subfield": "AI for DB",
+    "desc": "AI4DB論文集(学習型インデックス・基数推定・学習型クエリ最適化・LLM×DB)"
+  },
+  "LumingSun/ML4DB-paper-list": {
+    "type": "paper-list",
+    "field": "sys",
+    "subfield": "ML for DB",
+    "desc": "DBシステムをAIで強化する論文集(学習型インデックス・クエリ最適化)"
+  },
+  "yqtianust/awesome-ml-testing": {
+    "type": "paper-list",
+    "field": "sys",
+    "subfield": "MLシステムのテスト",
+    "desc": "ML/深層学習システムのテストに関する論文・ツール集"
+  },
+  "dh-tech/awesome-digital-humanities": {
+    "type": "awesome-list",
+    "field": "app",
+    "subfield": "デジタルヒューマニティーズ",
+    "desc": "人文学者向けの定量的・計算的手法ソフト集(NLP・トピックモデル・テキスト解析)"
+  },
+  "src-d/awesome-machine-learning-on-source-code": {
+    "type": "awesome-list",
+    "field": "app",
+    "subfield": "MLonCode",
+    "desc": "ソースコードに適用した機械学習(MLonCode)の論文・リンク集"
+  },
+  "grananqvist/Awesome-Quant-Machine-Learning-Trading": {
+    "type": "awesome-list",
+    "field": "app",
+    "subfield": "クオンツ取引",
+    "desc": "機械学習に重点を置いたクオンツ/アルゴリズム取引のリソース集"
+  },
+  "wywyWang/Awesome-Sports-Analytics": {
+    "type": "paper-list",
+    "field": "app",
+    "subfield": "スポーツ分析",
+    "desc": "サッカー・バスケ・バドミントン等のスポーツ分析論文/コード集"
+  },
+  "LLM-Testing/LLM4SoftwareTesting": {
+    "type": "paper-list",
+    "field": "app",
+    "subfield": "LLMソフトウェアテスト",
+    "desc": "LLMを用いたテスト生成・テスト補完等の論文集"
   }
 }

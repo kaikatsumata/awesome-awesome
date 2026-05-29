@@ -461,14 +461,6 @@
     "pushed": "2026-04-30T07:11:08Z",
     "archived": false
   },
-  "steve-zeyu-zhang/Awesome-3D-Medical-Imaging-Segmentation": {
-    "type": "survey",
-    "field": "cv",
-    "subfield": "3D医用画像セグメンテーション",
-    "desc": "3D医用画像セグメンテーションの包括サーベイ",
-    "status": "error",
-    "err": "gh: Not Found (HTTP 404)"
-  },
   "TianhaoFu/Awesome-3D-Semantic-Segmentation": {
     "type": "paper-list",
     "field": "cv",
@@ -1114,7 +1106,7 @@
     "desc": "トーキングフェイス合成の広範な資源集",
     "status": "ok",
     "canonical": "Kedreamix/Awesome-Talking-Head-Synthesis",
-    "stars": 1507,
+    "stars": 1508,
     "pushed": "2026-05-20T03:36:24Z",
     "archived": false
   },
@@ -1554,7 +1546,7 @@
     "desc": "LLMの知識編集に関する論文リスト",
     "status": "ok",
     "canonical": "zjunlp/KnowledgeEditingPapers",
-    "stars": 1231,
+    "stars": 1232,
     "pushed": "2025-07-12T14:30:29Z",
     "archived": false
   },
@@ -1587,7 +1579,7 @@
     "desc": "Text2SQL/Text2DSL等のチュートリアルとリソース集",
     "status": "ok",
     "canonical": "eosphoros-ai/Awesome-Text2SQL",
-    "stars": 3658,
+    "stars": 3659,
     "pushed": "2026-01-26T01:46:37Z",
     "archived": false
   },
@@ -1675,7 +1667,7 @@
     "desc": "対話システムとNLG中心の会話AI論文リスト",
     "status": "ok",
     "canonical": "iwangjian/Paper-Reading-ConvAI",
-    "stars": 1041,
+    "stars": 1042,
     "pushed": "2026-05-05T11:59:38Z",
     "archived": false
   },
@@ -1752,7 +1744,7 @@
     "desc": "Diffusion論文をサブ領域別に分類した実用的コレクション",
     "status": "ok",
     "canonical": "wangkai930418/awesome-diffusion-categorized",
-    "stars": 2207,
+    "stars": 2208,
     "pushed": "2026-03-16T02:13:09Z",
     "archived": false
   },
@@ -2016,7 +2008,7 @@
     "desc": "Deepfake検出のツール/論文/コード",
     "status": "ok",
     "canonical": "Daisy-Zhang/Awesome-Deepfakes-Detection",
-    "stars": 1789,
+    "stars": 1788,
     "pushed": "2025-09-02T01:56:45Z",
     "archived": false
   },
@@ -2137,7 +2129,7 @@
     "desc": "仮想試着の論文/コード/データセットの定番リスト",
     "status": "ok",
     "canonical": "minar09/awesome-virtual-try-on",
-    "stars": 3105,
+    "stars": 3106,
     "pushed": "2026-05-04T12:23:48Z",
     "archived": false
   },
@@ -2192,7 +2184,7 @@
     "desc": "Gemini系Nano Bananaの生成例・プロンプト集(データセット公開)",
     "status": "ok",
     "canonical": "PicoTrex/Awesome-Nano-Banana-images",
-    "stars": 22885,
+    "stars": 22884,
     "pushed": "2025-12-12T19:38:04Z",
     "archived": false
   },
@@ -3226,7 +3218,7 @@
     "desc": "言語別のMLフレームワーク・ライブラリの定番キュレーションリスト",
     "status": "ok",
     "canonical": "josephmisiti/awesome-machine-learning",
-    "stars": 72610,
+    "stars": 72611,
     "pushed": "2026-05-12T13:17:23Z",
     "archived": false
   },
@@ -3842,7 +3834,7 @@
     "desc": "MLのデプロイ・監視・スケーリング用OSSライブラリのリスト",
     "status": "ok",
     "canonical": "EthicalML/awesome-production-machine-learning",
-    "stars": 20573,
+    "stars": 20572,
     "pushed": "2026-05-24T01:39:15Z",
     "archived": false
   },
@@ -7890,7 +7882,7 @@
     "desc": "Claude Code向けskill/hook/slash-command/プラグイン集",
     "status": "ok",
     "canonical": "hesreallyhim/awesome-claude-code",
-    "stars": 45114,
+    "stars": 45115,
     "pushed": "2026-04-27T14:40:18Z",
     "archived": false
   },
@@ -7901,7 +7893,7 @@
     "desc": "Claude Skill/ツールのキュレーション",
     "status": "ok",
     "canonical": "ComposioHQ/awesome-claude-skills",
-    "stars": 62361,
+    "stars": 62362,
     "pushed": "2026-05-22T03:17:49Z",
     "archived": false
   },
@@ -8011,7 +8003,7 @@
     "desc": "最大手のMCP(Model Context Protocol)サーバーコレクション",
     "status": "ok",
     "canonical": "punkpeye/awesome-mcp-servers",
-    "stars": 88117,
+    "stars": 88119,
     "pushed": "2026-05-27T05:34:55Z",
     "archived": false
   },
@@ -8374,7 +8366,7 @@
     "desc": "深層学習と神経科学の交差領域の論文・レビュー集(活発)",
     "status": "ok",
     "canonical": "CYHSM/awesome-neuro-ai-papers",
-    "stars": 445,
+    "stars": 444,
     "pushed": "2026-01-08T12:33:08Z",
     "archived": false
   },
@@ -9410,6 +9402,457 @@
     "canonical": "AI4LAM/awesome-ai4lam",
     "stars": 178,
     "pushed": "2024-06-17T16:09:28Z",
+    "archived": false
+  },
+  "academic/awesome-datascience": {
+    "type": "awesome-list",
+    "field": "ml",
+    "subfield": "データサイエンス",
+    "desc": "データサイエンスを学び実問題に適用するための定番リソース集",
+    "status": "ok",
+    "canonical": "academic/awesome-datascience",
+    "stars": 29288,
+    "pushed": "2026-05-28T20:50:42Z",
+    "archived": false
+  },
+  "ujjwalkarn/Machine-Learning-Tutorials": {
+    "type": "awesome-list",
+    "field": "ml",
+    "subfield": "チュートリアル",
+    "desc": "機械学習・深層学習のチュートリアル・記事・リソースの大規模集",
+    "status": "ok",
+    "canonical": "ujjwalkarn/Machine-Learning-Tutorials",
+    "stars": 17848,
+    "pushed": "2024-06-12T08:11:59Z",
+    "archived": false
+  },
+  "krzjoa/awesome-python-data-science": {
+    "type": "awesome-list",
+    "field": "ml",
+    "subfield": "Pythonデータサイエンス",
+    "desc": "Pythonのデータサイエンスソフトウェアを厳選したリスト",
+    "status": "ok",
+    "canonical": "krzjoa/awesome-python-data-science",
+    "stars": 3441,
+    "pushed": "2026-04-13T07:15:05Z",
+    "archived": false
+  },
+  "yzhao062/anomaly-detection-resources": {
+    "type": "awesome-list",
+    "field": "ml",
+    "subfield": "異常検知(汎用)",
+    "desc": "異常検知の書籍・論文・動画・ツールボックスを網羅した定番リスト",
+    "status": "ok",
+    "canonical": "yzhao062/anomaly-detection-resources",
+    "stars": 9298,
+    "pushed": "2026-03-02T04:42:20Z",
+    "archived": false
+  },
+  "Leey21/awesome-ai-research-writing": {
+    "type": "awesome-list",
+    "field": "ml",
+    "subfield": "AI研究執筆支援",
+    "desc": "AI研究の論文執筆・推敲を支援するツール・リソース集",
+    "status": "ok",
+    "canonical": "Leey21/awesome-ai-research-writing",
+    "stars": 26162,
+    "pushed": "2026-05-18T12:38:36Z",
+    "archived": false
+  },
+  "faridrashidi/kaggle-solutions": {
+    "type": "awesome-list",
+    "field": "ml",
+    "subfield": "Kaggleソリューション",
+    "desc": "Kaggleコンペの解法・アイデアを集めたコレクション",
+    "status": "ok",
+    "canonical": "faridrashidi/kaggle-solutions",
+    "stars": 6438,
+    "pushed": "2026-05-18T01:33:46Z",
+    "archived": false
+  },
+  "NirantK/awesome-project-ideas": {
+    "type": "awesome-list",
+    "field": "ml",
+    "subfield": "プロジェクトアイデア",
+    "desc": "ML/NLP/Vision/推薦のプロジェクトアイデアを集めたリスト",
+    "status": "ok",
+    "canonical": "NirantK/awesome-project-ideas",
+    "stars": 9120,
+    "pushed": "2023-03-13T16:28:22Z",
+    "archived": false
+  },
+  "AiHubCN/Awesome-Chinese-LLM": {
+    "type": "awesome-list",
+    "field": "nlp",
+    "subfield": "中文LLM",
+    "desc": "オープンソースの中文大規模言語モデル(底座/領域微調整/データ/教程)を整理",
+    "status": "ok",
+    "canonical": "AiHubCN/Awesome-Chinese-LLM",
+    "stars": 22581,
+    "pushed": "2026-05-10T05:03:06Z",
+    "archived": false
+  },
+  "WangRongsheng/awesome-LLM-resources": {
+    "type": "awesome-list",
+    "field": "nlp",
+    "subfield": "LLMリソース総覧",
+    "desc": "多モーダル生成・Agent・補助コーディング・データ処理・訓練・推論等のLLM資料総まとめ",
+    "status": "ok",
+    "canonical": "WangRongsheng/awesome-LLM-resources",
+    "stars": 8438,
+    "pushed": "2026-05-29T08:01:51Z",
+    "archived": false
+  },
+  "e2b-dev/awesome-ai-agents": {
+    "type": "awesome-list",
+    "field": "agent",
+    "subfield": "AI自律エージェント",
+    "desc": "AI自律エージェント(プロジェクト/フレームワーク)の大規模リスト",
+    "status": "ok",
+    "canonical": "e2b-dev/awesome-ai-agents",
+    "stars": 28044,
+    "pushed": "2025-02-26T10:04:45Z",
+    "archived": false
+  },
+  "timzhang642/3D-Machine-Learning": {
+    "type": "awesome-list",
+    "field": "cg",
+    "subfield": "3D機械学習",
+    "desc": "3D機械学習(点群/メッシュ/ボクセル/SDF等)のリソースリポジトリ",
+    "status": "ok",
+    "canonical": "timzhang642/3D-Machine-Learning",
+    "stars": 10164,
+    "pushed": "2024-07-04T19:13:09Z",
+    "archived": false
+  },
+  "jianzongwu/Awesome-Open-Vocabulary": {
+    "type": "survey",
+    "field": "cv",
+    "subfield": "オープン語彙学習",
+    "desc": "TPAMI 2024「Towards Open Vocabulary Learning: A Survey」のcompanion",
+    "status": "ok",
+    "canonical": "jianzongwu/Awesome-Open-Vocabulary",
+    "stars": 998,
+    "pushed": "2026-05-12T06:41:25Z",
+    "archived": false
+  },
+  "kba/awesome-ocr": {
+    "type": "awesome-list",
+    "field": "cv",
+    "subfield": "OCR/HTR",
+    "desc": "OCR・手書き文字認識(HTR)のソフト・ライブラリ・文献集(歴史文書デジタル化の中核)",
+    "status": "ok",
+    "canonical": "kba/awesome-ocr",
+    "stars": 3109,
+    "pushed": "2024-07-06T21:02:05Z",
+    "archived": false
+  },
+  "bharathgs/Awesome-pytorch-list": {
+    "type": "awesome-list",
+    "field": "tools",
+    "subfield": "PyTorchエコシステム",
+    "desc": "PyTorch関連のモデル・実装・ライブラリを網羅した大規模リスト",
+    "status": "ok",
+    "canonical": "bharathgs/Awesome-pytorch-list",
+    "stars": 16511,
+    "pushed": "2026-02-01T07:01:10Z",
+    "archived": false
+  },
+  "steven2358/awesome-generative-ai": {
+    "type": "awesome-list",
+    "field": "tools",
+    "subfield": "生成AIプロジェクト/サービス",
+    "desc": "現代の生成AIプロジェクト・サービスを厳選したリスト",
+    "status": "ok",
+    "canonical": "steven2358/awesome-generative-ai",
+    "stars": 12082,
+    "pushed": "2026-05-22T11:25:55Z",
+    "archived": false
+  },
+  "kyrolabs/awesome-langchain": {
+    "type": "awesome-list",
+    "field": "tools",
+    "subfield": "LangChain",
+    "desc": "LangChainフレームワークのツール・プロジェクトのリスト",
+    "status": "ok",
+    "canonical": "kyrolabs/awesome-langchain",
+    "stars": 9383,
+    "pushed": "2026-04-26T15:23:25Z",
+    "archived": false
+  },
+  "ai-collection/ai-collection": {
+    "type": "awesome-list",
+    "field": "tools",
+    "subfield": "生成AIアプリ",
+    "desc": "生成AIアプリケーションを集めたランドスケープ",
+    "status": "ok",
+    "canonical": "ai-collection/ai-collection",
+    "stars": 8958,
+    "pushed": "2026-05-29T08:00:37Z",
+    "archived": false
+  },
+  "ikaijua/Awesome-AITools": {
+    "type": "awesome-list",
+    "field": "tools",
+    "subfield": "AIツール",
+    "desc": "AI関連の実用ツールを収集したコレクション(中英併記)",
+    "status": "ok",
+    "canonical": "ikaijua/Awesome-AITools",
+    "stars": 5972,
+    "pushed": "2026-05-26T04:43:26Z",
+    "archived": false
+  },
+  "mahseema/awesome-ai-tools": {
+    "type": "awesome-list",
+    "field": "tools",
+    "subfield": "AIツール",
+    "desc": "AIのトップツールを厳選したリスト",
+    "status": "ok",
+    "canonical": "mahseema/awesome-ai-tools",
+    "stars": 5338,
+    "pushed": "2025-12-31T14:46:19Z",
+    "archived": false
+  },
+  "alvinreal/awesome-opensource-ai": {
+    "type": "awesome-list",
+    "field": "tools",
+    "subfield": "オープンソースAI",
+    "desc": "真にオープンソースなAIプロジェクト・モデル・ツール・基盤の厳選リスト",
+    "status": "ok",
+    "canonical": "alvinreal/awesome-opensource-ai",
+    "stars": 3695,
+    "pushed": "2026-05-10T04:15:50Z",
+    "archived": false
+  },
+  "likedan/Awesome-CoreML-Models": {
+    "type": "model-collection",
+    "field": "eff",
+    "subfield": "CoreMLモデル",
+    "desc": "iOS向けCore MLモデルの最大級のリスト",
+    "status": "ok",
+    "canonical": "likedan/Awesome-CoreML-Models",
+    "stars": 7007,
+    "pushed": "2025-06-17T05:43:09Z",
+    "archived": false
+  },
+  "ysh329/deep-learning-model-convertor": {
+    "type": "awesome-list",
+    "field": "eff",
+    "subfield": "モデル変換",
+    "desc": "異なる深層学習フレームワーク間のモデル変換ツールの一覧",
+    "status": "ok",
+    "canonical": "ysh329/deep-learning-model-convertor",
+    "stars": 3241,
+    "pushed": "2023-06-26T14:22:18Z",
+    "archived": false
+  },
+  "HumanSignal/awesome-data-labeling": {
+    "type": "awesome-list",
+    "field": "mlops",
+    "subfield": "データラベリング",
+    "desc": "データラベリングツールを厳選したリスト",
+    "status": "ok",
+    "canonical": "HumanSignal/awesome-data-labeling",
+    "stars": 4327,
+    "pushed": "2024-06-17T06:18:41Z",
+    "archived": false
+  },
+  "paperswithcode/releasing-research-code": {
+    "type": "awesome-list",
+    "field": "mlops",
+    "subfield": "研究コード公開",
+    "desc": "ML研究コード公開のベストプラクティス(NeurIPS 2020公式推奨)",
+    "status": "ok",
+    "canonical": "paperswithcode/releasing-research-code",
+    "stars": 2944,
+    "pushed": "2023-05-19T13:22:56Z",
+    "archived": false
+  },
+  "rob-med/awesome-TS-anomaly-detection": {
+    "type": "awesome-list",
+    "field": "ts",
+    "subfield": "時系列異常検知",
+    "desc": "時系列データの異常検知ツール・データセットのリスト",
+    "status": "ok",
+    "canonical": "rob-med/awesome-TS-anomaly-detection",
+    "stars": 3171,
+    "pushed": "2024-10-21T16:22:32Z",
+    "archived": false
+  },
+  "EvoLinkAI/awesome-gpt-image-2-API-and-Prompts": {
+    "type": "model-collection",
+    "field": "model",
+    "subfield": "GPT-Image-2",
+    "desc": "GPT-Image-2のAPIとプロンプト・作例集",
+    "status": "ok",
+    "canonical": "EvoLinkAI/awesome-gpt-image-2-API-and-Prompts",
+    "stars": 15712,
+    "pushed": "2026-05-22T09:06:04Z",
+    "archived": false
+  },
+  "jslee02/awesome-robotics-libraries": {
+    "type": "awesome-list",
+    "field": "robot",
+    "subfield": "ロボティクスライブラリ",
+    "desc": "ロボティクスのライブラリ・ソフトウェアを厳選したリスト",
+    "status": "ok",
+    "canonical": "jslee02/awesome-robotics-libraries",
+    "stars": 2936,
+    "pushed": "2026-05-25T07:32:23Z",
+    "archived": false
+  },
+  "Ly0n/awesome-robotic-tooling": {
+    "type": "awesome-list",
+    "field": "robot",
+    "subfield": "ロボティクスツール",
+    "desc": "C++/Python/ROSによるプロ向けロボット開発ツールの集約",
+    "status": "ok",
+    "canonical": "Ly0n/awesome-robotic-tooling",
+    "stars": 3823,
+    "pushed": "2023-11-20T07:13:29Z",
+    "archived": false
+  },
+  "LongchaoDa/AwesomeSim2Real": {
+    "type": "survey",
+    "field": "rl",
+    "subfield": "sim-to-real",
+    "desc": "サーベイ「A Survey of Sim-to-Real Methods in RL」のcompanion",
+    "status": "ok",
+    "canonical": "LongchaoDa/AwesomeSim2Real",
+    "stars": 166,
+    "pushed": "2025-09-05T09:32:26Z",
+    "archived": false
+  },
+  "ugurkanates/awesome-real-world-rl": {
+    "type": "awesome-list",
+    "field": "rl",
+    "subfield": "実世界RL",
+    "desc": "実世界で強化学習を動かすための論文・プロジェクト集(sim2real含む)",
+    "status": "ok",
+    "canonical": "ugurkanates/awesome-real-world-rl",
+    "stars": 453,
+    "pushed": "2022-10-28T11:33:52Z",
+    "archived": false
+  },
+  "HKUDS/Awesome-SSLRec-Papers": {
+    "type": "survey",
+    "field": "recsys",
+    "subfield": "自己教師あり推薦",
+    "desc": "ACM CSUR「Self-Supervised Learning for Recommendation」サーベイのcompanion",
+    "status": "ok",
+    "canonical": "HKUDS/Awesome-SSLRec-Papers",
+    "stars": 122,
+    "pushed": "2024-08-25T20:07:46Z",
+    "archived": false
+  },
+  "jiawei-chen/RecDebiasing": {
+    "type": "survey",
+    "field": "recsys",
+    "subfield": "推薦バイアス除去",
+    "desc": "TOIS 2023「Bias and Debias in Recommender System: A Survey」のバイアス除去手法集",
+    "status": "ok",
+    "canonical": "jiawei-chen/RecDebiasing",
+    "stars": 462,
+    "pushed": "2024-02-19T12:24:02Z",
+    "archived": false
+  },
+  "YuyingZhao/Awesome-Fairness-and-Diversity-Papers-in-Recommender-Systems": {
+    "type": "paper-list",
+    "field": "recsys",
+    "subfield": "推薦の公平性・多様性",
+    "desc": "推薦システムの公平性・多様性研究を包括的に整理",
+    "status": "ok",
+    "canonical": "YuyingZhao/Awesome-Fairness-and-Diversity-Papers-in-Recommender-Systems",
+    "stars": 25,
+    "pushed": "2023-06-29T16:36:53Z",
+    "archived": false
+  },
+  "Wind-Gone/awesome-ai4db-paper": {
+    "type": "paper-list",
+    "field": "sys",
+    "subfield": "AI for DB",
+    "desc": "AI4DB論文集(学習型インデックス・基数推定・学習型クエリ最適化・LLM×DB)",
+    "status": "ok",
+    "canonical": "Wind-Gone/awesome-ai4db-paper",
+    "stars": 112,
+    "pushed": "2026-04-14T10:27:10Z",
+    "archived": false
+  },
+  "LumingSun/ML4DB-paper-list": {
+    "type": "paper-list",
+    "field": "sys",
+    "subfield": "ML for DB",
+    "desc": "DBシステムをAIで強化する論文集(学習型インデックス・クエリ最適化)",
+    "status": "ok",
+    "canonical": "LumingSun/ML4DB-paper-list",
+    "stars": 773,
+    "pushed": "2026-04-21T01:14:46Z",
+    "archived": false
+  },
+  "yqtianust/awesome-ml-testing": {
+    "type": "paper-list",
+    "field": "sys",
+    "subfield": "MLシステムのテスト",
+    "desc": "ML/深層学習システムのテストに関する論文・ツール集",
+    "status": "ok",
+    "canonical": "yqtian-se/awesome-ml-testing",
+    "stars": 47,
+    "pushed": "2021-10-12T05:58:31Z",
+    "archived": false
+  },
+  "dh-tech/awesome-digital-humanities": {
+    "type": "awesome-list",
+    "field": "app",
+    "subfield": "デジタルヒューマニティーズ",
+    "desc": "人文学者向けの定量的・計算的手法ソフト集(NLP・トピックモデル・テキスト解析)",
+    "status": "ok",
+    "canonical": "dh-tech/awesome-digital-humanities",
+    "stars": 383,
+    "pushed": "2026-05-08T04:38:31Z",
+    "archived": false
+  },
+  "src-d/awesome-machine-learning-on-source-code": {
+    "type": "awesome-list",
+    "field": "app",
+    "subfield": "MLonCode",
+    "desc": "ソースコードに適用した機械学習(MLonCode)の論文・リンク集",
+    "status": "ok",
+    "canonical": "src-d/awesome-machine-learning-on-source-code",
+    "stars": 6584,
+    "pushed": "2020-12-03T17:58:42Z",
+    "archived": false
+  },
+  "grananqvist/Awesome-Quant-Machine-Learning-Trading": {
+    "type": "awesome-list",
+    "field": "app",
+    "subfield": "クオンツ取引",
+    "desc": "機械学習に重点を置いたクオンツ/アルゴリズム取引のリソース集",
+    "status": "ok",
+    "canonical": "grananqvist/Awesome-Quant-Machine-Learning-Trading",
+    "stars": 3670,
+    "pushed": "2025-05-21T20:41:58Z",
+    "archived": false
+  },
+  "wywyWang/Awesome-Sports-Analytics": {
+    "type": "paper-list",
+    "field": "app",
+    "subfield": "スポーツ分析",
+    "desc": "サッカー・バスケ・バドミントン等のスポーツ分析論文/コード集",
+    "status": "ok",
+    "canonical": "wywyWang/Awesome-Sports-Analytics",
+    "stars": 20,
+    "pushed": "2023-03-02T04:13:17Z",
+    "archived": false
+  },
+  "LLM-Testing/LLM4SoftwareTesting": {
+    "type": "paper-list",
+    "field": "app",
+    "subfield": "LLMソフトウェアテスト",
+    "desc": "LLMを用いたテスト生成・テスト補完等の論文集",
+    "status": "ok",
+    "canonical": "LLM-Testing/LLM4SoftwareTesting",
+    "stars": 529,
+    "pushed": "2024-01-10T02:39:00Z",
     "archived": false
   }
 }
