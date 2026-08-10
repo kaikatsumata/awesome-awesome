@@ -6,7 +6,7 @@
     "desc": "CV全般の書籍・講義・論文・ツール・データセットを網羅した定番リスト",
     "status": "ok",
     "canonical": "jbhuang0604/awesome-computer-vision",
-    "stars": 23472,
+    "stars": 23484,
     "pushed": "2024-05-17T14:24:27Z",
     "archived": false
   },
@@ -17,7 +17,7 @@
     "desc": "トップ会議の採択論文を横断検索できるようまとめた論文リスト",
     "status": "ok",
     "canonical": "yarkable/Awesome-Computer-Vision-Paper-List",
-    "stars": 762,
+    "stars": 764,
     "pushed": "2024-04-06T18:17:00Z",
     "archived": false
   },
@@ -39,7 +39,7 @@
     "desc": "R-CNN系・YOLO・SSD等の物体検出論文/実装をまとめた定番リスト",
     "status": "ok",
     "canonical": "amusi/awesome-object-detection",
-    "stars": 7498,
+    "stars": 7499,
     "pushed": "2022-12-17T04:28:58Z",
     "archived": false
   },
@@ -50,7 +50,7 @@
     "desc": "Tiny Object Detection(微小物体検出)の論文・リソース集",
     "status": "ok",
     "canonical": "kuanhungchen/awesome-tiny-object-detection",
-    "stars": 1628,
+    "stars": 1629,
     "pushed": "2023-10-04T16:37:36Z",
     "archived": false
   },
@@ -72,7 +72,7 @@
     "desc": "Described/Open-Vocabulary物体検出・参照表現理解の論文集",
     "status": "ok",
     "canonical": "Charles-Xie/awesome-described-object-detection",
-    "stars": 359,
+    "stars": 358,
     "pushed": "2025-11-06T06:12:57Z",
     "archived": false
   },
@@ -83,7 +83,7 @@
     "desc": "セマンティックセグメンテーションの定番リソース集",
     "status": "ok",
     "canonical": "mrgloom/awesome-semantic-segmentation",
-    "stars": 10851,
+    "stars": 10850,
     "pushed": "2021-05-08T13:40:11Z",
     "archived": false
   },
@@ -105,7 +105,7 @@
     "desc": "オープン語彙/ゼロショットセマンティックセグメンテーション論文リスト",
     "status": "ok",
     "canonical": "Qinying-Liu/Awesome-Open-Vocabulary-Semantic-Segmentation",
-    "stars": 893,
+    "stars": 895,
     "pushed": "2026-05-20T12:03:53Z",
     "archived": false
   },
@@ -204,7 +204,7 @@
     "desc": "人物姿勢推定の論文・リソース集",
     "status": "ok",
     "canonical": "cbsudux/awesome-human-pose-estimation",
-    "stars": 2479,
+    "stars": 2481,
     "pushed": "2022-10-12T12:34:44Z",
     "archived": false
   },
@@ -237,7 +237,7 @@
     "desc": "顔検出/認識/再構成/生成等を網羅した大規模論文集",
     "status": "ok",
     "canonical": "ChanChiChoi/awesome-Face_Recognition",
-    "stars": 4751,
+    "stars": 4753,
     "pushed": "2023-02-09T07:02:58Z",
     "archived": false
   },
@@ -270,7 +270,7 @@
     "desc": "顔偽造の生成と検出に関する論文・コード集",
     "status": "ok",
     "canonical": "clpeng/Awesome-Face-Forgery-Generation-and-Detection",
-    "stars": 782,
+    "stars": 781,
     "pushed": "2022-11-18T10:57:19Z",
     "archived": false
   },
@@ -281,8 +281,8 @@
     "desc": "OCRの論文・データセットを集めたリソース集",
     "status": "ok",
     "canonical": "ZumingHuang/awesome-ocr-resources",
-    "stars": 432,
-    "pushed": "2026-08-03T02:04:48Z",
+    "stars": 437,
+    "pushed": "2026-08-09T01:01:10Z",
     "archived": false
   },
   "hwalsuklee/awesome-deep-text-detection-recognition": {
@@ -314,7 +314,7 @@
     "desc": "超解像関連の論文・データ・リポジトリを集約",
     "status": "ok",
     "canonical": "ChaofWang/Awesome-Super-Resolution",
-    "stars": 3088,
+    "stars": 3092,
     "pushed": "2026-06-11T09:18:50Z",
     "archived": false
   },
@@ -347,7 +347,7 @@
     "desc": "画像・動画デブラーのリソースをまとめたリスト",
     "status": "ok",
     "canonical": "subeeshvasu/Awesome-Deblurring",
-    "stars": 2909,
+    "stars": 2910,
     "pushed": "2025-06-29T07:34:16Z",
     "archived": false
   },
@@ -369,7 +369,7 @@
     "desc": "行動認識と関連領域のリソースを網羅した定番リスト",
     "status": "ok",
     "canonical": "jinwchoi/awesome-action-recognition",
-    "stars": 4010,
+    "stars": 4012,
     "pushed": "2023-05-13T17:00:12Z",
     "archived": false
   },
@@ -391,7 +391,7 @@
     "desc": "スケルトンベース行動認識の論文を月次更新するリスト",
     "status": "ok",
     "canonical": "firework8/Awesome-Skeleton-based-Action-Recognition",
-    "stars": 724,
+    "stars": 725,
     "pushed": "2026-07-18T08:23:35Z",
     "archived": false
   },
@@ -402,7 +402,7 @@
     "desc": "長尺動画に特化した論文・データセット集",
     "status": "ok",
     "canonical": "ttengwang/Awesome_Long_Form_Video_Understanding",
-    "stars": 381,
+    "stars": 382,
     "pushed": "2025-10-09T12:07:05Z",
     "archived": false
   },
@@ -446,7 +446,7 @@
     "desc": "各種チャレンジに基づくSOTA医用画像セグメンテーション手法集",
     "status": "ok",
     "canonical": "JunMa11/SOTA-MedSeg",
-    "stars": 1679,
+    "stars": 1677,
     "pushed": "2023-12-12T02:58:36Z",
     "archived": false
   },
@@ -457,7 +457,7 @@
     "desc": "医用画像セグメンテーションへのSAM応用論文・OSSの要約",
     "status": "ok",
     "canonical": "YichiZhang98/SAM4MIS",
-    "stars": 1120,
+    "stars": 1121,
     "pushed": "2026-04-30T07:11:08Z",
     "archived": false
   },
@@ -479,7 +479,7 @@
     "desc": "オプティカルフローと関連研究の論文リスト",
     "status": "ok",
     "canonical": "hzwer/Awesome-Optical-Flow",
-    "stars": 650,
+    "stars": 649,
     "pushed": "2024-11-11T07:39:55Z",
     "archived": false
   },
@@ -534,7 +534,7 @@
     "desc": "ViT/Attentionを網羅した極めて包括的な論文リスト",
     "status": "ok",
     "canonical": "cmhungsteve/Awesome-Transformer-Attention",
-    "stars": 5052,
+    "stars": 5050,
     "pushed": "2024-07-30T06:57:18Z",
     "archived": false
   },
@@ -545,7 +545,7 @@
     "desc": "CV向けTransformer論文を集めたコレクション",
     "status": "ok",
     "canonical": "dk-liang/Awesome-Visual-Transformer",
-    "stars": 3590,
+    "stars": 3589,
     "pushed": "2025-01-07T01:59:49Z",
     "archived": false
   },
@@ -567,7 +567,7 @@
     "desc": "CVPR 2023/2024採択論文をトピック別に整理",
     "status": "ok",
     "canonical": "DmitryRyumin/CVPR-2023-24-Papers",
-    "stars": 452,
+    "stars": 453,
     "pushed": "2024-07-15T00:55:16Z",
     "archived": false
   },
@@ -578,7 +578,7 @@
     "desc": "ICCV 2023-2025採択論文のキュレーション",
     "status": "ok",
     "canonical": "DmitryRyumin/ICCV-2023-25-Papers",
-    "stars": 968,
+    "stars": 969,
     "pushed": "2025-11-07T15:03:40Z",
     "archived": false
   },
@@ -601,7 +601,7 @@
     "status": "ok",
     "canonical": "Kobaayyy/Awesome-CVPR2026-CVPR2025-ICCV2025-CVPR2024-ECCV2026-ECCV2024-AIGC",
     "stars": 674,
-    "pushed": "2026-07-28T06:48:36Z",
+    "pushed": "2026-08-05T02:31:39Z",
     "archived": false
   },
   "awesome-NeRF/awesome-NeRF": {
@@ -611,7 +611,7 @@
     "desc": "Neural Radiance Fields論文の定番キュレーションリスト",
     "status": "ok",
     "canonical": "awesome-NeRF/awesome-NeRF",
-    "stars": 6776,
+    "stars": 6775,
     "pushed": "2025-01-06T11:03:37Z",
     "archived": false
   },
@@ -633,8 +633,8 @@
     "desc": "3DGSの論文・実装・ビューア・ツールを集めた包括リスト",
     "status": "ok",
     "canonical": "MrNeRF/awesome-3D-gaussian-splatting",
-    "stars": 8791,
-    "pushed": "2026-07-25T13:05:32Z",
+    "stars": 8807,
+    "pushed": "2026-08-04T09:09:58Z",
     "archived": false
   },
   "pdaicode/awesome-3dgs": {
@@ -655,8 +655,8 @@
     "desc": "arXivから毎日自動更新される3DGS論文追跡",
     "status": "ok",
     "canonical": "longxiang-ai/awesome-gaussians",
-    "stars": 327,
-    "pushed": "2026-08-02T01:47:27Z",
+    "stars": 330,
+    "pushed": "2026-08-10T00:55:53Z",
     "archived": false
   },
   "weihaox/awesome-neural-rendering": {
@@ -677,7 +677,7 @@
     "desc": "neural field基盤の逆レンダリング論文集",
     "status": "ok",
     "canonical": "ingra14m/Awesome-Inverse-Rendering",
-    "stars": 260,
+    "stars": 261,
     "pushed": "2024-12-23T11:36:44Z",
     "archived": false
   },
@@ -732,7 +732,7 @@
     "desc": "レイトレーシングの論文・コース・実装リスト",
     "status": "ok",
     "canonical": "dannyfritz/awesome-ray-tracing",
-    "stars": 658,
+    "stars": 657,
     "pushed": "2025-10-23T21:41:48Z",
     "archived": false
   },
@@ -754,7 +754,7 @@
     "desc": "幾何処理のライブラリ・ツール・資料集",
     "status": "ok",
     "canonical": "zishun/awesome-geometry-processing",
-    "stars": 177,
+    "stars": 179,
     "pushed": "2026-03-22T15:10:59Z",
     "archived": false
   },
@@ -765,7 +765,7 @@
     "desc": "3D形状の深層学習ソリューション資料集",
     "status": "ok",
     "canonical": "subeeshvasu/Awsome_Deep_Geometry_Learning",
-    "stars": 364,
+    "stars": 363,
     "pushed": "2021-08-23T17:40:42Z",
     "archived": false
   },
@@ -776,7 +776,7 @@
     "desc": "クワッドメッシング関連の論文・コード・プロジェクト集",
     "status": "ok",
     "canonical": "Bigger-and-Stronger/quad-meshing-survey",
-    "stars": 60,
+    "stars": 65,
     "pushed": "2026-08-02T03:36:14Z",
     "archived": false
   },
@@ -787,7 +787,7 @@
     "desc": "画像からの3D復元の古典的論文・資料集",
     "status": "ok",
     "canonical": "openMVG/awesome_3DReconstruction_list",
-    "stars": 4415,
+    "stars": 4417,
     "pushed": "2021-10-12T04:37:11Z",
     "archived": false
   },
@@ -798,7 +798,7 @@
     "desc": "深層学習時代の3D復元論文集",
     "status": "ok",
     "canonical": "bluestyle97/awesome-3d-reconstruction-papers",
-    "stars": 910,
+    "stars": 911,
     "pushed": "2023-12-11T14:52:28Z",
     "archived": false
   },
@@ -842,7 +842,7 @@
     "desc": "DUSt3R系の幾何基盤モデル論文・資源追跡",
     "status": "ok",
     "canonical": "ruili3/awesome-dust3r",
-    "stars": 802,
+    "stars": 803,
     "pushed": "2025-11-05T08:58:17Z",
     "archived": false
   },
@@ -886,7 +886,7 @@
     "desc": "SLAM論文の継続更新リスト",
     "status": "ok",
     "canonical": "SilenceOverflow/Awesome-SLAM",
-    "stars": 1108,
+    "stars": 1107,
     "pushed": "2023-10-13T03:37:07Z",
     "archived": false
   },
@@ -897,8 +897,8 @@
     "desc": "暗黙表現・NeRF・3DGSを用いたSLAM論文集",
     "status": "ok",
     "canonical": "3D-Vision-World/awesome-NeRF-and-3DGS-SLAM",
-    "stars": 2088,
-    "pushed": "2026-07-28T09:44:02Z",
+    "stars": 2090,
+    "pushed": "2026-08-09T08:35:53Z",
     "archived": false
   },
   "KwanWaiPang/Awesome-3DGS-SLAM": {
@@ -908,7 +908,7 @@
     "desc": "3DGS SLAMのサーベイ用論文集",
     "status": "ok",
     "canonical": "KwanWaiPang/Awesome-3DGS-SLAM",
-    "stars": 284,
+    "stars": 287,
     "pushed": "2026-02-18T11:26:57Z",
     "archived": false
   },
@@ -930,7 +930,7 @@
     "desc": "点群解析・処理に関する論文とデータセットのリスト",
     "status": "ok",
     "canonical": "Yochengliu/awesome-point-cloud-analysis",
-    "stars": 4221,
+    "stars": 4220,
     "pushed": "2023-05-19T04:34:48Z",
     "archived": false
   },
@@ -952,7 +952,7 @@
     "desc": "点群処理のライブラリ・ソフト・資料集",
     "status": "ok",
     "canonical": "mmolero/awesome-point-cloud-processing",
-    "stars": 802,
+    "stars": 804,
     "pushed": "2025-11-27T07:24:07Z",
     "archived": false
   },
@@ -963,7 +963,7 @@
     "desc": "DeepSDF等の暗黙的ニューラル表現の資料集",
     "status": "ok",
     "canonical": "vsitzmann/awesome-implicit-representations",
-    "stars": 2640,
+    "stars": 2642,
     "pushed": "2024-02-11T22:48:44Z",
     "archived": false
   },
@@ -997,7 +997,7 @@
     "status": "ok",
     "canonical": "yyeboah/Awesome-Text-to-3D",
     "stars": 597,
-    "pushed": "2026-08-01T06:57:35Z",
+    "pushed": "2026-08-09T19:28:05Z",
     "archived": false
   },
   "hitcslj/Awesome-AIGC-3D": {
@@ -1051,7 +1051,7 @@
     "desc": "2D/3D/4D人体モデリング・アバター生成の総合集",
     "status": "ok",
     "canonical": "weihaox/awesome-digital-human",
-    "stars": 1967,
+    "stars": 1970,
     "pushed": "2026-04-18T02:42:41Z",
     "archived": false
   },
@@ -1084,7 +1084,7 @@
     "desc": "3D人体(SMPL等)の論文集",
     "status": "ok",
     "canonical": "3DFaceBody/awesome-3dbody-papers",
-    "stars": 662,
+    "stars": 663,
     "pushed": "2024-01-01T11:45:17Z",
     "archived": false
   },
@@ -1106,7 +1106,7 @@
     "desc": "トーキングフェイス合成の広範な資源集",
     "status": "ok",
     "canonical": "Kedreamix/Awesome-Talking-Head-Synthesis",
-    "stars": 1536,
+    "stars": 1539,
     "pushed": "2026-05-20T03:36:24Z",
     "archived": false
   },
@@ -1117,7 +1117,7 @@
     "desc": "トーキングフェイス専門のキュレーション",
     "status": "ok",
     "canonical": "JosephPai/Awesome-Talking-Face",
-    "stars": 1537,
+    "stars": 1536,
     "pushed": "2024-12-23T08:34:11Z",
     "archived": false
   },
@@ -1139,7 +1139,7 @@
     "desc": "Taichi製シミュレーション(流体・布等)アプリ集",
     "status": "ok",
     "canonical": "taichi-dev/awesome-taichi",
-    "stars": 690,
+    "stars": 692,
     "pushed": "2024-06-13T10:21:21Z",
     "archived": false
   },
@@ -1161,7 +1161,7 @@
     "desc": "CG学習用の書籍・講座・資料集",
     "status": "ok",
     "canonical": "luisdnsantos/awesome-computer-graphics",
-    "stars": 1026,
+    "stars": 1029,
     "pushed": "2021-07-17T05:48:35Z",
     "archived": false
   },
@@ -1172,7 +1172,7 @@
     "desc": "3Dグラフィックスライブラリのキュレーション",
     "status": "ok",
     "canonical": "jslee02/awesome-graphics-libraries",
-    "stars": 534,
+    "stars": 536,
     "pushed": "2026-05-11T05:00:11Z",
     "archived": false
   },
@@ -1183,7 +1183,7 @@
     "desc": "LLM論文・モデル・ツール・コースを網羅した最大級のリスト",
     "status": "ok",
     "canonical": "Hannibal046/Awesome-LLM",
-    "stars": 27219,
+    "stars": 27251,
     "pushed": "2025-07-31T02:38:24Z",
     "archived": false
   },
@@ -1194,7 +1194,7 @@
     "desc": "「A Survey of Large Language Models」公式リポジトリ",
     "status": "ok",
     "canonical": "RUCAIBox/LLMSurvey",
-    "stars": 12197,
+    "stars": 12204,
     "pushed": "2025-03-11T09:51:42Z",
     "archived": false
   },
@@ -1205,7 +1205,7 @@
     "desc": "LLM進化系統樹と実務活用ガイドをまとめたサーベイ集",
     "status": "ok",
     "canonical": "Mooler0410/LLMsPracticalGuide",
-    "stars": 10200,
+    "stars": 10197,
     "pushed": "2026-04-08T18:26:44Z",
     "archived": false
   },
@@ -1216,7 +1216,7 @@
     "desc": "NLP全般のライブラリ・データ・チュートリアルを集めた定番リスト",
     "status": "ok",
     "canonical": "keon/awesome-nlp",
-    "stars": 18870,
+    "stars": 18894,
     "pushed": "2026-07-11T20:57:17Z",
     "archived": false
   },
@@ -1238,8 +1238,8 @@
     "desc": "GPT/ChatGPT向けプロンプト技法の論文・ツールを集めたリスト",
     "status": "ok",
     "canonical": "promptslab/Awesome-Prompt-Engineering",
-    "stars": 6215,
-    "pushed": "2026-08-02T08:32:25Z",
+    "stars": 6238,
+    "pushed": "2026-08-09T07:05:54Z",
     "archived": false
   },
   "ai-boost/awesome-prompts": {
@@ -1249,8 +1249,8 @@
     "desc": "高評価GPTsのプロンプトと先端プロンプト工学論文のコレクション",
     "status": "ok",
     "canonical": "ai-boost/awesome-prompts",
-    "stars": 8619,
-    "pushed": "2026-08-02T20:35:23Z",
+    "stars": 8665,
+    "pushed": "2026-08-09T13:19:43Z",
     "archived": false
   },
   "EgoAlpha/prompt-in-context-learning": {
@@ -1260,7 +1260,7 @@
     "desc": "ICLとプロンプト工学の最新リソースを継続更新する論文リスト",
     "status": "ok",
     "canonical": "EgoAlpha/prompt-in-context-learning",
-    "stars": 2248,
+    "stars": 2247,
     "pushed": "2026-05-29T01:00:03Z",
     "archived": false
   },
@@ -1293,7 +1293,7 @@
     "desc": "OpenAI o1と推論技法に焦点を当てた論文・ブログ集",
     "status": "ok",
     "canonical": "hijkzzz/Awesome-LLM-Strawberry",
-    "stars": 6894,
+    "stars": 6897,
     "pushed": "2025-12-17T01:42:37Z",
     "archived": false
   },
@@ -1315,7 +1315,7 @@
     "desc": "プロンプト工学から本番AIシステムまでのコンテキスト工学サーベイ",
     "status": "ok",
     "canonical": "Meirtz/Awesome-Context-Engineering",
-    "stars": 3264,
+    "stars": 3274,
     "pushed": "2026-05-28T05:40:26Z",
     "archived": false
   },
@@ -1326,7 +1326,7 @@
     "desc": "「RAG for AI-Generated Content」サーベイの分類体系と論文集",
     "status": "ok",
     "canonical": "hymie122/RAG-Survey",
-    "stars": 1788,
+    "stars": 1790,
     "pushed": "2024-08-20T11:52:42Z",
     "archived": false
   },
@@ -1337,7 +1337,7 @@
     "desc": "グラフベースRAGのサーベイ・論文・ベンチマーク集",
     "status": "ok",
     "canonical": "DEEP-PolyU/Awesome-GraphRAG",
-    "stars": 2568,
+    "stars": 2579,
     "pushed": "2026-06-02T12:52:38Z",
     "archived": false
   },
@@ -1392,7 +1392,7 @@
     "desc": "「Siren's Song in the AI Ocean」幻覚サーベイの読み物リスト",
     "status": "ok",
     "canonical": "HillZhang1999/llm-hallucination-survey",
-    "stars": 1085,
+    "stars": 1084,
     "pushed": "2025-09-27T13:49:22Z",
     "archived": false
   },
@@ -1403,7 +1403,7 @@
     "desc": "LLMの幻覚検出論文をモデル別に整理したリスト",
     "status": "ok",
     "canonical": "EdinburghNLP/awesome-hallucination-detection",
-    "stars": 1120,
+    "stars": 1123,
     "pushed": "2026-07-24T22:26:19Z",
     "archived": false
   },
@@ -1436,7 +1436,7 @@
     "desc": "「LLMs-as-Judges」評価手法サーベイの公式論文集",
     "status": "ok",
     "canonical": "CSHaitao/Awesome-LLMs-as-Judges",
-    "stars": 600,
+    "stars": 606,
     "pushed": "2025-07-29T17:03:09Z",
     "archived": false
   },
@@ -1447,7 +1447,7 @@
     "desc": "LLM量子化に特化した論文リスト",
     "status": "ok",
     "canonical": "pprp/Awesome-LLM-Quantization",
-    "stars": 436,
+    "stars": 438,
     "pushed": "2026-04-20T08:24:23Z",
     "archived": false
   },
@@ -1458,7 +1458,7 @@
     "desc": "FlashAttention・PagedAttention等の推論高速化論文集",
     "status": "ok",
     "canonical": "xlite-dev/Awesome-LLM-Inference",
-    "stars": 5437,
+    "stars": 5449,
     "pushed": "2026-07-26T01:21:19Z",
     "archived": false
   },
@@ -1469,8 +1469,8 @@
     "desc": "長文脈モデリング(効率的注意・KVキャッシュ・位置符号化等)の論文集",
     "status": "ok",
     "canonical": "Xnhyacinth/Awesome-LLM-Long-Context-Modeling",
-    "stars": 2151,
-    "pushed": "2026-07-27T06:00:10Z",
+    "stars": 2160,
+    "pushed": "2026-08-06T04:19:01Z",
     "archived": false
   },
   "withinmiaov/A-Survey-on-Mixture-of-Experts-in-LLMs": {
@@ -1480,7 +1480,7 @@
     "desc": "TKDE採択「MoE in LLMs」サーベイの公式論文集",
     "status": "ok",
     "canonical": "withinmiaov/A-Survey-on-Mixture-of-Experts-in-LLMs",
-    "stars": 506,
+    "stars": 507,
     "pushed": "2026-06-07T09:06:56Z",
     "archived": false
   },
@@ -1491,7 +1491,7 @@
     "desc": "MoE研究の読み物リスト",
     "status": "ok",
     "canonical": "codecaution/Awesome-Mixture-of-Experts-Papers",
-    "stars": 670,
+    "stars": 669,
     "pushed": "2024-10-30T07:48:14Z",
     "archived": false
   },
@@ -1502,7 +1502,7 @@
     "desc": "MoEモデルの推論最適化論文を集めたリスト",
     "status": "ok",
     "canonical": "MoE-Inf/awesome-moe-inference",
-    "stars": 413,
+    "stars": 416,
     "pushed": "2026-03-12T01:59:19Z",
     "archived": false
   },
@@ -1524,7 +1524,7 @@
     "desc": "グラフ関連LLMのリソースを集めたキュレーション",
     "status": "ok",
     "canonical": "XiaoxinHe/Awesome-Graph-LLM",
-    "stars": 2442,
+    "stars": 2443,
     "pushed": "2025-11-05T13:18:47Z",
     "archived": false
   },
@@ -1535,7 +1535,7 @@
     "desc": "「LLMs on Graphs」TKDEサーベイの論文・リソース集",
     "status": "ok",
     "canonical": "PeterGriffinJin/Awesome-Language-Model-on-Graphs",
-    "stars": 996,
+    "stars": 997,
     "pushed": "2025-03-02T01:40:10Z",
     "archived": false
   },
@@ -1546,7 +1546,7 @@
     "desc": "LLMの知識編集に関する論文リスト",
     "status": "ok",
     "canonical": "zjunlp/KnowledgeEditingPapers",
-    "stars": 1243,
+    "stars": 1245,
     "pushed": "2026-06-25T02:07:53Z",
     "archived": false
   },
@@ -1568,7 +1568,7 @@
     "desc": "TKDE2025サーベイに基づくLLM Text-to-SQLの論文・ベンチマーク集",
     "status": "ok",
     "canonical": "DEEP-PolyU/Awesome-LLM-based-Text2SQL",
-    "stars": 1349,
+    "stars": 1351,
     "pushed": "2026-08-03T00:50:21Z",
     "archived": false
   },
@@ -1579,7 +1579,7 @@
     "desc": "Text2SQL/Text2DSL等のチュートリアルとリソース集",
     "status": "ok",
     "canonical": "eosphoros-ai/Awesome-Text2SQL",
-    "stars": 3722,
+    "stars": 3730,
     "pushed": "2026-01-26T01:46:37Z",
     "archived": false
   },
@@ -1711,7 +1711,7 @@
     "desc": "ACL/EMNLP/NAACL/COLING等トップ会議のコード付き論文集",
     "status": "ok",
     "canonical": "MLNLP-World/Top-AI-Conferences-Paper-with-Code",
-    "stars": 2684,
+    "stars": 2686,
     "pushed": "2026-07-02T12:40:09Z",
     "archived": false
   },
@@ -1744,7 +1744,7 @@
     "desc": "Diffusion論文をサブ領域別に分類した実用的コレクション",
     "status": "ok",
     "canonical": "wangkai930418/awesome-diffusion-categorized",
-    "stars": 2221,
+    "stars": 2222,
     "pushed": "2026-03-16T02:13:09Z",
     "archived": false
   },
@@ -1799,7 +1799,7 @@
     "desc": "テキストから画像生成のサーベイ的論文リスト",
     "status": "ok",
     "canonical": "Yutong-Zhou-cv/Awesome-Text-to-Image",
-    "stars": 2440,
+    "stars": 2441,
     "pushed": "2026-07-03T17:50:56Z",
     "archived": false
   },
@@ -1810,7 +1810,7 @@
     "desc": "text-to-image研究を集めた継続更新リスト",
     "status": "ok",
     "canonical": "AlonzoLeeeooo/awesome-text-to-image-studies",
-    "stars": 762,
+    "stars": 763,
     "pushed": "2026-04-25T00:37:44Z",
     "archived": false
   },
@@ -1854,7 +1854,7 @@
     "desc": "拡散ベースVideo-to-Video編集の論文+ベンチマーク",
     "status": "ok",
     "canonical": "wenhao728/awesome-diffusion-v2v",
-    "stars": 289,
+    "stars": 290,
     "pushed": "2026-04-08T14:05:27Z",
     "archived": false
   },
@@ -1876,8 +1876,8 @@
     "desc": "動画生成・編集の拡散モデルを集めた定番リスト",
     "status": "ok",
     "canonical": "showlab/Awesome-Video-Diffusion",
-    "stars": 5742,
-    "pushed": "2026-07-24T12:40:47Z",
+    "stars": 5747,
+    "pushed": "2026-08-04T16:39:25Z",
     "archived": false
   },
   "ChenHsing/Awesome-Video-Diffusion-Models": {
@@ -1887,7 +1887,7 @@
     "desc": "Video Diffusion Modelのサーベイ(CSUR)",
     "status": "ok",
     "canonical": "ChenHsing/Awesome-Video-Diffusion-Models",
-    "stars": 2308,
+    "stars": 2309,
     "pushed": "2026-06-22T10:57:06Z",
     "archived": false
   },
@@ -1920,7 +1920,7 @@
     "desc": "AR+拡散の動画世界モデル(アルゴリズム/応用/基盤)",
     "status": "ok",
     "canonical": "gracezhao1997/Awesome-Video-World-Models-with-AR-Diffusion",
-    "stars": 683,
+    "stars": 686,
     "pushed": "2026-06-04T08:28:55Z",
     "archived": false
   },
@@ -1931,7 +1931,7 @@
     "desc": "動画生成から世界モデルへの流れを整理",
     "status": "ok",
     "canonical": "ziqihuangg/Awesome-From-Video-Generation-to-World-Model",
-    "stars": 506,
+    "stars": 508,
     "pushed": "2026-03-21T00:15:13Z",
     "archived": false
   },
@@ -1943,7 +1943,7 @@
     "status": "ok",
     "canonical": "soraw-ai/Awesome-Text-to-Video-Generation",
     "stars": 255,
-    "pushed": "2026-03-11T09:31:45Z",
+    "pushed": "2026-08-04T22:34:34Z",
     "archived": false
   },
   "altryne/awesome-ai-art-image-synthesis": {
@@ -1953,7 +1953,7 @@
     "desc": "DALL·E2/MidJourney/SD等のツール・プロンプト集",
     "status": "ok",
     "canonical": "altryne/awesome-ai-art-image-synthesis",
-    "stars": 1808,
+    "stars": 1809,
     "pushed": "2022-12-03T09:33:26Z",
     "archived": false
   },
@@ -1964,7 +1964,7 @@
     "desc": "復元/強調/符号化/品質評価の拡散モデル整理",
     "status": "ok",
     "canonical": "lixinustc/Awesome-diffusion-model-for-image-processing",
-    "stars": 956,
+    "stars": 955,
     "pushed": "2026-04-08T12:26:45Z",
     "archived": false
   },
@@ -1975,7 +1975,7 @@
     "desc": "画像インペインティング研究のコレクション",
     "status": "ok",
     "canonical": "AlonzoLeeeooo/awesome-image-inpainting-studies",
-    "stars": 394,
+    "stars": 395,
     "pushed": "2026-02-04T04:07:53Z",
     "archived": false
   },
@@ -2008,7 +2008,7 @@
     "desc": "Deepfake検出のツール/論文/コード",
     "status": "ok",
     "canonical": "Daisy-Zhang/Awesome-Deepfakes-Detection",
-    "stars": 1808,
+    "stars": 1812,
     "pushed": "2025-09-02T01:56:45Z",
     "archived": false
   },
@@ -2019,7 +2019,7 @@
     "desc": "Deepfake生成と検出のサーベイ",
     "status": "ok",
     "canonical": "flyingby/Awesome-Deepfake-Generation-and-Detection",
-    "stars": 644,
+    "stars": 645,
     "pushed": "2026-05-14T12:59:04Z",
     "archived": false
   },
@@ -2030,7 +2030,7 @@
     "desc": "AI生成画像/動画検出の最新研究集",
     "status": "ok",
     "canonical": "ant-research/Awesome-AIGC-Image-Video-Detection",
-    "stars": 466,
+    "stars": 467,
     "pushed": "2026-08-01T12:07:46Z",
     "archived": false
   },
@@ -2042,7 +2042,7 @@
     "status": "ok",
     "canonical": "qiqitao77/Awesome-Comprehensive-Deepfake-Detection",
     "stars": 320,
-    "pushed": "2026-08-03T02:26:56Z",
+    "pushed": "2026-08-05T02:34:00Z",
     "archived": false
   },
   "showlab/Awesome-Unified-Multimodal-Models": {
@@ -2074,7 +2074,7 @@
     "desc": "音楽生成モデルMG²の資源",
     "status": "ok",
     "canonical": "shaopengw/Awesome-Music-Generation",
-    "stars": 166,
+    "stars": 167,
     "pushed": "2025-03-29T08:50:18Z",
     "archived": false
   },
@@ -2085,8 +2085,8 @@
     "desc": "視覚生成の評価指標/モデル/システム集",
     "status": "ok",
     "canonical": "ziqihuangg/Awesome-Evaluation-of-Visual-Generation",
-    "stars": 454,
-    "pushed": "2026-05-08T11:46:04Z",
+    "stars": 456,
+    "pushed": "2026-08-07T12:42:11Z",
     "archived": false
   },
   "lxa9867/Awesome-Autoregressive-Visual-Generation": {
@@ -2129,7 +2129,7 @@
     "desc": "仮想試着の論文/コード/データセットの定番リスト",
     "status": "ok",
     "canonical": "minar09/awesome-virtual-try-on",
-    "stars": 3138,
+    "stars": 3144,
     "pushed": "2026-07-27T12:45:49Z",
     "archived": false
   },
@@ -2140,7 +2140,7 @@
     "desc": "仮想試着モデル(2025含む)を整理",
     "status": "ok",
     "canonical": "Zheng-Chong/Awesome-Try-On-Models",
-    "stars": 440,
+    "stars": 442,
     "pushed": "2026-07-27T01:04:49Z",
     "archived": false
   },
@@ -2151,7 +2151,7 @@
     "desc": "トーキングヘッド生成の論文リスト",
     "status": "ok",
     "canonical": "harlanhong/awesome-talking-head-generation",
-    "stars": 1925,
+    "stars": 1927,
     "pushed": "2026-04-27T04:48:12Z",
     "archived": false
   },
@@ -2162,7 +2162,7 @@
     "desc": "Nano Banana Pro(Nano Banana 2)のプロンプト・作例集",
     "status": "ok",
     "canonical": "ZeroLu/awesome-nanobanana-pro",
-    "stars": 10211,
+    "stars": 10225,
     "pushed": "2026-07-02T14:16:18Z",
     "archived": false
   },
@@ -2173,7 +2173,7 @@
     "desc": "Gemini-2.5-Flash-Image(Nano Banana)の作例/プロンプト集",
     "status": "ok",
     "canonical": "JimmyLv/awesome-nano-banana",
-    "stars": 8811,
+    "stars": 8807,
     "pushed": "2025-09-08T15:05:52Z",
     "archived": false
   },
@@ -2184,7 +2184,7 @@
     "desc": "Gemini系Nano Bananaの生成例・プロンプト集(データセット公開)",
     "status": "ok",
     "canonical": "PicoTrex/Awesome-Nano-Banana-images",
-    "stars": 23408,
+    "stars": 23455,
     "pushed": "2025-12-12T19:38:04Z",
     "archived": false
   },
@@ -2195,7 +2195,7 @@
     "desc": "GPT-4o画像生成のプロンプト辞典",
     "status": "ok",
     "canonical": "ImgEdify/Awesome-GPT4o-Image-Prompts",
-    "stars": 583,
+    "stars": 584,
     "pushed": "2025-05-15T00:10:40Z",
     "archived": false
   },
@@ -2206,7 +2206,7 @@
     "desc": "FLUXエコシステム(LoRA/ControlNet/量子化)の資源集",
     "status": "ok",
     "canonical": "Eris2025/awesome-flux",
-    "stars": 105,
+    "stars": 104,
     "pushed": "2024-08-21T13:27:08Z",
     "archived": false
   },
@@ -2250,7 +2250,7 @@
     "desc": "RL全般のコード・講義・論文・環境を集めた定番キュレーション",
     "status": "ok",
     "canonical": "aikorea/awesome-rl",
-    "stars": 9897,
+    "stars": 9909,
     "pushed": "2023-05-25T22:25:44Z",
     "archived": false
   },
@@ -2294,7 +2294,7 @@
     "desc": "マルチエージェントRLの研究・サーベイ論文リスト(定番)",
     "status": "ok",
     "canonical": "LantaoYu/MARL-Papers",
-    "stars": 4860,
+    "stars": 4865,
     "pushed": "2026-02-11T06:25:22Z",
     "archived": false
   },
@@ -2316,7 +2316,7 @@
     "desc": "ICLR/ICML/NeurIPSの古典+最新論文を年別に整理",
     "status": "ok",
     "canonical": "yingchengyang/Reinforcement-Learning-Papers",
-    "stars": 590,
+    "stars": 592,
     "pushed": "2026-02-06T16:42:46Z",
     "archived": false
   },
@@ -2349,7 +2349,7 @@
     "desc": "大規模推論モデル向けRLのサーベイ論文リポジトリ",
     "status": "ok",
     "canonical": "TsinghuaC3I/Awesome-RL-for-LRMs",
-    "stars": 2473,
+    "stars": 2476,
     "pushed": "2026-08-01T17:47:01Z",
     "archived": false
   },
@@ -2360,7 +2360,7 @@
     "desc": "モデルベースRLの論文を継続更新で収集",
     "status": "ok",
     "canonical": "opendilab/awesome-model-based-RL",
-    "stars": 1386,
+    "stars": 1389,
     "pushed": "2026-05-21T07:55:38Z",
     "archived": false
   },
@@ -2371,7 +2371,7 @@
     "desc": "RL用環境・シミュレータを網羅したリスト",
     "status": "ok",
     "canonical": "clvrai/awesome-rl-envs",
-    "stars": 1354,
+    "stars": 1353,
     "pushed": "2024-05-27T23:01:07Z",
     "archived": false
   },
@@ -2382,7 +2382,7 @@
     "desc": "オフラインRLのアルゴリズム索引(継続更新)",
     "status": "ok",
     "canonical": "hanjuku-kaso/awesome-offline-rl",
-    "stars": 1073,
+    "stars": 1076,
     "pushed": "2024-05-23T03:08:40Z",
     "archived": false
   },
@@ -2393,7 +2393,7 @@
     "desc": "マルチエージェント学習中心のゲームAI資源集",
     "status": "ok",
     "canonical": "datamllab/awesome-game-ai",
-    "stars": 972,
+    "stars": 973,
     "pushed": "2024-06-26T23:02:54Z",
     "archived": false
   },
@@ -2404,7 +2404,7 @@
     "desc": "Safe RLのベースライン・論文を集めたリポジトリ",
     "status": "ok",
     "canonical": "chauncygu/Safe-Reinforcement-Learning-Baselines",
-    "stars": 810,
+    "stars": 811,
     "pushed": "2026-03-13T15:46:53Z",
     "archived": false
   },
@@ -2415,7 +2415,7 @@
     "desc": "探索(exploration)に特化したRL論文リスト",
     "status": "ok",
     "canonical": "opendilab/awesome-exploration-rl",
-    "stars": 715,
+    "stars": 720,
     "pushed": "2026-05-21T07:59:30Z",
     "archived": false
   },
@@ -2437,7 +2437,7 @@
     "desc": "マルチモーダルRL資源を継続更新",
     "status": "ok",
     "canonical": "opendilab/awesome-multi-modal-reinforcement-learning",
-    "stars": 617,
+    "stars": 619,
     "pushed": "2026-05-30T00:37:06Z",
     "archived": false
   },
@@ -2448,7 +2448,7 @@
     "desc": "視覚RL・マルチモーダル基盤モデル向けRLの論文整理",
     "status": "ok",
     "canonical": "weijiawu/Awesome-RL-for-Multimodal-Foundation-Models",
-    "stars": 452,
+    "stars": 453,
     "pushed": "2026-04-28T12:15:17Z",
     "archived": false
   },
@@ -2470,7 +2470,7 @@
     "desc": "In-Context RLの論文キュレーション",
     "status": "ok",
     "canonical": "dunnolab/awesome-in-context-rl",
-    "stars": 305,
+    "stars": 306,
     "pushed": "2025-09-08T14:14:22Z",
     "archived": false
   },
@@ -2482,7 +2482,7 @@
     "status": "ok",
     "canonical": "libo-huang/Awesome-Causal-Reinforcement-Learning",
     "stars": 224,
-    "pushed": "2026-06-08T07:56:50Z",
+    "pushed": "2026-08-06T10:30:01Z",
     "archived": false
   },
   "opendilab/awesome-RLVR": {
@@ -2492,7 +2492,7 @@
     "desc": "検証可能報酬によるRL(RLVR)の論文を継続更新",
     "status": "ok",
     "canonical": "opendilab/awesome-RLVR",
-    "stars": 278,
+    "stars": 291,
     "pushed": "2026-06-01T07:16:09Z",
     "archived": false
   },
@@ -2503,7 +2503,7 @@
     "desc": "模倣学習の論文を簡潔な紹介付きで収集",
     "status": "ok",
     "canonical": "apexrl/Imitation-Learning-Paper-Lists",
-    "stars": 159,
+    "stars": 160,
     "pushed": "2022-03-17T17:36:55Z",
     "archived": false
   },
@@ -2547,7 +2547,7 @@
     "desc": "ワールドモデル(動画生成・Embodied AI・自動運転)の論文網羅",
     "status": "ok",
     "canonical": "leofan90/Awesome-World-Models",
-    "stars": 1939,
+    "stars": 1951,
     "pushed": "2026-07-31T09:11:08Z",
     "archived": false
   },
@@ -2558,7 +2558,7 @@
     "desc": "ロボティクス/RLへのLLM・マルチモーダル活用論文集",
     "status": "ok",
     "canonical": "GT-RIPL/Awesome-LLM-Robotics",
-    "stars": 4441,
+    "stars": 4444,
     "pushed": "2026-07-17T20:28:18Z",
     "archived": false
   },
@@ -2569,8 +2569,8 @@
     "desc": "MLLM分野の最有名サーベイ。アーキテクチャ・学習・評価を網羅追跡",
     "status": "ok",
     "canonical": "BradyFU/Awesome-Multimodal-Large-Language-Models",
-    "stars": 17964,
-    "pushed": "2026-07-30T03:43:16Z",
+    "stars": 17971,
+    "pushed": "2026-08-03T06:55:04Z",
     "archived": false
   },
   "jingyi0000/VLM_survey": {
@@ -2591,7 +2591,7 @@
     "desc": "著名なVLMとそのアーキテクチャを解説したコレクション",
     "status": "ok",
     "canonical": "gokayfem/awesome-vlm-architectures",
-    "stars": 1289,
+    "stars": 1296,
     "pushed": "2026-07-31T21:58:54Z",
     "archived": false
   },
@@ -2613,7 +2613,7 @@
     "desc": "CLIP等のVLM向けプロンプト/アダプタ学習手法の厳選リスト",
     "status": "ok",
     "canonical": "zhengli97/Awesome-Prompt-Adapter-Learning-for-VLMs-CLIP",
-    "stars": 789,
+    "stars": 791,
     "pushed": "2026-07-17T04:22:18Z",
     "archived": false
   },
@@ -2668,8 +2668,8 @@
     "desc": "マルチモーダル研究全般の厳選論文集",
     "status": "ok",
     "canonical": "friedrichor/Awesome-Multimodal-Papers",
-    "stars": 344,
-    "pushed": "2026-07-28T18:35:49Z",
+    "stars": 343,
+    "pushed": "2026-08-04T16:39:44Z",
     "archived": false
   },
   "yunlong10/Awesome-LLMs-for-Video-Understanding": {
@@ -2679,7 +2679,7 @@
     "desc": "動画理解向けVid-LLMの最新論文・コード・データセット",
     "status": "ok",
     "canonical": "yunlong10/Awesome-LLMs-for-Video-Understanding",
-    "stars": 3256,
+    "stars": 3259,
     "pushed": "2026-06-13T21:36:12Z",
     "archived": false
   },
@@ -2690,7 +2690,7 @@
     "desc": "音声・視覚処理の各領域の論文・データセット集",
     "status": "ok",
     "canonical": "krantiparida/awesome-audio-visual",
-    "stars": 776,
+    "stars": 777,
     "pushed": "2024-01-30T14:39:52Z",
     "archived": false
   },
@@ -2701,7 +2701,7 @@
     "desc": "ASR・話者認証・TTS・音声合成・VCを網羅した論文リスト",
     "status": "ok",
     "canonical": "zzw922cn/awesome-speech-recognition-speech-synthesis-papers",
-    "stars": 3126,
+    "stars": 3127,
     "pushed": "2023-10-19T03:52:13Z",
     "archived": false
   },
@@ -2712,7 +2712,7 @@
     "desc": "音声/オーディオLLM・表現学習・codecモデルの論文集",
     "status": "ok",
     "canonical": "ga642381/speech-trident",
-    "stars": 1241,
+    "stars": 1243,
     "pushed": "2026-07-10T16:30:43Z",
     "archived": false
   },
@@ -2723,7 +2723,7 @@
     "desc": "speech enhancement・音源分離・定位の論文/コード/ツール集",
     "status": "ok",
     "canonical": "WenzheLiu-Speech/awesome-speech-enhancement",
-    "stars": 1244,
+    "stars": 1247,
     "pushed": "2023-11-14T09:00:38Z",
     "archived": false
   },
@@ -2746,7 +2746,7 @@
     "status": "ok",
     "canonical": "BinWang28/audio-ai-hub",
     "stars": 948,
-    "pushed": "2026-07-27T07:56:49Z",
+    "pushed": "2026-08-03T07:52:18Z",
     "archived": false
   },
   "EmulationAI/awesome-large-audio-models": {
@@ -2757,7 +2757,7 @@
     "status": "ok",
     "canonical": "EmulationAI/awesome-large-audio-models",
     "stars": 735,
-    "pushed": "2026-08-02T21:22:25Z",
+    "pushed": "2026-08-08T02:56:30Z",
     "archived": false
   },
   "guan-yuan/Awesome-Singing-Voice-Synthesis-and-Singing-Voice-Conversion": {
@@ -2778,8 +2778,8 @@
     "desc": "OSSのTTS・音声クローン・音楽生成モデル集",
     "status": "ok",
     "canonical": "wildminder/awesome-ai-voice",
-    "stars": 397,
-    "pushed": "2026-07-30T09:42:58Z",
+    "stars": 405,
+    "pushed": "2026-08-06T18:43:46Z",
     "archived": false
   },
   "JeffC0628/awesome-voice-conversion": {
@@ -2822,8 +2822,8 @@
     "desc": "embodied AIのVLA・VLN・マルチモーダル学習の最先端研究集",
     "status": "ok",
     "canonical": "jonyzhang2023/awesome-embodied-vla-va-vln",
-    "stars": 3427,
-    "pushed": "2026-07-26T12:48:13Z",
+    "stars": 3446,
+    "pushed": "2026-08-07T12:31:28Z",
     "archived": false
   },
   "YanjieZe/awesome-humanoid-robot-learning": {
@@ -2833,7 +2833,7 @@
     "desc": "ヒューマノイドロボット学習の論文リスト",
     "status": "ok",
     "canonical": "YanjieZe/awesome-humanoid-robot-learning",
-    "stars": 2652,
+    "stars": 2675,
     "pushed": "2026-07-08T13:48:28Z",
     "archived": false
   },
@@ -2844,7 +2844,7 @@
     "desc": "LLMを用いたembodied AI/ロボット研究のキュレーション",
     "status": "ok",
     "canonical": "zchoi/Awesome-Embodied-Robotics-and-Agent",
-    "stars": 1840,
+    "stars": 1844,
     "pushed": "2026-07-14T06:30:19Z",
     "archived": false
   },
@@ -2855,7 +2855,7 @@
     "desc": "四足歩行ロボットの論文・リソース集",
     "status": "ok",
     "canonical": "curieuxjy/Awesome_Quadrupedal_Robots",
-    "stars": 1138,
+    "stars": 1144,
     "pushed": "2026-07-29T00:18:56Z",
     "archived": false
   },
@@ -2866,7 +2866,7 @@
     "desc": "ロボットマニピュレーションの論文・コード集",
     "status": "ok",
     "canonical": "BaiShuanghao/Awesome-Robotics-Manipulation",
-    "stars": 1079,
+    "stars": 1087,
     "pushed": "2026-07-17T13:56:45Z",
     "archived": false
   },
@@ -2877,8 +2877,8 @@
     "desc": "VLAとWorld Action Model(WAM)研究のキュレーション",
     "status": "ok",
     "canonical": "DravenALG/awesome-vla-wam",
-    "stars": 901,
-    "pushed": "2026-08-02T11:05:30Z",
+    "stars": 949,
+    "pushed": "2026-08-08T09:46:48Z",
     "archived": false
   },
   "yueen-ma/awesome-vla": {
@@ -2888,8 +2888,8 @@
     "desc": "embodied AI向けVLAモデルのサーベイ論文付きリスト",
     "status": "ok",
     "canonical": "yueen-ma/Awesome-VLA",
-    "stars": 621,
-    "pushed": "2026-07-08T04:14:03Z",
+    "stars": 625,
+    "pushed": "2026-08-08T07:38:48Z",
     "archived": false
   },
   "Jiaaqiliu/Awesome-VLA-Robotics": {
@@ -2899,7 +2899,7 @@
     "desc": "ロボティクスのVLAモデル論文・モデル・データセット集",
     "status": "ok",
     "canonical": "Jiaaqiliu/Awesome-VLA-Robotics",
-    "stars": 488,
+    "stars": 489,
     "pushed": "2026-03-23T18:25:44Z",
     "archived": false
   },
@@ -2921,7 +2921,7 @@
     "desc": "embodied AIのサーベイ・VLA・データセット・シミュレータ等を網羅",
     "status": "ok",
     "canonical": "wadeKeith/Awesome-Embodied-AI",
-    "stars": 231,
+    "stars": 234,
     "pushed": "2026-06-14T01:07:43Z",
     "archived": false
   },
@@ -2932,8 +2932,8 @@
     "desc": "ロボット学習(主にマニピュレーション)のリソース集",
     "status": "ok",
     "canonical": "RayYoh/Awesome-Robot-Learning",
-    "stars": 205,
-    "pushed": "2024-08-22T09:01:37Z",
+    "stars": 206,
+    "pushed": "2026-08-06T07:35:02Z",
     "archived": false
   },
   "TrustAGI-Lab/Awesome-Graph-Neural-Networks": {
@@ -2954,7 +2954,7 @@
     "desc": "知識グラフ研究(埋め込み・補完・時系列KG・応用)の論文集",
     "status": "ok",
     "canonical": "shaoxiongji/knowledge-graphs",
-    "stars": 1796,
+    "stars": 1794,
     "pushed": "2022-10-07T16:30:33Z",
     "archived": false
   },
@@ -2976,7 +2976,7 @@
     "desc": "グラフトランスフォーマーの論文集",
     "status": "ok",
     "canonical": "wehos/awesome-graph-transformer",
-    "stars": 930,
+    "stars": 929,
     "pushed": "2025-03-19T15:44:15Z",
     "archived": false
   },
@@ -2987,7 +2987,7 @@
     "desc": "動的(時系列)グラフ・知識グラフ上の機械学習論文集",
     "status": "ok",
     "canonical": "SpaceLearner/Awesome-DynamicGraphLearning",
-    "stars": 709,
+    "stars": 710,
     "pushed": "2025-06-04T15:28:14Z",
     "archived": false
   },
@@ -2998,8 +2998,8 @@
     "desc": "GNNシステム・高速化に関するリソース集",
     "status": "ok",
     "canonical": "ch-wan/awesome-gnn-systems",
-    "stars": 348,
-    "pushed": "2026-07-31T02:06:56Z",
+    "stars": 349,
+    "pushed": "2026-08-10T01:09:27Z",
     "archived": false
   },
   "mengliu1998/awesome-expressive-gnn": {
@@ -3042,7 +3042,7 @@
     "desc": "検索・推薦・広告向け深層学習論文集",
     "status": "ok",
     "canonical": "guyulongcs/Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising",
-    "stars": 2567,
+    "stars": 2572,
     "pushed": "2026-04-25T11:36:26Z",
     "archived": false
   },
@@ -3053,7 +3053,7 @@
     "desc": "LLMを用いた推薦システムの論文・リソース集(サーベイ付き)",
     "status": "ok",
     "canonical": "WLiK/LLM4Rec-Awesome-Papers",
-    "stars": 2301,
+    "stars": 2302,
     "pushed": "2025-03-17T11:31:02Z",
     "archived": false
   },
@@ -3064,7 +3064,7 @@
     "desc": "LLM関連の推薦システム論文集(TOIS採録サーベイ付き)",
     "status": "ok",
     "canonical": "CHIANGEL/Awesome-LLM-for-RecSys",
-    "stars": 1551,
+    "stars": 1552,
     "pushed": "2026-01-17T03:14:41Z",
     "archived": false
   },
@@ -3097,7 +3097,7 @@
     "desc": "コールドスタート推薦のリソース集(LLM時代のサーベイ付き)",
     "status": "ok",
     "canonical": "YuanchenBei/Awesome-Cold-Start-Recommendation",
-    "stars": 288,
+    "stars": 290,
     "pushed": "2026-03-26T18:10:45Z",
     "archived": false
   },
@@ -3119,7 +3119,7 @@
     "desc": "トップ会議・ジャーナルの時系列AI論文・チュートリアル・サーベイ集",
     "status": "ok",
     "canonical": "qingsongedu/awesome-AI-for-time-series-papers",
-    "stars": 1617,
+    "stars": 1620,
     "pushed": "2024-04-06T21:11:38Z",
     "archived": false
   },
@@ -3130,7 +3130,7 @@
     "desc": "時系列・時空間・イベントデータ向けLLM/基盤モデルの論文集",
     "status": "ok",
     "canonical": "qingsongedu/Awesome-TimeSeries-SpatioTemporal-LM-LLM",
-    "stars": 1222,
+    "stars": 1220,
     "pushed": "2024-12-22T08:19:51Z",
     "archived": false
   },
@@ -3141,7 +3141,7 @@
     "desc": "トップAI会議の最新時系列論文・コード集",
     "status": "ok",
     "canonical": "TSCenter/awesome-time-series-papers",
-    "stars": 1069,
+    "stars": 1078,
     "pushed": "2026-07-15T06:28:00Z",
     "archived": false
   },
@@ -3152,7 +3152,7 @@
     "desc": "時系列予測の論文・コード集",
     "status": "ok",
     "canonical": "TongjiFinLab/awesome-time-series-forecasting",
-    "stars": 295,
+    "stars": 302,
     "pushed": "2026-06-02T13:15:42Z",
     "archived": false
   },
@@ -3163,7 +3163,7 @@
     "desc": "基盤モデルによる異常検知の論文集",
     "status": "ok",
     "canonical": "mala-lab/Awesome-Anomaly-Detection-Foundation-Models",
-    "stars": 210,
+    "stars": 211,
     "pushed": "2026-06-16T04:41:50Z",
     "archived": false
   },
@@ -3186,7 +3186,7 @@
     "status": "ok",
     "canonical": "lzz19980125/awesome-multivariate-time-series-anomaly-detection-algorithms",
     "stars": 81,
-    "pushed": "2026-07-21T04:11:38Z",
+    "pushed": "2026-08-04T05:49:25Z",
     "archived": false
   },
   "qhliu26/awesome-time-series-analysis": {
@@ -3218,8 +3218,8 @@
     "desc": "言語別のMLフレームワーク・ライブラリの定番キュレーションリスト",
     "status": "ok",
     "canonical": "josephmisiti/awesome-machine-learning",
-    "stars": 73850,
-    "pushed": "2026-07-30T15:00:37Z",
+    "stars": 73967,
+    "pushed": "2026-08-06T18:03:02Z",
     "archived": false
   },
   "ChristosChristofidis/awesome-deep-learning": {
@@ -3229,7 +3229,7 @@
     "desc": "DLのチュートリアル・プロジェクト・コミュニティを集めた定番リスト",
     "status": "ok",
     "canonical": "ChristosChristofidis/awesome-deep-learning",
-    "stars": 28698,
+    "stars": 28729,
     "pushed": "2025-05-26T12:28:00Z",
     "archived": false
   },
@@ -3240,7 +3240,7 @@
     "desc": "2012〜2016年の最も引用された重要DL論文Top100",
     "status": "ok",
     "canonical": "terryum/awesome-deep-learning-papers",
-    "stars": 26169,
+    "stars": 26174,
     "pushed": "2024-01-18T13:29:44Z",
     "archived": false
   },
@@ -3306,7 +3306,7 @@
     "desc": "自己教師あり学習手法の定番キュレーションリスト",
     "status": "ok",
     "canonical": "jason718/awesome-self-supervised-learning",
-    "stars": 6408,
+    "stars": 6410,
     "pushed": "2026-02-24T08:30:02Z",
     "archived": false
   },
@@ -3350,7 +3350,7 @@
     "desc": "視覚・言語タスク向け基盤モデルのキュレーションリスト",
     "status": "ok",
     "canonical": "uncbiag/Awesome-Foundation-Models",
-    "stars": 1171,
+    "stars": 1172,
     "pushed": "2026-04-20T12:10:42Z",
     "archived": false
   },
@@ -3372,7 +3372,7 @@
     "desc": "責任あるML・解釈性の総合リソースリスト",
     "status": "ok",
     "canonical": "jphall663/awesome-machine-learning-interpretability",
-    "stars": 4049,
+    "stars": 4052,
     "pushed": "2026-06-03T15:17:31Z",
     "archived": false
   },
@@ -3383,7 +3383,7 @@
     "desc": "説明可能AI(XAI)・解釈可能MLの論文とリソース",
     "status": "ok",
     "canonical": "altamiracorp/awesome-xai",
-    "stars": 194,
+    "stars": 195,
     "pushed": "2021-05-04T13:47:04Z",
     "archived": false
   },
@@ -3416,8 +3416,8 @@
     "desc": "ニューラルネットを理解可能な計算要素へ逆解析する機械的解釈性のリソース集",
     "status": "ok",
     "canonical": "AI-in-Transportation-Lab/awesome-mechanistic-interpretability",
-    "stars": 130,
-    "pushed": "2026-08-03T02:13:47Z",
+    "stars": 136,
+    "pushed": "2026-08-10T01:16:57Z",
     "archived": false
   },
   "MinghuiChen43/awesome-trustworthy-deep-learning": {
@@ -3427,7 +3427,7 @@
     "desc": "OOD汎化・敵対的サンプル・バックドア等の信頼性論文(毎日更新)",
     "status": "ok",
     "canonical": "MinghuiChen43/awesome-trustworthy-deep-learning",
-    "stars": 388,
+    "stars": 389,
     "pushed": "2026-07-20T20:17:16Z",
     "archived": false
   },
@@ -3460,7 +3460,7 @@
     "desc": "AI安全性の論文・プロジェクト・コミュニティのリスト",
     "status": "ok",
     "canonical": "hari-sikchi/awesome-ai-safety",
-    "stars": 67,
+    "stars": 68,
     "pushed": "2020-02-09T19:04:38Z",
     "archived": false
   },
@@ -3471,7 +3471,7 @@
     "desc": "LLM安全性の論文・記事・データセット・ベンチマーク集",
     "status": "ok",
     "canonical": "ydyjya/Awesome-LLM-Safety",
-    "stars": 1894,
+    "stars": 1896,
     "pushed": "2026-07-12T12:25:53Z",
     "archived": false
   },
@@ -3493,7 +3493,7 @@
     "desc": "LLMセキュリティのツール・文献・プロジェクト集",
     "status": "ok",
     "canonical": "corca-ai/awesome-llm-security",
-    "stars": 1669,
+    "stars": 1676,
     "pushed": "2025-08-20T01:27:47Z",
     "archived": false
   },
@@ -3504,7 +3504,7 @@
     "desc": "モデル量子化の論文・コード・ドキュメントのリスト",
     "status": "ok",
     "canonical": "AI-Efficiency/Awesome-Model-Quantization",
-    "stars": 2419,
+    "stars": 2423,
     "pushed": "2026-07-10T15:45:57Z",
     "archived": false
   },
@@ -3548,7 +3548,7 @@
     "desc": "知識蒸留の論文を分類整理(2014-2021)",
     "status": "ok",
     "canonical": "FLHonker/Awesome-Knowledge-Distillation",
-    "stars": 2682,
+    "stars": 2684,
     "pushed": "2023-05-30T09:48:48Z",
     "archived": false
   },
@@ -3581,7 +3581,7 @@
     "desc": "効率的LLM(枝刈り・量子化・蒸留等)のキュレーションリスト",
     "status": "ok",
     "canonical": "horseee/Awesome-Efficient-LLM",
-    "stars": 2031,
+    "stars": 2032,
     "pushed": "2025-06-17T02:35:25Z",
     "archived": false
   },
@@ -3593,7 +3593,7 @@
     "status": "ok",
     "canonical": "PrunaAI/awesome-ai-efficiency",
     "stars": 230,
-    "pushed": "2026-06-02T16:38:44Z",
+    "pushed": "2026-08-06T14:38:11Z",
     "archived": false
   },
   "Openning07/Awesome-NAS": {
@@ -3636,7 +3636,7 @@
     "desc": "自動深層学習(AutoDL)のリソースと詳細分析",
     "status": "ok",
     "canonical": "D-X-Y/Awesome-AutoDL",
-    "stars": 2339,
+    "stars": 2340,
     "pushed": "2022-09-26T01:35:49Z",
     "archived": false
   },
@@ -3735,7 +3735,7 @@
     "desc": "セキュリティトップ4会議のML Security & Privacy論文集",
     "status": "ok",
     "canonical": "gnipping/Awesome-ML-SP-Papers",
-    "stars": 360,
+    "stars": 359,
     "pushed": "2025-11-11T06:51:41Z",
     "archived": false
   },
@@ -3746,7 +3746,7 @@
     "desc": "増分学習・継続学習・破滅的忘却の主要会議論文集",
     "status": "ok",
     "canonical": "xialeiliu/Awesome-Incremental-Learning",
-    "stars": 4503,
+    "stars": 4504,
     "pushed": "2026-06-27T08:44:09Z",
     "archived": false
   },
@@ -3801,7 +3801,7 @@
     "desc": "LLMの生涯学習に関するサーベイ・論文集",
     "status": "ok",
     "canonical": "zzz47zzz/awesome-lifelong-learning-methods-for-llm",
-    "stars": 164,
+    "stars": 166,
     "pushed": "2025-05-30T02:07:02Z",
     "archived": false
   },
@@ -3812,7 +3812,7 @@
     "desc": "MLOpsツールのキュレーションリスト",
     "status": "ok",
     "canonical": "kelvins/awesome-mlops",
-    "stars": 5228,
+    "stars": 5231,
     "pushed": "2026-04-29T15:00:57Z",
     "archived": false
   },
@@ -3823,7 +3823,7 @@
     "desc": "MLOpsの参考文献・リソース集",
     "status": "ok",
     "canonical": "visenger/awesome-mlops",
-    "stars": 14122,
+    "stars": 14140,
     "pushed": "2024-11-21T14:45:11Z",
     "archived": false
   },
@@ -3834,7 +3834,7 @@
     "desc": "MLのデプロイ・監視・スケーリング用OSSライブラリのリスト",
     "status": "ok",
     "canonical": "EthicalML/awesome-production-machine-learning",
-    "stars": 20817,
+    "stars": 20834,
     "pushed": "2026-08-01T03:21:51Z",
     "archived": false
   },
@@ -3845,7 +3845,7 @@
     "desc": "データ中心AIのリソースキュレーションリスト",
     "status": "ok",
     "canonical": "daochenzha/data-centric-AI",
-    "stars": 1153,
+    "stars": 1154,
     "pushed": "2024-06-26T23:03:47Z",
     "archived": false
   },
@@ -3867,7 +3867,7 @@
     "desc": "データ中心AIのリソース集(Stanford HazyResearch)",
     "status": "ok",
     "canonical": "HazyResearch/data-centric-ai",
-    "stars": 1148,
+    "stars": 1147,
     "pushed": "2023-12-13T09:58:57Z",
     "archived": false
   },
@@ -3878,7 +3878,7 @@
     "desc": "非構造化データ向けデータ中心AIのOSSツール集",
     "status": "ok",
     "canonical": "Renumics/awesome-open-data-centric-ai",
-    "stars": 736,
+    "stars": 737,
     "pushed": "2023-11-15T11:02:12Z",
     "archived": false
   },
@@ -3944,7 +3944,7 @@
     "desc": "ヘルスケア基盤モデルの論文コレクション",
     "status": "ok",
     "canonical": "Jianing-Qiu/Awesome-Healthcare-Foundation-Models",
-    "stars": 520,
+    "stars": 522,
     "pushed": "2026-04-25T06:08:16Z",
     "archived": false
   },
@@ -3966,7 +3966,7 @@
     "desc": "医用画像へのマルチモーダル学習応用のリソース集",
     "status": "ok",
     "canonical": "richard-peng-xia/awesome-multimodal-in-medical-imaging",
-    "stars": 975,
+    "stars": 976,
     "pushed": "2026-07-29T17:00:12Z",
     "archived": false
   },
@@ -3977,7 +3977,7 @@
     "desc": "医療向けエージェントAIの最新サーベイ集",
     "status": "ok",
     "canonical": "AIM-Research-Lab/Awesome-AI-Agents-Medicine",
-    "stars": 28,
+    "stars": 29,
     "pushed": "2026-03-14T12:09:19Z",
     "archived": false
   },
@@ -3999,8 +3999,8 @@
     "desc": "物理・化学・生物・材料など科学的発見を加速するAIツール・論文集",
     "status": "ok",
     "canonical": "ai4s-research/awesome-ai-for-science",
-    "stars": 1828,
-    "pushed": "2026-08-02T21:10:47Z",
+    "stars": 1851,
+    "pushed": "2026-08-09T14:11:21Z",
     "archived": false
   },
   "shengchaochen82/Awesome-Foundation-Models-for-Weather-and-Climate": {
@@ -4021,7 +4021,7 @@
     "desc": "大規模気象モデル(LWMs)コレクション(AI4Earth)",
     "status": "ok",
     "canonical": "jaychempan/Awesome-LWMs",
-    "stars": 372,
+    "stars": 373,
     "pushed": "2025-06-23T15:14:49Z",
     "archived": false
   },
@@ -4076,7 +4076,7 @@
     "desc": "計算創薬手法に特化した厳選リソースリスト",
     "status": "ok",
     "canonical": "yboulaamane/awesome-drug-discovery",
-    "stars": 136,
+    "stars": 139,
     "pushed": "2026-07-30T08:19:25Z",
     "archived": false
   },
@@ -4099,7 +4099,7 @@
     "status": "ok",
     "canonical": "AspirinCode/awesome-AI4MolConformation-MD",
     "stars": 306,
-    "pushed": "2026-07-31T03:16:39Z",
+    "pushed": "2026-08-09T10:04:52Z",
     "archived": false
   },
   "OpenDriveLab/Birds-eye-view-Perception": {
@@ -4142,7 +4142,7 @@
     "desc": "自動運転全般の広範なリスト",
     "status": "ok",
     "canonical": "PeterJaq/Awesome-Autonomous-Driving",
-    "stars": 354,
+    "stars": 355,
     "pushed": "2024-08-07T02:14:39Z",
     "archived": false
   },
@@ -4164,7 +4164,7 @@
     "desc": "データ中心の自動運転サーベイの公式リポジトリ",
     "status": "ok",
     "canonical": "LincanLi-X/Awesome-Data-Centric-Autonomous-Driving",
-    "stars": 174,
+    "stars": 173,
     "pushed": "2024-03-20T16:37:49Z",
     "archived": false
   },
@@ -4186,7 +4186,7 @@
     "desc": "相互作用を考慮した軌道予測の最先端研究資料集",
     "status": "ok",
     "canonical": "jiachenli94/Awesome-Interaction-Aware-Trajectory-Prediction",
-    "stars": 1688,
+    "stars": 1689,
     "pushed": "2024-09-28T20:21:45Z",
     "archived": false
   },
@@ -4197,7 +4197,7 @@
     "desc": "軌道・運動予測の包括的論文集",
     "status": "ok",
     "canonical": "colorfulfuture/Awesome-Trajectory-Motion-Prediction-Papers",
-    "stars": 1123,
+    "stars": 1125,
     "pushed": "2026-07-16T17:48:41Z",
     "archived": false
   },
@@ -4219,7 +4219,7 @@
     "desc": "占有知覚(Occupancy)論文コレクション",
     "status": "ok",
     "canonical": "autodriving-heart/Awesome-occupancy-perception",
-    "stars": 310,
+    "stars": 309,
     "pushed": "2024-08-12T08:07:31Z",
     "archived": false
   },
@@ -4285,7 +4285,7 @@
     "desc": "医療AI・NLP・マルチモーダル等のLLM向けデータセット集",
     "status": "ok",
     "canonical": "ahammadmejbah/Awesome-Datasets-Hub",
-    "stars": 146,
+    "stars": 147,
     "pushed": "2026-06-20T07:06:51Z",
     "archived": false
   },
@@ -4296,7 +4296,7 @@
     "desc": "86ページのサーベイ「The Rise and Potential of LLM Based Agents」の論文リスト",
     "status": "ok",
     "canonical": "WooooDyy/LLM-Agent-Paper-List",
-    "stars": 8168,
+    "stars": 8169,
     "pushed": "2025-09-12T03:08:58Z",
     "archived": false
   },
@@ -4318,7 +4318,7 @@
     "desc": "LLMベースエージェント関連論文のリスト",
     "status": "ok",
     "canonical": "AGI-Edgerunners/LLM-Agents-Papers",
-    "stars": 2334,
+    "stars": 2333,
     "pushed": "2025-07-12T07:39:24Z",
     "archived": false
   },
@@ -4329,7 +4329,7 @@
     "desc": "LLMエージェントの手法・応用・課題サーベイの論文集",
     "status": "ok",
     "canonical": "luo-junyu/Awesome-Agent-Papers",
-    "stars": 2818,
+    "stars": 2822,
     "pushed": "2025-11-07T09:27:28Z",
     "archived": false
   },
@@ -4340,8 +4340,8 @@
     "desc": "AIエージェント研究論文集(工学・メモリ・評価・ワークフロー)",
     "status": "ok",
     "canonical": "VoltAgent/awesome-ai-agent-papers",
-    "stars": 1647,
-    "pushed": "2026-07-03T04:40:33Z",
+    "stars": 1667,
+    "pushed": "2026-08-07T19:22:41Z",
     "archived": false
   },
   "Jenqyang/Awesome-AI-Agents": {
@@ -4351,8 +4351,8 @@
     "desc": "LLM駆動の自律エージェントコレクション",
     "status": "ok",
     "canonical": "Jenqyang/Awesome-AI-Agents",
-    "stars": 1193,
-    "pushed": "2026-07-25T06:26:34Z",
+    "stars": 1202,
+    "pushed": "2026-08-09T05:41:28Z",
     "archived": false
   },
   "kaushikb11/awesome-llm-agents": {
@@ -4362,8 +4362,8 @@
     "desc": "LLMエージェントフレームワークの厳選リスト",
     "status": "ok",
     "canonical": "kaushikb11/awesome-llm-agents",
-    "stars": 1550,
-    "pushed": "2026-08-02T03:38:15Z",
+    "stars": 1560,
+    "pushed": "2026-08-09T02:17:57Z",
     "archived": false
   },
   "junhua/awesome-llm-agents": {
@@ -4384,8 +4384,8 @@
     "desc": "GUIエージェント論文の厳選リスト",
     "status": "ok",
     "canonical": "OSU-NLP-Group/GUI-Agents-Paper-List",
-    "stars": 870,
-    "pushed": "2026-06-28T09:25:05Z",
+    "stars": 879,
+    "pushed": "2026-08-03T23:34:19Z",
     "archived": false
   },
   "ranpox/awesome-computer-use": {
@@ -4406,7 +4406,7 @@
     "desc": "マルチモーダルGUIエージェントの論文・リソース集",
     "status": "ok",
     "canonical": "showlab/Awesome-GUI-Agent",
-    "stars": 1201,
+    "stars": 1205,
     "pushed": "2025-08-17T15:58:09Z",
     "archived": false
   },
@@ -4428,8 +4428,8 @@
     "desc": "Mambaの論文・チュートリアル・実装を分野横断で網羅した代表的キュレーション",
     "status": "ok",
     "canonical": "XiudingCai/Awesome-Mamba-Collection",
-    "stars": 756,
-    "pushed": "2026-06-11T02:50:00Z",
+    "stars": 757,
+    "pushed": "2026-08-05T05:16:33Z",
     "archived": false
   },
   "radarFudan/Awesome-state-space-models": {
@@ -4440,7 +4440,7 @@
     "status": "ok",
     "canonical": "radarFudan/Awesome-state-space-models",
     "stars": 621,
-    "pushed": "2025-11-04T03:32:46Z",
+    "pushed": "2026-08-08T22:37:41Z",
     "archived": false
   },
   "Event-AHU/Mamba_State_Space_Model_Paper_List": {
@@ -4483,8 +4483,8 @@
     "desc": "KANのライブラリ・実装・論文・チュートリアルを網羅する事実上の標準リスト",
     "status": "ok",
     "canonical": "mintisan/awesome-kan",
-    "stars": 3294,
-    "pushed": "2026-07-20T08:56:36Z",
+    "stars": 3293,
+    "pushed": "2026-08-08T01:10:45Z",
     "archived": false
   },
   "RamtinMoslemi/KAN-Papers": {
@@ -4505,7 +4505,7 @@
     "desc": "LLM向け効率アーキテクチャ(線形注意・SSM・RWKV等)の大規模サーベイ",
     "status": "ok",
     "canonical": "weigao266/Awesome-Efficient-Arch",
-    "stars": 407,
+    "stars": 406,
     "pushed": "2025-11-11T09:47:37Z",
     "archived": false
   },
@@ -4516,7 +4516,7 @@
     "desc": "効率的注意機構をハードウェア効率・スパース・線形等に分類したサーベイ",
     "status": "ok",
     "canonical": "attention-survey/Efficient_Attention_Survey",
-    "stars": 305,
+    "stars": 307,
     "pushed": "2025-12-01T07:05:41Z",
     "archived": false
   },
@@ -4560,7 +4560,7 @@
     "desc": "LLM時代のニューロシンボリック学習の最新動向を追うリスト",
     "status": "ok",
     "canonical": "LAMDA-NeSy/Awesome-LLM-Reasoning-with-NeSy",
-    "stars": 322,
+    "stars": 325,
     "pushed": "2025-06-19T11:31:28Z",
     "archived": false
   },
@@ -4582,7 +4582,7 @@
     "desc": "ニューラル記号・確率論理の論文キュレーション",
     "status": "ok",
     "canonical": "thuwzy/Neural-Symbolic-and-Probabilistic-Logic-Papers",
-    "stars": 136,
+    "stars": 137,
     "pushed": "2023-09-05T14:00:45Z",
     "archived": false
   },
@@ -4593,7 +4593,7 @@
     "desc": "トップ会議・誌のSNN論文とコードを継続更新",
     "status": "ok",
     "canonical": "TheBrainLab/Awesome-Spiking-Neural-Networks",
-    "stars": 812,
+    "stars": 814,
     "pushed": "2026-03-24T09:49:17Z",
     "archived": false
   },
@@ -4604,7 +4604,7 @@
     "desc": "SNN分野の難関会議・誌論文とコード実装をまとめたリスト",
     "status": "ok",
     "canonical": "AXYZdong/awesome-snn-conference-paper",
-    "stars": 459,
+    "stars": 460,
     "pushed": "2026-05-04T00:51:14Z",
     "archived": false
   },
@@ -4615,7 +4615,7 @@
     "desc": "Spike-Driven-Transformer等の公開SNN実装集",
     "status": "ok",
     "canonical": "coderonion/awesome-snn",
-    "stars": 235,
+    "stars": 236,
     "pushed": "2024-10-01T08:01:29Z",
     "archived": false
   },
@@ -4626,7 +4626,7 @@
     "desc": "SNNのASIC/FPGA等ニューロモルフィックハードウェア論文集",
     "status": "ok",
     "canonical": "open-neuromorphic/awesome-neuromorphic-hw",
-    "stars": 216,
+    "stars": 217,
     "pushed": "2023-11-04T09:00:51Z",
     "archived": false
   },
@@ -4637,7 +4637,7 @@
     "desc": "量子デバイス上で動くMLアルゴリズムの論文・資料キュレーション",
     "status": "ok",
     "canonical": "artix41/awesome-quantum-ml",
-    "stars": 533,
+    "stars": 534,
     "pushed": "2024-06-11T07:18:36Z",
     "archived": false
   },
@@ -4648,7 +4648,7 @@
     "desc": "QMLの基礎・アルゴリズム・教材・プロジェクトを大規模に収集",
     "status": "ok",
     "canonical": "krishnakumarsekar/awesome-quantum-machine-learning",
-    "stars": 3627,
+    "stars": 3631,
     "pushed": "2024-05-07T21:09:28Z",
     "archived": false
   },
@@ -4659,8 +4659,8 @@
     "desc": "双曲埋め込み・双曲モデル・応用の最新論文を活発に更新",
     "status": "ok",
     "canonical": "marlin-codes/Awesome-Hyperbolic-Representation-and-Deep-Learning",
-    "stars": 605,
-    "pushed": "2026-08-01T07:42:55Z",
+    "stars": 607,
+    "pushed": "2026-08-06T14:09:25Z",
     "archived": false
   },
   "sekwiatkowski/awesome-capsule-networks": {
@@ -4670,7 +4670,7 @@
     "desc": "Dynamic Routing/EM Routing等カプセルネットの主要論文・実装集",
     "status": "ok",
     "canonical": "sekwiatkowski/awesome-capsule-networks",
-    "stars": 975,
+    "stars": 976,
     "pushed": "2020-02-24T17:12:38Z",
     "archived": false
   },
@@ -4681,7 +4681,7 @@
     "desc": "メタ学習の論文・コード・書籍・動画・データセットを網羅した定番リスト",
     "status": "ok",
     "canonical": "sudharsan13296/Awesome-Meta-Learning",
-    "stars": 1557,
+    "stars": 1556,
     "pushed": "2020-11-24T09:32:33Z",
     "archived": false
   },
@@ -4736,7 +4736,7 @@
     "desc": "転移学習分野の最大級リポジトリ。論文・コード・データセットを網羅",
     "status": "ok",
     "canonical": "jindongwang/transferlearning",
-    "stars": 14343,
+    "stars": 14347,
     "pushed": "2025-02-18T22:06:58Z",
     "archived": false
   },
@@ -4747,7 +4747,7 @@
     "desc": "ドメイン適応に関する論文・コードを集めた定番リスト",
     "status": "ok",
     "canonical": "zhaoxin94/awesome-domain-adaptation",
-    "stars": 5452,
+    "stars": 5454,
     "pushed": "2025-12-08T06:04:32Z",
     "archived": false
   },
@@ -4769,7 +4769,7 @@
     "desc": "ドメイン汎化の論文・コード・データセットを集めたリスト",
     "status": "ok",
     "canonical": "junkunyuan/Awesome-Domain-Generalization",
-    "stars": 537,
+    "stars": 539,
     "pushed": "2025-04-16T02:59:45Z",
     "archived": false
   },
@@ -4791,7 +4791,7 @@
     "desc": "OOD検出と汎化のベンチマーク・論文・ライブラリを網羅",
     "status": "ok",
     "canonical": "huytransformer/Awesome-Out-Of-Distribution-Detection",
-    "stars": 1015,
+    "stars": 1018,
     "pushed": "2026-04-03T18:05:25Z",
     "archived": false
   },
@@ -4846,7 +4846,7 @@
     "desc": "SFDA/TTBA/TTIA/OTTA等を網羅したテスト時適応の定番リスト",
     "status": "ok",
     "canonical": "tim-learn/awesome-test-time-adaptation",
-    "stars": 1303,
+    "stars": 1304,
     "pushed": "2025-11-14T11:14:42Z",
     "archived": false
   },
@@ -4857,7 +4857,7 @@
     "desc": "テスト時適応・テスト時訓練・ソースフリードメイン適応の論文リスト",
     "status": "ok",
     "canonical": "YuejiangLIU/awesome-source-free-test-time-adaptation",
-    "stars": 549,
+    "stars": 548,
     "pushed": "2024-06-23T15:27:39Z",
     "archived": false
   },
@@ -4923,7 +4923,7 @@
     "desc": "クラス不均衡/長尾学習の論文・コード・フレームワーク・ライブラリを総覧",
     "status": "ok",
     "canonical": "ZhiningLiu1998/awesome-imbalanced-learning",
-    "stars": 1523,
+    "stars": 1525,
     "pushed": "2026-06-09T23:44:43Z",
     "archived": false
   },
@@ -4934,7 +4934,7 @@
     "desc": "能動学習の論文・ツール・ベンチマークを集めたリスト",
     "status": "ok",
     "canonical": "baifanxxx/awesome-active-learning",
-    "stars": 802,
+    "stars": 803,
     "pushed": "2026-03-26T13:22:40Z",
     "archived": false
   },
@@ -4945,7 +4945,7 @@
     "desc": "マルチタスク学習の最新論文を時系列整理",
     "status": "ok",
     "canonical": "WeihongLi-ac/Awesome-Multi-Task-Learning",
-    "stars": 378,
+    "stars": 379,
     "pushed": "2026-03-02T16:05:04Z",
     "archived": false
   },
@@ -4956,7 +4956,7 @@
     "desc": "MTLのデータセット・コードベース・論文を集約(清華大THUML)",
     "status": "ok",
     "canonical": "thuml/awesome-multi-task-learning",
-    "stars": 841,
+    "stars": 840,
     "pushed": "2026-03-03T01:07:34Z",
     "archived": false
   },
@@ -5011,7 +5011,7 @@
     "desc": "分布フリー不確実性定量化(CP)の動画・論文・ライブラリを集めた充実リスト",
     "status": "ok",
     "canonical": "valeman/awesome-conformal-prediction",
-    "stars": 1274,
+    "stars": 1278,
     "pushed": "2026-07-09T11:49:02Z",
     "archived": false
   },
@@ -5022,7 +5022,7 @@
     "desc": "正規化フローの論文・実装(PyTorch/JAX/Julia)・動画を集めた代表的リスト",
     "status": "ok",
     "canonical": "janosh/awesome-normalizing-flows",
-    "stars": 1637,
+    "stars": 1638,
     "pushed": "2026-07-31T13:27:19Z",
     "archived": false
   },
@@ -5066,7 +5066,7 @@
     "desc": "機械学習向け最適輸送(OT)の論文・チュートリアル・ライブラリ・書籍集",
     "status": "ok",
     "canonical": "kilianFatras/awesome-optimal-transport",
-    "stars": 245,
+    "stars": 246,
     "pushed": "2021-05-09T11:49:59Z",
     "archived": false
   },
@@ -5088,7 +5088,7 @@
     "desc": "再現可能な因果推論・因果ML手法のインデックス(サーベイ論文付き)",
     "status": "ok",
     "canonical": "rguo12/awesome-causality-algorithms",
-    "stars": 3274,
+    "stars": 3276,
     "pushed": "2025-01-22T11:00:42Z",
     "archived": false
   },
@@ -5143,7 +5143,7 @@
     "desc": "VAE・ディスエンタングルメント・表現学習・生成モデルの論文を約900件集約",
     "status": "ok",
     "canonical": "matthewvowels1/Awesome-VAEs",
-    "stars": 844,
+    "stars": 845,
     "pushed": "2021-07-11T11:39:21Z",
     "archived": false
   },
@@ -5165,7 +5165,7 @@
     "desc": "教師あり/教師なし/クロスモーダルReIDを網羅した大規模論文リスト",
     "status": "ok",
     "canonical": "bismex/Awesome-person-re-identification",
-    "stars": 1357,
+    "stars": 1359,
     "pushed": "2024-06-18T00:18:05Z",
     "archived": false
   },
@@ -5187,8 +5187,8 @@
     "desc": "LLM/非LLM手法・2D/3D/動画を網羅する活発なシーングラフ生成リスト",
     "status": "ok",
     "canonical": "ChocoWu/Awesome-Scene-Graph-Generation",
-    "stars": 706,
-    "pushed": "2026-07-10T12:20:06Z",
+    "stars": 708,
+    "pushed": "2026-08-03T10:12:04Z",
     "archived": false
   },
   "DennisRotondi/awesome-3D-scene-graphs": {
@@ -5198,8 +5198,8 @@
     "desc": "ロボティクス応用を含む3Dシーングラフ専門リスト",
     "status": "ok",
     "canonical": "DennisRotondi/awesome-3D-scene-graphs",
-    "stars": 152,
-    "pushed": "2026-07-17T20:29:07Z",
+    "stars": 154,
+    "pushed": "2026-08-03T11:18:00Z",
     "archived": false
   },
   "Taaccoo/awesome-vqa-latest": {
@@ -5220,7 +5220,7 @@
     "desc": "データセット・ベンチマーク・論文を網羅するHOI学習リスト(活発)",
     "status": "ok",
     "canonical": "DirtyHarryLYL/HOI-Learning-List",
-    "stars": 715,
+    "stars": 716,
     "pushed": "2025-10-24T11:51:50Z",
     "archived": false
   },
@@ -5242,7 +5242,7 @@
     "desc": "群衆計数の定番リスト。データセット・コード付きで活発",
     "status": "ok",
     "canonical": "gjy3035/Awesome-Crowd-Counting",
-    "stars": 2610,
+    "stars": 2611,
     "pushed": "2026-01-24T01:40:31Z",
     "archived": false
   },
@@ -5253,7 +5253,7 @@
     "desc": "深層学習ベースのマッティング論文・コード厳選リスト",
     "status": "ok",
     "canonical": "wchstrife/Awesome-Image-Matting",
-    "stars": 437,
+    "stars": 436,
     "pushed": "2023-11-05T10:19:46Z",
     "archived": false
   },
@@ -5275,7 +5275,7 @@
     "desc": "VOSの最新論文・データセット・プロジェクト集",
     "status": "ok",
     "canonical": "gaomingqi/Awesome-Video-Object-Segmentation",
-    "stars": 516,
+    "stars": 517,
     "pushed": "2026-07-13T21:33:51Z",
     "archived": false
   },
@@ -5308,7 +5308,7 @@
     "desc": "視線推定論文の厳選キュレーションリスト",
     "status": "ok",
     "canonical": "cvlab-uob/Awesome-Gaze-Estimation",
-    "stars": 538,
+    "stars": 539,
     "pushed": "2025-06-14T03:49:43Z",
     "archived": false
   },
@@ -5319,7 +5319,7 @@
     "desc": "手姿勢推定/トラッキング(3D含む)の定番リスト",
     "status": "ok",
     "canonical": "xinghaochen/awesome-hand-pose-estimation",
-    "stars": 3381,
+    "stars": 3385,
     "pushed": "2026-06-28T14:22:34Z",
     "archived": false
   },
@@ -5330,7 +5330,7 @@
     "desc": "産業画像の異常/欠陥検出の論文・データセット集(非常に活発)",
     "status": "ok",
     "canonical": "M-3LAB/awesome-industrial-anomaly-detection",
-    "stars": 3725,
+    "stars": 3729,
     "pushed": "2026-07-13T03:59:24Z",
     "archived": false
   },
@@ -5341,8 +5341,8 @@
     "desc": "点群・マルチモーダル3D異常検出のサーベイリポジトリ",
     "status": "ok",
     "canonical": "M-3LAB/awesome-3d-anomaly-detection",
-    "stars": 129,
-    "pushed": "2026-07-29T13:16:23Z",
+    "stars": 130,
+    "pushed": "2026-08-09T07:26:40Z",
     "archived": false
   },
   "vlislab2022/Awesome-Events-Deep-Learning": {
@@ -5363,7 +5363,7 @@
     "desc": "トップ国際会議掲載のイベント/スパイクカメラ論文集",
     "status": "ok",
     "canonical": "Event-AHU/Event_Camera_in_Top_Conference",
-    "stars": 122,
+    "stars": 123,
     "pushed": "2026-04-07T23:17:01Z",
     "archived": false
   },
@@ -5374,7 +5374,7 @@
     "desc": "IJCV2026サーベイ「Deep Learning-Based Object Pose Estimation」のプロジェクトページ",
     "status": "ok",
     "canonical": "CNJianLiu/Awesome-Object-Pose-Estimation",
-    "stars": 443,
+    "stars": 445,
     "pushed": "2026-01-22T06:50:22Z",
     "archived": false
   },
@@ -5407,7 +5407,7 @@
     "desc": "カモフラージュ/隠蔽物体検出の厳選リソース集",
     "status": "ok",
     "canonical": "visionxiang/awesome-camouflaged-object-detection",
-    "stars": 481,
+    "stars": 484,
     "pushed": "2025-12-26T11:07:46Z",
     "archived": false
   },
@@ -5418,7 +5418,7 @@
     "desc": "隠蔽物体セグメンテーションのリソース集",
     "status": "ok",
     "canonical": "ChunmingHe/awesome-concealed-object-segmentation",
-    "stars": 347,
+    "stars": 351,
     "pushed": "2026-01-08T09:30:27Z",
     "archived": false
   },
@@ -5451,7 +5451,7 @@
     "desc": "サーベイ「Neural Style Transfer: A Review」付随の代表論文・コード集",
     "status": "ok",
     "canonical": "ycjing/Neural-Style-Transfer-Papers",
-    "stars": 1637,
+    "stars": 1638,
     "pushed": "2022-02-21T10:11:42Z",
     "archived": false
   },
@@ -5473,7 +5473,7 @@
     "desc": "アニメ/漫画研究の論文・データセット集(生成・カラー化・キャラアニメ等)",
     "status": "ok",
     "canonical": "SerialLain3170/AwesomeAnimeResearch",
-    "stars": 1244,
+    "stars": 1246,
     "pushed": "2026-07-20T22:49:51Z",
     "archived": false
   },
@@ -5506,7 +5506,7 @@
     "desc": "低照度画像強調のデータセット/手法/論文/評価指標を網羅(活発)",
     "status": "ok",
     "canonical": "zhihongz/awesome-low-light-image-enhancement",
-    "stars": 1843,
+    "stars": 1844,
     "pushed": "2026-05-12T12:34:13Z",
     "archived": false
   },
@@ -5551,7 +5551,7 @@
     "status": "ok",
     "canonical": "rebeccaeexu/Awesome-High-Dynamic-Range-Imaging",
     "stars": 241,
-    "pushed": "2026-02-06T09:32:10Z",
+    "pushed": "2026-08-08T16:33:46Z",
     "archived": false
   },
   "oneTaken/Awesome-Denoise": {
@@ -5572,7 +5572,7 @@
     "desc": "IQA論文/データセット/コードの包括集(非常に活発)",
     "status": "ok",
     "canonical": "chaofengc/Awesome-Image-Quality-Assessment",
-    "stars": 1539,
+    "stars": 1540,
     "pushed": "2026-08-02T10:48:23Z",
     "archived": false
   },
@@ -5584,7 +5584,7 @@
     "status": "ok",
     "canonical": "Linfeng-Tang/Image-Fusion",
     "stars": 1212,
-    "pushed": "2026-06-10T14:42:05Z",
+    "pushed": "2026-08-05T02:21:06Z",
     "archived": false
   },
   "YuZhao1999/UIE": {
@@ -5693,7 +5693,7 @@
     "desc": "意味検索モデル(DPR, RAG, RepBERT等)を網羅したTOIS採択サーベイの論文リスト",
     "status": "ok",
     "canonical": "caiyinqiong/Semantic-Retrieval-Models",
-    "stars": 341,
+    "stars": 342,
     "pushed": "2023-06-17T11:25:15Z",
     "archived": false
   },
@@ -5748,7 +5748,7 @@
     "desc": "関係抽出に特化したリソースリスト",
     "status": "ok",
     "canonical": "roomylee/awesome-relation-extraction",
-    "stars": 1225,
+    "stars": 1226,
     "pushed": "2022-01-27T14:46:32Z",
     "archived": false
   },
@@ -5858,7 +5858,7 @@
     "desc": "投機的デコーディングの必読論文・ブログ集(サーベイ連動)",
     "status": "ok",
     "canonical": "hemingkx/SpeculativeDecodingPapers",
-    "stars": 1284,
+    "stars": 1288,
     "pushed": "2026-06-27T00:21:39Z",
     "archived": false
   },
@@ -5869,7 +5869,7 @@
     "desc": "LLM事前学習のデータ・フレームワーク・手法リソース集",
     "status": "ok",
     "canonical": "RUCAIBox/awesome-llm-pretraining",
-    "stars": 395,
+    "stars": 397,
     "pushed": "2025-04-29T11:44:54Z",
     "archived": false
   },
@@ -5880,7 +5880,7 @@
     "desc": "事前学習コーパス・指示/選好/評価データセットを5観点で整理",
     "status": "ok",
     "canonical": "lmmlzn/Awesome-LLMs-Datasets",
-    "stars": 1479,
+    "stars": 1481,
     "pushed": "2026-03-11T03:47:03Z",
     "archived": false
   },
@@ -5891,7 +5891,7 @@
     "desc": "「LLM × DATA」サーベイ公式リポジトリ",
     "status": "ok",
     "canonical": "OpenDataBox/awesome-data-llm",
-    "stars": 813,
+    "stars": 816,
     "pushed": "2026-06-15T06:25:37Z",
     "archived": false
   },
@@ -5902,8 +5902,8 @@
     "desc": "パーソナライズドLLM(嗜好モデル化・persona制御・記憶ベース)の最新論文集",
     "status": "ok",
     "canonical": "VanillaCreamer/Awesome-Personalized-LLMs",
-    "stars": 53,
-    "pushed": "2026-07-29T16:30:19Z",
+    "stars": 55,
+    "pushed": "2026-08-04T13:51:05Z",
     "archived": false
   },
   "TsinghuaC3I/Awesome-Memory-for-Agents": {
@@ -5913,7 +5913,7 @@
     "desc": "言語エージェントの記憶(ユーザプロファイル・対話履歴)に関する論文集",
     "status": "ok",
     "canonical": "TsinghuaC3I/Awesome-Memory-for-Agents",
-    "stars": 624,
+    "stars": 629,
     "pushed": "2026-07-23T07:28:49Z",
     "archived": false
   },
@@ -5935,7 +5935,7 @@
     "desc": "要件・開発・テスト・保守までSE全領域のLLM論文を整理",
     "status": "ok",
     "canonical": "iSEngLab/AwesomeLLM4SE",
-    "stars": 338,
+    "stars": 341,
     "pushed": "2026-04-08T05:41:25Z",
     "archived": false
   },
@@ -5968,7 +5968,7 @@
     "desc": "LLM数学推論の高品質厳選リスト。学習データ・SFT・RL・ベンチを整理",
     "status": "ok",
     "canonical": "tongyx361/Awesome-LLM4Math",
-    "stars": 159,
+    "stars": 160,
     "pushed": "2024-07-12T13:35:47Z",
     "archived": false
   },
@@ -5979,8 +5979,8 @@
     "desc": "金融市場のLLM・深層学習戦略・ツールの定番リスト",
     "status": "ok",
     "canonical": "georgezouq/awesome-ai-in-finance",
-    "stars": 6336,
-    "pushed": "2026-07-28T04:07:38Z",
+    "stars": 6371,
+    "pushed": "2026-08-04T09:34:24Z",
     "archived": false
   },
   "adlnlp/FinLLMs": {
@@ -5990,7 +5990,7 @@
     "desc": "論文「Large Language Models in Finance」の関連研究・ベンチ・データセット集",
     "status": "ok",
     "canonical": "adlnlp/FinLLMs",
-    "stars": 384,
+    "stars": 385,
     "pushed": "2025-04-10T04:56:44Z",
     "archived": false
   },
@@ -6012,7 +6012,7 @@
     "desc": "司法AI向けのコーパス・ベンチ・QA・要約データセットを集約",
     "status": "ok",
     "canonical": "CSHaitao/Awesome-LegalAI-Resources",
-    "stars": 308,
+    "stars": 309,
     "pushed": "2023-07-15T14:08:36Z",
     "archived": false
   },
@@ -6023,7 +6023,7 @@
     "desc": "教育向けLLM研究・応用(教授支援・問題生成・自動採点等)の整理",
     "status": "ok",
     "canonical": "Geralt-Targaryen/Awesome-Education-LLM",
-    "stars": 81,
+    "stars": 80,
     "pushed": "2024-09-13T08:54:28Z",
     "archived": false
   },
@@ -6034,7 +6034,7 @@
     "desc": "トップ会議・ジャーナルの教育向けAI/LLM論文を収集",
     "status": "ok",
     "canonical": "GeminiLight/awesome-ai-llm4education",
-    "stars": 207,
+    "stars": 210,
     "pushed": "2026-07-15T14:33:12Z",
     "archived": false
   },
@@ -6045,7 +6045,7 @@
     "desc": "RSFMの論文・データセット・ベンチ・事前学習重みを網羅(活発)",
     "status": "ok",
     "canonical": "Jack-bo1220/Awesome-Remote-Sensing-Foundation-Models",
-    "stars": 1913,
+    "stars": 1919,
     "pushed": "2026-05-07T14:14:37Z",
     "archived": false
   },
@@ -6056,7 +6056,7 @@
     "desc": "衛星・航空画像の深層学習手法の超大規模リファレンス",
     "status": "ok",
     "canonical": "satellite-image-deep-learning/techniques",
-    "stars": 10222,
+    "stars": 10230,
     "pushed": "2026-08-02T12:18:31Z",
     "archived": false
   },
@@ -6078,7 +6078,7 @@
     "desc": "RS変化検出のデータセット・手法・サーベイ集",
     "status": "ok",
     "canonical": "wenhwu/awesome-remote-sensing-change-detection",
-    "stars": 2289,
+    "stars": 2296,
     "pushed": "2026-04-16T14:44:49Z",
     "archived": false
   },
@@ -6089,7 +6089,7 @@
     "desc": "農業・農場・園芸向けOSS技術(ML・GIS・リモセン・ロボティクス含む)の定番リスト",
     "status": "ok",
     "canonical": "brycejohnston/awesome-agriculture",
-    "stars": 1838,
+    "stars": 1851,
     "pushed": "2026-01-05T18:48:16Z",
     "archived": false
   },
@@ -6111,8 +6111,8 @@
     "desc": "原子論的機械学習プロジェクト約510件をスコア付きランキング(活発)",
     "status": "ok",
     "canonical": "JuDFTteam/best-of-atomistic-machine-learning",
-    "stars": 707,
-    "pushed": "2026-07-30T19:38:42Z",
+    "stars": 709,
+    "pushed": "2026-08-09T16:13:08Z",
     "archived": false
   },
   "sherrylixuecheng/awesome-ai4chem": {
@@ -6133,7 +6133,7 @@
     "desc": "現代材料科学におけるマテリアルズ・インフォマティクスの取り組み集",
     "status": "ok",
     "canonical": "tilde-lab/awesome-materials-informatics",
-    "stars": 524,
+    "stars": 525,
     "pushed": "2026-03-24T10:49:03Z",
     "archived": false
   },
@@ -6144,7 +6144,7 @@
     "desc": "PINNの必読論文集。並列化・加速・転移学習・不確実性定量化・応用で整理",
     "status": "ok",
     "canonical": "idrl-lab/PINNpapers",
-    "stars": 1529,
+    "stars": 1530,
     "pushed": "2023-12-08T21:59:16Z",
     "archived": false
   },
@@ -6156,7 +6156,7 @@
     "status": "ok",
     "canonical": "AI-in-Transportation-Lab/awesome-pinns",
     "stars": 131,
-    "pushed": "2026-08-03T02:34:12Z",
+    "pushed": "2026-08-10T01:28:08Z",
     "archived": false
   },
   "frutik/awesome-search": {
@@ -6166,8 +6166,8 @@
     "desc": "EC検索を中心にセマンティック検索・LTR・クエリ理解・検索品質を網羅",
     "status": "ok",
     "canonical": "frutik/awesome-search",
-    "stars": 1554,
-    "pushed": "2026-07-30T16:41:34Z",
+    "stars": 1555,
+    "pushed": "2026-08-07T08:29:29Z",
     "archived": false
   },
   "yuzhimanhua/Awesome-Scientific-Language-Models": {
@@ -6210,7 +6210,7 @@
     "desc": "LLM推論最適化手法をレイテンシ/スループット/メモリ別に分類した網羅的まとめ",
     "status": "ok",
     "canonical": "sihyeong/Awesome-LLM-Inference-Engine",
-    "stars": 231,
+    "stars": 232,
     "pushed": "2026-07-27T02:25:19Z",
     "archived": false
   },
@@ -6232,7 +6232,7 @@
     "desc": "大規模モデルの分散学習・推論に関するプロジェクトと論文の厳選リスト",
     "status": "ok",
     "canonical": "Shenggan/awesome-distributed-ml",
-    "stars": 279,
+    "stars": 280,
     "pushed": "2024-10-08T08:53:11Z",
     "archived": false
   },
@@ -6243,7 +6243,7 @@
     "desc": "AIシステム論文と産業実践(OSDI/NSDI/MLSys等、LLM・GenAI含む)を集めた定番",
     "status": "ok",
     "canonical": "HuaizhengZhang/AI-Infra-from-Zero-to-Hero",
-    "stars": 4252,
+    "stars": 4268,
     "pushed": "2025-07-25T02:24:35Z",
     "archived": false
   },
@@ -6254,8 +6254,8 @@
     "desc": "MLシステム分野の論文を体系的に集めたコレクション",
     "status": "ok",
     "canonical": "byungsoo-oh/ml-systems-papers",
-    "stars": 639,
-    "pushed": "2026-02-07T13:36:17Z",
+    "stars": 640,
+    "pushed": "2026-08-10T01:24:40Z",
     "archived": false
   },
   "lambda7xx/awesome-AI-system": {
@@ -6276,7 +6276,7 @@
     "desc": "深層学習向けハードウェア/チップ設計リソースの厳選リスト",
     "status": "ok",
     "canonical": "RaviVijay/awesome-dl-hw-resources",
-    "stars": 60,
+    "stars": 61,
     "pushed": "2018-05-01T20:31:48Z",
     "archived": false
   },
@@ -6343,7 +6343,7 @@
     "status": "ok",
     "canonical": "LAMDA-Tabular/Tabular-Survey",
     "stars": 133,
-    "pushed": "2026-07-17T16:41:43Z",
+    "pushed": "2026-08-05T09:44:08Z",
     "archived": false
   },
   "dangkhoasdc/awesome-vector-database": {
@@ -6364,7 +6364,7 @@
     "desc": "ベクトル検索のライブラリ・サービス・論文集(Faiss, Annoy等)",
     "status": "ok",
     "canonical": "currentslab/awesome-vector-search",
-    "stars": 1578,
+    "stars": 1580,
     "pushed": "2026-07-06T04:12:57Z",
     "archived": false
   },
@@ -6375,7 +6375,7 @@
     "desc": "感情コンピューティングの論文・ソフト・OSS・リソース集",
     "status": "ok",
     "canonical": "AmrMKayid/awesome-affective-computing",
-    "stars": 193,
+    "stars": 195,
     "pushed": "2019-11-15T12:21:40Z",
     "archived": false
   },
@@ -6419,7 +6419,7 @@
     "desc": "手話処理(認識/翻訳/生成)の包括リソース集",
     "status": "ok",
     "canonical": "VIPL-SLP/Awesome-Sign-Language-Processing",
-    "stars": 255,
+    "stars": 257,
     "pushed": "2026-05-19T16:07:20Z",
     "archived": false
   },
@@ -6441,7 +6441,7 @@
     "desc": "音楽情報学の論文・チュートリアル・ライブラリ・ツールの厳選リスト",
     "status": "ok",
     "canonical": "yamathcy/awesome-music-informatics",
-    "stars": 195,
+    "stars": 194,
     "pushed": "2023-07-10T23:27:18Z",
     "archived": false
   },
@@ -6452,7 +6452,7 @@
     "desc": "音楽に応用された深層学習の論文・学位論文集",
     "status": "ok",
     "canonical": "ybayle/awesome-deep-learning-music",
-    "stars": 2975,
+    "stars": 2978,
     "pushed": "2023-12-15T16:51:26Z",
     "archived": false
   },
@@ -6496,7 +6496,7 @@
     "desc": "音声感情認識(SER)の論文・データセット・ツールの厳選リスト",
     "status": "ok",
     "canonical": "abikaki/awesome-speech-emotion-recognition",
-    "stars": 101,
+    "stars": 102,
     "pushed": "2024-12-24T03:08:44Z",
     "archived": false
   },
@@ -6562,7 +6562,7 @@
     "desc": "TPAMI 2025サーベイ。REC/phrase grounding/grounding MLLMを網羅(活発)",
     "status": "ok",
     "canonical": "linhuixiao/Awesome-Visual-Grounding",
-    "stars": 322,
+    "stars": 323,
     "pushed": "2025-11-18T03:39:01Z",
     "archived": false
   },
@@ -6683,7 +6683,7 @@
     "desc": "マッチング戦略別に整理した点群レジストレーション論文集",
     "status": "ok",
     "canonical": "XuyangBai/awesome-point-cloud-registration",
-    "stars": 949,
+    "stars": 950,
     "pushed": "2024-07-17T06:01:47Z",
     "archived": false
   },
@@ -6694,7 +6694,7 @@
     "desc": "IJCV 2023サーベイ。LiDAR/カメラ/マルチモーダル3D検出を体系化",
     "status": "ok",
     "canonical": "PointsCoder/Awesome-3D-Object-Detection-for-Autonomous-Driving",
-    "stars": 613,
+    "stars": 612,
     "pushed": "2023-05-04T09:49:08Z",
     "archived": false
   },
@@ -6727,7 +6727,7 @@
     "desc": "IEEE TCSVT'26採録のVFIサーベイ。250+論文を体系化(活発)",
     "status": "ok",
     "canonical": "CMLab-Korea/Awesome-Video-Frame-Interpolation",
-    "stars": 161,
+    "stars": 163,
     "pushed": "2026-07-25T06:10:49Z",
     "archived": false
   },
@@ -6771,7 +6771,7 @@
     "desc": "画像アラインメント・スティッチングのキュレーション",
     "status": "ok",
     "canonical": "tzxiang/awesome-image-alignment-and-stitching",
-    "stars": 462,
+    "stars": 463,
     "pushed": "2022-08-08T09:33:10Z",
     "archived": false
   },
@@ -6826,8 +6826,8 @@
     "desc": "放射線レポート生成の論文・データセット・ツール集(非常に活発)",
     "status": "ok",
     "canonical": "mk-runner/Awesome-Radiology-Report-Generation",
-    "stars": 469,
-    "pushed": "2026-07-30T00:58:45Z",
+    "stars": 472,
+    "pushed": "2026-08-10T01:03:20Z",
     "archived": false
   },
   "zhjohnchan/awesome-radiology-report-generation": {
@@ -6903,7 +6903,7 @@
     "desc": "シングルセル解析×深層学習の最新論文を30以上のタスク別に整理",
     "status": "ok",
     "canonical": "OmicsML/awesome-deep-learning-single-cell-papers",
-    "stars": 861,
+    "stars": 859,
     "pushed": "2025-04-20T20:33:13Z",
     "archived": false
   },
@@ -6914,7 +6914,7 @@
     "desc": "シングルセル基盤モデルに特化した論文リスト",
     "status": "ok",
     "canonical": "OmicsML/awesome-foundation-model-single-cell-papers",
-    "stars": 516,
+    "stars": 525,
     "pushed": "2026-07-15T04:14:19Z",
     "archived": false
   },
@@ -6925,7 +6925,7 @@
     "desc": "生存時間解析の論文・資源をカテゴリ別に整理(活発)",
     "status": "ok",
     "canonical": "shi-ang/SurvivalAnalysisPapers",
-    "stars": 97,
+    "stars": 98,
     "pushed": "2026-07-05T08:47:25Z",
     "archived": false
   },
@@ -6947,7 +6947,7 @@
     "desc": "学習ベース医用画像レジストレーションの論文集+損失関数/評価指標の実装",
     "status": "ok",
     "canonical": "JHU-MedImage-Reg/MedImgReg_Survey",
-    "stars": 122,
+    "stars": 123,
     "pushed": "2025-05-29T20:25:42Z",
     "archived": false
   },
@@ -6958,7 +6958,7 @@
     "desc": "画像レジストレーション全般の書籍・論文・ツールボックス集",
     "status": "ok",
     "canonical": "Awesome-Image-Registration-Organization/awesome-image-registration",
-    "stars": 1541,
+    "stars": 1543,
     "pushed": "2026-07-23T06:17:17Z",
     "archived": false
   },
@@ -7013,7 +7013,7 @@
     "desc": "マルウェア・侵入検知等にMLを使うツール・論文・教材の定番リスト",
     "status": "ok",
     "canonical": "jivoi/awesome-ml-for-cybersecurity",
-    "stars": 9234,
+    "stars": 9257,
     "pushed": "2024-08-19T02:14:10Z",
     "archived": false
   },
@@ -7024,7 +7024,7 @@
     "desc": "ネットワーク侵入検知・アンチマルウェア・WAF・不正対策を網羅したAIリスト",
     "status": "ok",
     "canonical": "Billy1900/Awesome-AI-for-cybersecurity",
-    "stars": 264,
+    "stars": 265,
     "pushed": "2026-08-03T00:52:00Z",
     "archived": false
   },
@@ -7035,7 +7035,7 @@
     "desc": "生成AIモデル向け電子透かし手法を画像・音声・テキスト別に整理(活発)",
     "status": "ok",
     "canonical": "and-mill/Awesome-GenAI-Watermarking",
-    "stars": 144,
+    "stars": 145,
     "pushed": "2026-05-11T13:33:14Z",
     "archived": false
   },
@@ -7046,7 +7046,7 @@
     "desc": "画像ステガノグラフィと電子透かしを含む「deep hiding」論文を体系整理",
     "status": "ok",
     "canonical": "TracyCuiq/Learning-Deep-Hiding",
-    "stars": 66,
+    "stars": 68,
     "pushed": "2024-06-15T13:57:40Z",
     "archived": false
   },
@@ -7057,7 +7057,7 @@
     "desc": "GNNによる金融不正検知のサーベイ付き論文・コード集(活発)",
     "status": "ok",
     "canonical": "AI4Risk/awesome-fraud-detection",
-    "stars": 48,
+    "stars": 47,
     "pushed": "2026-05-01T10:28:43Z",
     "archived": false
   },
@@ -7068,7 +7068,7 @@
     "desc": "ICDM/KDD/SDM等の不正検知データマイニング論文の定番リスト",
     "status": "ok",
     "canonical": "benedekrozemberczki/awesome-fraud-detection-papers",
-    "stars": 1822,
+    "stars": 1823,
     "pushed": "2026-01-05T12:28:59Z",
     "archived": false
   },
@@ -7091,7 +7091,7 @@
     "status": "ok",
     "canonical": "AndrewZhou924/Awesome-model-inversion-attack",
     "stars": 222,
-    "pushed": "2026-04-03T03:14:43Z",
+    "pushed": "2026-08-08T04:59:36Z",
     "archived": false
   },
   "HongshengHu/membership-inference-machine-learning-literature": {
@@ -7123,7 +7123,7 @@
     "desc": "LLMジェイルブレイク手法の論文・コード・データセット・評価集(非常に活発)",
     "status": "ok",
     "canonical": "yueliu1999/Awesome-Jailbreak-on-LLMs",
-    "stars": 1555,
+    "stars": 1567,
     "pushed": "2026-07-22T05:54:41Z",
     "archived": false
   },
@@ -7134,7 +7134,7 @@
     "desc": "プロンプトインジェクションに対する実用・提案済み防御策を網羅",
     "status": "ok",
     "canonical": "tldrsec/prompt-injection-defenses",
-    "stars": 717,
+    "stars": 720,
     "pushed": "2025-02-22T11:50:13Z",
     "archived": false
   },
@@ -7156,8 +7156,8 @@
     "desc": "LLMの機械unラーニング論文・サーベイ・ベンチマーク集",
     "status": "ok",
     "canonical": "chrisliu298/awesome-llm-unlearning",
-    "stars": 616,
-    "pushed": "2026-08-02T01:50:21Z",
+    "stars": 618,
+    "pushed": "2026-08-06T09:51:49Z",
     "archived": false
   },
   "franciscoliu/Awesome-GenAI-Unlearning": {
@@ -7178,7 +7178,7 @@
     "desc": "LLM/マルチモーダルのレッドチーミング論文集(30+手法実装)",
     "status": "ok",
     "canonical": "Libr-AI/OpenRedTeaming",
-    "stars": 174,
+    "stars": 175,
     "pushed": "2026-07-14T15:40:55Z",
     "archived": false
   },
@@ -7233,7 +7233,7 @@
     "desc": "AutoML論文・記事・チュートリアル・プロジェクトの定番大規模リスト",
     "status": "ok",
     "canonical": "hibayesian/awesome-automl-papers",
-    "stars": 4155,
+    "stars": 4154,
     "pushed": "2024-06-11T16:51:05Z",
     "archived": false
   },
@@ -7255,7 +7255,7 @@
     "desc": "組合せ最適化への機械学習適用論文を36分野超で網羅(活発)",
     "status": "ok",
     "canonical": "Thinklab-SJTU/awesome-ml4co",
-    "stars": 2155,
+    "stars": 2160,
     "pushed": "2026-07-19T06:46:19Z",
     "archived": false
   },
@@ -7343,7 +7343,7 @@
     "desc": "テキストスタイル変換の定番論文リスト(教師あり/なし/評価を分類)",
     "status": "ok",
     "canonical": "fuzhenxin/Style-Transfer-in-Text",
-    "stars": 1624,
+    "stars": 1627,
     "pushed": "2023-03-16T03:19:15Z",
     "archived": false
   },
@@ -7387,7 +7387,7 @@
     "desc": "推論時/テスト時スケーリングの論文リスト(活発)",
     "status": "ok",
     "canonical": "ThreeSR/Awesome-Inference-Time-Scaling",
-    "stars": 398,
+    "stars": 396,
     "pushed": "2026-06-22T02:43:49Z",
     "archived": false
   },
@@ -7398,7 +7398,7 @@
     "desc": "テスト時LLM(self-correction/refine含む)論文集",
     "status": "ok",
     "canonical": "Dereck0602/Awesome_Test_Time_LLMs",
-    "stars": 159,
+    "stars": 158,
     "pushed": "2025-03-12T05:52:33Z",
     "archived": false
   },
@@ -7453,8 +7453,8 @@
     "desc": "マルチエージェント論文のキュレーション集(Swarms team)",
     "status": "ok",
     "canonical": "kyegomez/awesome-multi-agent-papers",
-    "stars": 1637,
-    "pushed": "2026-07-30T23:31:54Z",
+    "stars": 1642,
+    "pushed": "2026-08-07T13:09:13Z",
     "archived": false
   },
   "shizhl/Multi-Agent-Papers": {
@@ -7497,7 +7497,7 @@
     "desc": "低分子創薬向け機械学習リソースの厳選集",
     "status": "ok",
     "canonical": "benb111/awesome-small-molecule-ml",
-    "stars": 241,
+    "stars": 242,
     "pushed": "2023-11-25T15:02:21Z",
     "archived": false
   },
@@ -7530,7 +7530,7 @@
     "desc": "分子拡散モデル関連論文の厳選リスト(活発)",
     "status": "ok",
     "canonical": "AzureLeon1/awesome-molecular-diffusion-models",
-    "stars": 109,
+    "stars": 110,
     "pushed": "2026-04-10T08:38:20Z",
     "archived": false
   },
@@ -7552,7 +7552,7 @@
     "desc": "交通予測向けGNN論文・コードの大規模コレクション",
     "status": "ok",
     "canonical": "jwwthu/GNN4Traffic",
-    "stars": 1214,
+    "stars": 1215,
     "pushed": "2024-08-07T11:55:53Z",
     "archived": false
   },
@@ -7563,7 +7563,7 @@
     "desc": "時系列解析向けGNN(TPAMI 2024)のリソース集",
     "status": "ok",
     "canonical": "KimMeen/Awesome-GNN4TS",
-    "stars": 863,
+    "stars": 865,
     "pushed": "2024-08-09T11:31:08Z",
     "archived": false
   },
@@ -7662,7 +7662,7 @@
     "desc": "2025年TKDEサーベイ公式リポジトリ。GNNベースのグラフ異常検知論文・データセット",
     "status": "ok",
     "canonical": "mala-lab/Awesome-Deep-Graph-Anomaly-Detection",
-    "stars": 226,
+    "stars": 229,
     "pushed": "2026-06-06T02:18:31Z",
     "archived": false
   },
@@ -7673,7 +7673,7 @@
     "desc": "深層学習によるグラフ異常検知の論文・データセット・実装集",
     "status": "ok",
     "canonical": "XiaoxiaoMa-MQ/Awesome-Deep-Graph-Anomaly-Detection",
-    "stars": 384,
+    "stars": 383,
     "pushed": "2023-07-10T15:41:22Z",
     "archived": false
   },
@@ -7684,7 +7684,7 @@
     "desc": "グラフ/Transformerベースの不正・異常・外れ値検知論文集",
     "status": "ok",
     "canonical": "safe-graph/graph-fraud-detection-papers",
-    "stars": 1876,
+    "stars": 1881,
     "pushed": "2026-06-29T04:42:42Z",
     "archived": false
   },
@@ -7707,7 +7707,7 @@
     "status": "ok",
     "canonical": "WenjieDu/Awesome_Imputation",
     "stars": 423,
-    "pushed": "2026-03-17T08:34:44Z",
+    "pushed": "2026-08-03T09:24:28Z",
     "archived": false
   },
   "XiaomingX/awesome-qwen-prompt-insight": {
@@ -7717,7 +7717,7 @@
     "desc": "Qwen向け優良プロンプトの大規模コレクション",
     "status": "ok",
     "canonical": "XiaomingX/awesome-qwen-prompt-insight",
-    "stars": 410,
+    "stars": 413,
     "pushed": "2026-02-01T07:46:12Z",
     "archived": false
   },
@@ -7750,7 +7750,7 @@
     "desc": "GPT Store掲載のGPTを集めたキュレーション",
     "status": "ok",
     "canonical": "ai-boost/Awesome-GPTs",
-    "stars": 3404,
+    "stars": 3402,
     "pushed": "2024-11-03T00:50:20Z",
     "archived": false
   },
@@ -7761,8 +7761,8 @@
     "desc": "中国系文生図SDモデル集(Kolors/HunyuanDiT等含む)",
     "status": "ok",
     "canonical": "leeguandong/Awesome-Chinese-Stable-Diffusion",
-    "stars": 439,
-    "pushed": "2026-07-20T02:58:50Z",
+    "stars": 440,
+    "pushed": "2026-08-08T06:45:51Z",
     "archived": false
   },
   "songguoxs/awesome-video-prompts": {
@@ -7772,7 +7772,7 @@
     "desc": "Veo3/Kling/Hailuo向け動画プロンプト集",
     "status": "ok",
     "canonical": "songguoxs/awesome-video-prompts",
-    "stars": 569,
+    "stars": 570,
     "pushed": "2025-10-18T14:00:06Z",
     "archived": false
   },
@@ -7783,8 +7783,8 @@
     "desc": "Seedance 2.0動画生成プロンプト2000+(毎日更新)",
     "status": "ok",
     "canonical": "YouMind-OpenLab/awesome-seedance-2-prompts",
-    "stars": 1750,
-    "pushed": "2026-08-02T21:14:34Z",
+    "stars": 1811,
+    "pushed": "2026-08-09T20:50:31Z",
     "archived": false
   },
   "geekjourneyx/awesome-ai-video-prompts": {
@@ -7805,8 +7805,8 @@
     "desc": "世界最大級のNano Banana Proプロンプト集10,000+/16言語(毎日更新)",
     "status": "ok",
     "canonical": "YouMind-OpenLab/awesome-nano-banana-pro-prompts",
-    "stars": 13037,
-    "pushed": "2026-08-03T00:22:57Z",
+    "stars": 13163,
+    "pushed": "2026-08-10T00:09:13Z",
     "archived": false
   },
   "muset-ai/awesome-nano-banana-pro": {
@@ -7816,7 +7816,7 @@
     "desc": "Nano Banana Proの画像・プロンプト作例集",
     "status": "ok",
     "canonical": "muset-ai/awesome-nano-banana-pro",
-    "stars": 1057,
+    "stars": 1058,
     "pushed": "2025-11-22T09:26:23Z",
     "archived": false
   },
@@ -7827,7 +7827,7 @@
     "desc": "GPT-4o・gpt-image-1の画像・プロンプト作例集",
     "status": "ok",
     "canonical": "jamez-bondos/awesome-gpt4o-images",
-    "stars": 8115,
+    "stars": 8116,
     "pushed": "2025-05-26T02:32:13Z",
     "archived": false
   },
@@ -7838,8 +7838,8 @@
     "desc": "Grok Imagine(xAI)動画生成プロンプト集",
     "status": "ok",
     "canonical": "YouMind-OpenLab/awesome-grok-imagine-prompts",
-    "stars": 33,
-    "pushed": "2026-08-02T21:18:52Z",
+    "stars": 35,
+    "pushed": "2026-08-09T20:57:23Z",
     "archived": false
   },
   "deepseek-ai/awesome-deepseek-integration": {
@@ -7849,7 +7849,7 @@
     "desc": "DeepSeek APIを各種ソフトに統合する公式キュレーション",
     "status": "ok",
     "canonical": "deepseek-ai/awesome-deepseek-integration",
-    "stars": 38475,
+    "stars": 38549,
     "pushed": "2026-02-23T16:27:47Z",
     "archived": false
   },
@@ -7860,7 +7860,7 @@
     "desc": "DeepSeek Coder関連のOSSプロジェクトをまとめた公式リスト",
     "status": "ok",
     "canonical": "deepseek-ai/awesome-deepseek-coder",
-    "stars": 800,
+    "stars": 802,
     "pushed": "2025-11-11T06:45:15Z",
     "archived": false
   },
@@ -7871,7 +7871,7 @@
     "desc": "Anthropic Claude全般のキュレーションリスト",
     "status": "ok",
     "canonical": "webfuse-com/awesome-claude",
-    "stars": 1602,
+    "stars": 1636,
     "pushed": "2026-06-12T09:54:19Z",
     "archived": false
   },
@@ -7882,8 +7882,8 @@
     "desc": "Claude Code向けskill/hook/slash-command/プラグイン集",
     "status": "ok",
     "canonical": "hesreallyhim/awesome-claude-code",
-    "stars": 51548,
-    "pushed": "2026-08-03T00:35:39Z",
+    "stars": 52002,
+    "pushed": "2026-08-10T00:19:12Z",
     "archived": false
   },
   "ComposioHQ/awesome-claude-skills": {
@@ -7893,7 +7893,7 @@
     "desc": "Claude Skill/ツールのキュレーション",
     "status": "ok",
     "canonical": "ComposioHQ/awesome-claude-skills",
-    "stars": 71622,
+    "stars": 72152,
     "pushed": "2026-07-24T07:48:01Z",
     "archived": false
   },
@@ -7904,8 +7904,8 @@
     "desc": "Gemini CLI向けツール/拡張/リソース集",
     "status": "ok",
     "canonical": "Piebald-AI/awesome-gemini-cli",
-    "stars": 490,
-    "pushed": "2026-07-31T13:53:56Z",
+    "stars": 493,
+    "pushed": "2026-08-09T13:54:32Z",
     "archived": false
   },
   "samouraiworld/awesome-mistral": {
@@ -7926,7 +7926,7 @@
     "desc": "GPT/ChatGPT/OpenAI関連プロジェクト・リソース集",
     "status": "ok",
     "canonical": "formulahendry/awesome-gpt",
-    "stars": 1044,
+    "stars": 1043,
     "pushed": "2024-05-29T05:24:16Z",
     "archived": false
   },
@@ -7937,7 +7937,7 @@
     "desc": "ChatGPT向けawesomeリスト(sindresorhus系列)",
     "status": "ok",
     "canonical": "sindresorhus/awesome-chatgpt",
-    "stars": 6360,
+    "stars": 6369,
     "pushed": "2026-02-15T18:05:30Z",
     "archived": false
   },
@@ -7948,7 +7948,7 @@
     "desc": "ChatGPTのライブラリ/SDK/APIキュレーション",
     "status": "ok",
     "canonical": "eon01/awesome-chatgpt",
-    "stars": 2385,
+    "stars": 2389,
     "pushed": "2026-07-15T08:09:09Z",
     "archived": false
   },
@@ -7959,7 +7959,7 @@
     "desc": "ComfyUIカスタムノードの大規模コレクション",
     "status": "ok",
     "canonical": "ComfyUI-Workflow/awesome-comfyui",
-    "stars": 727,
+    "stars": 729,
     "pushed": "2025-07-24T00:15:02Z",
     "archived": false
   },
@@ -7992,8 +7992,8 @@
     "desc": "実行可能なLLMアプリ/RAG/エージェントのコレクション",
     "status": "ok",
     "canonical": "Shubhamsaboo/awesome-llm-apps",
-    "stars": 129868,
-    "pushed": "2026-08-02T21:22:41Z",
+    "stars": 131769,
+    "pushed": "2026-08-09T11:43:20Z",
     "archived": false
   },
   "punkpeye/awesome-mcp-servers": {
@@ -8003,8 +8003,8 @@
     "desc": "最大手のMCP(Model Context Protocol)サーバーコレクション",
     "status": "ok",
     "canonical": "punkpeye/awesome-mcp-servers",
-    "stars": 91741,
-    "pushed": "2026-07-29T10:26:20Z",
+    "stars": 92014,
+    "pushed": "2026-08-03T03:09:55Z",
     "archived": false
   },
   "appcypher/awesome-mcp-servers": {
@@ -8014,7 +8014,7 @@
     "desc": "MCPサーバーのキュレーション",
     "status": "ok",
     "canonical": "appcypher/awesome-mcp-servers",
-    "stars": 5734,
+    "stars": 5737,
     "pushed": "2026-05-06T08:04:35Z",
     "archived": true
   },
@@ -8025,7 +8025,7 @@
     "desc": "生成AIにおけるRAGアプリのawesomeリスト",
     "status": "ok",
     "canonical": "Danielskry/Awesome-RAG",
-    "stars": 1322,
+    "stars": 1332,
     "pushed": "2026-07-09T14:58:23Z",
     "archived": false
   },
@@ -8036,7 +8036,7 @@
     "desc": "LLM開発・運用向けツール(学習/サービング/監視)の厳選リスト",
     "status": "ok",
     "canonical": "tensorchord/Awesome-LLMOps",
-    "stars": 5908,
+    "stars": 5911,
     "pushed": "2026-05-21T09:12:50Z",
     "archived": false
   },
@@ -8047,7 +8047,7 @@
     "desc": "各国のAI規制・ガイドライン・倫理規範・標準を地域別に網羅",
     "status": "ok",
     "canonical": "EthicalML/awesome-artificial-intelligence-regulation",
-    "stars": 1453,
+    "stars": 1454,
     "pushed": "2026-07-20T03:57:08Z",
     "archived": false
   },
@@ -8058,7 +8058,7 @@
     "desc": "責任あるAIの研究・書籍・規制・成熟度モデル・ツールを17分野で集約",
     "status": "ok",
     "canonical": "AthenaCore/AwesomeResponsibleAI",
-    "stars": 141,
+    "stars": 142,
     "pushed": "2026-07-10T03:19:25Z",
     "archived": false
   },
@@ -8091,7 +8091,7 @@
     "desc": "計算社会科学の書籍・講座・OSS資源の網羅リスト(GESIS運営)",
     "status": "ok",
     "canonical": "gesiscss/awesome-computational-social-science",
-    "stars": 923,
+    "stars": 926,
     "pushed": "2026-07-26T09:49:13Z",
     "archived": false
   },
@@ -8102,7 +8102,7 @@
     "desc": "社会科学にLLMを応用する論文集",
     "status": "ok",
     "canonical": "ValueByte-AI/Awesome-LLM-in-Social-Science",
-    "stars": 642,
+    "stars": 644,
     "pushed": "2026-08-01T06:59:16Z",
     "archived": false
   },
@@ -8113,7 +8113,7 @@
     "desc": "LLMの人格・価値観・心の理論・認知能力を心理測定の観点で扱う論文集",
     "status": "ok",
     "canonical": "ValueByte-AI/Awesome-LLM-Psychometrics",
-    "stars": 130,
+    "stars": 131,
     "pushed": "2026-08-01T06:57:46Z",
     "archived": false
   },
@@ -8124,7 +8124,7 @@
     "desc": "話者ダイアライゼーションの論文・ライブラリ・データセット・評価ツールを網羅した定番リスト",
     "status": "ok",
     "canonical": "wq2012/awesome-diarization",
-    "stars": 1889,
+    "stars": 1890,
     "pushed": "2026-07-07T17:59:33Z",
     "archived": false
   },
@@ -8135,7 +8135,7 @@
     "desc": "End-to-End/クラスタリング/マルチモーダル等を体系化した論文集(活発)",
     "status": "ok",
     "canonical": "DongKeon/Awesome-Speaker-Diarization",
-    "stars": 368,
+    "stars": 369,
     "pushed": "2026-03-24T04:19:52Z",
     "archived": false
   },
@@ -8168,7 +8168,7 @@
     "desc": "KIE・レイアウト解析・DocQA・OCR等を網羅した定番リスト",
     "status": "ok",
     "canonical": "tstanislawek/awesome-document-understanding",
-    "stars": 1528,
+    "stars": 1533,
     "pushed": "2023-06-02T03:56:06Z",
     "archived": false
   },
@@ -8213,7 +8213,7 @@
     "status": "ok",
     "canonical": "harrytea/Awesome-Document-Understanding",
     "stars": 201,
-    "pushed": "2026-07-30T12:19:13Z",
+    "pushed": "2026-08-03T07:15:48Z",
     "archived": false
   },
   "danieljf24/awesome-video-text-retrieval": {
@@ -8234,7 +8234,7 @@
     "desc": "画像テキストマッチング・VL事前学習・マルチモーダルモデルの大規模論文リスト",
     "status": "ok",
     "canonical": "Paranioar/Awesome_Matching_Pretraining_Transfering",
-    "stars": 445,
+    "stars": 444,
     "pushed": "2025-09-25T18:00:24Z",
     "archived": false
   },
@@ -8245,7 +8245,7 @@
     "desc": "合成画像検索(CIR)・合成動画検索(CVR)を含むCMRサーベイ",
     "status": "ok",
     "canonical": "kkzhang95/Awesome-Composed-Multi-modal-Retrieval",
-    "stars": 90,
+    "stars": 91,
     "pushed": "2026-07-31T02:07:06Z",
     "archived": false
   },
@@ -8256,7 +8256,7 @@
     "desc": "VLMの空間推論に関する論文・ベンチマーク約200本(非常に活発)",
     "status": "ok",
     "canonical": "mll-lab-nu/Awesome-Spatial-Intelligence-in-VLM",
-    "stars": 767,
+    "stars": 770,
     "pushed": "2026-01-19T09:16:48Z",
     "archived": false
   },
@@ -8267,7 +8267,7 @@
     "desc": "3D世界における多モーダルLLM資源の網羅リスト",
     "status": "ok",
     "canonical": "ActiveVisionLab/Awesome-LLM-3D",
-    "stars": 2244,
+    "stars": 2247,
     "pushed": "2026-04-16T16:28:04Z",
     "archived": false
   },
@@ -8278,7 +8278,7 @@
     "desc": "理解と生成を統合する多モーダルモデルの網羅集(活発)",
     "status": "ok",
     "canonical": "ATH-MaaS/Awesome-Unified-Multimodal-Models",
-    "stars": 1306,
+    "stars": 1311,
     "pushed": "2026-03-24T09:52:04Z",
     "archived": false
   },
@@ -8311,7 +8311,7 @@
     "desc": "MLLMを用いた動画時間的グラウンディング(VTG-LLM)の最新論文・コード・データ集",
     "status": "ok",
     "canonical": "iLearn-Lab/TPAMI26-Awesome-MLLMs-for-Video-Temporal-Grounding",
-    "stars": 95,
+    "stars": 96,
     "pushed": "2026-07-12T05:42:36Z",
     "archived": false
   },
@@ -8333,7 +8333,7 @@
     "desc": "勾配/分布マッチング・生成手法・応用を網羅した定番リスト(非常に活発)",
     "status": "ok",
     "canonical": "Guang000/Awesome-Dataset-Distillation",
-    "stars": 1971,
+    "stars": 1970,
     "pushed": "2026-07-21T07:53:18Z",
     "archived": false
   },
@@ -8366,7 +8366,7 @@
     "desc": "深層学習と神経科学の交差領域の論文・レビュー集(活発)",
     "status": "ok",
     "canonical": "CYHSM/awesome-neuro-ai-papers",
-    "stars": 448,
+    "stars": 450,
     "pushed": "2026-01-08T12:33:08Z",
     "archived": false
   },
@@ -8399,7 +8399,7 @@
     "desc": "データサイエンス・ML/DLエンジニア向けの必読論文集(古典含む)",
     "status": "ok",
     "canonical": "hurshd0/must-read-papers-for-ml",
-    "stars": 1370,
+    "stars": 1374,
     "pushed": "2023-12-02T01:42:22Z",
     "archived": false
   },
@@ -8410,7 +8410,7 @@
     "desc": "深層学習の主要論文を学習順に整理した古典的ロードマップ",
     "status": "ok",
     "canonical": "floodsung/Deep-Learning-Papers-Reading-Roadmap",
-    "stars": 39545,
+    "stars": 39553,
     "pushed": "2022-11-27T13:18:32Z",
     "archived": false
   },
@@ -8421,7 +8421,7 @@
     "desc": "大規模多モーダルモデルの内部表現を扱う機械的解釈性資源集(活発)",
     "status": "ok",
     "canonical": "itsqyh/Awesome-LMMs-Mechanistic-Interpretability",
-    "stars": 216,
+    "stars": 217,
     "pushed": "2026-03-04T05:18:28Z",
     "archived": false
   },
@@ -8432,7 +8432,7 @@
     "desc": "身体性AIの知覚・相互作用・エージェント・sim-to-realを網羅(IEEE/ASME ToM 2025)",
     "status": "ok",
     "canonical": "HCPLab-SYSU/Embodied_AI_Paper_List",
-    "stars": 2137,
+    "stars": 2144,
     "pushed": "2026-06-10T02:53:35Z",
     "archived": false
   },
@@ -8443,7 +8443,7 @@
     "desc": "世界モデルの包括的サーベイ(ACM CSUR 2025採録)",
     "status": "ok",
     "canonical": "tsinghua-fib-lab/World-Model",
-    "stars": 807,
+    "stars": 813,
     "pushed": "2025-11-18T06:30:27Z",
     "archived": false
   },
@@ -8454,7 +8454,7 @@
     "desc": "身体性エージェント向け世界モデルに特化した論文集",
     "status": "ok",
     "canonical": "tsinghua-fib-lab/Awesome-Embodied-World-Model",
-    "stars": 131,
+    "stars": 132,
     "pushed": "2026-05-17T15:17:53Z",
     "archived": false
   },
@@ -8476,7 +8476,7 @@
     "desc": "知識グラフ推論の論文・コード・データセット集",
     "status": "ok",
     "canonical": "LIANGKE23/Awesome-Knowledge-Graph-Reasoning",
-    "stars": 8,
+    "stars": 10,
     "pushed": "2025-11-11T12:03:20Z",
     "archived": false
   },
@@ -8509,7 +8509,7 @@
     "desc": "方向場(direction field)に関する論文・プロジェクト・コードの継続更新サーベイ",
     "status": "ok",
     "canonical": "Bigger-and-Stronger/direction-field-survey",
-    "stars": 4,
+    "stars": 5,
     "pushed": "2026-07-24T02:57:46Z",
     "archived": false
   },
@@ -8520,8 +8520,8 @@
     "desc": "オフセットメッシュ生成に関する論文・プロジェクト・コードの継続更新サーベイ",
     "status": "ok",
     "canonical": "Bigger-and-Stronger/offset-mesh-survey",
-    "stars": 13,
-    "pushed": "2026-07-30T02:21:05Z",
+    "stars": 14,
+    "pushed": "2026-08-08T01:28:37Z",
     "archived": false
   },
   "Bigger-and-Stronger/parameterization-survey": {
@@ -8586,7 +8586,7 @@
     "desc": "CVPR 2026の論文とオープンソースプロジェクトの大規模集約(定番)",
     "status": "ok",
     "canonical": "amusi/CVPR2026-Papers-with-Code",
-    "stars": 22774,
+    "stars": 22777,
     "pushed": "2026-03-08T07:27:34Z",
     "archived": false
   },
@@ -8597,7 +8597,7 @@
     "desc": "ICCV 2025の論文とオープンソースプロジェクト集",
     "status": "ok",
     "canonical": "amusi/ICCV2025-Papers-with-Code",
-    "stars": 2880,
+    "stars": 2882,
     "pushed": "2025-07-06T12:19:14Z",
     "archived": false
   },
@@ -8608,7 +8608,7 @@
     "desc": "ECCV 2024の論文とオープンソースプロジェクト集",
     "status": "ok",
     "canonical": "amusi/ECCV2026-Papers-with-Code",
-    "stars": 2276,
+    "stars": 2277,
     "pushed": "2024-08-07T06:58:45Z",
     "archived": false
   },
@@ -8630,7 +8630,7 @@
     "desc": "AIに関するawesomeリストを集めた『awesomeのawesome』",
     "status": "ok",
     "canonical": "amusi/awesome-ai-awesomeness",
-    "stars": 990,
+    "stars": 991,
     "pushed": "2023-08-31T10:08:03Z",
     "archived": false
   },
@@ -8652,7 +8652,7 @@
     "desc": "微表情(micro-expression)認識・検出・スポッティングの論文集",
     "status": "ok",
     "canonical": "Vision-Intelligence-and-Robots-Group/awesome-micro-expression-recognition",
-    "stars": 184,
+    "stars": 183,
     "pushed": "2025-08-21T14:06:14Z",
     "archived": false
   },
@@ -8674,7 +8674,7 @@
     "desc": "グラフニューラルネットワーク(GNN)の必読論文集(定番)",
     "status": "ok",
     "canonical": "thunlp/GNNPapers",
-    "stars": 16827,
+    "stars": 16828,
     "pushed": "2023-12-20T03:33:14Z",
     "archived": false
   },
@@ -8740,7 +8740,7 @@
     "desc": "NLP・機械学習の中国語サーベイ文章リスト",
     "status": "ok",
     "canonical": "NiuTrans/CNSurvey",
-    "stars": 580,
+    "stars": 581,
     "pushed": "2023-05-26T03:40:56Z",
     "archived": false
   },
@@ -8785,7 +8785,7 @@
     "status": "ok",
     "canonical": "marlin-codes/awesome-lora-adapter",
     "stars": 24,
-    "pushed": "2026-05-02T23:47:20Z",
+    "pushed": "2026-08-04T13:48:09Z",
     "archived": false
   },
   "DmitryRyumin/EMNLP-2023-Papers": {
@@ -8817,7 +8817,7 @@
     "desc": "LLMエージェントの必読論文集",
     "status": "ok",
     "canonical": "zjunlp/LLMAgentPapers",
-    "stars": 3096,
+    "stars": 3098,
     "pushed": "2026-07-27T00:29:18Z",
     "archived": false
   },
@@ -8828,7 +8828,7 @@
     "desc": "LLMのプランニング(planning)に関する必読論文集",
     "status": "ok",
     "canonical": "AGI-Edgerunners/LLM-Planning-Papers",
-    "stars": 440,
+    "stars": 439,
     "pushed": "2024-07-04T05:19:56Z",
     "archived": false
   },
@@ -8850,7 +8850,7 @@
     "desc": "グラフベースのエージェント記憶のサーベイ・論文・ベンチマーク集",
     "status": "ok",
     "canonical": "DEEP-PolyU/Awesome-GraphMemory",
-    "stars": 328,
+    "stars": 330,
     "pushed": "2026-06-06T14:26:56Z",
     "archived": false
   },
@@ -8861,7 +8861,7 @@
     "desc": "時系列向けTransformerのリソース(論文・コード・データ)を専門的にまとめたレビュー",
     "status": "ok",
     "canonical": "qingsongedu/time-series-transformers-review",
-    "stars": 2995,
+    "stars": 2996,
     "pushed": "2024-08-08T15:03:54Z",
     "archived": false
   },
@@ -8872,7 +8872,7 @@
     "desc": "強化学習における拡散モデルの資源を継続更新するリスト",
     "status": "ok",
     "canonical": "opendilab/awesome-diffusion-model-in-rl",
-    "stars": 1631,
+    "stars": 1633,
     "pushed": "2026-05-30T00:33:27Z",
     "archived": false
   },
@@ -8927,7 +8927,7 @@
     "desc": "マルチモーダルLLMの幻覚(hallucination)に関する資源の厳選リスト",
     "status": "ok",
     "canonical": "showlab/Awesome-MLLM-Hallucination",
-    "stars": 1034,
+    "stars": 1035,
     "pushed": "2025-09-27T11:45:33Z",
     "archived": false
   },
@@ -8949,7 +8949,7 @@
     "desc": "ロボット学習に拡散モデルを取り入れた最新論文の厳選リスト",
     "status": "ok",
     "canonical": "showlab/Awesome-Robotics-Diffusion",
-    "stars": 351,
+    "stars": 352,
     "pushed": "2026-06-15T06:38:15Z",
     "archived": false
   },
@@ -8960,8 +8960,8 @@
     "desc": "視覚言語ナビゲーション(VLN)のサーベイ用論文集",
     "status": "ok",
     "canonical": "KwanWaiPang/Awesome-VLN",
-    "stars": 162,
-    "pushed": "2026-07-31T13:58:58Z",
+    "stars": 168,
+    "pushed": "2026-08-09T09:10:14Z",
     "archived": false
   },
   "KwanWaiPang/Awesome-VLA": {
@@ -8971,7 +8971,7 @@
     "desc": "Vision-Language-Action(VLA)のサーベイ用論文集",
     "status": "ok",
     "canonical": "KwanWaiPang/Awesome-VLA",
-    "stars": 88,
+    "stars": 90,
     "pushed": "2026-02-03T12:09:50Z",
     "archived": false
   },
@@ -8982,7 +8982,7 @@
     "desc": "脚式ロボットのSLAMに関するサーベイ用論文集",
     "status": "ok",
     "canonical": "KwanWaiPang/Awesome-Legged-Robot-Localization-and-Mapping",
-    "stars": 69,
+    "stars": 71,
     "pushed": "2026-06-14T04:24:41Z",
     "archived": false
   },
@@ -9004,7 +9004,7 @@
     "desc": "自動運転全般のawesomeリスト",
     "status": "ok",
     "canonical": "autodriving-heart/Awesome-Autonomous-Driving",
-    "stars": 1141,
+    "stars": 1145,
     "pushed": "2024-08-19T09:32:08Z",
     "archived": false
   },
@@ -9059,7 +9059,7 @@
     "desc": "AIベースのタンパク質設計の研究論文集",
     "status": "ok",
     "canonical": "opendilab/awesome-AI-based-protein-design",
-    "stars": 315,
+    "stars": 314,
     "pushed": "2024-05-13T05:37:22Z",
     "archived": false
   },
@@ -9125,8 +9125,8 @@
     "desc": "Transformerベースの SLAM のサーベイ用論文集",
     "status": "ok",
     "canonical": "KwanWaiPang/Awesome-Transformer-based-SLAM",
-    "stars": 287,
-    "pushed": "2026-07-31T03:03:29Z",
+    "stars": 307,
+    "pushed": "2026-08-09T08:19:04Z",
     "archived": false
   },
   "KwanWaiPang/Awesome-Learning-based-VO-VIO": {
@@ -9136,8 +9136,8 @@
     "desc": "学習ベースの視覚オドメトリ(VO/VIO)のサーベイ用論文集",
     "status": "ok",
     "canonical": "KwanWaiPang/Awesome-Learning-based-VO-VIO",
-    "stars": 204,
-    "pushed": "2026-04-26T08:07:05Z",
+    "stars": 208,
+    "pushed": "2026-08-09T08:50:08Z",
     "archived": false
   },
   "KwanWaiPang/Awesome-Event-based-SLAM": {
@@ -9147,7 +9147,7 @@
     "desc": "イベントベースSLAMのサーベイ用論文集",
     "status": "ok",
     "canonical": "KwanWaiPang/Awesome-Event-based-SLAM",
-    "stars": 26,
+    "stars": 27,
     "pushed": "2026-01-18T09:25:28Z",
     "archived": false
   },
@@ -9279,7 +9279,7 @@
     "desc": "主要AI/ML/ロボティクス会議の採択論文リンクと締切情報を2015-2025で集約(活発)",
     "status": "ok",
     "canonical": "Lionelsy/Conference-Accepted-Paper-List",
-    "stars": 1340,
+    "stars": 1338,
     "pushed": "2025-01-23T06:16:59Z",
     "archived": false
   },
@@ -9312,8 +9312,8 @@
     "desc": "主要AI会議の締切カウントダウン(paperswithcode版の後継、現行主流)",
     "status": "ok",
     "canonical": "huggingface/ai-deadlines",
-    "stars": 346,
-    "pushed": "2026-07-16T10:38:31Z",
+    "stars": 347,
+    "pushed": "2026-08-09T10:34:15Z",
     "archived": false
   },
   "tranhungnghiep/AI-Conference-Info": {
@@ -9334,7 +9334,7 @@
     "desc": "ICML 2025採択論文をコード実装リンク付きで体系化",
     "status": "ok",
     "canonical": "DmitryRyumin/ICML-2025-Papers",
-    "stars": 42,
+    "stars": 43,
     "pushed": "2025-10-24T19:58:16Z",
     "archived": false
   },
@@ -9345,7 +9345,7 @@
     "desc": "MICCAI 2019-2023のオープンソース論文をコードリンク付き表で整理",
     "status": "ok",
     "canonical": "JunMa11/MICCAI-OpenSourcePapers",
-    "stars": 1293,
+    "stars": 1292,
     "pushed": "2023-11-01T20:25:08Z",
     "archived": false
   },
@@ -9356,8 +9356,8 @@
     "desc": "MICCAI 2026論文をarXivから自動収集しbotが毎日更新、分野別分類",
     "status": "ok",
     "canonical": "ambicuity/Awesome-MICCAI-2026",
-    "stars": 43,
-    "pushed": "2026-08-02T09:58:10Z",
+    "stars": 47,
+    "pushed": "2026-08-09T08:44:19Z",
     "archived": false
   },
   "Songwxuan/Embodied-AI-Paper-TopConf": {
@@ -9367,7 +9367,7 @@
     "desc": "トップ会議採択のEmbodied AI論文を継続収集(2026会議まで反映、活発)",
     "status": "ok",
     "canonical": "Songwxuan/Embodied-AI-Paper-TopConf",
-    "stars": 732,
+    "stars": 740,
     "pushed": "2026-05-20T04:47:12Z",
     "archived": false
   },
@@ -9389,7 +9389,7 @@
     "desc": "推薦システム必読論文を17カテゴリで整理、毎週更新(LLM/Agentic RS等も追加)",
     "status": "ok",
     "canonical": "hongleizhang/RSPapers",
-    "stars": 6514,
+    "stars": 6511,
     "pushed": "2026-03-12T13:22:40Z",
     "archived": false
   },
@@ -9411,7 +9411,7 @@
     "desc": "データサイエンスを学び実問題に適用するための定番リソース集",
     "status": "ok",
     "canonical": "academic/awesome-datascience",
-    "stars": 29738,
+    "stars": 29786,
     "pushed": "2026-07-25T05:45:46Z",
     "archived": false
   },
@@ -9422,7 +9422,7 @@
     "desc": "機械学習・深層学習のチュートリアル・記事・リソースの大規模集",
     "status": "ok",
     "canonical": "ujjwalkarn/Machine-Learning-Tutorials",
-    "stars": 18059,
+    "stars": 18078,
     "pushed": "2024-06-12T08:11:59Z",
     "archived": false
   },
@@ -9433,7 +9433,7 @@
     "desc": "Pythonのデータサイエンスソフトウェアを厳選したリスト",
     "status": "ok",
     "canonical": "krzjoa/awesome-python-data-science",
-    "stars": 3515,
+    "stars": 3521,
     "pushed": "2026-04-13T07:15:05Z",
     "archived": false
   },
@@ -9444,7 +9444,7 @@
     "desc": "異常検知の書籍・論文・動画・ツールボックスを網羅した定番リスト",
     "status": "ok",
     "canonical": "yzhao062/anomaly-detection-resources",
-    "stars": 9360,
+    "stars": 9364,
     "pushed": "2026-03-02T04:42:20Z",
     "archived": false
   },
@@ -9455,7 +9455,7 @@
     "desc": "AI研究の論文執筆・推敲を支援するツール・リソース集",
     "status": "ok",
     "canonical": "Leey21/awesome-ai-research-writing",
-    "stars": 32451,
+    "stars": 32732,
     "pushed": "2026-05-18T12:38:36Z",
     "archived": false
   },
@@ -9466,8 +9466,8 @@
     "desc": "Kaggleコンペの解法・アイデアを集めたコレクション",
     "status": "ok",
     "canonical": "faridrashidi/kaggle-solutions",
-    "stars": 6481,
-    "pushed": "2026-08-01T22:08:57Z",
+    "stars": 6483,
+    "pushed": "2026-08-06T22:48:14Z",
     "archived": false
   },
   "NirantK/awesome-project-ideas": {
@@ -9477,7 +9477,7 @@
     "desc": "ML/NLP/Vision/推薦のプロジェクトアイデアを集めたリスト",
     "status": "ok",
     "canonical": "NirantK/awesome-project-ideas",
-    "stars": 9241,
+    "stars": 9250,
     "pushed": "2023-03-13T16:28:22Z",
     "archived": false
   },
@@ -9488,7 +9488,7 @@
     "desc": "オープンソースの中文大規模言語モデル(底座/領域微調整/データ/教程)を整理",
     "status": "ok",
     "canonical": "AiHubCN/Awesome-Chinese-LLM",
-    "stars": 22719,
+    "stars": 22730,
     "pushed": "2026-05-10T05:03:06Z",
     "archived": false
   },
@@ -9499,8 +9499,8 @@
     "desc": "多モーダル生成・Agent・補助コーディング・データ処理・訓練・推論等のLLM資料総まとめ",
     "status": "ok",
     "canonical": "WangRongsheng/awesome-LLM-resources",
-    "stars": 8790,
-    "pushed": "2026-08-03T01:55:19Z",
+    "stars": 8826,
+    "pushed": "2026-08-07T01:46:33Z",
     "archived": false
   },
   "e2b-dev/awesome-ai-agents": {
@@ -9510,7 +9510,7 @@
     "desc": "AI自律エージェント(プロジェクト/フレームワーク)の大規模リスト",
     "status": "ok",
     "canonical": "e2b-dev/awesome-ai-agents",
-    "stars": 29233,
+    "stars": 29346,
     "pushed": "2026-07-09T17:41:48Z",
     "archived": false
   },
@@ -9521,7 +9521,7 @@
     "desc": "3D機械学習(点群/メッシュ/ボクセル/SDF等)のリソースリポジトリ",
     "status": "ok",
     "canonical": "timzhang642/3D-Machine-Learning",
-    "stars": 10189,
+    "stars": 10192,
     "pushed": "2024-07-04T19:13:09Z",
     "archived": false
   },
@@ -9532,7 +9532,7 @@
     "desc": "TPAMI 2024「Towards Open Vocabulary Learning: A Survey」のcompanion",
     "status": "ok",
     "canonical": "jianzongwu/Awesome-Open-Vocabulary",
-    "stars": 1000,
+    "stars": 1001,
     "pushed": "2026-05-12T06:41:25Z",
     "archived": false
   },
@@ -9543,7 +9543,7 @@
     "desc": "OCR・手書き文字認識(HTR)のソフト・ライブラリ・文献集(歴史文書デジタル化の中核)",
     "status": "ok",
     "canonical": "kba/awesome-ocr",
-    "stars": 3117,
+    "stars": 3120,
     "pushed": "2024-07-06T21:02:05Z",
     "archived": false
   },
@@ -9554,7 +9554,7 @@
     "desc": "PyTorch関連のモデル・実装・ライブラリを網羅した大規模リスト",
     "status": "ok",
     "canonical": "bharathgs/Awesome-pytorch-list",
-    "stars": 16612,
+    "stars": 16623,
     "pushed": "2026-02-01T07:01:10Z",
     "archived": false
   },
@@ -9565,8 +9565,8 @@
     "desc": "現代の生成AIプロジェクト・サービスを厳選したリスト",
     "status": "ok",
     "canonical": "steven2358/awesome-generative-ai",
-    "stars": 12418,
-    "pushed": "2026-07-26T00:58:03Z",
+    "stars": 12469,
+    "pushed": "2026-08-03T10:58:05Z",
     "archived": false
   },
   "kyrolabs/awesome-langchain": {
@@ -9576,7 +9576,7 @@
     "desc": "LangChainフレームワークのツール・プロジェクトのリスト",
     "status": "ok",
     "canonical": "kyrolabs/awesome-langchain",
-    "stars": 9474,
+    "stars": 9490,
     "pushed": "2026-04-26T15:23:25Z",
     "archived": false
   },
@@ -9587,7 +9587,7 @@
     "desc": "生成AIアプリケーションを集めたランドスケープ",
     "status": "ok",
     "canonical": "ai-collection/ai-collection",
-    "stars": 9085,
+    "stars": 9103,
     "pushed": "2026-07-15T09:47:26Z",
     "archived": false
   },
@@ -9598,8 +9598,8 @@
     "desc": "AI関連の実用ツールを収集したコレクション(中英併記)",
     "status": "ok",
     "canonical": "ikaijua/Awesome-AITools",
-    "stars": 6119,
-    "pushed": "2026-08-02T23:36:11Z",
+    "stars": 6126,
+    "pushed": "2026-08-10T00:22:47Z",
     "archived": false
   },
   "mahseema/awesome-ai-tools": {
@@ -9609,7 +9609,7 @@
     "desc": "AIのトップツールを厳選したリスト",
     "status": "ok",
     "canonical": "mahseema/awesome-ai-tools",
-    "stars": 5848,
+    "stars": 5912,
     "pushed": "2025-12-31T14:46:19Z",
     "archived": false
   },
@@ -9620,8 +9620,8 @@
     "desc": "真にオープンソースなAIプロジェクト・モデル・ツール・基盤の厳選リスト",
     "status": "ok",
     "canonical": "alvinreal/awesome-opensource-ai",
-    "stars": 4407,
-    "pushed": "2026-08-03T00:31:00Z",
+    "stars": 4457,
+    "pushed": "2026-08-09T09:03:41Z",
     "archived": false
   },
   "likedan/Awesome-CoreML-Models": {
@@ -9631,7 +9631,7 @@
     "desc": "iOS向けCore MLモデルの最大級のリスト",
     "status": "ok",
     "canonical": "likedan/Awesome-CoreML-Models",
-    "stars": 7032,
+    "stars": 7035,
     "pushed": "2025-06-17T05:43:09Z",
     "archived": false
   },
@@ -9642,7 +9642,7 @@
     "desc": "異なる深層学習フレームワーク間のモデル変換ツールの一覧",
     "status": "ok",
     "canonical": "ysh329/deep-learning-model-convertor",
-    "stars": 3237,
+    "stars": 3236,
     "pushed": "2023-06-26T14:22:18Z",
     "archived": false
   },
@@ -9653,7 +9653,7 @@
     "desc": "データラベリングツールを厳選したリスト",
     "status": "ok",
     "canonical": "HumanSignal/awesome-data-labeling",
-    "stars": 4391,
+    "stars": 4394,
     "pushed": "2024-06-17T06:18:41Z",
     "archived": false
   },
@@ -9664,7 +9664,7 @@
     "desc": "ML研究コード公開のベストプラクティス(NeurIPS 2020公式推奨)",
     "status": "ok",
     "canonical": "paperswithcode/releasing-research-code",
-    "stars": 2953,
+    "stars": 2957,
     "pushed": "2023-05-19T13:22:56Z",
     "archived": false
   },
@@ -9694,8 +9694,8 @@
     "desc": "ロボティクスのライブラリ・ソフトウェアを厳選したリスト",
     "status": "ok",
     "canonical": "jslee02/awesome-robotics-libraries",
-    "stars": 3006,
-    "pushed": "2026-07-21T23:23:17Z",
+    "stars": 3013,
+    "pushed": "2026-08-06T23:31:04Z",
     "archived": false
   },
   "Ly0n/awesome-robotic-tooling": {
@@ -9705,7 +9705,7 @@
     "desc": "C++/Python/ROSによるプロ向けロボット開発ツールの集約",
     "status": "ok",
     "canonical": "Ly0n/awesome-robotic-tooling",
-    "stars": 3872,
+    "stars": 3873,
     "pushed": "2023-11-20T07:13:29Z",
     "archived": false
   },
@@ -9716,7 +9716,7 @@
     "desc": "サーベイ「A Survey of Sim-to-Real Methods in RL」のcompanion",
     "status": "ok",
     "canonical": "LongchaoDa/AwesomeSim2Real",
-    "stars": 186,
+    "stars": 189,
     "pushed": "2025-09-05T09:32:26Z",
     "archived": false
   },
@@ -9749,7 +9749,7 @@
     "desc": "TOIS 2023「Bias and Debias in Recommender System: A Survey」のバイアス除去手法集",
     "status": "ok",
     "canonical": "jiawei-chen/RecDebiasing",
-    "stars": 466,
+    "stars": 467,
     "pushed": "2024-02-19T12:24:02Z",
     "archived": false
   },
@@ -9782,7 +9782,7 @@
     "desc": "DBシステムをAIで強化する論文集(学習型インデックス・クエリ最適化)",
     "status": "ok",
     "canonical": "LumingSun/ML4DB-paper-list",
-    "stars": 779,
+    "stars": 780,
     "pushed": "2026-04-21T01:14:46Z",
     "archived": false
   },
@@ -9804,7 +9804,7 @@
     "desc": "人文学者向けの定量的・計算的手法ソフト集(NLP・トピックモデル・テキスト解析)",
     "status": "ok",
     "canonical": "dh-tech/awesome-digital-humanities",
-    "stars": 399,
+    "stars": 401,
     "pushed": "2026-07-23T15:05:43Z",
     "archived": false
   },
@@ -9815,7 +9815,7 @@
     "desc": "ソースコードに適用した機械学習(MLonCode)の論文・リンク集",
     "status": "ok",
     "canonical": "src-d/awesome-machine-learning-on-source-code",
-    "stars": 6617,
+    "stars": 6620,
     "pushed": "2020-12-03T17:58:42Z",
     "archived": false
   },
@@ -9826,7 +9826,7 @@
     "desc": "機械学習に重点を置いたクオンツ/アルゴリズム取引のリソース集",
     "status": "ok",
     "canonical": "grananqvist/Awesome-Quant-Machine-Learning-Trading",
-    "stars": 3926,
+    "stars": 3941,
     "pushed": "2025-05-21T20:41:58Z",
     "archived": false
   },
@@ -9848,7 +9848,7 @@
     "desc": "LLMを用いたテスト生成・テスト補完等の論文集",
     "status": "ok",
     "canonical": "LLM-Testing/LLM4SoftwareTesting",
-    "stars": 528,
+    "stars": 529,
     "pushed": "2024-01-10T02:39:00Z",
     "archived": false
   },
@@ -9859,7 +9859,7 @@
     "desc": "アニメーション(2D/カートゥーン等)の研究論文・データセットを集めたリスト",
     "status": "ok",
     "canonical": "zhenglinpan/Awesome-Animation-Research",
-    "stars": 210,
+    "stars": 212,
     "pushed": "2026-04-21T03:50:04Z",
     "archived": false
   },
@@ -9870,7 +9870,7 @@
     "desc": "AIによるアニメーション生成・補間・着色・制作支援の論文集",
     "status": "ok",
     "canonical": "yunlong10/Awesome-AI4Animation",
-    "stars": 209,
+    "stars": 210,
     "pushed": "2026-01-13T04:05:55Z",
     "archived": false
   },
@@ -9881,7 +9881,7 @@
     "desc": "エッジ/輪郭/境界検出の論文・ツールボックス集",
     "status": "ok",
     "canonical": "MarkMoHR/Awesome-Edge-Detection-Papers",
-    "stars": 1566,
+    "stars": 1567,
     "pushed": "2024-12-19T07:11:01Z",
     "archived": false
   },
@@ -9893,7 +9893,7 @@
     "status": "ok",
     "canonical": "MarkMoHR/Awesome-Sketch-Based-Applications",
     "stars": 712,
-    "pushed": "2026-07-23T03:57:25Z",
+    "pushed": "2026-08-07T05:38:39Z",
     "archived": false
   },
   "MarkMoHR/Awesome-Sketch-Synthesis": {
@@ -9904,7 +9904,7 @@
     "status": "ok",
     "canonical": "MarkMoHR/Awesome-Sketch-Synthesis",
     "stars": 576,
-    "pushed": "2026-07-23T03:57:13Z",
+    "pushed": "2026-08-07T05:39:34Z",
     "archived": false
   },
   "MarkMoHR/Awesome-2D-Animation": {
