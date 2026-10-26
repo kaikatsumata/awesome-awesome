@@ -6,7 +6,7 @@
 
 It covers all areas including CV / CG / NLP / RL, and also includes non-`awesome-` survey repositories (e.g. [quad-meshing-survey](https://github.com/Bigger-and-Stronger/quad-meshing-survey)) and model-specific example collections such as `awesome-nanobanana-pro`.
 
-**902 entries** across 33 fields — 🟢 423 active, 🟡 191 moderate (auto-generated from GitHub metadata as of 2026-10-19).
+**901 entries** across 33 fields — 🟢 428 active, 🟡 188 moderate (auto-generated from GitHub metadata as of 2026-10-26).
 
 ## Legend / Inclusion criteria
 
@@ -39,7 +39,7 @@ Types: `awesome`=curated list / `survey`=companion to a survey paper / `paper-li
 - [🎬 Anime / Animation / Illustration / Fonts](#-anime--animation--illustration--fonts) (8)
 - [💬 NLP / Large Language Models (LLM)](#-nlp--large-language-models-llm) (98)
 - [🖼️ Generative AI / Diffusion / Image & Video Generation](#-generative-ai--diffusion--image--video-generation) (42)
-- [🍌 Model-Specific Prompt & Example Collections](#-model-specific-prompt--example-collections) (21)
+- [🍌 Model-Specific Prompt & Example Collections](#-model-specific-prompt--example-collections) (20)
 - [🧰 Model Ecosystems & Ops Tools (MCP/LLMOps/LLM Apps)](#-model-ecosystems--ops-tools-mcpllmopsllm-apps) (25)
 - [🎮 Reinforcement Learning (RL)](#-reinforcement-learning-rl) (35)
 - [🔀 Multimodal / VLM / MLLM](#-multimodal--vlm--mllm) (30)
@@ -64,18 +64,18 @@ Types: `awesome`=curated list / `survey`=companion to a survey paper / `paper-li
 
 ## 🧠 Machine Learning & Deep Learning
 
-- 🟢 [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) — Classic curated list of ML frameworks/libraries organized by language `awesome` ⭐74.6k · 📅2026-10
-- 🟢 [awesome-ai-research-writing](https://github.com/Leey21/awesome-ai-research-writing) — Tools and resources to support paper writing and editing for AI research `awesome` ⭐34.9k · 📅2026-08
+- 🟢 [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) — Classic curated list of ML frameworks/libraries organized by language `awesome` ⭐74.7k · 📅2026-10
+- 🟢 [awesome-ai-research-writing](https://github.com/Leey21/awesome-ai-research-writing) — Tools and resources to support paper writing and editing for AI research `awesome` ⭐35.3k · 📅2026-08
 - 🟢 [awesome-datascience](https://github.com/academic/awesome-datascience) — Classic resource collection for learning and applying data science to real problems `awesome` ⭐30.2k · 📅2026-10
 - 🟢 [anomaly-detection-resources](https://github.com/yzhao062/anomaly-detection-resources) — Classic list covering books, papers, videos, and toolboxes on anomaly detection `awesome` ⭐9.4k · 📅2026-03
 - 🟢 [kaggle-solutions](https://github.com/faridrashidi/kaggle-solutions) — Collection of Kaggle competition solutions and ideas `awesome` ⭐6.5k · 📅2026-10
 - 🟢 [awesome-python-data-science](https://github.com/krzjoa/awesome-python-data-science) — Curated list of Python data science software `awesome` ⭐3.6k · 📅2026-04
-- 🟢 [awesome-deeplearning-resources](https://github.com/endymecy/awesome-deeplearning-resources) — DL and deep RL papers and code organized chronologically `paper-list` ⭐3k · 📅2026-01
-- 🟢 [paperlists](https://github.com/papercopilot/paperlists) — Paper Copilot's formatted data; large cross-venue JSON coverage by year, continuously updated `paper-list` ⭐958 · 📅2026-07
+- 🟢 [awesome-deeplearning-resources](https://github.com/endymecy/awesome-deeplearning-resources) — DL and deep RL papers and code organized chronologically `paper-list` ⭐3k · 📅2026-10
+- 🟢 [paperlists](https://github.com/papercopilot/paperlists) — Paper Copilot's formatted data; large cross-venue JSON coverage by year, continuously updated `paper-list` ⭐964 · 📅2026-07
 - 🟢 [ai-deadlines](https://github.com/huggingface/ai-deadlines) — Deadline countdown for major AI conferences (current mainstream successor to the paperswithcode version) `awesome` ⭐351 · 📅2026-09
 - 🟢 [ai_papers_scrapper](https://github.com/george-gca/ai_papers_scrapper) — Scraper for PDFs, authors, and abstracts of major AI conferences (since 2017) by venue × year `paper-list` ⭐53 · 📅2026-09
 - 🟢 [ICML-2025-Papers](https://github.com/DmitryRyumin/ICML-2025-Papers) — Systematized ICML 2025 accepted papers with links to code implementations `paper-list` ⭐41 · 📅2025-10
-- 📑 [awesome-AI-tutorials-surveys](https://github.com/qingsongedu/awesome-AI-tutorials-surveys) — Tutorials and surveys on DL/ML/DM/CV/NLP/speech from top AI conferences `survey` ⭐169 · 📅2023-02
+- 📑 [awesome-AI-tutorials-surveys](https://github.com/qingsongedu/awesome-AI-tutorials-surveys) — Tutorials and surveys on DL/ML/DM/CV/NLP/speech from top AI conferences `survey` ⭐170 · 📅2023-02
 - 🟡 [awesome-deep-learning](https://github.com/ChristosChristofidis/awesome-deep-learning) — Classic list of DL tutorials, projects, and communities `awesome` ⭐29.1k · 📅2025-05
 - 🟡 [Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) — Large collection of ML/DL tutorials, articles, and resources `awesome` ⭐18.3k · 📅2024-06
 - 🟡 [Conference-Accepted-Paper-List](https://github.com/Lionelsy/Conference-Accepted-Paper-List) — Active aggregation of accepted-paper links and deadlines for major AI/ML/robotics venues (2015-2025) `paper-list` ⭐1.3k · 📅2025-01
@@ -84,7 +84,7 @@ Types: `awesome`=curated list / `survey`=companion to a survey paper / `paper-li
 - 🟡 [Conference-Paper](https://github.com/hzxwonder/Conference-Paper) — Organized accepted papers of CCF-A conferences with titles, authors, URLs, and abstracts `paper-list` ⭐8 · 📅2024-04
 - 📚 [Deep-Learning-Papers-Reading-Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) — Classic roadmap organizing major deep learning papers in study order `paper-list` ⭐39.6k · 📅2022-11
 - 📚 [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) — Top 100 most-cited important DL papers from 2012-2016 `paper-list` ⭐26.2k · 📅2024-01
-- 🔴 [awesome-project-ideas](https://github.com/NirantK/awesome-project-ideas) — List of project ideas for ML/NLP/Vision/recommendation `awesome` ⭐9.3k · 📅2023-03
+- 🔴 [awesome-project-ideas](https://github.com/NirantK/awesome-project-ideas) — List of project ideas for ML/NLP/Vision/recommendation `awesome` ⭐9.4k · 📅2023-03
 - 🔴 [awesome-ai-awesomeness](https://github.com/amusi/awesome-ai-awesomeness) — An "awesome of awesomes" collecting awesome lists about AI `awesome` ⭐1k · 📅2023-08
 - 🔴 [Awesome-Paper-List](https://github.com/Doragd/Awesome-Paper-List) — Meta-list aggregating many NLP/CV/ML paper lists and related resources `awesome` ⭐198 · 📅2022-04
 - 🔴 [awesome-machine-learning-papers](https://github.com/solaris33/awesome-machine-learning-papers) — Curated list of important ML papers and repos `paper-list` ⭐79 · 📅2017-06
@@ -92,7 +92,7 @@ Types: `awesome`=curated list / `survey`=companion to a survey paper / `paper-li
 ## 📐 ML Theory & Optimization
 
 - 🟢 [awesome-ml4co](https://github.com/Thinklab-SJTU/awesome-ml4co) — Active coverage of ML for combinatorial optimization across 36+ areas `paper-list` ⭐2.2k · 📅2026-10
-- 🟢 [awesome-neuro-ai-papers](https://github.com/CYHSM/awesome-neuro-ai-papers) — Active papers and reviews at the intersection of deep learning and neuroscience `paper-list` ⭐448 · 📅2026-01
+- 🟢 [awesome-neuro-ai-papers](https://github.com/CYHSM/awesome-neuro-ai-papers) — Active papers and reviews at the intersection of deep learning and neuroscience `paper-list` ⭐449 · 📅2026-01
 - 🟢 [awesome-deep-phenomena](https://github.com/MinghuiChen43/awesome-deep-phenomena) — Papers on empirical DL phenomena and theory (grokking, double descent, lottery ticket, etc.) `paper-list` ⭐411 · 📅2026-08
 - 🟢 [awesome-language-model-analysis](https://github.com/Furyton/awesome-language-model-analysis) — Theoretical/empirical analysis of LMs (emergent abilities, scaling laws, ICL theory, grokking) `paper-list` ⭐103 · 📅2026-07
 - 🟡 [awesome-automl-papers](https://github.com/hibayesian/awesome-automl-papers) — Classic large-scale list of AutoML papers, articles, tutorials, and projects `paper-list` ⭐4.2k · 📅2024-06
@@ -109,17 +109,17 @@ Types: `awesome`=curated list / `survey`=companion to a survey paper / `paper-li
 - 🟢 [awesome-causality-algorithms](https://github.com/rguo12/awesome-causality-algorithms) — Index of reproducible causal inference/causal ML methods (with survey papers) `awesome` ⭐3.3k · 📅2026-10
 - 🟢 [awesome-normalizing-flows](https://github.com/janosh/awesome-normalizing-flows) — Representative list of normalizing flow papers, implementations (PyTorch/JAX/Julia), and videos `awesome` ⭐1.6k · 📅2026-07
 - 🟢 [awesome-conformal-prediction](https://github.com/valeman/awesome-conformal-prediction) — Rich list of videos, papers, and libraries on distribution-free uncertainty quantification (CP) `awesome` ⭐1.3k · 📅2026-08
-- 🟢 [awesome-uncertainty-deeplearning](https://github.com/ENSTA-U2IS-AI/awesome-uncertainty-deeplearning) — Active list covering surveys, papers, and code on predictive uncertainty estimation in DL `awesome` ⭐826 · 📅2026-08
+- 🟢 [awesome-uncertainty-deeplearning](https://github.com/ENSTA-U2IS-AI/awesome-uncertainty-deeplearning) — Active list covering surveys, papers, and code on predictive uncertainty estimation in DL `awesome` ⭐827 · 📅2026-10
 - 🟢 [awesome-flow-matching](https://github.com/dongzhuoyao/awesome-flow-matching) — Active list of flow matching and stochastic interpolant research `awesome` ⭐697 · 📅2026-04
-- 🟢 [awesome-ebm](https://github.com/yataobian/awesome-ebm) — Active list of EBM papers, libraries, and tutorials organized chronologically `awesome` ⭐399 · 📅2026-04
+- 🟢 [awesome-ebm](https://github.com/yataobian/awesome-ebm) — Active list of EBM papers, libraries, and tutorials organized chronologically `awesome` ⭐401 · 📅2026-04
 - 📑 [Diffusion-Models-Papers-Survey-Taxonomy](https://github.com/YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy) — Paper taxonomy for an ACM CSUR survey on diffusion/score-based/SDE generative models `survey` ⭐3.4k · 📅2025-09
 - 🟡 [awesome-neural-ode](https://github.com/Zymrael/awesome-neural-ode) — Coverage of the intersection of Neural ODE/SDE/CDE, dynamical systems, control, and numerical solvers `awesome` ⭐1.6k · 📅2024-09
 - 🟡 [Awesome-GFlowNets](https://github.com/zdhNarsil/Awesome-GFlowNets) — Central list of GFlowNet foundational papers, applications, and tutorials `awesome` ⭐503 · 📅2024-10
 - 🟡 [Awesome-Optimal-Transport-in-Deep-Learning](https://github.com/changwxx/Awesome-Optimal-Transport-in-Deep-Learning) — Aggregated papers, code, and resources on optimal transport in deep learning `awesome` ⭐354 · 📅2024-05
 - 🟡 [Awesome-VQVAE](https://github.com/wenhaochai/Awesome-VQVAE) — Papers and resources on Vector Quantized VAE (VQ-VAE) and its applications `awesome` ⭐333 · 📅2025-01
 - 🔴 [Awesome-VAEs](https://github.com/matthewvowels1/Awesome-VAEs) — About 900 papers on VAEs, disentanglement, representation learning, and generative models `paper-list` ⭐846 · 📅2021-07
-- 🔴 [awesome-bayesian-deep-learning](https://github.com/robi56/awesome-bayesian-deep-learning) — Classic list of Bayesian deep learning papers and theses organized by era `awesome` ⭐416 · 📅2017-05
-- 🔴 [awesome-optimal-transport](https://github.com/kilianFatras/awesome-optimal-transport) — Papers, tutorials, libraries, and books on optimal transport (OT) for ML `awesome` ⭐247 · 📅2021-05
+- 🔴 [awesome-bayesian-deep-learning](https://github.com/robi56/awesome-bayesian-deep-learning) — Classic list of Bayesian deep learning papers and theses organized by era `awesome` ⭐417 · 📅2017-05
+- 🔴 [awesome-optimal-transport](https://github.com/kilianFatras/awesome-optimal-transport) — Papers, tutorials, libraries, and books on optimal transport (OT) for ML `awesome` ⭐248 · 📅2021-05
 - 🔴 [Awesome-Causal-Inference](https://github.com/matthewvowels1/Awesome-Causal-Inference) — ML-oriented causal inference/discovery papers organized chronologically `paper-list` ⭐116 · 📅2021-05
 - 🔴 [awesome-gaussian-processes](https://github.com/RaulPL/awesome-gaussian-processes) — Books, videos, software, and papers for learning Gaussian processes `awesome` ⭐41 · 📅2021-07
 - 🔴 [Awesome-Causal-Discovery](https://github.com/CharonWangg/Awesome-Causal-Discovery) — List of papers and books focused on causal discovery and causal representation learning `awesome` ⭐12 · 📅2023-11
@@ -127,25 +127,25 @@ Types: `awesome`=curated list / `survey`=companion to a survey paper / `paper-li
 ## 🏗️ New Architectures (SSM/Mamba/KAN/SNN/Quantum ML)
 
 - 🟢 [awesome-kan](https://github.com/mintisan/awesome-kan) — De facto standard list covering KAN libraries, implementations, papers, and tutorials `awesome` ⭐3.3k · 📅2026-10
-- 🟢 [Awesome-Spiking-Neural-Networks](https://github.com/TheBrainLab/Awesome-Spiking-Neural-Networks) — Continuously updated SNN papers and code from top venues `paper-list` ⭐846 · 📅2026-10
-- 🟢 [Awesome-Mamba-Collection](https://github.com/XiudingCai/Awesome-Mamba-Collection) — Representative curation of Mamba papers, tutorials, and implementations across fields `paper-list` ⭐768 · 📅2026-08
-- 🟢 [Mamba_State_Space_Model_Paper_List](https://github.com/Event-AHU/Mamba_State_Space_Model_Paper_List) — Application-organized paper list accompanying a Mamba survey `paper-list` ⭐754 · 📅2026-09
-- 🟢 [Awesome-Hyperbolic-Representation-and-Deep-Learning](https://github.com/marlin-codes/Awesome-Hyperbolic-Representation-and-Deep-Learning) — Actively updated papers on hyperbolic embeddings, models, and applications `paper-list` ⭐623 · 📅2026-10
-- 🟢 [Awesome-state-space-models](https://github.com/radarFudan/Awesome-state-space-models) — Theory-leaning papers on state space models from S4 to Mamba `paper-list` ⭐621 · 📅2026-10
+- 🟢 [Awesome-Spiking-Neural-Networks](https://github.com/TheBrainLab/Awesome-Spiking-Neural-Networks) — Continuously updated SNN papers and code from top venues `paper-list` ⭐849 · 📅2026-10
+- 🟢 [Awesome-Mamba-Collection](https://github.com/XiudingCai/Awesome-Mamba-Collection) — Representative curation of Mamba papers, tutorials, and implementations across fields `paper-list` ⭐770 · 📅2026-08
+- 🟢 [Mamba_State_Space_Model_Paper_List](https://github.com/Event-AHU/Mamba_State_Space_Model_Paper_List) — Application-organized paper list accompanying a Mamba survey `paper-list` ⭐753 · 📅2026-09
+- 🟢 [Awesome-Hyperbolic-Representation-and-Deep-Learning](https://github.com/marlin-codes/Awesome-Hyperbolic-Representation-and-Deep-Learning) — Actively updated papers on hyperbolic embeddings, models, and applications `paper-list` ⭐625 · 📅2026-10
+- 🟢 [Awesome-state-space-models](https://github.com/radarFudan/Awesome-state-space-models) — Theory-leaning papers on state space models from S4 to Mamba `paper-list` ⭐622 · 📅2026-10
 - 🟢 [awesome-snn-conference-paper](https://github.com/AXYZdong/awesome-snn-conference-paper) — List of SNN papers and code implementations from competitive venues `paper-list` ⭐472 · 📅2026-10
 - 🟢 [Awesome-Efficient-Arch](https://github.com/weigao266/Awesome-Efficient-Arch) — Large-scale survey of efficient architectures for LLMs (linear attention, SSM, RWKV, etc.) `survey` ⭐409 · 📅2025-11
 - 🟢 [Efficient_Attention_Survey](https://github.com/attention-survey/Efficient_Attention_Survey) — Survey classifying efficient attention by hardware efficiency, sparsity, linearity, etc. `survey` ⭐313 · 📅2025-12
 - 🟢 [Awesome-Mamba-in-Vision](https://github.com/vgthengane/Awesome-Mamba-in-Vision) — Aggregation of Mamba papers in computer vision `paper-list` ⭐36 · 📅2026-03
 - 🟢 [Awesome_Modern_Hopfield_Networks](https://github.com/Event-AHU/Awesome_Modern_Hopfield_Networks) — Paper list on modern Hopfield networks `paper-list` ⭐28 · 📅2026-03
 - 🟢 [Awesome-Linear-Attention-Survey](https://github.com/btzyd/Awesome-Linear-Attention-Survey) — Survey-accompanying list covering linear attention algorithms, theory, applications, and infrastructure `survey` ⭐15 · 📅2026-02
-- 🟢 [KAN-Papers](https://github.com/RamtinMoslemi/KAN-Papers) — Complete list of KAN papers extracted from arXiv `paper-list` ⭐9 · 📅2026-05
+- 🟢 [KAN-Papers](https://github.com/RamtinMoslemi/KAN-Papers) — Complete list of KAN papers extracted from arXiv `paper-list` ⭐10 · 📅2026-05
 - 📑 [Awesome_Mamba](https://github.com/xmindflow/Awesome_Mamba) — List corresponding to a comprehensive survey of SSMs in medical image analysis `survey` ⭐270 · 📅2025-07
 - 🟡 [awesome-quantum-machine-learning](https://github.com/krishnakumarsekar/awesome-quantum-machine-learning) — Large-scale collection of QML fundamentals, algorithms, materials, and projects `awesome` ⭐3.7k · 📅2024-05
-- 🟡 [awesome-quantum-ml](https://github.com/artix41/awesome-quantum-ml) — Curation of papers and resources on ML algorithms running on quantum devices `paper-list` ⭐534 · 📅2024-06
-- 🟡 [Awesome-LLM-Reasoning-with-NeSy](https://github.com/LAMDA-NeSy/Awesome-LLM-Reasoning-with-NeSy) — List tracking the latest in neuro-symbolic learning in the LLM era `paper-list` ⭐333 · 📅2025-06
+- 🟡 [awesome-quantum-ml](https://github.com/artix41/awesome-quantum-ml) — Curation of papers and resources on ML algorithms running on quantum devices `paper-list` ⭐533 · 📅2024-06
+- 🟡 [Awesome-LLM-Reasoning-with-NeSy](https://github.com/LAMDA-NeSy/Awesome-LLM-Reasoning-with-NeSy) — List tracking the latest in neuro-symbolic learning in the LLM era `paper-list` ⭐334 · 📅2025-06
 - 🟡 [awesome-deeplogic](https://github.com/ccclyu/awesome-deeplogic) — Neural-symbolic AI papers centered on NLP applications `paper-list` ⭐301 · 📅2024-08
 - 🟡 [Awesome-RWKV-in-Vision](https://github.com/Yaziwel/Awesome-RWKV-in-Vision) — List of RWKV papers applied to computer vision `paper-list` ⭐247 · 📅2025-06
-- 🟡 [awesome-snn](https://github.com/coderonion/awesome-snn) — Collection of public SNN implementations (e.g., Spike-Driven-Transformer) `model` ⭐240 · 📅2024-10
+- 🟡 [awesome-snn](https://github.com/coderonion/awesome-snn) — Collection of public SNN implementations (e.g., Spike-Driven-Transformer) `model` ⭐239 · 📅2024-10
 - 📦 [awesome-fast-attention](https://github.com/Separius/awesome-fast-attention) — Classic comprehensive list of efficient attention modules `awesome` ⭐1k · 📅2021-08
 - 🔴 [awesome-capsule-networks](https://github.com/sekwiatkowski/awesome-capsule-networks) — Major capsule network papers and implementations (Dynamic Routing, EM Routing, etc.) `awesome` ⭐975 · 📅2020-02
 - 🔴 [awesome-neuromorphic-hw](https://github.com/open-neuromorphic/awesome-neuromorphic-hw) — Papers on neuromorphic hardware for SNNs (ASIC/FPGA, etc.) `paper-list` ⭐226 · 📅2023-11
@@ -165,9 +165,9 @@ Types: `awesome`=curated list / `survey`=companion to a survey paper / `paper-li
 - 🟢 [awesome-domain-adaptation](https://github.com/zhaoxin94/awesome-domain-adaptation) — Classic list of papers and code on domain adaptation `awesome` ⭐5.5k · 📅2025-12
 - 🟢 [awesome-imbalanced-learning](https://github.com/ZhiningLiu1998/awesome-imbalanced-learning) — Overview of papers, code, frameworks, and libraries on class-imbalance/long-tailed learning `awesome` ⭐1.5k · 📅2026-06
 - 🟢 [awesome-test-time-adaptation](https://github.com/tim-learn/awesome-test-time-adaptation) — Classic list covering test-time adaptation (SFDA/TTBA/TTIA/OTTA) `awesome` ⭐1.3k · 📅2025-11
-- 🟢 [Awesome-Out-Of-Distribution-Detection](https://github.com/huytransformer/Awesome-Out-Of-Distribution-Detection) — Benchmarks, papers, and libraries on OOD detection and generalization `awesome` ⭐1k · 📅2026-04
 - 🟢 [Awesome-LongTailed-Learning](https://github.com/YifanZhang07/Awesome-LongTailed-Learning) — For a TPAMI 2023 survey; organized by class rebalancing/information augmentation/module improvement `survey` ⭐1k · 📅2025-11
-- 🟢 [awesome-multi-task-learning](https://github.com/thuml/awesome-multi-task-learning) — Aggregated MTL datasets, codebases, and papers (Tsinghua THUML) `awesome` ⭐842 · 📅2026-03
+- 🟢 [Awesome-Out-Of-Distribution-Detection](https://github.com/huytransformer/Awesome-Out-Of-Distribution-Detection) — Benchmarks, papers, and libraries on OOD detection and generalization `awesome` ⭐1k · 📅2026-04
+- 🟢 [awesome-multi-task-learning](https://github.com/thuml/awesome-multi-task-learning) — Aggregated MTL datasets, codebases, and papers (Tsinghua THUML) `awesome` ⭐841 · 📅2026-03
 - 🟢 [awesome-active-learning](https://github.com/baifanxxx/awesome-active-learning) — Papers, tools, and benchmarks on active learning `awesome` ⭐807 · 📅2026-03
 - 🟢 [Awesome-Multi-Task-Learning](https://github.com/WeihongLi-ac/Awesome-Multi-Task-Learning) — Latest multi-task learning papers organized chronologically `paper-list` ⭐379 · 📅2026-03
 - 🟢 [Awesome-Out-Of-Distribution-Detection](https://github.com/shuolucs/Awesome-Out-Of-Distribution-Detection) — Paper list for an ACM CSUR 2025 task-oriented OOD detection survey `survey` ⭐175 · 📅2026-01
@@ -177,23 +177,23 @@ Types: `awesome`=curated list / `survey`=companion to a survey paper / `paper-li
 - 🟡 [Awesome-Learning-with-Label-Noise](https://github.com/subeeshvasu/Awesome-Learning-with-Label-Noise) — One of the largest lists of papers, code, and surveys on learning with noisy labels `awesome` ⭐2.7k · 📅2025-05
 - 🟡 [awesome-semi-supervised-learning](https://github.com/yassouali/awesome-semi-supervised-learning) — Semi-supervised learning papers/methods organized by CV/NLP/generation/graph `awesome` ⭐1.9k · 📅2024-05
 - 🟡 [awesome-source-free-test-time-adaptation](https://github.com/YuejiangLIU/awesome-source-free-test-time-adaptation) — Paper list on test-time adaptation, test-time training, and source-free domain adaptation `paper-list` ⭐548 · 📅2024-06
-- 🟡 [Awesome-Domain-Generalization](https://github.com/junkunyuan/Awesome-Domain-Generalization) — Papers, code, and datasets on domain generalization `awesome` ⭐539 · 📅2025-04
+- 🟡 [Awesome-Domain-Generalization](https://github.com/junkunyuan/Awesome-Domain-Generalization) — Papers, code, and datasets on domain generalization `awesome` ⭐540 · 📅2025-04
 - 🔴 [Awesome-Meta-Learning](https://github.com/sudharsan13296/Awesome-Meta-Learning) — Classic list covering meta-learning papers, code, books, videos, and datasets `awesome` ⭐1.6k · 📅2020-11
 - 🔴 [awesome_OpenSetRecognition_list](https://github.com/gary23ai/awesome_OpenSetRecognition_list) — Classic list of papers on open-set, OOD, and open-world recognition `paper-list` ⭐1.2k · 📅2024-03
-- 🔴 [awesome-zero-shot-learning](https://github.com/sbharadwajj/awesome-zero-shot-learning) — Curated papers, code, and resources on zero-shot learning `awesome` ⭐937 · 📅2021-07
+- 🔴 [awesome-zero-shot-learning](https://github.com/sbharadwajj/awesome-zero-shot-learning) — Curated papers, code, and resources on zero-shot learning `awesome` ⭐938 · 📅2021-07
 - 🔴 [awesome-curriculum-learning](https://github.com/Openning07/awesome-curriculum-learning) — Curriculum learning papers tagged by detection/segmentation/classification/transfer/RL `awesome` ⭐251 · 📅2022-08
 - 🔴 [Awesome-Weak-Supervision](https://github.com/JieyuZ2/Awesome-Weak-Supervision) — Papers and resources on programmatic/rule-based weak supervision `awesome` ⭐196 · 📅2023-03
 - 🔴 [awesome-distribution-shift](https://github.com/weitianxin/awesome-distribution-shift) — Papers on distribution shift and benchmarks `awesome` ⭐131 · 📅2023-08
 - 🔴 [awesome-few-shot-learning](https://github.com/indussky8/awesome-few-shot-learning) — Curation of few-shot learning papers with comparison results on standard datasets `paper-list` ⭐127 · 📅2021-10
-- 🔴 [Awesome-Zero-Shot-Learning](https://github.com/WilliamYi96/Awesome-Zero-Shot-Learning) — List of the latest advances in zero-shot learning papers and datasets `paper-list` ⭐85 · 📅2022-08
-- 🔴 [Awesome-Failure-Detection](https://github.com/Impression2805/Awesome-Failure-Detection) — Papers unifying OOD detection and misclassification (failure) detection `paper-list` ⭐53 · 📅2023-10
+- 🔴 [Awesome-Zero-Shot-Learning](https://github.com/WilliamYi96/Awesome-Zero-Shot-Learning) — List of the latest advances in zero-shot learning papers and datasets `paper-list` ⭐84 · 📅2022-08
+- 🔴 [Awesome-Failure-Detection](https://github.com/Impression2805/Awesome-Failure-Detection) — Papers unifying OOD detection and misclassification (failure) detection `paper-list` ⭐52 · 📅2023-10
 - 🔴 [Awesome-compositional-zero-shot-learning](https://github.com/uqzhichen/Awesome-compositional-zero-shot-learning) — Paper list focused on compositional zero-shot learning (attribute-object generalization) `paper-list` ⭐11 · 📅2022-07
 - 🔴 [awsome-domain-adaptation](https://github.com/cmhungsteve/awsome-domain-adaptation) — Widely referenced list of domain adaptation papers organized by category `awesome` ⭐1 · 📅2019-09
 
 ## 👁️ Computer Vision
 
 - 🟢 [CVPR2026-Papers-with-Code](https://github.com/amusi/CVPR2026-Papers-with-Code) — Classic large-scale aggregation of CVPR 2026 papers and open-source projects `paper-list` ⭐22.9k · 📅2026-03
-- 🟢 [awesome-industrial-anomaly-detection](https://github.com/M-3LAB/awesome-industrial-anomaly-detection) — Very active papers and datasets on anomaly/defect detection in industrial images `awesome` ⭐3.8k · 📅2026-09
+- 🟢 [awesome-industrial-anomaly-detection](https://github.com/M-3LAB/awesome-industrial-anomaly-detection) — Very active papers and datasets on anomaly/defect detection in industrial images `awesome` ⭐3.8k · 📅2026-10
 - 🟢 [awesome-hand-pose-estimation](https://github.com/xinghaochen/awesome-hand-pose-estimation) — Classic list of hand pose estimation/tracking (including 3D) `awesome` ⭐3.4k · 📅2026-06
 - 🟢 [Awesome-Super-Resolution](https://github.com/ChaofWang/Awesome-Super-Resolution) — Aggregated papers, data, and repos on super-resolution `awesome` ⭐3.1k · 📅2026-08
 - 🟢 [Awesome-Crowd-Counting](https://github.com/gjy3035/Awesome-Crowd-Counting) — Active classic list of crowd counting with datasets and code `awesome` ⭐2.6k · 📅2026-01
@@ -202,35 +202,35 @@ Types: `awesome`=curated list / `survey`=companion to a survey paper / `paper-li
 - 🟢 [awesome-grounding](https://github.com/TheShadow29/awesome-grounding) — Papers on referring expression and grounding for images/video/3D `paper-list` ⭐1.1k · 📅2026-10
 - 🟢 [SAM4MIS](https://github.com/YichiZhang98/SAM4MIS) — Summaries of papers and OSS on applying SAM to medical image segmentation `paper-list` ⭐1.1k · 📅2026-04
 - 🟢 [Awesome-Open-Vocabulary](https://github.com/jianzongwu/Awesome-Open-Vocabulary) — Companion to TPAMI 2024 "Towards Open Vocabulary Learning: A Survey" `survey` ⭐1k · 📅2026-05
-- 🟢 [ICCV-2023-25-Papers](https://github.com/DmitryRyumin/ICCV-2023-25-Papers) — Curation of ICCV 2023-2025 accepted papers `paper-list` ⭐973 · 📅2025-11
-- 🟢 [Awesome-Open-Vocabulary-Semantic-Segmentation](https://github.com/Qinying-Liu/Awesome-Open-Vocabulary-Semantic-Segmentation) — Paper list on open-vocabulary/zero-shot semantic segmentation `paper-list` ⭐904 · 📅2026-05
-- 🟢 [top-cvpr-2025-papers](https://github.com/SkalskiP/top-cvpr-2025-papers) — Curated collection of notable CVPR 2025 papers `paper-list` ⭐896 · 📅2026-04
+- 🟢 [ICCV-2023-25-Papers](https://github.com/DmitryRyumin/ICCV-2023-25-Papers) — Curation of ICCV 2023-2025 accepted papers `paper-list` ⭐972 · 📅2025-11
+- 🟢 [Awesome-Open-Vocabulary-Semantic-Segmentation](https://github.com/Qinying-Liu/Awesome-Open-Vocabulary-Semantic-Segmentation) — Paper list on open-vocabulary/zero-shot semantic segmentation `paper-list` ⭐905 · 📅2026-05
+- 🟢 [top-cvpr-2025-papers](https://github.com/SkalskiP/top-cvpr-2025-papers) — Curated collection of notable CVPR 2025 papers `paper-list` ⭐897 · 📅2026-04
 - 🟢 [Awesome-Referring-Image-Segmentation](https://github.com/MarkMoHR/Awesome-Referring-Image-Segmentation) — Papers and datasets on referring image segmentation `awesome` ⭐830 · 📅2026-01
-- 🟢 [Awesome-Skeleton-based-Action-Recognition](https://github.com/firework8/Awesome-Skeleton-based-Action-Recognition) — Monthly-updated list of skeleton-based action recognition papers `paper-list` ⭐730 · 📅2026-10
+- 🟢 [Awesome-Skeleton-based-Action-Recognition](https://github.com/firework8/Awesome-Skeleton-based-Action-Recognition) — Monthly-updated list of skeleton-based action recognition papers `paper-list` ⭐731 · 📅2026-10
 - 🟢 [Awesome-Scene-Graph-Generation](https://github.com/ChocoWu/Awesome-Scene-Graph-Generation) — Active scene graph generation list covering LLM/non-LLM, 2D/3D/video methods `awesome` ⭐728 · 📅2026-10
 - 🟢 [HOI-Learning-List](https://github.com/DirtyHarryLYL/HOI-Learning-List) — Active HOI learning list covering datasets, benchmarks, and papers `awesome` ⭐717 · 📅2025-10
 - 🟢 [Awesome-CVPR2026-CVPR2025-ICCV2025-CVPR2024-ECCV2026-ECCV2024-AIGC](https://github.com/Kobaayyy/Awesome-CVPR2026-CVPR2025-ICCV2025-CVPR2024-ECCV2026-ECCV2024-AIGC) — Aggregation of AIGC papers and code from major conferences `paper-list` ⭐675 · 📅2026-09
 - 🟢 [Awesome-Temporal-Action-Detection-Temporal-Action-Proposal-Generation](https://github.com/zhenyingfang/Awesome-Temporal-Action-Detection-Temporal-Action-Proposal-Generation) — Cross-collection of temporal action detection, proposal generation, and weak supervision `paper-list` ⭐595 · 📅2026-10
 - 🟢 [Awesome-Image-Harmonization](https://github.com/bcmi/Awesome-Image-Harmonization) — Active papers, code, and resources on image harmonization `awesome` ⭐535 · 📅2026-10
-- 🟢 [Awesome-Video-Object-Segmentation](https://github.com/gaomingqi/Awesome-Video-Object-Segmentation) — Latest VOS papers, datasets, and projects `awesome` ⭐527 · 📅2026-07
-- 🟢 [awesome-camouflaged-object-detection](https://github.com/visionxiang/awesome-camouflaged-object-detection) — Curated resources on camouflaged/concealed object detection `awesome` ⭐496 · 📅2026-09
+- 🟢 [Awesome-Video-Object-Segmentation](https://github.com/gaomingqi/Awesome-Video-Object-Segmentation) — Latest VOS papers, datasets, and projects `awesome` ⭐525 · 📅2026-07
+- 🟢 [awesome-camouflaged-object-detection](https://github.com/visionxiang/awesome-camouflaged-object-detection) — Curated resources on camouflaged/concealed object detection `awesome` ⭐499 · 📅2026-09
 - 🟢 [Awesome-Face-Restoration](https://github.com/TaoWangzj/Awesome-Face-Restoration) — List of papers and repos on face restoration methods `paper-list` ⭐481 · 📅2026-03
-- 🟢 [Awesome-Object-Pose-Estimation](https://github.com/CNJianLiu/Awesome-Object-Pose-Estimation) — Project page for the IJCV 2026 survey "Deep Learning-Based Object Pose Estimation" `survey` ⭐457 · 📅2026-01
-- 🟢 [awesome-ocr-resources](https://github.com/ZumingHuang/awesome-ocr-resources) — Resource collection of OCR papers and datasets `awesome` ⭐440 · 📅2026-10
+- 🟢 [Awesome-Object-Pose-Estimation](https://github.com/CNJianLiu/Awesome-Object-Pose-Estimation) — Project page for the IJCV 2026 survey "Deep Learning-Based Object Pose Estimation" `survey` ⭐458 · 📅2026-01
+- 🟢 [awesome-ocr-resources](https://github.com/ZumingHuang/awesome-ocr-resources) — Resource collection of OCR papers and datasets `awesome` ⭐441 · 📅2026-10
 - 🟢 [Awesome-FAS](https://github.com/RizhaoCai/Awesome-FAS) — Comprehensive collection of face anti-spoofing/PAD/liveness papers `paper-list` ⭐392 · 📅2026-06
-- 🟢 [Awesome_Long_Form_Video_Understanding](https://github.com/ttengwang/Awesome_Long_Form_Video_Understanding) — Papers and datasets focused on long-form video `paper-list` ⭐387 · 📅2025-10
-- 🟢 [awesome-described-object-detection](https://github.com/Charles-Xie/awesome-described-object-detection) — Papers on described/open-vocabulary object detection and referring expression comprehension `paper-list` ⭐361 · 📅2025-11
+- 🟢 [Awesome_Long_Form_Video_Understanding](https://github.com/ttengwang/Awesome_Long_Form_Video_Understanding) — Papers and datasets focused on long-form video `paper-list` ⭐388 · 📅2025-10
+- 🟢 [awesome-described-object-detection](https://github.com/Charles-Xie/awesome-described-object-detection) — Papers on described/open-vocabulary object detection and referring expression comprehension `paper-list` ⭐361 · 📅2026-10
 - 🟢 [awesome-concealed-object-segmentation](https://github.com/ChunmingHe/awesome-concealed-object-segmentation) — Resources on concealed object segmentation `awesome` ⭐355 · 📅2026-01
-- 🟢 [Awesome-Visual-Grounding](https://github.com/linhuixiao/Awesome-Visual-Grounding) — TPAMI 2025 survey covering REC/phrase grounding/grounding MLLMs (active) `survey` ⭐330 · 📅2025-11
+- 🟢 [Awesome-Visual-Grounding](https://github.com/linhuixiao/Awesome-Visual-Grounding) — TPAMI 2025 survey covering REC/phrase grounding/grounding MLLMs (active) `survey` ⭐330 · 📅2026-10
 - 🟢 [Awesome-3D-Visual-Grounding](https://github.com/liudaizong/Awesome-3D-Visual-Grounding) — Active list specialized in 3D visual grounding papers `paper-list` ⭐287 · 📅2026-01
 - 🟢 [Awesome-Multimodal-Referring-Segmentation](https://github.com/henghuiding/Awesome-Multimodal-Referring-Segmentation) — List on multimodal referring segmentation `awesome` ⭐261 · 📅2026-09
 - 🟢 [awesome-temporal-action-segmentation](https://github.com/nus-cvml/awesome-temporal-action-segmentation) — Active papers and datasets on temporal action segmentation `paper-list` ⭐259 · 📅2026-10
-- 🟢 [awesome-video-self-supervised-learning](https://github.com/Malitha123/awesome-video-self-supervised-learning) — Papers on self-supervised learning methods for video `paper-list` ⭐174 · 📅2026-10
-- 🟢 [awesome-3D-scene-graphs](https://github.com/dennisrotondi/awesome-3D-scene-graphs) — List specialized in 3D scene graphs, including robotics applications `awesome` ⭐173 · 📅2026-10
+- 🟢 [awesome-3D-scene-graphs](https://github.com/dennisrotondi/awesome-3D-scene-graphs) — List specialized in 3D scene graphs, including robotics applications `awesome` ⭐177 · 📅2026-10
+- 🟢 [awesome-video-self-supervised-learning](https://github.com/Malitha123/awesome-video-self-supervised-learning) — Papers on self-supervised learning methods for video `paper-list` ⭐175 · 📅2026-10
 - 🟢 [Awesome-SAM2](https://github.com/GuoleiSun/Awesome-SAM2) — Papers and code on SAM2 for images and video `paper-list` ⭐157 · 📅2025-10
-- 🟢 [awesome-3d-anomaly-detection](https://github.com/M-3LAB/awesome-3d-anomaly-detection) — Survey repository on point cloud and multimodal 3D anomaly detection `awesome` ⭐147 · 📅2026-10
+- 🟢 [awesome-3d-anomaly-detection](https://github.com/M-3LAB/awesome-3d-anomaly-detection) — Survey repository on point cloud and multimodal 3D anomaly detection `awesome` ⭐149 · 📅2026-10
 - 🟢 [Event_Camera_in_Top_Conference](https://github.com/Event-AHU/Event_Camera_in_Top_Conference) — Collection of event/spike camera papers from top international conferences `paper-list` ⭐128 · 📅2026-04
-- 🟢 [TPAMI26-Awesome-MLLMs-for-Video-Temporal-Grounding](https://github.com/iLearn-Lab/TPAMI26-Awesome-MLLMs-for-Video-Temporal-Grounding) — Latest papers, code, and data on video temporal grounding with MLLMs (VTG-LLM) `paper-list` ⭐103 · 📅2026-10
+- 🟢 [TPAMI26-Awesome-MLLMs-for-Video-Temporal-Grounding](https://github.com/iLearn-Lab/TPAMI26-Awesome-MLLMs-for-Video-Temporal-Grounding) — Latest papers, code, and data on video temporal grounding with MLLMs (VTG-LLM) `paper-list` ⭐105 · 📅2026-10
 - 🟢 [Awesome-MultiModal-Visual-Object-Tracking](https://github.com/Zhangyong-Tang/Awesome-MultiModal-Visual-Object-Tracking) — Survey of multimodal visual object tracking (RGBT/RGBD/RGBE, etc.) `survey` ⭐87 · 📅2026-09
 - 🟢 [Awesome-Temporal-Video-Grounding](https://github.com/Tangkfan/Awesome-Temporal-Video-Grounding) — Paper list on VMR/TVG/TSGV `paper-list` ⭐45 · 📅2026-07
 - 🟢 [awesome-captioning-evaluation](https://github.com/aimagelab/awesome-captioning-evaluation) — Papers on image captioning evaluation in the MLLM era `paper-list` ⭐37 · 📅2025-11
@@ -249,12 +249,12 @@ Types: `awesome`=curated list / `survey`=companion to a survey paper / `paper-li
 - 🟡 [Awesome-Computer-Vision-Paper-List](https://github.com/yarkable/Awesome-Computer-Vision-Paper-List) — Paper list for cross-searching accepted papers from top conferences `paper-list` ⭐765 · 📅2024-04
 - 🟡 [Awesome-Optical-Flow](https://github.com/hzwer/Awesome-Optical-Flow) — Paper list on optical flow and related research `awesome` ⭐648 · 📅2024-11
 - 🟡 [awesome-diffusion-models-in-low-level-vision](https://github.com/ChunmingHe/awesome-diffusion-models-in-low-level-vision) — Diffusion model papers for low-level vision (super-resolution, inpainting, etc.) `paper-list` ⭐561 · 📅2025-02
-- 🟡 [Awesome-Gaze-Estimation](https://github.com/cvlab-uob/Awesome-Gaze-Estimation) — Curated list of gaze estimation papers `awesome` ⭐538 · 📅2025-06
+- 🟡 [Awesome-Gaze-Estimation](https://github.com/cvlab-uob/Awesome-Gaze-Estimation) — Curated list of gaze estimation papers `awesome` ⭐539 · 📅2025-06
 - 🟡 [CVPR-2023-24-Papers](https://github.com/DmitryRyumin/CVPR-2023-24-Papers) — CVPR 2023/2024 accepted papers organized by topic `paper-list` ⭐453 · 📅2024-07
-- 🟡 [Awesome-Segment-Anything](https://github.com/Vision-Intelligence-and-Robots-Group/Awesome-Segment-Anything) — Papers and projects related to the Segment Anything Model (SAM) `paper-list` ⭐371 · 📅2024-12
+- 🟡 [Awesome-Segment-Anything](https://github.com/Vision-Intelligence-and-Robots-Group/Awesome-Segment-Anything) — Papers and projects related to the Segment Anything Model (SAM) `paper-list` ⭐370 · 📅2024-12
 - 🟡 [Awesome-Monocular-Depth](https://github.com/choyingw/Awesome-Monocular-Depth) — List focused on monocular depth estimation papers since 2020 `paper-list` ⭐211 · 📅2024-10
 - 🟡 [Awesome-Gait-Recognition](https://github.com/BNU-IVC/Awesome-Gait-Recognition) — Active papers and datasets on gait recognition (including CVPR'25) `paper-list` ⭐189 · 📅2025-05
-- 🟡 [awesome-micro-expression-recognition](https://github.com/Vision-Intelligence-and-Robots-Group/awesome-micro-expression-recognition) — Papers on micro-expression recognition, detection, and spotting `paper-list` ⭐187 · 📅2025-08
+- 🟡 [awesome-micro-expression-recognition](https://github.com/Vision-Intelligence-and-Robots-Group/awesome-micro-expression-recognition) — Papers on micro-expression recognition, detection, and spotting `paper-list` ⭐189 · 📅2025-08
 - 🟡 [awesome-salient-object-detection](https://github.com/visionxiang/awesome-salient-object-detection) — Resources on salient object detection, including RGB-D `awesome` ⭐148 · 📅2024-09
 - 🟡 [WACV-2024-Papers](https://github.com/DmitryRyumin/WACV-2024-Papers) — Systematically organized collection of WACV 2024 papers `paper-list` ⭐97 · 📅2024-09
 - 🟡 [awesome-human-visual-attention](https://github.com/aimagelab/awesome-human-visual-attention) — Papers/resources on saliency, scanpath, gaze prediction, and visual attention `paper-list` ⭐66 · 📅2025-05
@@ -273,25 +273,25 @@ Types: `awesome`=curated list / `survey`=companion to a survey paper / `paper-li
 - 🔴 [awesome-tiny-object-detection](https://github.com/kuanhungchen/awesome-tiny-object-detection) — Papers and resources on tiny object detection `paper-list` ⭐1.6k · 📅2023-10
 - 🔴 [awesome-human-pose-estimation](https://github.com/wangzheallen/awesome-human-pose-estimation) — Papers on 2D/3D human pose estimation `paper-list` ⭐1.4k · 📅2020-08
 - 🔴 [awesome-image-captioning](https://github.com/zhjohnchan/awesome-image-captioning) — Image captioning and related resources organized by year `awesome` ⭐1.1k · 📅2023-03
-- 🔴 [activityrecognition](https://github.com/jindongwang/activityrecognition) — Resources, code, and datasets on activity recognition `paper-list` ⭐928 · 📅2019-08
+- 🔴 [activityrecognition](https://github.com/jindongwang/activityrecognition) — Resources, code, and datasets on activity recognition `paper-list` ⭐930 · 📅2019-08
 - 🔴 [awesome-face](https://github.com/polarisZhao/awesome-face) — Curation of face-related algorithms, datasets, and papers `awesome` ⭐915 · 📅2019-08
 - 🔴 [Awesome-Face-Forgery-Generation-and-Detection](https://github.com/clpeng/Awesome-Face-Forgery-Generation-and-Detection) — Papers and code on face forgery generation and detection `paper-list` ⭐782 · 📅2022-11
 - 🔴 [Awesome-Temporal-Action-Localization](https://github.com/Alvin-Zeng/Awesome-Temporal-Action-Localization) — Papers and benchmarks on temporal action localization/detection/proposal `paper-list` ⭐588 · 📅2022-09
-- 🔴 [awesome-metric-learning](https://github.com/qdrant/awesome-metric-learning) — Curation of practical metric learning and its applications `awesome` ⭐524 · 📅2023-04
+- 🔴 [awesome-metric-learning](https://github.com/qdrant/awesome-metric-learning) — Curation of practical metric learning and its applications `awesome` ⭐525 · 📅2023-04
 - 🔴 [Awesome-Image-Matting](https://github.com/wchstrife/Awesome-Image-Matting) — Curated list of deep learning-based matting papers and code `awesome` ⭐436 · 📅2023-11
 - 🔴 [Awesome-Visual-Captioning](https://github.com/forence/Awesome-Visual-Captioning) — Papers focused on image/video captioning and Seq2Seq learning `paper-list` ⭐410 · 📅2022-11
 - 🔴 [Awesome-3D-Detectors](https://github.com/Hub-Tian/Awesome-3D-Detectors) — Papers and code on LiDAR-centric 3D detection methods `paper-list` ⭐399 · 📅2022-02
 - 🔴 [Awesome-Super-Resolution](https://github.com/ptkin/Awesome-Super-Resolution) — Curation of super-resolution resources `awesome` ⭐386 · 📅2019-09
 - 🔴 [awesome-depth](https://github.com/scott89/awesome-depth) — Curated list of depth estimation publications `paper-list` ⭐333 · 📅2020-09
 - 🔴 [Awesome-generalizable-6D-object-pose](https://github.com/liuyuan-pal/Awesome-generalizable-6D-object-pose) — Latest papers on generalizable 6DoF object pose estimation `paper-list` ⭐328 · 📅2023-04
-- 🔴 [Awesome-Vision-Transformer-Collection](https://github.com/GuanRunwei/Awesome-Vision-Transformer-Collection) — Collection of ViT variants and downstream tasks `awesome` ⭐258 · 📅2022-07
+- 🔴 [Awesome-Vision-Transformer-Collection](https://github.com/GuanRunwei/Awesome-Vision-Transformer-Collection) — Collection of ViT variants and downstream tasks `awesome` ⭐259 · 📅2022-07
 - 🔴 [Awesome-Fine-grained-Visual-Classification](https://github.com/haoweiz23/Awesome-Fine-grained-Visual-Classification) — Collection of papers on fine-grained visual classification (FGVC) `paper-list` ⭐242 · 📅2023-09
 - 🔴 [Awesome-Person-Re-Identification](https://github.com/FDU-VTS/Awesome-Person-Re-Identification) — Person re-identification list including datasets and surveys `awesome` ⭐205 · 📅2021-12
-- 🔴 [6d-object-pose-estimation](https://github.com/GeorgeDu/6d-object-pose-estimation) — Papers and code on 6D object pose estimation `paper-list` ⭐204 · 📅2023-06
+- 🔴 [6d-object-pose-estimation](https://github.com/GeorgeDu/6d-object-pose-estimation) — Papers and code on 6D object pose estimation `paper-list` ⭐203 · 📅2023-06
 - 🔴 [awesome-optical-flow-algorithm](https://github.com/antran89/awesome-optical-flow-algorithm) — Flow algorithms from classical methods to deep learning (e.g., RAFT) `awesome` ⭐159 · 📅2022-10
-- 🔴 [awesome-video-understanding](https://github.com/sujiongming/awesome-video-understanding) — Resources on video classification, action recognition, and video datasets `awesome` ⭐143 · 📅2017-12
+- 🔴 [awesome-video-understanding](https://github.com/sujiongming/awesome-video-understanding) — Resources on video classification, action recognition, and video datasets `awesome` ⭐144 · 📅2017-12
+- 🔴 [awesome-360-vision](https://github.com/hsientzucheng/awesome-360-vision) — Collection of papers across 360-degree vision `paper-list` ⭐123 · 📅2019-01
 - 🔴 [Awesome-Video-Captioning](https://github.com/tgc1997/Awesome-Video-Captioning) — Collection of video captioning papers `paper-list` ⭐122 · 📅2021-01
-- 🔴 [awesome-360-vision](https://github.com/hsientzucheng/awesome-360-vision) — Collection of papers across 360-degree vision `paper-list` ⭐122 · 📅2019-01
 - 🔴 [Awesome-3D-Semantic-Segmentation](https://github.com/vvincenttttt/Awesome-3D-Semantic-Segmentation) — Papers and code on 3D semantic segmentation `paper-list` ⭐75 · 📅2022-09
 - 🔴 [Awesome-Events-Deep-Learning](https://github.com/vlislab2022/Awesome-Events-Deep-Learning) — Resources on deep learning for event cameras `awesome` ⭐62 · 📅2023-09
 - 🔴 [awesome-vqa-latest](https://github.com/Taaccoo/awesome-vqa-latest) — Continuously updated reading list of VQA papers `paper-list` ⭐52 · 📅2022-08
@@ -302,7 +302,7 @@ Types: `awesome`=curated list / `survey`=companion to a survey paper / `paper-li
 - 🔴 [awesome-hyperspectral-image-classification](https://github.com/immortal13/awesome-hyperspectral-image-classification) — Papers and code on hyperspectral image classification `paper-list` ⭐21 · 📅2023-07
 - 🔴 [Awesome-image-captioning](https://github.com/luo3300612/Awesome-image-captioning) — Image captioning paper list from ICCV/ECCV/CVPR and more `paper-list` ⭐8 · 📅2019-09
 - 🔴 [Awesome-3D-Human-Pose-Estimation](https://github.com/bsridatta/Awesome-3D-Human-Pose-Estimation) — Paper collection focused on 3D human pose estimation `paper-list` ⭐5 · 📅2021-04
-- 🔴 [Awesome-Human-Object-Interaction-Detection](https://github.com/KainingYing/Awesome-Human-Object-Interaction-Detection) — HOI detection papers organized by conference and year `paper-list` ⭐3 · 📅2021-08
+- 🔴 [Awesome-Human-Object-Interaction-Detection](https://github.com/KainingYing/Awesome-Human-Object-Interaction-Detection) — HOI detection papers organized by conference and year `paper-list` ⭐4 · 📅2021-08
 
 ## 🎨 Computer Graphics / 3D / Rendering
 
@@ -311,41 +311,41 @@ Types: `awesome`=curated list / `survey`=companion to a survey paper / `paper-li
 - 🟢 [awesome-NeRF-and-3DGS-SLAM](https://github.com/3D-Vision-World/awesome-NeRF-and-3DGS-SLAM) — Papers on SLAM using implicit representations, NeRF, and 3DGS `paper-list` ⭐2.2k · 📅2026-10
 - 🟢 [awesome-digital-human](https://github.com/weihaox/awesome-digital-human) — Comprehensive collection of 2D/3D/4D human modeling and avatar generation `awesome` ⭐2k · 📅2026-04
 - 🟢 [Awesome-Talking-Head-Synthesis](https://github.com/Kedreamix/Awesome-Talking-Head-Synthesis) — Broad resource collection on talking-face synthesis `awesome` ⭐1.6k · 📅2026-10
-- 🟢 [awesome-3d-diffusion](https://github.com/cwchenwang/awesome-3d-diffusion) — Papers on diffusion models for 3D generation `paper-list` ⭐1.3k · 📅2026-01
-- 🟢 [awesome-point-cloud-processing](https://github.com/mmolero/awesome-point-cloud-processing) — Collection of point cloud processing libraries, software, and resources `awesome` ⭐806 · 📅2025-11
-- 🟢 [awesome-dust3r](https://github.com/ruili3/awesome-dust3r) — Tracker of DUSt3R-family geometric foundation model papers and resources `model` ⭐802 · 📅2025-11
+- 🟢 [awesome-3d-diffusion](https://github.com/cwchenwang/awesome-3d-diffusion) — Papers on diffusion models for 3D generation `paper-list` ⭐1.3k · 📅2026-10
+- 🟢 [awesome-point-cloud-processing](https://github.com/mmolero/awesome-point-cloud-processing) — Collection of point cloud processing libraries, software, and resources `awesome` ⭐805 · 📅2025-11
+- 🟢 [awesome-dust3r](https://github.com/ruili3/awesome-dust3r) — Tracker of DUSt3R-family geometric foundation model papers and resources `model` ⭐803 · 📅2025-11
 - 🟢 [Awesome-AIGC-3D](https://github.com/hitcslj/Awesome-AIGC-3D) — Papers on AIGC 3D (generation, texturing, materials) `awesome` ⭐788 · 📅2026-05
 - 🟢 [awesome-ray-tracing](https://github.com/dannyfritz/awesome-ray-tracing) — List of ray tracing papers, courses, and implementations `awesome` ⭐657 · 📅2026-10
-- 🟢 [Awesome-Text-to-3D](https://github.com/yyeboah/Awesome-Text-to-3D) — Curation of Text-to-3D/Diffusion-to-3D research `paper-list` ⭐609 · 📅2026-10
-- 🟢 [awesome-graphics-libraries](https://github.com/jslee02/awesome-graphics-libraries) — Curation of 3D graphics libraries `awesome` ⭐542 · 📅2026-10
-- 🟢 [Awesome-4D-Spatial-Intelligence](https://github.com/yukangcao/Awesome-4D-Spatial-Intelligence) — Survey of 4D spatial intelligence reconstruction from video `survey` ⭐533 · 📅2026-09
+- 🟢 [Awesome-Text-to-3D](https://github.com/yyeboah/Awesome-Text-to-3D) — Curation of Text-to-3D/Diffusion-to-3D research `paper-list` ⭐612 · 📅2026-10
+- 🟢 [awesome-graphics-libraries](https://github.com/jslee02/awesome-graphics-libraries) — Curation of 3D graphics libraries `awesome` ⭐543 · 📅2026-10
+- 🟢 [Awesome-4D-Spatial-Intelligence](https://github.com/yukangcao/Awesome-4D-Spatial-Intelligence) — Survey of 4D spatial intelligence reconstruction from video `survey` ⭐532 · 📅2026-09
 - 🟢 [awesome-simulation](https://github.com/Housz/awesome-simulation) — Organized resources on physics simulation in CG `awesome` ⭐396 · 📅2026-06
 - 🟢 [awesome-gaussians](https://github.com/longxiang-ai/awesome-gaussians) — 3DGS paper tracker auto-updated daily from arXiv `paper-list` ⭐365 · 📅2026-10
 - 🟢 [Awesome-Transformer-based-SLAM](https://github.com/KwanWaiPang/Awesome-Transformer-based-SLAM) — Paper collection for surveying Transformer-based SLAM `survey` ⭐316 · 📅2026-10
-- 🟢 [Awesome-3DGS-SLAM](https://github.com/KwanWaiPang/Awesome-3DGS-SLAM) — Paper collection for surveying 3DGS SLAM `survey` ⭐296 · 📅2026-02
+- 🟢 [Awesome-3DGS-SLAM](https://github.com/KwanWaiPang/Awesome-3DGS-SLAM) — Paper collection for surveying 3DGS SLAM `survey` ⭐297 · 📅2026-02
 - 🟢 [Awesome-InverseRendering](https://github.com/tkuri/Awesome-InverseRendering) — Paper list on intrinsic decomposition and inverse rendering `paper-list` ⭐235 · 📅2026-10
 - 🟢 [Awesome-Learning-based-VO-VIO](https://github.com/KwanWaiPang/Awesome-Learning-based-VO-VIO) — Paper collection for surveying learning-based visual odometry (VO/VIO) `survey` ⭐218 · 📅2026-09
-- 🟢 [awesome-geometry-processing](https://github.com/zishun/awesome-geometry-processing) — Collection of geometry processing libraries, tools, and resources `awesome` ⭐178 · 📅2026-03
+- 🟢 [awesome-geometry-processing](https://github.com/zishun/awesome-geometry-processing) — Collection of geometry processing libraries, tools, and resources `awesome` ⭐177 · 📅2026-03
 - 🟢 [Awesome-SIGGRAPH-Computational-Optics](https://github.com/zhaoguangyuan123/Awesome-SIGGRAPH-Computational-Optics) — Reading list of computational optics papers from SIGGRAPH `paper-list` ⭐109 · 📅2026-07
-- 🟢 [Awesome-3D-Reconstruction-and-Generation](https://github.com/PolySummit/Awesome-3D-Reconstruction-and-Generation) — Papers and datasets on 3D reconstruction and generation `paper-list` ⭐96 · 📅2026-03
-- 🟢 [quad-meshing-survey](https://github.com/Bigger-and-Stronger/quad-meshing-survey) — Papers, code, and projects related to quad meshing `survey` ⭐92 · 📅2026-10
+- 🟢 [Awesome-3D-Reconstruction-and-Generation](https://github.com/PolySummit/Awesome-3D-Reconstruction-and-Generation) — Papers and datasets on 3D reconstruction and generation `paper-list` ⭐97 · 📅2026-03
+- 🟢 [quad-meshing-survey](https://github.com/Bigger-and-Stronger/quad-meshing-survey) — Papers, code, and projects related to quad meshing `survey` ⭐93 · 📅2026-10
 - 🟢 [awesome-dynamic-NeRF](https://github.com/pdaicode/awesome-dynamic-NeRF) — Papers on NeRF for dynamic scenes `paper-list` ⭐69 · 📅2026-04
-- 🟢 [awesome-brep-reconstruction](https://github.com/Bigger-and-Stronger/awesome-brep-reconstruction) — Regularly updated papers and OSS projects on B-rep (boundary representation) reconstruction `survey` ⭐41 · 📅2026-01
+- 🟢 [awesome-brep-reconstruction](https://github.com/Bigger-and-Stronger/awesome-brep-reconstruction) — Regularly updated papers and OSS projects on B-rep (boundary representation) reconstruction `survey` ⭐42 · 📅2026-10
 - 🟢 [Awesome-Diffusion-based-SLAM](https://github.com/KwanWaiPang/Awesome-Diffusion-based-SLAM) — Paper collection for surveying diffusion model-based SLAM `survey` ⭐36 · 📅2026-05
 - 🟢 [Awesome-BRDF](https://github.com/tkuri/Awesome-BRDF) — Papers on BRDF representation organized by representation type `paper-list` ⭐32 · 📅2026-10
 - 🟢 [Awesome-Event-based-SLAM](https://github.com/KwanWaiPang/Awesome-Event-based-SLAM) — Paper collection for surveying event-based SLAM `survey` ⭐30 · 📅2026-01
 - 🟢 [offset-mesh-survey](https://github.com/Bigger-and-Stronger/offset-mesh-survey) — Continuously updated survey of papers, projects, and code on offset mesh generation `survey` ⭐14 · 📅2026-09
-- 🟢 [awesome-3d-medial-axis](https://github.com/Bigger-and-Stronger/awesome-3d-medial-axis) — Regularly updated papers and OSS on medial axis/skeleton and their applications `survey` ⭐6 · 📅2025-10
-- 🟢 [direction-field-survey](https://github.com/Bigger-and-Stronger/direction-field-survey) — Continuously updated survey of papers, projects, and code on direction fields `survey` ⭐5 · 📅2026-09
-- 🟢 [parameterization-survey](https://github.com/Bigger-and-Stronger/parameterization-survey) — Continuously updated survey of papers, projects, and code on mesh parameterization `survey` ⭐3 · 📅2026-09
+- 🟢 [awesome-3d-medial-axis](https://github.com/Bigger-and-Stronger/awesome-3d-medial-axis) — Regularly updated papers and OSS on medial axis/skeleton and their applications `survey` ⭐6 · 📅2026-10
+- 🟢 [direction-field-survey](https://github.com/Bigger-and-Stronger/direction-field-survey) — Continuously updated survey of papers, projects, and code on direction fields `survey` ⭐5 · 📅2026-10
+- 🟢 [parameterization-survey](https://github.com/Bigger-and-Stronger/parameterization-survey) — Continuously updated survey of papers, projects, and code on mesh parameterization `survey` ⭐3 · 📅2026-10
 - 📑 [Gen3D](https://github.com/weihaox/Gen3D) — Survey of deep generative 3D-aware image synthesis (CSUR 2023) `survey` ⭐162 · 📅2025-02
 - 📑 [boundary-layer-generation-survey](https://github.com/Bigger-and-Stronger/boundary-layer-generation-survey) — Continuously updated survey of papers, projects, and code on boundary layer mesh generation `survey` ⭐3 · 📅2025-02
 - 🟡 [3D-Machine-Learning](https://github.com/timzhang642/3D-Machine-Learning) — Resource repository on 3D machine learning (point clouds/meshes/voxels/SDF, etc.) `awesome` ⭐10.2k · 📅2024-07
 - 🟡 [awesome-NeRF](https://github.com/awesome-NeRF/awesome-NeRF) — Classic curated list of Neural Radiance Fields papers `awesome` ⭐6.8k · 📅2025-01
 - 🟡 [awesome-point-cloud-analysis-2023](https://github.com/NUAAXQ/awesome-point-cloud-analysis-2023) — Daily-updated list of point cloud analysis papers since 2017 `paper-list` ⭐1.6k · 📅2024-04
 - 🟡 [Awesome-Talking-Face](https://github.com/JosephPai/Awesome-Talking-Face) — Curation specialized in talking-face `awesome` ⭐1.5k · 📅2024-12
-- 🟡 [awesome-taichi](https://github.com/taichi-dev/awesome-taichi) — Collection of Taichi-based simulation apps (fluids, cloth, etc.) `awesome` ⭐691 · 📅2024-06
-- 🟡 [awesome-4d-generation](https://github.com/cwchenwang/awesome-4d-generation) — Paper list on 4D generation (e.g., text-to-4D) `paper-list` ⭐326 · 📅2024-10
+- 🟡 [awesome-taichi](https://github.com/taichi-dev/awesome-taichi) — Collection of Taichi-based simulation apps (fluids, cloth, etc.) `awesome` ⭐692 · 📅2024-06
+- 🟡 [awesome-4d-generation](https://github.com/cwchenwang/awesome-4d-generation) — Paper list on 4D generation (e.g., text-to-4D) `paper-list` ⭐327 · 📅2024-10
 - 🟡 [Awesome-Avatars](https://github.com/pansanity666/Awesome-Avatars) — Latest advances in human avatar generation, reconstruction, and editing `paper-list` ⭐277 · 📅2024-04
 - 🟡 [Awesome-Inverse-Rendering](https://github.com/ingra14m/Awesome-Inverse-Rendering) — Papers on inverse rendering based on neural fields `paper-list` ⭐261 · 📅2024-12
 - 🟡 [awesome-3dgs](https://github.com/pdaicode/awesome-3dgs) — Curation of 3DGS-related papers `paper-list` ⭐120 · 📅2024-08
@@ -365,9 +365,9 @@ Types: `awesome`=curated list / `survey`=companion to a survey paper / `paper-li
 - 🔴 [3D-Reconstruction-with-Deep-Learning-Methods](https://github.com/natowi/3D-Reconstruction-with-Deep-Learning-Methods) — List of 3D reconstruction projects using deep learning `paper-list` ⭐1k · 📅2023-05
 - 🔴 [awesome-3d-reconstruction-papers](https://github.com/bluestyle97/awesome-3d-reconstruction-papers) — 3D reconstruction papers from the deep learning era `paper-list` ⭐909 · 📅2023-12
 - 🔴 [awesome-3dbody-papers](https://github.com/3DFaceBody/awesome-3dbody-papers) — Papers on 3D human body (e.g., SMPL) `paper-list` ⭐664 · 📅2024-01
-- 🔴 [Awesome-Learning-MVS](https://github.com/XYZ-qiyh/Awesome-Learning-MVS) — List of learning-based MVS papers `paper-list` ⭐636 · 📅2023-11
+- 🔴 [Awesome-Learning-MVS](https://github.com/XYZ-qiyh/Awesome-Learning-MVS) — List of learning-based MVS papers `paper-list` ⭐637 · 📅2023-11
 - 🔴 [Awsome_Deep_Geometry_Learning](https://github.com/subeeshvasu/Awsome_Deep_Geometry_Learning) — Resources on deep learning solutions for 3D shapes `paper-list` ⭐365 · 📅2021-08
-- 🔴 [awesome-mvs](https://github.com/krahets/awesome-mvs) — Collection of MVS tutorials, papers, and software `awesome` ⭐280 · 📅2022-08
+- 🔴 [awesome-mvs](https://github.com/krahets/awesome-mvs) — Collection of MVS tutorials, papers, and software `awesome` ⭐281 · 📅2022-08
 - 🔴 [awesome-pbr](https://github.com/neil3d/awesome-pbr) — Comprehensive collection of PBR resources, slides, and papers `awesome` ⭐119 · 📅2021-01
 - 🔴 [awesome-Implicit-NeRF-SLAM](https://github.com/Taeyoung96/awesome-Implicit-NeRF-SLAM) — Papers on SLAM/robotics applications of implicit representations and NeRF `paper-list` ⭐13 · 📅2023-11
 - 🔴 [texture-synthesis-papers](https://github.com/lzhbrian/texture-synthesis-papers) — Collection of texture synthesis papers (with code) `paper-list` ⭐4 · 📅2019-03
@@ -378,23 +378,23 @@ Types: `awesome`=curated list / `survey`=companion to a survey paper / `paper-li
 - 🟢 [Awesome-Image-Quality-Assessment](https://github.com/chaofengc/Awesome-Image-Quality-Assessment) — Very active comprehensive collection of IQA papers, datasets, and code `awesome` ⭐1.5k · 📅2026-10
 - 🟢 [Image-Fusion](https://github.com/Linfeng-Tang/Image-Fusion) — "Deep Learning-based Image Fusion" survey, covering infrared-visible/medical/multi-exposure `survey` ⭐1.2k · 📅2026-08
 - 🟢 [Awesome-Image-Colorization](https://github.com/MarkMoHR/Awesome-Image-Colorization) — Deep learning-based image/video colorization papers (active through 2025-2026) `awesome` ⭐1.2k · 📅2026-10
-- 🟢 [Awesome-High-Dynamic-Range-Imaging](https://github.com/rebeccaeexu/Awesome-High-Dynamic-Range-Imaging) — HDR papers (multi/single-frame, HDRTV, HDR video, tone mapping) `awesome` ⭐247 · 📅2026-08
+- 🟢 [Awesome-High-Dynamic-Range-Imaging](https://github.com/rebeccaeexu/Awesome-High-Dynamic-Range-Imaging) — HDR papers (multi/single-frame, HDRTV, HDR video, tone mapping) `awesome` ⭐248 · 📅2026-08
 - 🟢 [Awesome-Video-Frame-Interpolation](https://github.com/CMLab-Korea/Awesome-Video-Frame-Interpolation) — IEEE TCSVT'26 VFI survey systematizing 250+ papers (active) `survey` ⭐169 · 📅2026-10
-- 🟢 [Awesome-Image-Restoration](https://github.com/TaoWangzj/Awesome-Image-Restoration) — Accompanies the "Deep Image Restoration" survey, covering denoise/deblur/SR/dehaze/derain `survey` ⭐20 · 📅2025-11
+- 🟢 [Awesome-Image-Restoration](https://github.com/TaoWangzj/Awesome-Image-Restoration) — Accompanies the "Deep Image Restoration" survey, covering denoise/deblur/SR/dehaze/derain `survey` ⭐21 · 📅2025-11
 - 🟢 [Awesome-Deblurring-Resources](https://github.com/kawchar85/Awesome-Deblurring-Resources) — Active image/video deblurring papers and datasets organized by year `paper-list` ⭐14 · 📅2026-09
-- 🟡 [Awesome-Denoise](https://github.com/oneTaken/Awesome-Denoise) — Image/burst/video denoising papers organized by color space and noise model `awesome` ⭐504 · 📅2024-04
-- 🟡 [Awesome-Shadow-Removal](https://github.com/GuoLanqing/Awesome-Shadow-Removal) — Active papers, code, datasets, and metrics on shadow removal `awesome` ⭐400 · 📅2025-04
-- 🟡 [Awesome-Deep-Learning-Based-Video-Compression](https://github.com/ppingzhang/Awesome-Deep-Learning-Based-Video-Compression) — Paper list on deep learning-based video compression `paper-list` ⭐301 · 📅2025-09
+- 🟡 [Awesome-Denoise](https://github.com/oneTaken/Awesome-Denoise) — Image/burst/video denoising papers organized by color space and noise model `awesome` ⭐505 · 📅2024-04
+- 🟡 [Awesome-Shadow-Removal](https://github.com/GuoLanqing/Awesome-Shadow-Removal) — Active papers, code, datasets, and metrics on shadow removal `awesome` ⭐401 · 📅2025-04
+- 🟡 [Awesome-Deep-Learning-Based-Video-Compression](https://github.com/ppingzhang/Awesome-Deep-Learning-Based-Video-Compression) — Paper list on deep learning-based video compression `paper-list` ⭐302 · 📅2025-09
 - 🟡 [awesome-computational-photography](https://github.com/visionxiang/awesome-computational-photography) — Computational photography via deep learning (image matching, alignment, stitching, stabilization) `paper-list` ⭐190 · 📅2025-07
 - 🟡 [awesome-video-enhancement](https://github.com/liuzhen03/awesome-video-enhancement) — Papers across video super-resolution, interpolation, denoising, deblurring, and inpainting `paper-list` ⭐157 · 📅2024-08
 - 🟡 [awesome-reflection-removal](https://github.com/ChenyangLEI/awesome-reflection-removal) — Collection of reflection removal methods (single image/flash/polarization/interactive) `awesome` ⭐156 · 📅2024-12
 - 🟡 [UIE](https://github.com/YuZhao1999/UIE) — Resource list on underwater image enhancement `paper-list` ⭐123 · 📅2024-05
 - 🟡 [Awesome-Neural-Compression](https://github.com/Xinjie-Q/Awesome-Neural-Compression) — Papers/resources on neural compression covering image, video, point cloud, NeRF, and 3DGS `awesome` ⭐82 · 📅2024-08
 - 🔴 [Neural-Style-Transfer-Papers](https://github.com/ycjing/Neural-Style-Transfer-Papers) — Representative papers and code accompanying the survey "Neural Style Transfer: A Review" `paper-list` ⭐1.6k · 📅2022-02
-- 🔴 [DerainZoo](https://github.com/nnUyi/DerainZoo) — Methods, datasets, and code on rain removal (single image/video) `paper-list` ⭐517 · 📅2022-05
+- 🔴 [DerainZoo](https://github.com/nnUyi/DerainZoo) — Methods, datasets, and code on rain removal (single image/video) `paper-list` ⭐518 · 📅2022-05
 - 🔴 [awesome-image-alignment-and-stitching](https://github.com/tzxiang/awesome-image-alignment-and-stitching) — Curation of image alignment and stitching `paper-list` ⭐466 · 📅2022-08
 - 🔴 [Awesome-Image-Distortion-Correction](https://github.com/subeeshvasu/Awesome-Image-Distortion-Correction) — Resources on correcting rolling shutter effects and radial distortion `awesome` ⭐283 · 📅2023-07
-- 🔴 [awesome-dehazing](https://github.com/youngguncho/awesome-dehazing) — Papers on single/multi-image dehazing and underwater enhancement, classified with datasets `awesome` ⭐202 · 📅2020-08
+- 🔴 [awesome-dehazing](https://github.com/youngguncho/awesome-dehazing) — Papers on single/multi-image dehazing and underwater enhancement, classified with datasets `awesome` ⭐201 · 📅2020-08
 - 🔴 [Video-Frame-Interpolation-Collections](https://github.com/lyh-18/Video-Frame-Interpolation-Collections) — Collection of SOTA VFI methods `paper-list` ⭐65 · 📅2021-11
 
 ## 🎬 Anime / Animation / Illustration / Fonts
@@ -402,8 +402,8 @@ Types: `awesome`=curated list / `survey`=companion to a survey paper / `paper-li
 - 🟢 [AwesomeAnimeResearch](https://github.com/SerialLain3170/AwesomeAnimeResearch) — Papers and datasets on anime/manga research (generation, colorization, character animation, etc.) `awesome` ⭐1.3k · 📅2026-07
 - 🟢 [Awesome-Sketch-Based-Applications](https://github.com/MarkMoHR/Awesome-Sketch-Based-Applications) — A collection of sketch-based application papers `paper-list` ⭐717 · 📅2026-10
 - 🟢 [Awesome-Sketch-Synthesis](https://github.com/MarkMoHR/Awesome-Sketch-Synthesis) — A collection of papers on sketch synthesis (generation) `paper-list` ⭐581 · 📅2026-10
-- 🟢 [Awesome-Animation-Research](https://github.com/zhenglinpan/Awesome-Animation-Research) — A curated list of research papers and datasets on animation (2D, cartoon, etc.) `paper-list` ⭐219 · 📅2026-08
-- 🟢 [Awesome-AI4Animation](https://github.com/yunlong10/Awesome-AI4Animation) — Papers on AI for animation: generation, interpolation, colorization, and production assistance `paper-list` ⭐216 · 📅2026-01
+- 🟢 [Awesome-Animation-Research](https://github.com/zhenglinpan/Awesome-Animation-Research) — A curated list of research papers and datasets on animation (2D, cartoon, etc.) `paper-list` ⭐220 · 📅2026-08
+- 🟢 [Awesome-AI4Animation](https://github.com/yunlong10/Awesome-AI4Animation) — Papers on AI for animation: generation, interpolation, colorization, and production assistance `paper-list` ⭐215 · 📅2026-01
 - 🟢 [Awesome-2D-Animation](https://github.com/MarkMoHR/Awesome-2D-Animation) — Tools, datasets and papers on inbetweening and 2D animation `paper-list` ⭐47 · 📅2026-07
 - 🟡 [TypographyResearchCollection](https://github.com/IShengFang/TypographyResearchCollection) — Collection of CG/CV/ML research on typography (including font generation and animation) `paper-list` ⭐165 · 📅2025-08
 - 🔴 [Sketch-Based-Deep-Learning](https://github.com/qyzdao/Sketch-Based-Deep-Learning) — Papers on sketch-based deep learning (line-art colorization, vectorization, etc.) `paper-list` ⭐180 · 📅2021-05
@@ -417,7 +417,7 @@ Types: `awesome`=curated list / `survey`=companion to a survey paper / `paper-li
 - 🟢 [awesome-LLM-resources](https://github.com/WangRongsheng/awesome-LLM-resources) — Comprehensive LLM resources (multimodal generation, agents, coding assistance, data processing, training, inference) `awesome` ⭐9k · 📅2026-10
 - 🟢 [Awesome-LLM-Strawberry](https://github.com/hijkzzz/Awesome-LLM-Strawberry) — Papers and blogs focused on OpenAI o1 and reasoning techniques `paper-list` ⭐6.9k · 📅2025-12
 - 🟢 [Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) — List of prompting technique papers and tools for GPT/ChatGPT `awesome` ⭐6.4k · 📅2026-10
-- 🟢 [Awesome-LLM-Inference](https://github.com/xlite-dev/Awesome-LLM-Inference) — Papers on inference acceleration (FlashAttention, PagedAttention, etc.) `paper-list` ⭐5.5k · 📅2026-08
+- 🟢 [Awesome-LLM-Inference](https://github.com/xlite-dev/Awesome-LLM-Inference) — Papers on inference acceleration (FlashAttention, PagedAttention, etc.) `paper-list` ⭐5.5k · 📅2026-10
 - 🟢 [Awesome-Text2SQL](https://github.com/eosphoros-ai/Awesome-Text2SQL) — Tutorials and resources on Text2SQL/Text2DSL and more `awesome` ⭐3.8k · 📅2026-01
 - 🟢 [Awesome-LLM-Reasoning](https://github.com/atfortes/Awesome-LLM-Reasoning) — Very active LLM reasoning papers from CoT to o1/DeepSeek-R1 `awesome` ⭐3.7k · 📅2026-04
 - 🟢 [Awesome-Context-Engineering](https://github.com/Meirtz/Awesome-Context-Engineering) — Survey of context engineering from prompt engineering to production AI systems `survey` ⭐3.3k · 📅2026-05
@@ -426,39 +426,42 @@ Types: `awesome`=curated list / `survey`=companion to a survey paper / `paper-li
 - 🟢 [Awesome-Graph-LLM](https://github.com/XiaoxinHe/Awesome-Graph-LLM) — Curation of resources on graph-related LLMs `awesome` ⭐2.5k · 📅2025-11
 - 🟢 [prompt-in-context-learning](https://github.com/EgoAlpha/prompt-in-context-learning) — Continuously updated paper list on ICL and prompt engineering `paper-list` ⭐2.2k · 📅2026-05
 - 🟢 [KG-LLM-Papers](https://github.com/zjukg/KG-LLM-Papers) — Paper list integrating knowledge graphs and LLMs `paper-list` ⭐2.2k · 📅2026-03
-- 🟢 [Awesome-LLM-Long-Context-Modeling](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling) — Papers on long-context modeling (efficient attention, KV cache, positional encoding, etc.) `paper-list` ⭐2.2k · 📅2026-08
+- 🟢 [Awesome-LLM-Long-Context-Modeling](https://github.com/Xnhyacinth/Awesome-LLM-Long-Context-Modeling) — Papers on long-context modeling (efficient attention, KV cache, positional encoding, etc.) `paper-list` ⭐2.2k · 📅2026-10
 - 🟢 [Awesome-LLMs-Datasets](https://github.com/lmmlzn/Awesome-LLMs-Datasets) — Pretraining corpora and instruction/preference/evaluation datasets organized along 5 axes `awesome` ⭐1.5k · 📅2026-03
 - 🟢 [Awesome-LLM-based-Text2SQL](https://github.com/DEEP-PolyU/Awesome-LLM-based-Text2SQL) — Papers and benchmarks on LLM Text-to-SQL based on a TKDE 2025 survey `survey` ⭐1.4k · 📅2026-08
 - 🟢 [SpeculativeDecodingPapers](https://github.com/hemingkx/SpeculativeDecodingPapers) — Must-read papers and blogs on speculative decoding (survey-linked) `survey` ⭐1.3k · 📅2026-06
 - 🟢 [KnowledgeEditingPapers](https://github.com/zjunlp/KnowledgeEditingPapers) — Paper list on knowledge editing for LLMs `paper-list` ⭐1.3k · 📅2026-08
 - 🟢 [awesome-hallucination-detection](https://github.com/EdinburghNLP/awesome-hallucination-detection) — LLM hallucination detection papers organized by model `paper-list` ⭐1.1k · 📅2026-10
 - 🟢 [Paper-Reading-ConvAI](https://github.com/iwangjian/Paper-Reading-ConvAI) — Conversational AI paper list centered on dialogue systems and NLG `paper-list` ⭐1k · 📅2026-05
-- 🟢 [awesome-data-llm](https://github.com/OpenDataBox/awesome-data-llm) — Official repo for the "LLM × DATA" survey `survey` ⭐833 · 📅2026-06
-- 🟢 [Awesome-Efficient-Reasoning-LLMs](https://github.com/Eclipsess/Awesome-Efficient-Reasoning-LLMs) — Papers for the "Stop Overthinking" efficient reasoning survey (TMLR 2025) `survey` ⭐794 · 📅2026-02
+- 🟢 [awesome-data-llm](https://github.com/OpenDataBox/awesome-data-llm) — Official repo for the "LLM × DATA" survey `survey` ⭐833 · 📅2026-10
+- 🟢 [Awesome-Efficient-Reasoning-LLMs](https://github.com/Eclipsess/Awesome-Efficient-Reasoning-LLMs) — Papers for the "Stop Overthinking" efficient reasoning survey (TMLR 2025) `survey` ⭐792 · 📅2026-10
+- 🟢 [awesome-pretrained-models-for-information-retrieval](https://github.com/ict-bigdatalab/awesome-pretrained-models-for-information-retrieval) — Papers on pretrained models for information retrieval (pretraining for IR) `awesome` ⭐677 · 📅2026-10
 - 🟢 [EventExtractionPapers](https://github.com/BaptisteBlouin/EventExtractionPapers) — NLP resource list centered on event extraction tasks `paper-list` ⭐581 · 📅2026-10
 - 🟢 [A-Survey-on-Mixture-of-Experts-in-LLMs](https://github.com/withinmiaov/A-Survey-on-Mixture-of-Experts-in-LLMs) — Official papers for the TKDE "MoE in LLMs" survey `survey` ⭐511 · 📅2026-08
-- 🟢 [LLM-Tool-Survey](https://github.com/quchangle1/LLM-Tool-Survey) — Official repo for a tool learning survey, classified by task planning/tool selection, etc. `survey` ⭐492 · 📅2026-09
-- 🟢 [awesome-nlg](https://github.com/accelerated-text/awesome-nlg) — Resources across NLG (tools/papers/data) `awesome` ⭐482 · 📅2026-09
-- 🟢 [Awesome-LLM-Quantization](https://github.com/pprp/Awesome-LLM-Quantization) — Paper list focused on LLM quantization `awesome` ⭐454 · 📅2026-04
-- 🟢 [awesome-moe-inference](https://github.com/MoE-Inf/awesome-moe-inference) — List of papers on inference optimization for MoE models `paper-list` ⭐428 · 📅2026-03
+- 🟢 [LLM-Tool-Survey](https://github.com/quchangle1/LLM-Tool-Survey) — Official repo for a tool learning survey, classified by task planning/tool selection, etc. `survey` ⭐493 · 📅2026-09
+- 🟢 [awesome-nlg](https://github.com/accelerated-text/awesome-nlg) — Resources across NLG (tools/papers/data) `awesome` ⭐483 · 📅2026-09
+- 🟢 [Awesome-LLM-Quantization](https://github.com/pprp/Awesome-LLM-Quantization) — Paper list focused on LLM quantization `awesome` ⭐454 · 📅2026-10
+- 🟢 [awesome-moe-inference](https://github.com/MoE-Inf/awesome-moe-inference) — List of papers on inference optimization for MoE models `paper-list` ⭐429 · 📅2026-03
 - 🟢 [Awesome-Inference-Time-Scaling](https://github.com/ThreeSR/Awesome-Inference-Time-Scaling) — Active paper list on inference-time/test-time scaling `awesome` ⭐407 · 📅2026-10
-- 🟢 [Awesome-Fake-News-Detection](https://github.com/wangbing1416/Awesome-Fake-News-Detection) — Paper list on fake news and rumor detection `awesome` ⭐163 · 📅2026-04
+- 🟢 [Awesome-RAG-Evaluation](https://github.com/YHPeter/Awesome-RAG-Evaluation) — Official evaluation paper list for "Evaluation of RAG: A Survey" `paper-list` ⭐199 · 📅2026-10
+- 🟢 [Awesome-Fake-News-Detection](https://github.com/wangbing1416/Awesome-Fake-News-Detection) — Paper list on fake news and rumor detection `awesome` ⭐164 · 📅2026-04
 - 🟢 [Low-resource-KEPapers](https://github.com/zjunlp/Low-resource-KEPapers) — Papers, tools, and datasets on low-resource information extraction (NER/RE/EE) `paper-list` ⭐137 · 📅2026-10
 - 🟢 [GEC-Info](https://github.com/gotutiyan/GEC-Info) — Repository collecting and classifying grammatical error correction papers `paper-list` ⭐127 · 📅2026-08
+- 🟢 [MT-paper-lists](https://github.com/NiuTrans/MT-paper-lists) — Machine translation papers organized by conference `paper-list` ⭐123 · 📅2026-10
 - 🟢 [Awesome-Parameter-Efficient-Fine-Tuning-for-Foundation-Models](https://github.com/THUDM/Awesome-Parameter-Efficient-Fine-Tuning-for-Foundation-Models) — Survey and paper list systematically organizing PEFT methods for foundation models `survey` ⭐112 · 📅2026-09
 - 🟢 [llm-self-correction-papers](https://github.com/ryokamoi/llm-self-correction-papers) — Paper list on LLM self-correction (survey-based) `paper-list` ⭐83 · 📅2026-05
 - 🟢 [Awesome-Personalized-LLMs](https://github.com/VanillaCreamer/Awesome-Personalized-LLMs) — Latest papers on personalized LLMs (preference modeling, persona control, memory-based) `paper-list` ⭐76 · 📅2026-10
 - 🟢 [Awesome-Function-Callings](https://github.com/Applied-Machine-Learning-Lab/Awesome-Function-Callings) — Paper list specialized in LLM function calling `paper-list` ⭐71 · 📅2026-04
 - 🟢 [awesome-lora-adapter](https://github.com/marlin-codes/awesome-lora-adapter) — Paper list on LoRA and adapter-family methods `paper-list` ⭐25 · 📅2026-10
-- 🟢 [Awesome-PEFT](https://github.com/XiaoshuangJi/Awesome-PEFT) — PEFT papers, libraries, and implementations centered on LoRA variants `awesome` ⭐7 · 📅2026-06
+- 🟢 [Awesome-PEFT](https://github.com/XiaoshuangJi/Awesome-PEFT) — PEFT papers, libraries, and implementations centered on LoRA variants `awesome` ⭐7 · 📅2026-10
 - 🟢 [Awesome-Text-Generation-Evaluation](https://github.com/SuperBruceJia/Awesome-Text-Generation-Evaluation) — Curated list of NLG evaluation metrics (reference-based/reference-free) `awesome` ⭐4 · 📅2026-05
 - 📑 [LLMSurvey](https://github.com/RUCAIBox/LLMSurvey) — Official repo for "A Survey of Large Language Models" `survey` ⭐12.2k · 📅2025-03
 - 📑 [ABigSurvey](https://github.com/NiuTrans/ABigSurvey) — A survey of surveys listing hundreds of NLP/ML survey papers `survey` ⭐2k · 📅2024-03
 - 📑 [RAG-Survey](https://github.com/hymie122/RAG-Survey) — Taxonomy and papers from the "RAG for AI-Generated Content" survey `survey` ⭐1.8k · 📅2024-08
 - 📑 [llm-hallucination-survey](https://github.com/HillZhang1999/llm-hallucination-survey) — Reading list for the hallucination survey "Siren's Song in the AI Ocean" `survey` ⭐1.1k · 📅2025-09
 - 📑 [Awesome-Language-Model-on-Graphs](https://github.com/PeterGriffinJin/Awesome-Language-Model-on-Graphs) — Papers and resources for the TKDE survey "LLMs on Graphs" `survey` ⭐998 · 📅2025-03
-- 📑 [Awesome-LLMs-Evaluation-Papers](https://github.com/tjunlp-lab/Awesome-LLMs-Evaluation-Papers) — Papers from "Evaluating LLMs: A Comprehensive Survey" `survey` ⭐810 · 📅2024-05
-- 📑 [Awesome-LLMs-as-Judges](https://github.com/CSHaitao/Awesome-LLMs-as-Judges) — Official paper collection for the "LLMs-as-Judges" evaluation survey `survey` ⭐623 · 📅2025-07
+- 📑 [Awesome-LLMs-Evaluation-Papers](https://github.com/tjunlp-lab/Awesome-LLMs-Evaluation-Papers) — Papers from "Evaluating LLMs: A Comprehensive Survey" `survey` ⭐811 · 📅2024-05
+- 📑 [Awesome-LLMs-as-Judges](https://github.com/CSHaitao/Awesome-LLMs-as-Judges) — Official paper collection for the "LLMs-as-Judges" evaluation survey `survey` ⭐626 · 📅2025-07
 - 📑 [CNSurvey](https://github.com/NiuTrans/CNSurvey) — List of Chinese-language survey articles on NLP and machine learning `survey` ⭐583 · 📅2023-05
 - 📑 [ABigSurveyOfLLMs](https://github.com/NiuTrans/ABigSurveyOfLLMs) — Collection of 150+ surveys on LLMs `survey` ⭐352 · 📅2025-02
 - 📑 [Semantic-Retrieval-Models](https://github.com/caiyinqiong/Semantic-Retrieval-Models) — Paper list for a TOIS-accepted survey of semantic retrieval models (DPR, RAG, RepBERT, etc.) `survey` ⭐345 · 📅2023-06
@@ -474,14 +477,13 @@ Types: `awesome`=curated list / `survey`=companion to a survey paper / `paper-li
 - 🟡 [ICL_PaperList](https://github.com/dqxiu/ICL_PaperList) — Paper list based on an In-Context Learning survey `paper-list` ⭐874 · 📅2024-10
 - 🟡 [Awesome-Mixture-of-Experts-Papers](https://github.com/codecaution/Awesome-Mixture-of-Experts-Papers) — Reading list on MoE research `paper-list` ⭐670 · 📅2024-10
 - 🟡 [awesome-instruction-learning](https://github.com/RenzeLou/awesome-instruction-learning) — Papers and datasets on instruction tuning/following `paper-list` ⭐512 · 📅2024-04
-- 🟡 [awesome-llm-pretraining](https://github.com/RUCAIBox/awesome-llm-pretraining) — Resources on data, frameworks, and methods for LLM pretraining `awesome` ⭐415 · 📅2025-04
+- 🟡 [awesome-llm-pretraining](https://github.com/RUCAIBox/awesome-llm-pretraining) — Resources on data, frameworks, and methods for LLM pretraining `awesome` ⭐418 · 📅2025-04
 - 🟡 [Awesome-LLM-Watermark](https://github.com/hzy312/Awesome-LLM-Watermark) — Continuously updated list of the latest LLM watermarking papers `paper-list` ⭐378 · 📅2024-12
-- 🟡 [Awesome_papers_on_LLMs_detection](https://github.com/Xianjun-Yang/Awesome_papers_on_LLMs_detection) — Paper list on detecting LLM-generated text and code `paper-list` ⭐292 · 📅2025-06
+- 🟡 [Awesome_papers_on_LLMs_detection](https://github.com/Xianjun-Yang/Awesome_papers_on_LLMs_detection) — Paper list on detecting LLM-generated text and code `paper-list` ⭐293 · 📅2025-06
 - 🟡 [awesome-tool-llm](https://github.com/zorazrw/awesome-tool-llm) — Curated list of tool-augmented LLMs (ToRA, MINT, etc.) `awesome` ⭐249 · 📅2024-08
-- 🟡 [Awesome-RAG-Evaluation](https://github.com/YHPeter/Awesome-RAG-Evaluation) — Official evaluation paper list for "Evaluation of RAG: A Survey" `paper-list` ⭐200 · 📅2025-04
 - 🟡 [Awesome_Test_Time_LLMs](https://github.com/Dereck0602/Awesome_Test_Time_LLMs) — Papers on test-time LLMs (including self-correction/refinement) `awesome` ⭐160 · 📅2025-03
-- 🟡 [EMNLP-2023-Papers](https://github.com/DmitryRyumin/EMNLP-2023-Papers) — Systematically organized collection of EMNLP 2023 papers `paper-list` ⭐111 · 📅2024-05
-- 🟡 [Paper-Neural-Topic-Models](https://github.com/bobxwu/Paper-Neural-Topic-Models) — Collection of papers on neural topic models (NTM) `paper-list` ⭐96 · 📅2024-07
+- 🟡 [EMNLP-2023-Papers](https://github.com/DmitryRyumin/EMNLP-2023-Papers) — Systematically organized collection of EMNLP 2023 papers `paper-list` ⭐109 · 📅2024-05
+- 🟡 [Paper-Neural-Topic-Models](https://github.com/bobxwu/Paper-Neural-Topic-Models) — Collection of papers on neural topic models (NTM) `paper-list` ⭐95 · 📅2024-07
 - 🟡 [Awesome-Papers-Retrieval-Augmented-Generation](https://github.com/USTCAGI/Awesome-Papers-Retrieval-Augmented-Generation) — Paper taxonomy based on a knowledge-oriented RAG survey `paper-list` ⭐91 · 📅2025-03
 - 🟡 [Awesome-Multilingual-LLMs-Papers](https://github.com/tjunlp-lab/Awesome-Multilingual-LLMs-Papers) — Paper list on multilingual LLMs `paper-list` ⭐35 · 📅2025-01
 - 🟡 [awesome-llm-tool-learning](https://github.com/AngxiaoYue/awesome-llm-tool-learning) — List of LLM tool learning papers (Gorilla, HuggingGPT, ART, etc.) `paper-list` ⭐28 · 📅2024-07
@@ -492,7 +494,6 @@ Types: `awesome`=curated list / `survey`=companion to a survey paper / `paper-li
 - 🔴 [awesome-text-summarization](https://github.com/mathsyouth/awesome-text-summarization) — Papers, tools, and datasets on text summarization `awesome` ⭐1.5k · 📅2023-01
 - 🔴 [awesome-relation-extraction](https://github.com/roomylee/awesome-relation-extraction) — Resource list focused on relation extraction `awesome` ⭐1.2k · 📅2022-01
 - 🔴 [awesome-qa](https://github.com/seriousran/awesome-qa) — Datasets, papers, and resources on question answering `awesome` ⭐771 · 📅2022-01
-- 🔴 [awesome-pretrained-models-for-information-retrieval](https://github.com/ict-bigdatalab/awesome-pretrained-models-for-information-retrieval) — Papers on pretrained models for information retrieval (pretraining for IR) `awesome` ⭐677 · 📅2024-01
 - 🔴 [awesome-sentiment-analysis](https://github.com/declare-lab/awesome-sentiment-analysis) — Reading list of sentiment analysis papers `paper-list` ⭐538 · 📅2023-03
 - 🔴 [Named-Entity-Recognition-NER-Papers](https://github.com/pfliu-nlp/Named-Entity-Recognition-NER-Papers) — List covering NER papers from 7 conferences `paper-list` ⭐392 · 📅2022-02
 - 🔴 [ABSAPapers](https://github.com/ZhengZixiang/ABSAPapers) — Papers and resources on aspect-based sentiment analysis (ABSA) `paper-list` ⭐363 · 📅2024-03
@@ -502,7 +503,6 @@ Types: `awesome`=curated list / `survey`=companion to a survey paper / `paper-li
 - 🔴 [LLM-Optimizers-Papers](https://github.com/AGI-Edgerunners/LLM-Optimizers-Papers) — Must-read papers on using LLMs as optimizers/automatic prompt optimization `paper-list` ⭐249 · 📅2024-03
 - 🔴 [Awesome-KBQA](https://github.com/RUCAIBox/Awesome-KBQA) — Papers, tools, and leaderboards on knowledge base QA (KBQA) `paper-list` ⭐183 · 📅2022-04
 - 🔴 [Accepted-Papers-Lists](https://github.com/audreycs/Accepted-Papers-Lists) — Repository compiling accepted paper lists from major journals and conferences `paper-list` ⭐147 · 📅2022-12
-- 🔴 [MT-paper-lists](https://github.com/NiuTrans/MT-paper-lists) — Machine translation papers organized by conference `paper-list` ⭐123 · 📅2020-12
 - 🔴 [Data-to-Text-Generation](https://github.com/liang8qi/Data-to-Text-Generation) — Papers and datasets on data-to-text generation `paper-list` ⭐109 · 📅2023-05
 - 🔴 [awesome-NLP-Machine-Learning](https://github.com/tjunlp-lab/awesome-NLP-Machine-Learning) — Papers and code on ML techniques for NLP research (RL/self-supervised, etc.) `paper-list` ⭐35 · 📅2020-03
 - 🔴 [AWESOME-Dialogue](https://github.com/thuiar/AWESOME-Dialogue) — Paper list on dialogue and interactive systems `paper-list` ⭐16 · 📅2020-06
@@ -519,22 +519,22 @@ Types: `awesome`=curated list / `survey`=companion to a survey paper / `paper-li
 - 🟢 [awesome-diffusion-categorized](https://github.com/wangkai930418/awesome-diffusion-categorized) — Practical collection of diffusion papers classified by subdomain `awesome` ⭐2.2k · 📅2026-03
 - 🟢 [awesome-talking-head-generation](https://github.com/harlanhong/awesome-talking-head-generation) — Paper list on talking-head generation `paper-list` ⭐1.9k · 📅2026-04
 - 🟢 [GAN-Inversion](https://github.com/weihaox/GAN-Inversion) — Repository accompanying a GAN Inversion survey (TPAMI 2022) `survey` ⭐1.1k · 📅2026-07
-- 🟢 [Awesome-diffusion-model-for-image-processing](https://github.com/lixinustc/Awesome-diffusion-model-for-image-processing) — Diffusion models organized by restoration/enhancement/coding/quality assessment `survey` ⭐953 · 📅2026-04
-- 🟢 [Awesome-Unified-Multimodal-Models](https://github.com/showlab/Awesome-Unified-Multimodal-Models) — Papers on models unifying understanding and generation `paper-list` ⭐833 · 📅2025-10
+- 🟢 [Awesome-diffusion-model-for-image-processing](https://github.com/lixinustc/Awesome-diffusion-model-for-image-processing) — Diffusion models organized by restoration/enhancement/coding/quality assessment `survey` ⭐954 · 📅2026-04
+- 🟢 [Awesome-Unified-Multimodal-Models](https://github.com/showlab/Awesome-Unified-Multimodal-Models) — Papers on models unifying understanding and generation `paper-list` ⭐835 · 📅2025-10
 - 🟢 [Autoregressive-Models-in-Vision-Survey](https://github.com/ChaofanTao/Autoregressive-Models-in-Vision-Survey) — Survey of autoregressive models in vision (TMLR 2025) `survey` ⭐807 · 📅2026-05
-- 🟢 [awesome-video-generation](https://github.com/AlonzoLeeeooo/awesome-video-generation) — Collection of video generation research `awesome` ⭐787 · 📅2026-10
-- 🟢 [awesome-text-to-image-studies](https://github.com/AlonzoLeeeooo/awesome-text-to-image-studies) — Continuously updated list of text-to-image research `awesome` ⭐762 · 📅2026-09
-- 🟢 [awesome-text-to-video](https://github.com/jianzhnie/awesome-text-to-video) — Survey of Text-to-Video generation `survey` ⭐746 · 📅2026-10
-- 🟢 [Awesome-Video-World-Models-with-AR-Diffusion](https://github.com/gracezhao1997/Awesome-Video-World-Models-with-AR-Diffusion) — Video world models combining AR and diffusion (algorithms/applications/foundations) `awesome` ⭐715 · 📅2026-10
-- 🟢 [Awesome-Deepfake-Generation-and-Detection](https://github.com/flyingby/Awesome-Deepfake-Generation-and-Detection) — Survey of deepfake generation and detection `survey` ⭐652 · 📅2026-05
+- 🟢 [awesome-video-generation](https://github.com/AlonzoLeeeooo/awesome-video-generation) — Collection of video generation research `awesome` ⭐788 · 📅2026-10
+- 🟢 [awesome-text-to-image-studies](https://github.com/AlonzoLeeeooo/awesome-text-to-image-studies) — Continuously updated list of text-to-image research `awesome` ⭐762 · 📅2026-10
+- 🟢 [awesome-text-to-video](https://github.com/jianzhnie/awesome-text-to-video) — Survey of Text-to-Video generation `survey` ⭐748 · 📅2026-10
+- 🟢 [Awesome-Video-World-Models-with-AR-Diffusion](https://github.com/gracezhao1997/Awesome-Video-World-Models-with-AR-Diffusion) — Video world models combining AR and diffusion (algorithms/applications/foundations) `awesome` ⭐714 · 📅2026-10
+- 🟢 [Awesome-Deepfake-Generation-and-Detection](https://github.com/flyingby/Awesome-Deepfake-Generation-and-Detection) — Survey of deepfake generation and detection `survey` ⭐652 · 📅2026-10
 - 🟢 [Awesome-From-Video-Generation-to-World-Model](https://github.com/ziqihuangg/Awesome-From-Video-Generation-to-World-Model) — Organizing the progression from video generation to world models `paper-list` ⭐520 · 📅2026-09
-- 🟢 [Awesome-AIGC-Image-Video-Detection](https://github.com/ant-research/Awesome-AIGC-Image-Video-Detection) — Latest research on AI-generated image/video detection `paper-list` ⭐471 · 📅2026-10
-- 🟢 [Awesome-Evaluation-of-Visual-Generation](https://github.com/ziqihuangg/Awesome-Evaluation-of-Visual-Generation) — Collection of metrics, models, and systems for visual generation evaluation `paper-list` ⭐463 · 📅2026-08
-- 🟢 [Awesome-Try-On-Models](https://github.com/Zheng-Chong/Awesome-Try-On-Models) — Organized virtual try-on models (including 2025) `paper-list` ⭐458 · 📅2026-10
-- 🟢 [awesome-image-inpainting-studies](https://github.com/AlonzoLeeeooo/awesome-image-inpainting-studies) — Collection of image inpainting research `awesome` ⭐397 · 📅2026-02
-- 🟢 [Awesome-Comprehensive-Deepfake-Detection](https://github.com/qiqitao77/Awesome-Comprehensive-Deepfake-Detection) — Comprehensive paper list on deepfake detection `paper-list` ⭐330 · 📅2026-10
-- 🟢 [awesome-diffusion-v2v](https://github.com/wenhao728/awesome-diffusion-v2v) — Papers and benchmarks on diffusion-based Video-to-Video editing `paper-list` ⭐293 · 📅2026-04
-- 🟢 [Awesome-Text-to-Video-Generation](https://github.com/soraw-ai/Awesome-Text-to-Video-Generation) — T2V/I2V paper list following the Sora survey `survey` ⭐257 · 📅2026-08
+- 🟢 [Awesome-AIGC-Image-Video-Detection](https://github.com/ant-research/Awesome-AIGC-Image-Video-Detection) — Latest research on AI-generated image/video detection `paper-list` ⭐480 · 📅2026-10
+- 🟢 [Awesome-Evaluation-of-Visual-Generation](https://github.com/ziqihuangg/Awesome-Evaluation-of-Visual-Generation) — Collection of metrics, models, and systems for visual generation evaluation `paper-list` ⭐465 · 📅2026-08
+- 🟢 [Awesome-Try-On-Models](https://github.com/Zheng-Chong/Awesome-Try-On-Models) — Organized virtual try-on models (including 2025) `paper-list` ⭐460 · 📅2026-10
+- 🟢 [awesome-image-inpainting-studies](https://github.com/AlonzoLeeeooo/awesome-image-inpainting-studies) — Collection of image inpainting research `awesome` ⭐399 · 📅2026-10
+- 🟢 [Awesome-Comprehensive-Deepfake-Detection](https://github.com/qiqitao77/Awesome-Comprehensive-Deepfake-Detection) — Comprehensive paper list on deepfake detection `paper-list` ⭐331 · 📅2026-10
+- 🟢 [awesome-diffusion-v2v](https://github.com/wenhao728/awesome-diffusion-v2v) — Papers and benchmarks on diffusion-based Video-to-Video editing `paper-list` ⭐294 · 📅2026-04
+- 🟢 [Awesome-Text-to-Video-Generation](https://github.com/soraw-ai/Awesome-Text-to-Video-Generation) — T2V/I2V paper list following the Sora survey `survey` ⭐258 · 📅2026-08
 - 🟢 [Awesome-Consistency-Models](https://github.com/G-U-N/Awesome-Consistency-Models) — Resource list on Consistency Models `awesome` ⭐131 · 📅2026-09
 - 📑 [Awesome-Image-Editing](https://github.com/FudanCVL/Awesome-Image-Editing) — Survey of image editing with T2I models `survey` ⭐472 · 📅2025-08
 - 🟡 [Awesome-Diffusion-Models](https://github.com/diff-usion/Awesome-Diffusion-Models) — One of the largest lists covering diffusion model papers and resources `awesome` ⭐12.4k · 📅2024-08
@@ -543,7 +543,7 @@ Types: `awesome`=curated list / `survey`=companion to a survey paper / `paper-li
 - 🟡 [awesome-image-translation](https://github.com/weihaox/awesome-image-translation) — Collection of resources on image-to-image translation `awesome` ⭐1.2k · 📅2025-09
 - 🟡 [awesome-discrete-diffusion-models](https://github.com/kuleshov-group/awesome-discrete-diffusion-models) — Resource list focused on discrete diffusion models `awesome` ⭐578 · 📅2025-09
 - 🟡 [Awesome-Controllable-Diffusion](https://github.com/atfortes/Awesome-Controllable-Diffusion) — Resources on controllable generation (ControlNet, DreamBooth, IP-Adapter, etc.) `awesome` ⭐503 · 📅2025-06
-- 🟡 [Awesome-Autoregressive-Visual-Generation](https://github.com/lxa9867/Awesome-Autoregressive-Visual-Generation) — Tracker of the latest autoregressive visual generation papers `paper-list` ⭐434 · 📅2025-06
+- 🟡 [Awesome-Autoregressive-Visual-Generation](https://github.com/lxa9867/Awesome-Autoregressive-Visual-Generation) — Tracker of the latest autoregressive visual generation papers `paper-list` ⭐433 · 📅2025-06
 - 🟡 [Awesome-High-Resolution-Diffusion](https://github.com/GuoLanqing/Awesome-High-Resolution-Diffusion) — Diffusion papers on high-resolution image/video synthesis `paper-list` ⭐170 · 📅2024-12
 - 🟡 [Awesome-Music-Generation](https://github.com/shaopengw/Awesome-Music-Generation) — Resources for the music generation model MG² `model` ⭐167 · 📅2025-03
 - 🟡 [awesome-diffusion-iclr-2025](https://github.com/moatifbutt/awesome-diffusion-iclr-2025) — List of diffusion-related submissions at ICLR 2025 `paper-list` ⭐61 · 📅2024-10
@@ -557,53 +557,52 @@ Types: `awesome`=curated list / `survey`=companion to a survey paper / `paper-li
 ## 🍌 Model-Specific Prompt & Example Collections
 
 - 🟢 [Awesome-Nano-Banana-images](https://github.com/PicoTrex/Awesome-Nano-Banana-images) — Generation examples and prompts for Gemini-series Nano Banana (dataset released) `model` ⭐23.9k · 📅2026-09
-- 🟢 [awesome-gpt-image-2-API-Prompts](https://github.com/Evolink-AI/awesome-gpt-image-2-API-Prompts) — API, prompts, and examples for GPT-Image-2 `model` ⭐17.3k · 📅2026-07
-- 🟢 [awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts) — One of the largest Nano Banana Pro prompt collections (10,000+/16 languages, daily updates) `model` ⭐13.6k · 📅2026-10
+- 🟢 [awesome-gpt-image-2-API-Prompts](https://github.com/Evolink-AI/awesome-gpt-image-2-API-Prompts) — API, prompts, and examples for GPT-Image-2 `model` ⭐17.4k · 📅2026-07
+- 🟢 [awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts) — One of the largest Nano Banana Pro prompt collections (10,000+/16 languages, daily updates) `model` ⭐13.7k · 📅2026-10
 - 🟢 [awesome-nanobanana-pro](https://github.com/ZeroLu/awesome-nanobanana-pro) — Prompts and examples for Nano Banana Pro (Nano Banana 2) `model` ⭐10.4k · 📅2026-10
 - 🟢 [awesome-seedance-2-prompts](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts) — 2000+ Seedance 2.0 video generation prompts (updated daily) `model` ⭐2.2k · 📅2026-10
 - 🟢 [awesome-nano-banana-pro](https://github.com/muset-ai/awesome-nano-banana-pro) — Image and prompt examples for Nano Banana Pro `model` ⭐1.1k · 📅2025-11
-- 🟢 [awesome-video-prompts](https://github.com/songguoxs/awesome-video-prompts) — Video prompt collection for Veo3/Kling/Hailuo `model` ⭐588 · 📅2025-10
+- 🟢 [awesome-video-prompts](https://github.com/songguoxs/awesome-video-prompts) — Video prompt collection for Veo3/Kling/Hailuo `model` ⭐589 · 📅2025-10
 - 🟢 [awesome-grok-prompts](https://github.com/langgptai/awesome-grok-prompts) — Advanced prompts and templates for Grok (xAI) `model` ⭐521 · 📅2026-08
-- 🟢 [Awesome-Chinese-Stable-Diffusion](https://github.com/leeguandong/Awesome-Chinese-Stable-Diffusion) — Collection of Chinese text-to-image SD models (including Kolors/HunyuanDiT) `model` ⭐454 · 📅2026-10
-- 🟢 [awesome-qwen-prompt-insight](https://github.com/XiaomingX/awesome-qwen-prompt-insight) — Large-scale collection of high-quality prompts for Qwen `model` ⭐435 · 📅2026-02
-- 🟢 [awesome-llama-prompts](https://github.com/langgptai/awesome-llama-prompts) — Prompt collection for Llama 2/Llama 3 `model` ⭐273 · 📅2026-08
+- 🟢 [Awesome-Chinese-Stable-Diffusion](https://github.com/leeguandong/Awesome-Chinese-Stable-Diffusion) — Collection of Chinese text-to-image SD models (including Kolors/HunyuanDiT) `model` ⭐455 · 📅2026-10
+- 🟢 [awesome-qwen-prompt-insight](https://github.com/XiaomingX/awesome-qwen-prompt-insight) — Large-scale collection of high-quality prompts for Qwen `model` ⭐437 · 📅2026-02
+- 🟢 [awesome-llama-prompts](https://github.com/langgptai/awesome-llama-prompts) — Prompt collection for Llama 2/Llama 3 `model` ⭐272 · 📅2026-08
 - 🟢 [Awesome-Open-AI-Sora](https://github.com/Curated-Awesome-Lists/Awesome-Open-AI-Sora) — Resource hub of Sora-related articles, videos, and news `model` ⭐259 · 📅2026-09
 - 🟢 [awesome-ai-video-prompts](https://github.com/geekjourneyx/awesome-ai-video-prompts) — Prompts and techniques across multiple video models `model` ⭐85 · 📅2026-01
 - 🟢 [awesome-grok-imagine-prompts](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts) — Grok Imagine (xAI) video generation prompt collection `model` ⭐57 · 📅2026-10
 - 🟢 [awesome-qwen-image-2512](https://github.com/shauray8/awesome-qwen-image-2512) — Examples and prompts for qwen-image-2512 `model` ⭐0 · 📅2025-12
 - 🟡 [awesome-nano-banana](https://github.com/JimmyLv/awesome-nano-banana) — Examples and prompts for Gemini-2.5-Flash-Image (Nano Banana) `model` ⭐8.8k · 📅2025-09
-- 🟡 [awesome-gpt4o-images](https://github.com/jamez-bondos/awesome-gpt4o-images) — Image and prompt examples for GPT-4o/gpt-image-1 `model` ⭐8.1k · 📅2025-05
+- 🟡 [awesome-gpt4o-images](https://github.com/jamez-bondos/awesome-gpt4o-images) — Image and prompt examples for GPT-4o/gpt-image-1 `model` ⭐8.2k · 📅2025-05
 - 🟡 [Awesome-GPTs](https://github.com/ai-boost/Awesome-GPTs) — Curation of GPTs available in the GPT Store `model` ⭐3.4k · 📅2024-11
-- 🟡 [Awesome-GPT4o-Image-Prompts](https://github.com/ImgEdify/Awesome-GPT4o-Image-Prompts) — Prompt dictionary for GPT-4o image generation `model` ⭐587 · 📅2025-05
+- 🟡 [Awesome-GPT4o-Image-Prompts](https://github.com/ImgEdify/Awesome-GPT4o-Image-Prompts) — Prompt dictionary for GPT-4o image generation `model` ⭐588 · 📅2025-05
 - 🟡 [awesome-nano-banana-images](https://github.com/githubssg/awesome-nano-banana-images) — Image and prompt collection for GPT-4o/gpt-image-1 `model` ⭐307 · 📅2025-09
-- 🟡 [awesome-flux](https://github.com/Eris2025/awesome-flux) — Resources for the FLUX ecosystem (LoRA/ControlNet/quantization) `model` ⭐105 · 📅2024-08
 
 ## 🧰 Model Ecosystems & Ops Tools (MCP/LLMOps/LLM Apps)
 
-- 🟢 [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) — Collection of runnable LLM apps/RAG/agents `awesome` ⭐142.2k · 📅2026-10
-- 🟢 [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) — The largest collection of MCP (Model Context Protocol) servers `awesome` ⭐96.6k · 📅2026-10
-- 🟢 [awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) — Curation of Claude Skills/tools `awesome` ⭐77.4k · 📅2026-09
-- 🟢 [awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) — Collection of skills/hooks/slash-commands/plugins for Claude Code `awesome` ⭐56k · 📅2026-10
-- 🟢 [awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) — Official curation of integrating the DeepSeek API into various software `model` ⭐39.4k · 📅2026-02
+- 🟢 [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) — Collection of runnable LLM apps/RAG/agents `awesome` ⭐143.1k · 📅2026-10
+- 🟢 [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) — The largest collection of MCP (Model Context Protocol) servers `awesome` ⭐96.9k · 📅2026-10
+- 🟢 [awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) — Curation of Claude Skills/tools `awesome` ⭐77.9k · 📅2026-09
+- 🟢 [awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) — Collection of skills/hooks/slash-commands/plugins for Claude Code `awesome` ⭐56.5k · 📅2026-10
+- 🟢 [awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) — Official curation of integrating the DeepSeek API into various software `model` ⭐39.5k · 📅2026-02
 - 🟢 [Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list) — Large-scale list covering PyTorch-related models, implementations, and libraries `awesome` ⭐16.7k · 📅2026-09
-- 🟢 [awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) — Curated list of modern generative AI projects and services `awesome` ⭐12.7k · 📅2026-10
+- 🟢 [awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) — Curated list of modern generative AI projects and services `awesome` ⭐12.8k · 📅2026-10
 - 🟢 [awesome-langchain](https://github.com/kyrolabs/awesome-langchain) — List of tools and projects for the LangChain framework `awesome` ⭐9.6k · 📅2026-10
 - 🟢 [ai-collection](https://github.com/ai-collection/ai-collection) — Landscape collecting generative AI applications `awesome` ⭐9.2k · 📅2026-10
+- 🟢 [awesome-ai-tools](https://github.com/mahseema/awesome-ai-tools) — Curated list of top AI tools `awesome` ⭐6.5k · 📅2025-12
 - 🟢 [awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) — Awesome list for ChatGPT (sindresorhus series) `awesome` ⭐6.5k · 📅2026-02
-- 🟢 [awesome-ai-tools](https://github.com/mahseema/awesome-ai-tools) — Curated list of top AI tools `awesome` ⭐6.4k · 📅2025-12
 - 🟢 [Awesome-AITools](https://github.com/ikaijua/Awesome-AITools) — Collection of practical AI tools (bilingual Chinese-English) `awesome` ⭐6.2k · 📅2026-10
 - 🟢 [Awesome-LLMOps](https://github.com/tensorchord/Awesome-LLMOps) — Curated list of tools for LLM development/operations (training/serving/monitoring) `awesome` ⭐6k · 📅2026-10
 - 🟢 [awesome-opensource-ai](https://github.com/alvinreal/awesome-opensource-ai) — Curated list of genuinely open-source AI projects, models, tools, and infrastructure `awesome` ⭐4.9k · 📅2026-10
 - 🟢 [awesome-chatgpt](https://github.com/eon01/awesome-chatgpt) — Curation of ChatGPT libraries/SDKs/APIs `awesome` ⭐2.4k · 📅2026-07
 - 🟢 [awesome-claude](https://github.com/webfuse-com/awesome-claude) — Curated list across Anthropic Claude `awesome` ⭐1.7k · 📅2026-09
 - 🟢 [Awesome-RAG](https://github.com/Danielskry/Awesome-RAG) — Awesome list of RAG applications in generative AI `awesome` ⭐1.4k · 📅2026-10
-- 🟢 [awesome-deepseek-coder](https://github.com/deepseek-ai/awesome-deepseek-coder) — Official list of OSS projects related to DeepSeek Coder `model` ⭐829 · 📅2025-11
-- 🟢 [awesome-gemini-cli](https://github.com/Piebald-AI/awesome-gemini-cli) — Tools, extensions, and resources for Gemini CLI `awesome` ⭐525 · 📅2026-10
+- 🟢 [awesome-deepseek-coder](https://github.com/deepseek-ai/awesome-deepseek-coder) — Official list of OSS projects related to DeepSeek Coder `model` ⭐834 · 📅2025-11
+- 🟢 [awesome-gemini-cli](https://github.com/Piebald-AI/awesome-gemini-cli) — Tools, extensions, and resources for Gemini CLI `awesome` ⭐545 · 📅2026-10
 - 🟢 [awesome-flux-ai](https://github.com/AINativeLab/awesome-flux-ai) — Coverage of Flux AI tools, libraries, and apps `awesome` ⭐107 · 📅2026-10
-- 🟢 [awesome-stable-diffusion](https://github.com/doanbactam/awesome-stable-diffusion) — Curation of Stable Diffusion resources `awesome` ⭐82 · 📅2026-10
+- 🟢 [awesome-stable-diffusion](https://github.com/doanbactam/awesome-stable-diffusion) — Curation of Stable Diffusion resources `awesome` ⭐83 · 📅2026-10
 - 🟢 [awesome-mistral](https://github.com/samouraiworld/awesome-mistral) — Resources, tools, and projects in the Mistral AI ecosystem `awesome` ⭐49 · 📅2026-10
 - 🟡 [awesome-gpt](https://github.com/formulahendry/awesome-gpt) — Projects and resources related to GPT/ChatGPT/OpenAI `awesome` ⭐1k · 📅2024-05
-- 🟡 [awesome-comfyui](https://github.com/ComfyUI-Workflow/awesome-comfyui) — Large-scale collection of ComfyUI custom nodes `awesome` ⭐743 · 📅2025-07
+- 🟡 [awesome-comfyui](https://github.com/ComfyUI-Workflow/awesome-comfyui) — Large-scale collection of ComfyUI custom nodes `awesome` ⭐744 · 📅2025-07
 - 📦 [awesome-mcp-servers](https://github.com/appcypher/awesome-mcp-servers) — Curation of MCP servers `awesome` ⭐5.8k · 📅2026-05
 
 ## 🎮 Reinforcement Learning (RL)
@@ -616,25 +615,25 @@ Types: `awesome`=curated list / `survey`=companion to a survey paper / `paper-li
 - 🟢 [awesome-diffusion-model-in-rl](https://github.com/opendilab/awesome-diffusion-model-in-rl) — Continuously updated list of resources on diffusion models in reinforcement learning `awesome` ⭐1.7k · 📅2026-05
 - 🟢 [awesome-deep-rl](https://github.com/tigerneil/awesome-deep-rl) — Broad collection of resources on Deep RL and the future of AI `awesome` ⭐1.5k · 📅2026-09
 - 🟢 [awesome-model-based-RL](https://github.com/opendilab/awesome-model-based-RL) — Continuously updated collection of model-based RL papers `paper-list` ⭐1.4k · 📅2026-10
-- 🟢 [awesome-decision-transformer](https://github.com/opendilab/awesome-decision-transformer) — Continuously updated list of Decision Transformer resources `awesome` ⭐918 · 📅2026-05
-- 🟢 [World-Model](https://github.com/tsinghua-fib-lab/World-Model) — Comprehensive survey of world models (accepted to ACM CSUR 2025) `survey` ⭐870 · 📅2025-11
-- 🟢 [Safe-Reinforcement-Learning-Baselines](https://github.com/chauncygu/Safe-Reinforcement-Learning-Baselines) — Repository of Safe RL baselines and papers `paper-list` ⭐815 · 📅2026-03
-- 🟢 [awesome-exploration-rl](https://github.com/opendilab/awesome-exploration-rl) — RL paper list focused on exploration `paper-list` ⭐727 · 📅2026-05
+- 🟢 [awesome-decision-transformer](https://github.com/opendilab/awesome-decision-transformer) — Continuously updated list of Decision Transformer resources `awesome` ⭐919 · 📅2026-05
+- 🟢 [World-Model](https://github.com/tsinghua-fib-lab/World-Model) — Comprehensive survey of world models (accepted to ACM CSUR 2025) `survey` ⭐875 · 📅2025-11
+- 🟢 [Safe-Reinforcement-Learning-Baselines](https://github.com/chauncygu/Safe-Reinforcement-Learning-Baselines) — Repository of Safe RL baselines and papers `paper-list` ⭐814 · 📅2026-03
+- 🟢 [awesome-exploration-rl](https://github.com/opendilab/awesome-exploration-rl) — RL paper list focused on exploration `paper-list` ⭐728 · 📅2026-05
 - 🟢 [awesome-multi-modal-reinforcement-learning](https://github.com/opendilab/awesome-multi-modal-reinforcement-learning) — Continuously updated multimodal RL resources `paper-list` ⭐620 · 📅2026-05
 - 🟢 [Reinforcement-Learning-Papers](https://github.com/yingchengyang/Reinforcement-Learning-Papers) — Classic and recent ICLR/ICML/NeurIPS papers organized by year `paper-list` ⭐602 · 📅2026-02
-- 🟢 [Awesome-RL-for-Multimodal-Foundation-Models](https://github.com/weijiawu/Awesome-RL-for-Multimodal-Foundation-Models) — Papers on visual RL and RL for multimodal foundation models `paper-list` ⭐457 · 📅2026-08
-- 🟢 [MARL-papers-with-code](https://github.com/TimeBreaker/MARL-papers-with-code) — MARL papers with code organized by method `paper-list` ⭐434 · 📅2026-07
-- 🟢 [Reinforcement-Learning-Papers](https://github.com/Allenpandas/Reinforcement-Learning-Papers) — Comprehensive papers from NeurIPS/ICML/ICLR/AAAI/IJCAI/AAMAS/ICRA `paper-list` ⭐369 · 📅2025-11
-- 🟢 [awesome-RLVR](https://github.com/opendilab/awesome-RLVR) — Continuously updated papers on RL with Verifiable Rewards (RLVR) `paper-list` ⭐341 · 📅2026-06
-- 🟢 [Awesome-Causal-Reinforcement-Learning](https://github.com/libo-huang/Awesome-Causal-Reinforcement-Learning) — Official repo for the causal RL survey (TNNLS 2024) `survey` ⭐229 · 📅2026-08
+- 🟢 [Awesome-RL-for-Multimodal-Foundation-Models](https://github.com/weijiawu/Awesome-RL-for-Multimodal-Foundation-Models) — Papers on visual RL and RL for multimodal foundation models `paper-list` ⭐458 · 📅2026-08
+- 🟢 [MARL-papers-with-code](https://github.com/TimeBreaker/MARL-papers-with-code) — MARL papers with code organized by method `paper-list` ⭐435 · 📅2026-07
+- 🟢 [Reinforcement-Learning-Papers](https://github.com/Allenpandas/Reinforcement-Learning-Papers) — Comprehensive papers from NeurIPS/ICML/ICLR/AAAI/IJCAI/AAMAS/ICRA `paper-list` ⭐368 · 📅2025-11
+- 🟢 [awesome-RLVR](https://github.com/opendilab/awesome-RLVR) — Continuously updated papers on RL with Verifiable Rewards (RLVR) `paper-list` ⭐348 · 📅2026-06
+- 🟢 [Awesome-Causal-Reinforcement-Learning](https://github.com/libo-huang/Awesome-Causal-Reinforcement-Learning) — Official repo for the causal RL survey (TNNLS 2024) `survey` ⭐230 · 📅2026-08
 - 🟢 [awesome-deep-reinforcement-learning](https://github.com/jgvictores/awesome-deep-reinforcement-learning) — Frameworks, models, datasets, gyms, and baselines `awesome` ⭐207 · 📅2026-08
 - 🟢 [awesome-world-models-for-robots](https://github.com/operator22th/awesome-world-models-for-robots) — Collection of world model papers for robotics `paper-list` ⭐144 · 📅2026-03
 - 🟢 [Awesome-Embodied-World-Model](https://github.com/tsinghua-fib-lab/Awesome-Embodied-World-Model) — Paper collection specialized in world models for embodied agents `survey` ⭐138 · 📅2026-05
 - 📑 [AwesomeSim2Real](https://github.com/LongchaoDa/AwesomeSim2Real) — Companion to the survey "A Survey of Sim-to-Real Methods in RL" `survey` ⭐201 · 📅2025-09
 - 🟡 [awesome-rl-envs](https://github.com/clvrai/awesome-rl-envs) — Comprehensive list of RL environments and simulators `awesome` ⭐1.4k · 📅2024-05
 - 🟡 [awesome-offline-rl](https://github.com/hanjuku-kaso/awesome-offline-rl) — Continuously updated index of offline RL algorithms `paper-list` ⭐1.1k · 📅2024-05
-- 🟡 [awesome-game-ai](https://github.com/datamllab/awesome-game-ai) — Game AI resources centered on multi-agent learning `awesome` ⭐984 · 📅2024-06
-- 🟡 [awesome-deep-rl](https://github.com/kengz/awesome-deep-rl) — Organized list of Deep RL libraries, environments, and benchmarks `awesome` ⭐902 · 📅2025-07
+- 🟡 [awesome-game-ai](https://github.com/datamllab/awesome-game-ai) — Game AI resources centered on multi-agent learning `awesome` ⭐983 · 📅2024-06
+- 🟡 [awesome-deep-rl](https://github.com/kengz/awesome-deep-rl) — Organized list of Deep RL libraries, environments, and benchmarks `awesome` ⭐901 · 📅2025-07
 - 🟡 [awesome-in-context-rl](https://github.com/dunnolab/awesome-in-context-rl) — Curation of In-Context RL papers `paper-list` ⭐312 · 📅2025-09
 - 📚 [deep-reinforcement-learning-papers](https://github.com/junhyukoh/deep-reinforcement-learning-papers) — Classic list of major Deep RL papers organized by topic `paper-list` ⭐2.2k · 📅2016-06
 - 🔴 [awesome-rl](https://github.com/aikorea/awesome-rl) — Classic curation of RL code, lectures, papers, and environments `awesome` ⭐10k · 📅2023-05
@@ -654,19 +653,19 @@ Types: `awesome`=curated list / `survey`=companion to a survey paper / `paper-li
 - 🟢 [Awesome-Unified-Multimodal-Models](https://github.com/ATH-MaaS/Awesome-Unified-Multimodal-Models) — Active comprehensive collection of multimodal models unifying understanding and generation `survey` ⭐1.3k · 📅2026-03
 - 🟢 [Awesome-Prompt-Adapter-Learning-for-VLMs-CLIP](https://github.com/zhengli97/Awesome-Prompt-Adapter-Learning-for-VLMs-CLIP) — Curated prompt/adapter learning methods for VLMs like CLIP `paper-list` ⭐799 · 📅2026-07
 - 🟢 [Awesome-Spatial-Intelligence-in-VLM](https://github.com/mll-lab-nu/Awesome-Spatial-Intelligence-in-VLM) — Very active list of ~200 papers and benchmarks on spatial reasoning in VLMs `paper-list` ⭐792 · 📅2026-08
-- 🟢 [Awesome-Multimodal-Papers](https://github.com/friedrichor/Awesome-Multimodal-Papers) — Curated papers across multimodal research `awesome` ⭐346 · 📅2026-08
+- 🟢 [Awesome-Multimodal-Papers](https://github.com/friedrichor/Awesome-Multimodal-Papers) — Curated papers across multimodal research `awesome` ⭐347 · 📅2026-08
 - 🟢 [Awesome-Chart-Understanding](https://github.com/khuangaf/Awesome-Chart-Understanding) — Chart understanding papers (QA/captioning/fact-checking) for an IEEE TKDE survey `survey` ⭐241 · 📅2025-12
-- 🟢 [Awesome-Document-Understanding](https://github.com/harrytea/Awesome-Document-Understanding) — Papers, code, and datasets on multimodal document AI (MLLM/OCR-free, etc.) `paper-list` ⭐201 · 📅2026-08
+- 🟢 [Awesome-Document-Understanding](https://github.com/harrytea/Awesome-Document-Understanding) — Papers, code, and datasets on multimodal document AI (MLLM/OCR-free, etc.) `paper-list` ⭐202 · 📅2026-10
 - 🟢 [Evaluation-Multimodal-LLMs-Survey](https://github.com/swordlidev/Evaluation-Multimodal-LLMs-Survey) — Evaluation survey reviewing 200+ MLLM benchmarks `survey` ⭐160 · 📅2026-07
 - 🟢 [Awesome-Multimodal-LLM-for-Math-STEM](https://github.com/InfiMM/Awesome-Multimodal-LLM-for-Math-STEM) — Papers on multimodal LLMs for math/STEM/code `awesome` ⭐147 · 📅2026-08
+- 🟢 [Awesome-MLLM-Tuning](https://github.com/WenkeHuang/Awesome-MLLM-Tuning) — Survey of MLLM tuning methods for downstream tasks `paper-list` ⭐102 · 📅2026-10
 - 🟢 [Awesome-Composed-Multi-modal-Retrieval](https://github.com/kkzhang95/Awesome-Composed-Multi-modal-Retrieval) — CMR survey including composed image retrieval (CIR) and composed video retrieval (CVR) `survey` ⭐94 · 📅2026-07
-- 🟢 [Awesome-Multimodal-RAG](https://github.com/JarvisUSTC/Awesome-Multimodal-RAG) — Papers and tools on multimodal RAG across text/image/video/audio `paper-list` ⭐55 · 📅2026-09
-- 📑 [Efficient-Multimodal-LLMs-Survey](https://github.com/swordlidev/Efficient-Multimodal-LLMs-Survey) — Systematic review of efficient MLLMs (lightweight structures and strategies) `survey` ⭐386 · 📅2025-04
+- 🟢 [Awesome-Multimodal-RAG](https://github.com/JarvisUSTC/Awesome-Multimodal-RAG) — Papers and tools on multimodal RAG across text/image/video/audio `paper-list` ⭐55 · 📅2026-10
+- 📑 [Efficient-Multimodal-LLMs-Survey](https://github.com/swordlidev/Efficient-Multimodal-LLMs-Survey) — Systematic review of efficient MLLMs (lightweight structures and strategies) `survey` ⭐387 · 📅2025-04
 - 🟡 [Awesome-MLLM-Hallucination](https://github.com/showlab/Awesome-MLLM-Hallucination) — Curated list of resources on hallucination in multimodal LLMs `awesome` ⭐1k · 📅2025-09
 - 🟡 [Awesome_Matching_Pretraining_Transfering](https://github.com/Paranioar/Awesome_Matching_Pretraining_Transfering) — Large-scale paper list on image-text matching, VL pretraining, and multimodal models `paper-list` ⭐446 · 📅2025-09
-- 🟡 [Awesome-Table-Recognition](https://github.com/cv-small-snails/Awesome-Table-Recognition) — Organized papers, datasets, and competition solutions on table recognition `awesome` ⭐404 · 📅2024-12
+- 🟡 [Awesome-Table-Recognition](https://github.com/cv-small-snails/Awesome-Table-Recognition) — Organized papers, datasets, and competition solutions on table recognition `awesome` ⭐405 · 📅2024-12
 - 🟡 [awesome-table-structure-recognition](https://github.com/Tan-Junwen/awesome-table-structure-recognition) — Models, papers, datasets, and code on table structure recognition (TSR) `awesome` ⭐232 · 📅2024-09
-- 🟡 [Awesome-MLLM-Tuning](https://github.com/WenkeHuang/Awesome-MLLM-Tuning) — Survey of MLLM tuning methods for downstream tasks `paper-list` ⭐102 · 📅2025-08
 - 🟡 [Awesome-Large-Vision-Language-Model](https://github.com/SuperBruceJia/Awesome-Large-Vision-Language-Model) — Papers and resources on large VLMs and medical foundation models `awesome` ⭐49 · 📅2025-07
 - 🟡 [Prompt_Learning_Paper_List](https://github.com/Event-AHU/Prompt_Learning_Paper_List) — Paper list on (vision-language) prompt learning `paper-list` ⭐19 · 📅2024-11
 - 🔴 [awesome-document-understanding](https://github.com/tstanislawek/awesome-document-understanding) — Classic list covering KIE, layout analysis, DocQA, OCR, etc. `awesome` ⭐1.5k · 📅2023-06
@@ -681,15 +680,15 @@ Types: `awesome`=curated list / `survey`=companion to a survey paper / `paper-li
 
 - 🟢 [awesome-diarization](https://github.com/wq2012/awesome-diarization) — Classic list covering speaker diarization papers, libraries, datasets, and evaluation tools `awesome` ⭐1.9k · 📅2026-10
 - 🟢 [speech-trident](https://github.com/ga642381/speech-trident) — Papers on speech/audio LLMs, representation learning, and codec models `paper-list` ⭐1.2k · 📅2026-07
-- 🟢 [audio-ai-hub](https://github.com/BinWang28/audio-ai-hub) — Papers and resources on audio large language models `awesome` ⭐961 · 📅2026-10
+- 🟢 [audio-ai-hub](https://github.com/BinWang28/audio-ai-hub) — Papers and resources on audio large language models `awesome` ⭐962 · 📅2026-10
 - 🟢 [awesome-large-audio-models](https://github.com/EmulationAI/awesome-large-audio-models) — Resources on Audio AI applications of LLMs `awesome` ⭐744 · 📅2026-08
-- 🟢 [awesome-ai-voice](https://github.com/wildminder/awesome-ai-voice) — Collection of open-source TTS, voice cloning, and music generation models `model` ⭐518 · 📅2026-09
+- 🟢 [awesome-ai-voice](https://github.com/wildminder/awesome-ai-voice) — Collection of open-source TTS, voice cloning, and music generation models `model` ⭐525 · 📅2026-09
 - 🟢 [Awesome-Speaker-Diarization](https://github.com/DongKeon/Awesome-Speaker-Diarization) — Active paper collection systematizing end-to-end/clustering/multimodal approaches `paper-list` ⭐374 · 📅2026-03
-- 🟢 [awesome-voice-conversion](https://github.com/JeffC0628/awesome-voice-conversion) — Projects and communities on voice conversion `awesome` ⭐267 · 📅2026-10
-- 🟢 [Awesome-Sign-Language-Processing](https://github.com/VIPL-SLP/Awesome-Sign-Language-Processing) — Comprehensive resources on sign language processing (recognition/translation/generation) `awesome` ⭐262 · 📅2026-09
+- 🟢 [awesome-voice-conversion](https://github.com/JeffC0628/awesome-voice-conversion) — Projects and communities on voice conversion `awesome` ⭐266 · 📅2026-10
+- 🟢 [Awesome-Sign-Language-Processing](https://github.com/VIPL-SLP/Awesome-Sign-Language-Processing) — Comprehensive resources on sign language processing (recognition/translation/generation) `awesome` ⭐263 · 📅2026-09
 - 🟢 [Awesome-Sign-Language](https://github.com/ZechengLi19/Awesome-Sign-Language) — Active paper list on sign language recognition (SLR), translation (SLT), etc. `paper-list` ⭐229 · 📅2025-11
 - 🟢 [Speech-and-audio-papers-Top-Conference](https://github.com/01Zhangbw/Speech-and-audio-papers-Top-Conference) — Aggregated speech/audio papers from top venues (INTERSPEECH/ICASSP, etc.) `paper-list` ⭐144 · 📅2026-01
-- 🟢 [awesome-llm-speech-to-speech](https://github.com/tleyden/awesome-llm-speech-to-speech) — LLM-based speech-to-speech models/frameworks `awesome` ⭐71 · 📅2025-11
+- 🟢 [awesome-llm-speech-to-speech](https://github.com/tleyden/awesome-llm-speech-to-speech) — LLM-based speech-to-speech models/frameworks `awesome` ⭐72 · 📅2025-11
 - 🟢 [Awesome-Large-Speech-Model](https://github.com/huangcanan/Awesome-Large-Speech-Model) — Papers, data, applications, and tools on large speech/audio models `awesome` ⭐28 · 📅2025-11
 - 🟡 [INTERSPEECH-2023-24-Papers](https://github.com/DmitryRyumin/INTERSPEECH-2023-24-Papers) — Comprehensive collection of INTERSPEECH 2023-2024 papers `paper-list` ⭐684 · 📅2024-12
 - 🟡 [ICASSP-2023-24-Papers](https://github.com/DmitryRyumin/ICASSP-2023-24-Papers) — Comprehensive collection of ICASSP 2023-2024 papers `paper-list` ⭐525 · 📅2025-05
@@ -702,7 +701,7 @@ Types: `awesome`=curated list / `survey`=companion to a survey paper / `paper-li
 - 🔴 [awesome-deep-learning-music](https://github.com/ybayle/awesome-deep-learning-music) — Papers and theses on deep learning applied to music `paper-list` ⭐3k · 📅2023-12
 - 🔴 [awesome-speech-enhancement](https://github.com/WenzheLiu-Speech/awesome-speech-enhancement) — Papers, code, and tools on speech enhancement, source separation, and localization `paper-list` ⭐1.3k · 📅2023-11
 - 🔴 [speech-synthesis-paper](https://github.com/wenet-e2e/speech-synthesis-paper) — Systematic list of speech synthesis (TTS) papers `paper-list` ⭐1.1k · 📅2023-07
-- 🔴 [Awesome-Singing-Voice-Synthesis-and-Singing-Voice-Conversion](https://github.com/guan-yuan/Awesome-Singing-Voice-Synthesis-and-Singing-Voice-Conversion) — Papers and projects on singing voice synthesis (SVS), conversion (SVC), and transcription `paper-list` ⭐492 · 📅2022-09
+- 🔴 [Awesome-Singing-Voice-Synthesis-and-Singing-Voice-Conversion](https://github.com/guan-yuan/Awesome-Singing-Voice-Synthesis-and-Singing-Voice-Conversion) — Papers and projects on singing voice synthesis (SVS), conversion (SVC), and transcription `paper-list` ⭐493 · 📅2022-09
 - 🔴 [awesome-keyword-spotting](https://github.com/zycv/awesome-keyword-spotting) — Papers, implementations, and datasets on keyword/wake-word spotting `awesome` ⭐294 · 📅2022-05
 - 🔴 [awesome-music-informatics](https://github.com/yamathcy/awesome-music-informatics) — Curated list of papers, tutorials, libraries, and tools on music informatics `awesome` ⭐195 · 📅2023-07
 - 🔴 [awesome-speech-translation](https://github.com/dqqcasia/awesome-speech-translation) — Paper list on speech translation (pipeline/E2E/streaming/multilingual) `paper-list` ⭐178 · 📅2021-11
@@ -712,23 +711,23 @@ Types: `awesome`=curated list / `survey`=companion to a survey paper / `paper-li
 
 - 🟢 [awesome-embodied-vla-va-vln](https://github.com/jonyzhang2023/awesome-embodied-vla-va-vln) — Cutting-edge research on embodied AI: VLA, VLN, and multimodal learning `paper-list` ⭐3.6k · 📅2026-09
 - 🟢 [awesome-robotics-libraries](https://github.com/jslee02/awesome-robotics-libraries) — Curated list of robotics libraries and software `awesome` ⭐3.1k · 📅2026-10
-- 🟢 [awesome-humanoid-robot-learning](https://github.com/YanjieZe/awesome-humanoid-robot-learning) — Paper list on humanoid robot learning `paper-list` ⭐2.8k · 📅2026-10
-- 🟢 [Embodied_AI_Paper_List](https://github.com/HCPLab-SYSU/Embodied_AI_Paper_List) — Embodied AI covering perception, interaction, agents, and sim-to-real (IEEE/ASME ToM 2025) `survey` ⭐2.2k · 📅2026-06
+- 🟢 [awesome-humanoid-robot-learning](https://github.com/YanjieZe/awesome-humanoid-robot-learning) — Paper list on humanoid robot learning `paper-list` ⭐2.9k · 📅2026-10
+- 🟢 [Embodied_AI_Paper_List](https://github.com/HCPLab-SYSU/Embodied_AI_Paper_List) — Embodied AI covering perception, interaction, agents, and sim-to-real (IEEE/ASME ToM 2025) `survey` ⭐2.2k · 📅2026-10
 - 🟢 [Awesome-Embodied-Robotics-and-Agent](https://github.com/zchoi/Awesome-Embodied-Robotics-and-Agent) — Curation of embodied AI/robot research using LLMs `awesome` ⭐1.9k · 📅2026-10
-- 🟢 [Awesome_Quadrupedal_Robots](https://github.com/curieuxjy/Awesome_Quadrupedal_Robots) — Papers and resources on quadrupedal robots `paper-list` ⭐1.2k · 📅2026-07
-- 🟢 [Awesome-Robotics-Manipulation](https://github.com/BaiShuanghao/Awesome-Robotics-Manipulation) — Papers and code on robot manipulation `paper-list` ⭐1.2k · 📅2026-09
-- 🟢 [awesome-vla-wam](https://github.com/DravenALG/awesome-vla-wam) — Curation of VLA and World Action Model (WAM) research `awesome` ⭐1k · 📅2026-10
-- 🟢 [Embodied-AI-Paper-TopConf](https://github.com/Songwxuan/Embodied-AI-Paper-TopConf) — Active continuous collection of embodied AI papers from top venues (through 2026 conferences) `paper-list` ⭐778 · 📅2026-05
-- 🟢 [Awesome-VLA](https://github.com/yueen-ma/Awesome-VLA) — List of VLA models for embodied AI with survey papers `survey` ⭐685 · 📅2026-08
-- 🟢 [Awesome-VLA-Robotics](https://github.com/Jiaaqiliu/Awesome-VLA-Robotics) — Papers, models, and datasets on VLA models for robotics `paper-list` ⭐499 · 📅2026-10
-- 🟢 [Awesome-Robotics-Diffusion](https://github.com/showlab/Awesome-Robotics-Diffusion) — Curated list of latest papers incorporating diffusion models into robot learning `paper-list` ⭐358 · 📅2026-10
-- 🟢 [Awesome-Embodied-AI](https://github.com/wadeKeith/Awesome-Embodied-AI) — Comprehensive embodied AI coverage: surveys, VLA, datasets, simulators, etc. `awesome` ⭐251 · 📅2026-10
-- 🟢 [Awesome-Robot-Learning](https://github.com/RayYoh/Awesome-Robot-Learning) — Resources on robot learning (mainly manipulation) `awesome` ⭐210 · 📅2026-08
-- 🟢 [Awesome-VLN](https://github.com/KwanWaiPang/Awesome-VLN) — Paper collection for surveying vision-language navigation (VLN) `survey` ⭐188 · 📅2026-10
+- 🟢 [Awesome_Quadrupedal_Robots](https://github.com/curieuxjy/Awesome_Quadrupedal_Robots) — Papers and resources on quadrupedal robots `paper-list` ⭐1.2k · 📅2026-10
+- 🟢 [Awesome-Robotics-Manipulation](https://github.com/BaiShuanghao/Awesome-Robotics-Manipulation) — Papers and code on robot manipulation `paper-list` ⭐1.2k · 📅2026-10
+- 🟢 [awesome-vla-wam](https://github.com/DravenALG/awesome-vla-wam) — Curation of VLA and World Action Model (WAM) research `awesome` ⭐1.1k · 📅2026-10
+- 🟢 [Embodied-AI-Paper-TopConf](https://github.com/Songwxuan/Embodied-AI-Paper-TopConf) — Active continuous collection of embodied AI papers from top venues (through 2026 conferences) `paper-list` ⭐781 · 📅2026-05
+- 🟢 [Awesome-VLA](https://github.com/yueen-ma/Awesome-VLA) — List of VLA models for embodied AI with survey papers `survey` ⭐687 · 📅2026-08
+- 🟢 [Awesome-VLA-Robotics](https://github.com/Jiaaqiliu/Awesome-VLA-Robotics) — Papers, models, and datasets on VLA models for robotics `paper-list` ⭐501 · 📅2026-10
+- 🟢 [Awesome-Robotics-Diffusion](https://github.com/showlab/Awesome-Robotics-Diffusion) — Curated list of latest papers incorporating diffusion models into robot learning `paper-list` ⭐360 · 📅2026-10
+- 🟢 [Awesome-Embodied-AI](https://github.com/wadeKeith/Awesome-Embodied-AI) — Comprehensive embodied AI coverage: surveys, VLA, datasets, simulators, etc. `awesome` ⭐253 · 📅2026-10
+- 🟢 [Awesome-Robot-Learning](https://github.com/RayYoh/Awesome-Robot-Learning) — Resources on robot learning (mainly manipulation) `awesome` ⭐207 · 📅2026-08
+- 🟢 [Awesome-VLN](https://github.com/KwanWaiPang/Awesome-VLN) — Paper collection for surveying vision-language navigation (VLN) `survey` ⭐187 · 📅2026-10
 - 🟢 [Awesome-VLA](https://github.com/KwanWaiPang/Awesome-VLA) — Paper collection for surveying Vision-Language-Action (VLA) `survey` ⭐102 · 📅2026-02
 - 🟢 [Awesome-Legged-Robot-Localization-and-Mapping](https://github.com/KwanWaiPang/Awesome-Legged-Robot-Localization-and-Mapping) — Paper collection for surveying SLAM for legged robots `survey` ⭐77 · 📅2026-10
 - 🔴 [awesome-robotic-tooling](https://github.com/Ly0n/awesome-robotic-tooling) — Aggregation of professional robotics development tools in C++/Python/ROS `awesome` ⭐3.9k · 📅2023-11
-- 🔴 [awesome-legged-locomotion-learning](https://github.com/gaiyi7788/awesome-legged-locomotion-learning) — Resources on legged locomotion learning `awesome` ⭐489 · 📅2023-07
+- 🔴 [awesome-legged-locomotion-learning](https://github.com/gaiyi7788/awesome-legged-locomotion-learning) — Resources on legged locomotion learning `awesome` ⭐488 · 📅2023-07
 
 ## 🕸️ Graph Learning (GNN) / Knowledge Graphs
 
@@ -736,10 +735,10 @@ Types: `awesome`=curated list / `survey`=companion to a survey paper / `paper-li
 - 🟢 [Awesome-TimeSeries-SpatioTemporal-Diffusion-Model](https://github.com/yyysjz1997/Awesome-TimeSeries-SpatioTemporal-Diffusion-Model) — Active survey and papers on diffusion models for time-series/spatio-temporal data `survey` ⭐1k · 📅2026-02
 - 🟢 [awesome-gnn-systems](https://github.com/ch-wan/awesome-gnn-systems) — Resources on GNN systems and acceleration `awesome` ⭐352 · 📅2026-10
 - 🟢 [awesome-molecular-generation](https://github.com/amorehead/awesome-molecular-generation) — Papers on generative molecular modeling and design `paper-list` ⭐347 · 📅2026-08
-- 🟢 [Awesome-Deep-Graph-Anomaly-Detection](https://github.com/mala-lab/Awesome-Deep-Graph-Anomaly-Detection) — Official repo for a 2025 TKDE survey; GNN-based graph anomaly detection papers and datasets `survey` ⭐227 · 📅2026-08
-- 🟢 [Awesome-TKGC](https://github.com/jiapuwang/Awesome-TKGC) — Comprehensive papers and resources on temporal knowledge graph completion (TKGC) in 5 categories `paper-list` ⭐116 · 📅2025-10
+- 🟢 [Awesome-Deep-Graph-Anomaly-Detection](https://github.com/mala-lab/Awesome-Deep-Graph-Anomaly-Detection) — Official repo for a 2025 TKDE survey; GNN-based graph anomaly detection papers and datasets `survey` ⭐228 · 📅2026-08
+- 🟢 [Awesome-TKGC](https://github.com/jiapuwang/Awesome-TKGC) — Comprehensive papers and resources on temporal knowledge graph completion (TKGC) in 5 categories `paper-list` ⭐117 · 📅2025-10
 - 🟢 [awesome-molecular-diffusion-models](https://github.com/AzureLeon1/awesome-molecular-diffusion-models) — Active curated list of molecular diffusion model papers `paper-list` ⭐111 · 📅2026-04
-- 🟢 [Awesome-Knowledge-Graph-Reasoning](https://github.com/LIANGKE23/Awesome-Knowledge-Graph-Reasoning) — Papers, code, and datasets on knowledge graph reasoning `paper-list` ⭐15 · 📅2025-11
+- 🟢 [Awesome-Knowledge-Graph-Reasoning](https://github.com/LIANGKE23/Awesome-Knowledge-Graph-Reasoning) — Papers, code, and datasets on knowledge graph reasoning `paper-list` ⭐16 · 📅2025-11
 - 📑 [awesome-graph-self-supervised-learning](https://github.com/LirongWu/awesome-graph-self-supervised-learning) — List accompanying a TKDE paper (contrastive/generative/predictive) `survey` ⭐1.4k · 📅2024-08
 - 📑 [Awesome-GNN4TS](https://github.com/KimMeen/Awesome-GNN4TS) — Resources on GNNs for time-series analysis (TPAMI 2024) `survey` ⭐867 · 📅2024-08
 - 📑 [awesome-pretrain-on-molecules](https://github.com/junxia97/awesome-pretrain-on-molecules) — Paper list of molecular pretraining models (IJCAI 2023 survey) `survey` ⭐545 · 📅2023-06
@@ -747,7 +746,7 @@ Types: `awesome`=curated list / `survey`=companion to a survey paper / `paper-li
 - 📑 [Awesome-Trustworthy-GNNs](https://github.com/Radical3-HeZhang/Awesome-Trustworthy-GNNs) — Trustworthy GNN survey (privacy/robustness/fairness/explainability) (Proc. IEEE 2024) `survey` ⭐97 · 📅2024-07
 - 🟡 [GNN4Traffic](https://github.com/jwwthu/GNN4Traffic) — Large-scale collection of GNN papers and code for traffic prediction `paper-list` ⭐1.2k · 📅2024-08
 - 🟡 [awesome-graph-transformer](https://github.com/wehos/awesome-graph-transformer) — Collection of graph transformer papers `paper-list` ⭐932 · 📅2025-03
-- 🟡 [Awesome-DynamicGraphLearning](https://github.com/SpaceLearner/Awesome-DynamicGraphLearning) — Papers on machine learning over dynamic (temporal) graphs and knowledge graphs `paper-list` ⭐711 · 📅2025-06
+- 🟡 [Awesome-DynamicGraphLearning](https://github.com/SpaceLearner/Awesome-DynamicGraphLearning) — Papers on machine learning over dynamic (temporal) graphs and knowledge graphs `paper-list` ⭐713 · 📅2025-06
 - 🟡 [awesome-graph-generation](https://github.com/yuanqidu/awesome-graph-generation) — Up-to-date list covering graph and molecular generation papers `paper-list` ⭐361 · 📅2025-01
 - 🟡 [Awesome-Hypergraph-Network](https://github.com/gzcsudo/Awesome-Hypergraph-Network) — Curated collection of hypergraph learning, theory, data, and tools `awesome` ⭐338 · 📅2025-02
 - 🟡 [Awesome-Fair-Graph-Learning](https://github.com/EdisonLeeeee/Awesome-Fair-Graph-Learning) — Paper list on fair graph learning (FairGL) `paper-list` ⭐143 · 📅2024-09
@@ -766,11 +765,11 @@ Types: `awesome`=curated list / `survey`=companion to a survey paper / `paper-li
 - 🔴 [Awesome-Deep-Graph-Anomaly-Detection](https://github.com/XiaoxiaoMa-MQ/Awesome-Deep-Graph-Anomaly-Detection) — Papers, datasets, and implementations on deep learning for graph anomaly detection `awesome` ⭐385 · 📅2023-07
 - 🔴 [awesome-small-molecule-ml](https://github.com/benb111/awesome-small-molecule-ml) — Curated machine learning resources for small-molecule drug discovery `awesome` ⭐245 · 📅2023-11
 - 🔴 [awesome-graph-ood](https://github.com/THUMNLab/awesome-graph-ood) — Papers on OOD generalization for graphs `paper-list` ⭐169 · 📅2023-06
-- 🔴 [awesome-expressive-gnn](https://github.com/mengliu1998/awesome-expressive-gnn) — Papers on GNN expressivity research and improvements `paper-list` ⭐123 · 📅2023-11
+- 🔴 [awesome-expressive-gnn](https://github.com/mengliu1998/awesome-expressive-gnn) — Papers on GNN expressivity research and improvements `paper-list` ⭐122 · 📅2023-11
 
 ## 🛒 Recommender Systems (RecSys)
 
-- 🟢 [RSPapers](https://github.com/hongleizhang/RSPapers) — Must-read recommender system papers in 17 categories, updated weekly (incl. LLM/Agentic RS) `awesome` ⭐6.5k · 📅2026-03
+- 🟢 [RSPapers](https://github.com/hongleizhang/RSPapers) — Must-read recommender system papers in 17 categories, updated weekly (incl. LLM/Agentic RS) `awesome` ⭐6.5k · 📅2026-10
 - 🟢 [Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising](https://github.com/guyulongcs/Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising) — Deep learning papers for search, recommendation, and advertising `paper-list` ⭐2.6k · 📅2026-09
 - 🟢 [Awesome-LLM-for-RecSys](https://github.com/CHIANGEL/Awesome-LLM-for-RecSys) — LLM-related recommender system papers (with a TOIS-accepted survey) `survey` ⭐1.6k · 📅2026-10
 - 🟢 [Awesome-LLM4RS-Papers](https://github.com/nancheng58/Awesome-LLM4RS-Papers) — Papers on LLM-enhanced recommender systems `paper-list` ⭐767 · 📅2026-03
@@ -778,7 +777,7 @@ Types: `awesome`=curated list / `survey`=companion to a survey paper / `paper-li
 - 📑 [LLM4Rec-Awesome-Papers](https://github.com/WLiK/LLM4Rec-Awesome-Papers) — Papers and resources on recommender systems using LLMs (with survey) `survey` ⭐2.3k · 📅2025-03
 - 📑 [RecDebiasing](https://github.com/jiawei-chen/RecDebiasing) — Debiasing methods from the TOIS 2023 survey "Bias and Debias in Recommender System" `survey` ⭐469 · 📅2024-02
 - 📑 [Awesome-SSLRec-Papers](https://github.com/HKUDS/Awesome-SSLRec-Papers) — Companion to the ACM CSUR survey "Self-Supervised Learning for Recommendation" `survey` ⭐125 · 📅2024-08
-- 🔴 [Awesome-RSPapers](https://github.com/RUCAIBox/Awesome-RSPapers) — Comprehensive list of recommender system papers `paper-list` ⭐982 · 📅2022-10
+- 🔴 [Awesome-RSPapers](https://github.com/RUCAIBox/Awesome-RSPapers) — Comprehensive list of recommender system papers `paper-list` ⭐983 · 📅2022-10
 - 🔴 [CRSPapers](https://github.com/RUCAIBox/CRSPapers) — Paper list on conversational recommender systems (CRS) `paper-list` ⭐81 · 📅2022-11
 - 🔴 [Awesome-Sequence-Modeling-for-Recommendation](https://github.com/AiHubCN/Awesome-Sequence-Modeling-for-Recommendation) — Papers on sequential recommendation and sequence modeling `paper-list` ⭐39 · 📅2023-11
 - 🔴 [Awesome-Fairness-and-Diversity-Papers-in-Recommender-Systems](https://github.com/YuyingZhao/Awesome-Fairness-and-Diversity-Papers-in-Recommender-Systems) — Comprehensive organization of fairness and diversity research in recommender systems `paper-list` ⭐27 · 📅2023-06
@@ -786,10 +785,10 @@ Types: `awesome`=curated list / `survey`=companion to a survey paper / `paper-li
 ## 📈 Time Series
 
 - 🟢 [awesome-time-series-papers](https://github.com/TSCenter/awesome-time-series-papers) — Latest time-series papers and code from top AI conferences `paper-list` ⭐1.1k · 📅2026-10
-- 🟢 [Awesome_Imputation](https://github.com/WenjieDu/Awesome_Imputation) — Survey repository collecting papers and methods on time-series missing value imputation `survey` ⭐429 · 📅2026-08
-- 🟢 [awesome-time-series-forecasting](https://github.com/TongjiFinLab/awesome-time-series-forecasting) — Papers and code on time-series forecasting `paper-list` ⭐316 · 📅2026-06
+- 🟢 [Awesome_Imputation](https://github.com/WenjieDu/Awesome_Imputation) — Survey repository collecting papers and methods on time-series missing value imputation `survey` ⭐430 · 📅2026-08
+- 🟢 [awesome-time-series-forecasting](https://github.com/TongjiFinLab/awesome-time-series-forecasting) — Papers and code on time-series forecasting `paper-list` ⭐315 · 📅2026-10
 - 🟢 [Awesome-Anomaly-Detection-Foundation-Models](https://github.com/mala-lab/Awesome-Anomaly-Detection-Foundation-Models) — Papers on anomaly detection with foundation models `paper-list` ⭐224 · 📅2026-09
-- 🟢 [awesome-multivariate-time-series-anomaly-detection-algorithms](https://github.com/lzz19980125/awesome-multivariate-time-series-anomaly-detection-algorithms) — Paper list on multivariate time-series anomaly detection `paper-list` ⭐82 · 📅2026-08
+- 🟢 [awesome-multivariate-time-series-anomaly-detection-algorithms](https://github.com/lzz19980125/awesome-multivariate-time-series-anomaly-detection-algorithms) — Paper list on multivariate time-series anomaly detection `paper-list` ⭐81 · 📅2026-08
 - 📑 [time-series-transformers-review](https://github.com/qingsongedu/time-series-transformers-review) — Specialized review of Transformer resources for time series (papers/code/data) `survey` ⭐3k · 📅2024-08
 - 🟡 [awesome-TS-anomaly-detection](https://github.com/rob-med/awesome-TS-anomaly-detection) — List of tools and datasets for time-series anomaly detection `awesome` ⭐3.2k · 📅2024-10
 - 🟡 [awesome-AI-for-time-series-papers](https://github.com/qingsongedu/awesome-AI-for-time-series-papers) — Time-series AI papers, tutorials, and surveys from top venues `paper-list` ⭐1.6k · 📅2024-04
@@ -800,43 +799,43 @@ Types: `awesome`=curated list / `survey`=companion to a survey paper / `paper-li
 
 ## 🦾 AI Agents / LLM Agents
 
-- 🟢 [awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) — Large list of AI autonomous agents (projects/frameworks) `awesome` ⭐30.5k · 📅2026-08
+- 🟢 [awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) — Large list of AI autonomous agents (projects/frameworks) `awesome` ⭐30.6k · 📅2026-08
 - 🟢 [LLMAgentPapers](https://github.com/zjunlp/LLMAgentPapers) — Must-read papers on LLM agents `paper-list` ⭐3.1k · 📅2026-10
 - 🟢 [Awesome-Agent-Papers](https://github.com/luo-junyu/Awesome-Agent-Papers) — Papers from a survey on LLM agent methods, applications, and challenges `survey` ⭐2.9k · 📅2025-11
 - 🟢 [awesome-ai-agent-papers](https://github.com/VoltAgent/awesome-ai-agent-papers) — AI agent research papers (engineering, memory, evaluation, workflows) `paper-list` ⭐1.9k · 📅2026-10
 - 🟢 [awesome-multi-agent-papers](https://github.com/kyegomez/awesome-multi-agent-papers) — Curated collection of multi-agent papers (Swarms team) `awesome` ⭐1.7k · 📅2026-10
 - 🟢 [awesome-llm-agents](https://github.com/kaushikb11/awesome-llm-agents) — Curated list of LLM agent frameworks `awesome` ⭐1.6k · 📅2026-10
 - 🟢 [Awesome-AI-Agents](https://github.com/Jenqyang/Awesome-AI-Agents) — Collection of LLM-powered autonomous agents `awesome` ⭐1.3k · 📅2026-10
-- 🟢 [GUI-Agents-Paper-List](https://github.com/OSU-NLP-Group/GUI-Agents-Paper-List) — Curated list of GUI agent papers `paper-list` ⭐913 · 📅2026-10
-- 🟢 [Awesome-Memory-for-Agents](https://github.com/TsinghuaC3I/Awesome-Memory-for-Agents) — Papers on memory for language agents (user profiles, dialogue history) `paper-list` ⭐667 · 📅2026-09
+- 🟢 [GUI-Agents-Paper-List](https://github.com/OSU-NLP-Group/GUI-Agents-Paper-List) — Curated list of GUI agent papers `paper-list` ⭐917 · 📅2026-10
+- 🟢 [Awesome-Memory-for-Agents](https://github.com/TsinghuaC3I/Awesome-Memory-for-Agents) — Papers on memory for language agents (user profiles, dialogue history) `paper-list` ⭐668 · 📅2026-09
 - 🟢 [awesome-computer-use](https://github.com/ranpox/awesome-computer-use) — Videos, blogs, papers, and projects on computer-use GUI agents `awesome` ⭐586 · 📅2026-04
-- 🟢 [Awesome-GraphMemory](https://github.com/DEEP-PolyU/Awesome-GraphMemory) — Surveys, papers, and benchmarks on graph-based agent memory `survey` ⭐358 · 📅2026-06
+- 🟢 [Awesome-GraphMemory](https://github.com/DEEP-PolyU/Awesome-GraphMemory) — Surveys, papers, and benchmarks on graph-based agent memory `survey` ⭐361 · 📅2026-06
 - 🟢 [awesome-ui-agents](https://github.com/opendilab/awesome-ui-agents) — Continuously updated resources on UI agents across web/app/OS `awesome` ⭐320 · 📅2026-06
-- 📑 [LLM-Agent-Paper-List](https://github.com/WooooDyy/LLM-Agent-Paper-List) — Paper list for the 86-page survey "The Rise and Potential of LLM Based Agents" `survey` ⭐8.2k · 📅2025-09
+- 📑 [LLM-Agent-Paper-List](https://github.com/WooooDyy/LLM-Agent-Paper-List) — Paper list for the 86-page survey "The Rise and Potential of LLM Based Agents" `survey` ⭐8.3k · 📅2025-09
 - 🟡 [LLM-Agents-Papers](https://github.com/AGI-Edgerunners/LLM-Agents-Papers) — List of papers on LLM-based agents `paper-list` ⭐2.4k · 📅2025-07
 - 🟡 [awesome-llm-powered-agent](https://github.com/hyp1231/awesome-llm-powered-agent) — Papers, repos, and blogs on LLM-powered agents `awesome` ⭐2.3k · 📅2025-04
 - 🟡 [Awesome-GUI-Agent](https://github.com/showlab/Awesome-GUI-Agent) — Papers and resources on multimodal GUI agents `paper-list` ⭐1.2k · 📅2025-08
-- 🟡 [LLM-Planning-Papers](https://github.com/AGI-Edgerunners/LLM-Planning-Papers) — Must-read papers on planning with LLMs `paper-list` ⭐439 · 📅2024-07
+- 🟡 [LLM-Planning-Papers](https://github.com/AGI-Edgerunners/LLM-Planning-Papers) — Must-read papers on planning with LLMs `paper-list` ⭐440 · 📅2024-07
 - 🟡 [awesome-llm-agents](https://github.com/junhua/awesome-llm-agents) — High-quality papers and OSS projects on LLM agents `paper-list` ⭐90 · 📅2024-11
 - 🟡 [Awesome-LLM-based-MultiAgents](https://github.com/Andrewzh112/Awesome-LLM-based-MultiAgents) — Papers on LLM-based multi-agent systems `paper-list` ⭐28 · 📅2024-10
 - 🔴 [Multi-Agent-Papers](https://github.com/shizhl/Multi-Agent-Papers) — Must-read papers on multi-agent collaboration for complex tasks `paper-list` ⭐72 · 📅2023-11
 
 ## 🔬 Medical AI / AI for Science
 
+- 🟢 [awesome-ai-for-science](https://github.com/ai4s-research/awesome-ai-for-science) — AI tools and papers accelerating scientific discovery (physics, chemistry, biology, materials) `awesome` ⭐2.1k · 📅2026-10
 - 🟢 [MedLLMsPracticalGuide](https://github.com/AI-in-Health/MedLLMsPracticalGuide) — Practical guide to medical LLMs (published in Nature Reviews Bioengineering) `survey` ⭐2k · 📅2026-07
-- 🟢 [awesome-ai-for-science](https://github.com/ai4s-research/awesome-ai-for-science) — AI tools and papers accelerating scientific discovery (physics, chemistry, biology, materials) `awesome` ⭐2k · 📅2026-10
 - 🟢 [awesome-image-registration](https://github.com/Awesome-Image-Registration-Organization/awesome-image-registration) — Books, papers, and toolboxes across image registration `awesome` ⭐1.6k · 📅2026-10
 - 🟢 [MICCAI-OpenSourcePapers](https://github.com/JunMa11/MICCAI-OpenSourcePapers) — MICCAI 2019-2023 open-source papers organized in a table with code links `paper-list` ⭐1.3k · 📅2026-09
-- 🟢 [awesome-multimodal-in-medical-imaging](https://github.com/richard-peng-xia/awesome-multimodal-in-medical-imaging) — Resources on multimodal learning applied to medical imaging `awesome` ⭐984 · 📅2026-07
+- 🟢 [awesome-multimodal-in-medical-imaging](https://github.com/richard-peng-xia/awesome-multimodal-in-medical-imaging) — Resources on multimodal learning applied to medical imaging `awesome` ⭐985 · 📅2026-07
 - 🟢 [awesome-foundation-model-single-cell-papers](https://github.com/OmicsML/awesome-foundation-model-single-cell-papers) — Paper list specialized in single-cell foundation models `paper-list` ⭐592 · 📅2026-10
-- 🟢 [Awesome-Healthcare-Foundation-Models](https://github.com/Jianing-Qiu/Awesome-Healthcare-Foundation-Models) — Paper collection on healthcare foundation models `paper-list` ⭐526 · 📅2026-04
-- 🟢 [Awesome-Radiology-Report-Generation](https://github.com/mk-runner/Awesome-Radiology-Report-Generation) — Very active papers, datasets, and tools on radiology report generation `paper-list` ⭐488 · 📅2026-10
+- 🟢 [Awesome-Healthcare-Foundation-Models](https://github.com/Jianing-Qiu/Awesome-Healthcare-Foundation-Models) — Paper collection on healthcare foundation models `paper-list` ⭐524 · 📅2026-04
+- 🟢 [Awesome-Radiology-Report-Generation](https://github.com/mk-runner/Awesome-Radiology-Report-Generation) — Very active papers, datasets, and tools on radiology report generation `paper-list` ⭐491 · 📅2026-10
 - 🟢 [awesome-AI4MolConformation-MD](https://github.com/AspirinCode/awesome-AI4MolConformation-MD) — Papers on molecular conformation and molecular dynamics via generative AI/deep learning `paper-list` ⭐306 · 📅2026-10
 - 🟢 [Awesome-Earth-Artificial-Intelligence](https://github.com/ESIPFed/Awesome-Earth-Artificial-Intelligence) — Tutorials, software, datasets, and papers on Earth science AI `awesome` ⭐252 · 📅2026-10
 - 🟢 [awesome-mmps](https://github.com/willxxy/awesome-mmps) — Active resources and datasets on physiological signals (EEG/ECG/EMG) × machine learning `awesome` ⭐168 · 📅2026-07
-- 🟢 [awesome-drug-discovery](https://github.com/yboulaamane/awesome-drug-discovery) — Curated resource list focused on computational drug discovery methods `awesome` ⭐156 · 📅2026-09
-- 🟢 [awesome-pathology](https://github.com/open-pathology/awesome-pathology) — Resources on digital/computational pathology (self-supervised learning, feature extraction, datasets) `awesome` ⭐137 · 📅2026-02
-- 🟢 [SurvivalAnalysisPapers](https://github.com/shi-ang/SurvivalAnalysisPapers) — Active papers and resources on survival analysis organized by category `paper-list` ⭐100 · 📅2026-07
+- 🟢 [awesome-drug-discovery](https://github.com/yboulaamane/awesome-drug-discovery) — Curated resource list focused on computational drug discovery methods `awesome` ⭐156 · 📅2026-10
+- 🟢 [awesome-pathology](https://github.com/open-pathology/awesome-pathology) — Resources on digital/computational pathology (self-supervised learning, feature extraction, datasets) `awesome` ⭐139 · 📅2026-02
+- 🟢 [SurvivalAnalysisPapers](https://github.com/shi-ang/SurvivalAnalysisPapers) — Active papers and resources on survival analysis organized by category `paper-list` ⭐101 · 📅2026-07
 - 🟢 [Awesome-DL-for-Medical-Imaging-Segmentation](https://github.com/faresbougourzi/Awesome-DL-for-Medical-Imaging-Segmentation) — Deep learning papers on medical image segmentation `paper-list` ⭐68 · 📅2026-07
 - 🟢 [awesome-bci-reviews](https://github.com/okbalefthanded/awesome-bci-reviews) — Active peer-reviewed BCI reviews and surveys organized chronologically `survey` ⭐52 · 📅2026-10
 - 🟢 [Awesome-MICCAI-2026](https://github.com/ambicuity/Awesome-MICCAI-2026) — MICCAI 2026 papers auto-collected from arXiv, bot-updated daily, classified by area `paper-list` ⭐50 · 📅2026-09
@@ -850,13 +849,13 @@ Types: `awesome`=curated list / `survey`=companion to a survey paper / `paper-li
 - 📑 [Awesome-Active-Learning-for-Medical-Image-Analysis](https://github.com/LightersWang/Awesome-Active-Learning-for-Medical-Image-Analysis) — Survey papers and code on active learning for medical image analysis `survey` ⭐135 · 📅2025-06
 - 📑 [MedImgReg_Survey](https://github.com/JHU-MedImage-Reg/MedImgReg_Survey) — Papers on learning-based medical image registration plus loss/metric implementations `survey` ⭐124 · 📅2025-05
 - 🟡 [awesome-deep-learning-single-cell-papers](https://github.com/OmicsML/awesome-deep-learning-single-cell-papers) — Latest single-cell analysis × deep learning papers organized into 30+ tasks `paper-list` ⭐867 · 📅2025-04
-- 🟡 [awesome-protein-representation-learning](https://github.com/LirongWu/awesome-protein-representation-learning) — Papers on protein representation learning (including AlphaFold) `paper-list` ⭐684 · 📅2024-11
-- 🟡 [Awesome-Medical-Large-Language-Models](https://github.com/burglarhobbit/Awesome-Medical-Large-Language-Models) — Curated collection of LLM papers in the medical/healthcare domain `paper-list` ⭐392 · 📅2025-05
+- 🟡 [awesome-protein-representation-learning](https://github.com/LirongWu/awesome-protein-representation-learning) — Papers on protein representation learning (including AlphaFold) `paper-list` ⭐683 · 📅2024-11
+- 🟡 [Awesome-Medical-Large-Language-Models](https://github.com/burglarhobbit/Awesome-Medical-Large-Language-Models) — Curated collection of LLM papers in the medical/healthcare domain `paper-list` ⭐393 · 📅2025-05
 - 🟡 [Awesome-LWMs](https://github.com/jaychempan/Awesome-LWMs) — Collection of Large Weather Models (LWMs) (AI4Earth) `awesome` ⭐377 · 📅2025-06
 - 🟡 [awesome-AI-based-protein-design](https://github.com/opendilab/awesome-AI-based-protein-design) — Research papers on AI-based protein design `paper-list` ⭐319 · 📅2024-05
-- 🟡 [Awesome-AI4BCI](https://github.com/Deepak-Mewada/Awesome-AI4BCI) — Resources on deep learning models for brain signal encoding/decoding `paper-list` ⭐18 · 📅2025-09
-- 🔴 [awesome-ehr-deeplearning](https://github.com/hurcy/awesome-ehr-deeplearning) — Papers on EHR mining, machine learning, and deep learning `awesome` ⭐430 · 📅2022-10
-- 🔴 [Awesome-LLM-Healthcare](https://github.com/mingze-yuan/Awesome-LLM-Healthcare) — Paper list corresponding to a review of LLMs in healthcare `paper-list` ⭐276 · 📅2023-12
+- 🟡 [Awesome-AI4BCI](https://github.com/Deepak-Mewada/Awesome-AI4BCI) — Resources on deep learning models for brain signal encoding/decoding `paper-list` ⭐19 · 📅2025-09
+- 🔴 [awesome-ehr-deeplearning](https://github.com/hurcy/awesome-ehr-deeplearning) — Papers on EHR mining, machine learning, and deep learning `awesome` ⭐431 · 📅2022-10
+- 🔴 [Awesome-LLM-Healthcare](https://github.com/mingze-yuan/Awesome-LLM-Healthcare) — Paper list corresponding to a review of LLMs in healthcare `paper-list` ⭐277 · 📅2023-12
 - 🔴 [Physiological-Signal-Classification-Papers](https://github.com/ziyujia/Physiological-Signal-Classification-Papers) — Papers on EEG/ECG/EMG/EOG classification organized by task `paper-list` ⭐253 · 📅2022-07
 - 🔴 [awesome-radiology-report-generation](https://github.com/zhjohnchan/awesome-radiology-report-generation) — Curated list on radiology/medical report generation and related areas `awesome` ⭐181 · 📅2022-05
 - 🔴 [awesome-structural-bioinformatics](https://github.com/twoXes/awesome-structural-bioinformatics) — Resources on structural bioinformatics `awesome` ⭐81 · 📅2023-05
@@ -874,27 +873,27 @@ Types: `awesome`=curated list / `survey`=companion to a survey paper / `paper-li
 - 🟢 [Awesome-Remote-Sensing-Foundation-Models](https://github.com/Jack-bo1220/Awesome-Remote-Sensing-Foundation-Models) — Active coverage of RSFM papers, datasets, benchmarks, and pretrained weights `paper-list` ⭐2k · 📅2026-05
 - 🟢 [awesome-agriculture](https://github.com/brycejohnston/awesome-agriculture) — Classic list of OSS tech for agriculture/farming/horticulture (ML, GIS, remote sensing, robotics) `awesome` ⭐1.9k · 📅2026-01
 - 🟢 [awesome-search](https://github.com/frutik/awesome-search) — Covers e-commerce search plus semantic search, LTR, query understanding, and search quality `awesome` ⭐1.6k · 📅2026-10
-- 🟢 [best-of-atomistic-machine-learning](https://github.com/JuDFTteam/best-of-atomistic-machine-learning) — Active scored ranking of ~510 atomistic machine learning projects `awesome` ⭐729 · 📅2026-10
+- 🟢 [best-of-atomistic-machine-learning](https://github.com/JuDFTteam/best-of-atomistic-machine-learning) — Active scored ranking of ~510 atomistic machine learning projects `awesome` ⭐731 · 📅2026-10
 - 🟢 [Awesome-Scientific-Language-Models](https://github.com/yuzhimanhua/Awesome-Scientific-Language-Models) — Comprehensive survey of domain pretrained models across math, physics, chemistry, materials, biology, geoscience `survey` ⭐665 · 📅2026-09
-- 🟢 [awesome-materials-informatics](https://github.com/tilde-lab/awesome-materials-informatics) — Collection of materials informatics efforts in modern materials science `awesome` ⭐532 · 📅2026-03
-- 🟢 [awesome-digital-humanities](https://github.com/dh-tech/awesome-digital-humanities) — Software for quantitative/computational methods for humanists (NLP, topic models, text analysis) `awesome` ⭐423 · 📅2026-10
+- 🟢 [awesome-materials-informatics](https://github.com/tilde-lab/awesome-materials-informatics) — Collection of materials informatics efforts in modern materials science `awesome` ⭐533 · 📅2026-03
+- 🟢 [awesome-digital-humanities](https://github.com/dh-tech/awesome-digital-humanities) — Software for quantitative/computational methods for humanists (NLP, topic models, text analysis) `awesome` ⭐424 · 📅2026-10
 - 🟢 [AwesomeLLM4SE](https://github.com/iSEngLab/AwesomeLLM4SE) — LLM papers across all software engineering areas: requirements, development, testing, maintenance `survey` ⭐349 · 📅2026-04
 - 🟢 [awesome-legal-nlp](https://github.com/maastrichtlawtech/awesome-legal-nlp) — LegalNLP resources (judgment prediction, contract classification, case retrieval, legal QA) `awesome` ⭐345 · 📅2025-10
-- 🟢 [awesome-ai-llm4education](https://github.com/GeminiLight/awesome-ai-llm4education) — Collection of educational AI/LLM papers from top venues `paper-list` ⭐220 · 📅2026-10
-- 🟢 [awesome-pinns](https://github.com/AI-in-Transportation-Lab/awesome-pinns) — Curated libraries, papers, and tutorials on PINNs/physics-informed ML `awesome` ⭐144 · 📅2026-10
-- 🟢 [PINN_Paper_List](https://github.com/Event-AHU/PINN_Paper_List) — Paper list on physics-informed neural networks (PINN) `paper-list` ⭐99 · 📅2026-08
-- 📑 [FinLLMs](https://github.com/adlnlp/FinLLMs) — Related research, benchmarks, and datasets for the paper "Large Language Models in Finance" `survey` ⭐389 · 📅2025-04
-- 📑 [DL4TP](https://github.com/zhaoyu-li/DL4TP) — Survey of deep learning for theorem proving, classified by autoformalization, proof search, etc. `survey` ⭐229 · 📅2025-05
+- 🟢 [awesome-ai-llm4education](https://github.com/GeminiLight/awesome-ai-llm4education) — Collection of educational AI/LLM papers from top venues `paper-list` ⭐221 · 📅2026-10
+- 🟢 [awesome-pinns](https://github.com/AI-in-Transportation-Lab/awesome-pinns) — Curated libraries, papers, and tutorials on PINNs/physics-informed ML `awesome` ⭐145 · 📅2026-10
+- 🟢 [PINN_Paper_List](https://github.com/Event-AHU/PINN_Paper_List) — Paper list on physics-informed neural networks (PINN) `paper-list` ⭐99 · 📅2026-10
+- 📑 [FinLLMs](https://github.com/adlnlp/FinLLMs) — Related research, benchmarks, and datasets for the paper "Large Language Models in Finance" `survey` ⭐388 · 📅2025-04
+- 📑 [DL4TP](https://github.com/zhaoyu-li/DL4TP) — Survey of deep learning for theorem proving, classified by autoformalization, proof search, etc. `survey` ⭐230 · 📅2025-05
 - 📑 [awesome-RSFMs](https://github.com/xiaoaoran/awesome-RSFMs) — Official repo for the survey "Foundation Models for Remote Sensing and Earth Observation" `survey` ⭐53 · 📅2024-11
 - 🟡 [Awesome-Quant-Machine-Learning-Trading](https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading) — Resources on quant/algorithmic trading with an emphasis on machine learning `awesome` ⭐4.1k · 📅2025-05
-- 🟡 [awesome-ai4lam](https://github.com/AI4LAM/awesome-ai4lam) — AI projects, cases, and resources for libraries/archives/museums (GLAM/LAM) (run by AI4LAM) `awesome` ⭐191 · 📅2024-06
+- 🟡 [awesome-ai4lam](https://github.com/AI4LAM/awesome-ai4lam) — AI projects, cases, and resources for libraries/archives/museums (GLAM/LAM) (run by AI4LAM) `awesome` ⭐192 · 📅2024-06
 - 🟡 [Awesome-LLM4Math](https://github.com/tongyx361/Awesome-LLM4Math) — High-quality curated list of LLM math reasoning (training data, SFT, RL, benchmarks) `paper-list` ⭐160 · 📅2024-07
-- 🟡 [Awesome-Education-LLM](https://github.com/Geralt-Targaryen/Awesome-Education-LLM) — Organized LLM research/applications for education (teaching support, question generation, auto-grading) `paper-list` ⭐80 · 📅2024-09
+- 🟡 [Awesome-Education-LLM](https://github.com/Geralt-Targaryen/Awesome-Education-LLM) — Organized LLM research/applications for education (teaching support, question generation, auto-grading) `paper-list` ⭐81 · 📅2024-09
 - 🟡 [LLM_X_papers](https://github.com/czyssrs/LLM_X_papers) — Continuously updated reading list of LLM papers in finance, healthcare, and law `paper-list` ⭐55 · 📅2025-02
 - 🔴 [awesome-machine-learning-on-source-code](https://github.com/src-d/awesome-machine-learning-on-source-code) — Papers and links on machine learning applied to source code (MLonCode) `awesome` ⭐6.7k · 📅2020-12
 - 🔴 [PINNpapers](https://github.com/idrl-lab/PINNpapers) — Must-read PINN papers organized by parallelization, acceleration, transfer learning, UQ, applications `paper-list` ⭐1.6k · 📅2023-12
 - 🔴 [LLM4SoftwareTesting](https://github.com/LLM-Testing/LLM4SoftwareTesting) — Papers on test generation and test completion using LLMs `paper-list` ⭐530 · 📅2024-01
-- 🔴 [Awesome-LegalAI-Resources](https://github.com/CSHaitao/Awesome-LegalAI-Resources) — Aggregated corpora, benchmarks, and QA/summarization datasets for judicial AI `awesome` ⭐315 · 📅2023-07
+- 🔴 [Awesome-LegalAI-Resources](https://github.com/CSHaitao/Awesome-LegalAI-Resources) — Aggregated corpora, benchmarks, and QA/summarization datasets for judicial AI `awesome` ⭐316 · 📅2023-07
 - 🔴 [awesome-ai4eda](https://github.com/Thinklab-SJTU/awesome-ai4eda) — Papers on AI applied to electronic design automation (EDA, chip design) `paper-list` ⭐215 · 📅2023-12
 - 🔴 [awesome-program](https://github.com/shaohua0116/awesome-program) — Papers on program synthesis, induction, execution, repair, and programmatic RL `paper-list` ⭐170 · 📅2021-10
 - 🔴 [Awesome-Precision-Agriculture](https://github.com/px39n/Awesome-Precision-Agriculture) — Papers on yield prediction, crop detection, weed detection via UAVs and deep learning `paper-list` ⭐145 · 📅2020-09
@@ -907,13 +906,13 @@ Types: `awesome`=curated list / `survey`=companion to a survey paper / `paper-li
 - 🟢 [Awesome-Trajectory-Motion-Prediction-Papers](https://github.com/colorfulfuture/Awesome-Trajectory-Motion-Prediction-Papers) — Comprehensive collection of trajectory/motion prediction papers `paper-list` ⭐1.1k · 📅2026-07
 - 🟢 [awesome-end-to-end-autonomous-driving](https://github.com/opendilab/awesome-end-to-end-autonomous-driving) — Continuously updated list of resources on end-to-end autonomous driving `awesome` ⭐502 · 📅2026-06
 - 📑 [Birds-eye-view-Perception](https://github.com/OpenDriveLab/Birds-eye-view-Perception) — BEV perception research and cookbook (IEEE T-PAMI 2023) `survey` ⭐1.4k · 📅2025-07
-- 📑 [Awesome-Data-Centric-Autonomous-Driving](https://github.com/LincanLi-X/Awesome-Data-Centric-Autonomous-Driving) — Official repo for a survey on data-centric autonomous driving `survey` ⭐171 · 📅2024-03
+- 📑 [Awesome-Data-Centric-Autonomous-Driving](https://github.com/LincanLi-X/Awesome-Data-Centric-Autonomous-Driving) — Official repo for a survey on data-centric autonomous driving `survey` ⭐172 · 📅2024-03
 - 🟡 [awesome-lane-detection](https://github.com/amusi/awesome-lane-detection) — Paper list on lane detection `paper-list` ⭐3.1k · 📅2024-08
 - 🟡 [Awesome-Autonomous-Driving](https://github.com/autodriving-heart/Awesome-Autonomous-Driving) — Awesome list across autonomous driving `awesome` ⭐1.2k · 📅2024-08
 - 🟡 [awesome-knowledge-driven-AD](https://github.com/PJLab-ADG/awesome-knowledge-driven-AD) — Curated papers on knowledge-driven autonomous driving `paper-list` ⭐500 · 📅2024-06
 - 🟡 [Awesome-Autonomous-Driving](https://github.com/PeterJaq/Awesome-Autonomous-Driving) — Broad list across autonomous driving `awesome` ⭐358 · 📅2024-08
-- 🟡 [Awesome-occupancy-perception](https://github.com/autodriving-heart/Awesome-occupancy-perception) — Collection of occupancy perception papers `paper-list` ⭐311 · 📅2024-08
-- 🟡 [CVPR-2024-Papers-Autonomous-Driving](https://github.com/autodriving-heart/CVPR-2024-Papers-Autonomous-Driving) — Paper list of CVPR 2024 autonomous driving papers `paper-list` ⭐256 · 📅2024-08
+- 🟡 [Awesome-occupancy-perception](https://github.com/autodriving-heart/Awesome-occupancy-perception) — Collection of occupancy perception papers `paper-list` ⭐310 · 📅2024-08
+- 🟡 [CVPR-2024-Papers-Autonomous-Driving](https://github.com/autodriving-heart/CVPR-2024-Papers-Autonomous-Driving) — Paper list of CVPR 2024 autonomous driving papers `paper-list` ⭐258 · 📅2024-08
 - 🟡 [CVPR2025-Papers-about-Autonomous-Driving-and-Embodied-AI](https://github.com/autodriving-heart/CVPR2025-Papers-about-Autonomous-Driving-and-Embodied-AI) — Paper list of CVPR 2025 autonomous driving and embodied AI papers `paper-list` ⭐35 · 📅2025-04
 - 🔴 [Awesome-Occupancy-Prediction-Autonomous-Driving](https://github.com/chaytonmin/Awesome-Occupancy-Prediction-Autonomous-Driving) — Papers on multi-camera semantic occupancy prediction (Occ3D, etc.) `paper-list` ⭐268 · 📅2023-07
 - 🔴 [awesome-driving-behavior-prediction](https://github.com/opendilab/awesome-driving-behavior-prediction) — Research papers on driving behavior prediction `paper-list` ⭐84 · 📅2022-12
@@ -929,33 +928,33 @@ Types: `awesome`=curated list / `survey`=companion to a survey paper / `paper-li
 - 🟢 [awesome-fraud-detection-papers](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers) — Classic list of fraud detection data mining papers (ICDM/KDD/SDM, etc.) `paper-list` ⭐1.8k · 📅2026-01
 - 🟢 [Awesome-Jailbreak-on-LLMs](https://github.com/yueliu1999/Awesome-Jailbreak-on-LLMs) — Very active papers, code, datasets, and evaluations on LLM jailbreak methods `paper-list` ⭐1.7k · 📅2026-10
 - 🟢 [Awesome-explainable-AI](https://github.com/wangyongjie-ntu/Awesome-explainable-AI) — Research resources on explainable AI/ML `paper-list` ⭐1.7k · 📅2026-08
-- 🟢 [awesome-machine-unlearning](https://github.com/tamlhp/awesome-machine-unlearning) — Official list for a machine unlearning survey, covering methods, datasets, and metrics `awesome` ⭐974 · 📅2026-08
-- 🟢 [awesome-llm-unlearning](https://github.com/chrisliu298/awesome-llm-unlearning) — Papers, surveys, and benchmarks on machine unlearning for LLMs `paper-list` ⭐630 · 📅2026-10
-- 🟢 [awesome-trustworthy-deep-learning](https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning) — Trustworthiness papers (OOD generalization, adversarial examples, backdoors, etc.), updated daily `paper-list` ⭐394 · 📅2026-08
+- 🟢 [awesome-machine-unlearning](https://github.com/tamlhp/awesome-machine-unlearning) — Official list for a machine unlearning survey, covering methods, datasets, and metrics `awesome` ⭐976 · 📅2026-08
+- 🟢 [awesome-llm-unlearning](https://github.com/chrisliu298/awesome-llm-unlearning) — Papers, surveys, and benchmarks on machine unlearning for LLMs `paper-list` ⭐635 · 📅2026-10
+- 🟢 [awesome-trustworthy-deep-learning](https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning) — Trustworthiness papers (OOD generalization, adversarial examples, backdoors, etc.), updated daily `paper-list` ⭐395 · 📅2026-08
 - 🟢 [membership-inference-machine-learning-literature](https://github.com/HongshengHu/membership-inference-machine-learning-literature) — Literature specialized in membership inference attacks `paper-list` ⭐375 · 📅2026-10
-- 🟢 [Awesome-AI-for-cybersecurity](https://github.com/Billy1900/Awesome-AI-for-cybersecurity) — AI list covering network intrusion detection, anti-malware, WAF, and fraud prevention `awesome` ⭐272 · 📅2026-10
+- 🟢 [Awesome-AI-for-cybersecurity](https://github.com/Billy1900/Awesome-AI-for-cybersecurity) — AI list covering network intrusion detection, anti-malware, WAF, and fraud prevention `awesome` ⭐274 · 📅2026-10
+- 🟢 [Awesome-Backdoor-Research](https://github.com/zihao-ai/Awesome-Backdoor-Research) — Active papers organizing backdoor attacks and defenses by attack type and defense stage `paper-list` ⭐244 · 📅2026-10
 - 🟢 [Awesome-model-inversion-attack](https://github.com/AndrewZhou924/Awesome-model-inversion-attack) — Official list for a model inversion attack survey, organized by CV/graph/NLP `paper-list` ⭐225 · 📅2026-08
 - 🟢 [Awesome-LMMs-Mechanistic-Interpretability](https://github.com/itsqyh/Awesome-LMMs-Mechanistic-Interpretability) — Active resources on mechanistic interpretability of large multimodal models' internal representations `survey` ⭐223 · 📅2026-03
 - 🟢 [Awesome-GenAI-Unlearning](https://github.com/franciscoliu/Awesome-GenAI-Unlearning) — Generative AI unlearning papers organized by modality and use case `paper-list` ⭐188 · 📅2026-04
-- 🟢 [OpenRedTeaming](https://github.com/Libr-AI/OpenRedTeaming) — Collection of LLM/multimodal red-teaming papers (30+ method implementations) `paper-list` ⭐179 · 📅2026-07
+- 🟢 [OpenRedTeaming](https://github.com/Libr-AI/OpenRedTeaming) — Collection of LLM/multimodal red-teaming papers (30+ method implementations) `paper-list` ⭐180 · 📅2026-07
 - 🟢 [awesome-mechanistic-interpretability](https://github.com/AI-in-Transportation-Lab/awesome-mechanistic-interpretability) — Resources on mechanistic interpretability—reverse-engineering neural nets into understandable components `awesome` ⭐168 · 📅2026-10
-- 🟢 [Awesome-GenAI-Watermarking](https://github.com/and-mill/Awesome-GenAI-Watermarking) — Active organization of watermarking methods for generative AI by image/audio/text `awesome` ⭐146 · 📅2026-08
+- 🟢 [Awesome-GenAI-Watermarking](https://github.com/and-mill/Awesome-GenAI-Watermarking) — Active organization of watermarking methods for generative AI by image/audio/text `awesome` ⭐147 · 📅2026-10
 - 🟢 [awesome-fraud-detection](https://github.com/AI4Risk/awesome-fraud-detection) — Active papers and code on GNN-based financial fraud detection (with survey) `paper-list` ⭐53 · 📅2026-10
 - 📑 [Awesome-LLM-Safety-Papers](https://github.com/tjunlp-lab/Awesome-LLM-Safety-Papers) — Survey paper list on LLM safety `survey` ⭐57 · 📅2024-12
 - 🟡 [awesome-ml-for-cybersecurity](https://github.com/jivoi/awesome-ml-for-cybersecurity) — Classic list of tools, papers, and materials using ML for malware/intrusion detection `awesome` ⭐9.5k · 📅2024-08
 - 🟡 [awesome-llm-security](https://github.com/corca-ai/awesome-llm-security) — Tools, literature, and projects on LLM security `awesome` ⭐1.7k · 📅2025-08
 - 🟡 [TAADpapers](https://github.com/thunlp/TAADpapers) — Must-read papers on textual adversarial attacks and defenses (TAAD) `paper-list` ⭐1.6k · 📅2025-06
-- 🟡 [prompt-injection-defenses](https://github.com/tldrsec/prompt-injection-defenses) — Coverage of practical and proposed defenses against prompt injection `awesome` ⭐739 · 📅2025-02
+- 🟡 [prompt-injection-defenses](https://github.com/tldrsec/prompt-injection-defenses) — Coverage of practical and proposed defenses against prompt injection `awesome` ⭐740 · 📅2025-02
 - 🟡 [awesome-ai-safety](https://github.com/Giskard-AI/awesome-ai-safety) — Curated papers and technical articles on AI quality and safety `paper-list` ⭐226 · 📅2025-04
-- 🟡 [trojai-literature](https://github.com/usnistgov/trojai-literature) — NIST-maintained overview of AI trojan attack research literature `paper-list` ⭐154 · 📅2024-10
+- 🟡 [trojai-literature](https://github.com/usnistgov/trojai-literature) — NIST-maintained overview of AI trojan attack research literature `paper-list` ⭐156 · 📅2024-10
 - 🟡 [Learning-Deep-Hiding](https://github.com/TracyCuiq/Learning-Deep-Hiding) — Systematic organization of "deep hiding" papers including image steganography and watermarking `paper-list` ⭐69 · 📅2024-06
 - 🔴 [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning) — Classic curation of adversarial machine learning papers, blogs, and talks `awesome` ⭐1.9k · 📅2020-11
 - 🔴 [awesome-interpretable-machine-learning](https://github.com/lopusz/awesome-interpretable-machine-learning) — Resource list on interpretable machine learning `awesome` ⭐917 · 📅2023-03
 - 🔴 [awesome-ml-privacy-attacks](https://github.com/stratosphereips/awesome-ml-privacy-attacks) — Paper list covering membership inference, model inversion, attribute inference, and model extraction `awesome` ⭐644 · 📅2024-03
-- 🔴 [awesome-fairness-in-ai](https://github.com/datamllab/awesome-fairness-in-ai) — Curated collection of resources on fairness in AI `awesome` ⭐339 · 📅2023-09
-- 🔴 [Awesome-Backdoor-in-Deep-Learning](https://github.com/zihao-ai/Awesome-Backdoor-in-Deep-Learning) — Active papers organizing backdoor attacks and defenses by attack type and defense stage `paper-list` ⭐243 · 📅2024-03
+- 🔴 [awesome-fairness-in-ai](https://github.com/datamllab/awesome-fairness-in-ai) — Curated collection of resources on fairness in AI `awesome` ⭐340 · 📅2023-09
 - 🔴 [awesome-xai](https://github.com/altamiracorp/awesome-xai) — Papers and resources on explainable AI (XAI) and interpretable ML `awesome` ⭐199 · 📅2021-05
-- 🔴 [awesome-ai-alignment](https://github.com/dit7ya/awesome-ai-alignment) — Curated list of resources on AI alignment research `awesome` ⭐83 · 📅2023-07
+- 🔴 [awesome-ai-alignment](https://github.com/dit7ya/awesome-ai-alignment) — Curated list of resources on AI alignment research `awesome` ⭐84 · 📅2023-07
 - 🔴 [awesome-ml-fairness](https://github.com/brandeis-machine-learning/awesome-ml-fairness) — Papers and resources on fairness in machine learning `paper-list` ⭐74 · 📅2023-05
 - 🔴 [awesome-ai-safety](https://github.com/hari-sikchi/awesome-ai-safety) — List of papers, projects, and communities on AI safety `awesome` ⭐72 · 📅2020-02
 - 🔴 [awesome-data-poisoning](https://github.com/ch-shin/awesome-data-poisoning) — Papers on data poisoning attacks and defenses from top conferences `awesome` ⭐28 · 📅2022-09
@@ -965,7 +964,7 @@ Types: `awesome`=curated list / `survey`=companion to a survey paper / `paper-li
 ## ⚖️ AI Ethics / Governance / Regulation / HCI
 
 - 🟢 [awesome-artificial-intelligence-regulation](https://github.com/EthicalML/awesome-artificial-intelligence-regulation) — Coverage of AI regulations, guidelines, ethics, and standards by region/country `awesome` ⭐1.5k · 📅2026-10
-- 🟢 [awesome-computational-social-science](https://github.com/gesiscss/awesome-computational-social-science) — Comprehensive list of computational social science books, courses, and OSS resources (GESIS) `awesome` ⭐953 · 📅2026-10
+- 🟢 [awesome-computational-social-science](https://github.com/gesiscss/awesome-computational-social-science) — Comprehensive list of computational social science books, courses, and OSS resources (GESIS) `awesome` ⭐958 · 📅2026-10
 - 🟢 [Awesome-LLM-in-Social-Science](https://github.com/ValueByte-AI/Awesome-LLM-in-Social-Science) — Papers applying LLMs to social science `paper-list` ⭐652 · 📅2026-09
 - 🟢 [AwesomeResponsibleAI](https://github.com/AthenaCore/AwesomeResponsibleAI) — Responsible AI research, books, regulations, maturity models, and tools across 17 areas `awesome` ⭐155 · 📅2026-09
 - 🟢 [Awesome-LLM-Psychometrics](https://github.com/ValueByte-AI/Awesome-LLM-Psychometrics) — Papers on LLM personality, values, theory of mind, and cognition from a psychometrics view `survey` ⭐140 · 📅2026-08
@@ -975,7 +974,7 @@ Types: `awesome`=curated list / `survey`=companion to a survey paper / `paper-li
 ## ⚡ Efficiency (Compression/Quantization/NAS/AutoML)
 
 - 🟢 [Awesome-Model-Quantization](https://github.com/AI-Efficiency/Awesome-Model-Quantization) — List of papers, code, and docs on model quantization `paper-list` ⭐2.5k · 📅2026-10
-- 🟢 [Awesome-LLM-Compression](https://github.com/HuangOwen/Awesome-LLM-Compression) — Papers and tools on LLM compression (quantization, pruning, distillation) `awesome` ⭐1.9k · 📅2026-08
+- 🟢 [Awesome-LLM-Compression](https://github.com/HuangOwen/Awesome-LLM-Compression) — Papers and tools on LLM compression (quantization, pruning, distillation) `awesome` ⭐1.9k · 📅2026-10
 - 🟢 [tinyml-papers-and-projects](https://github.com/gigwegbe/tinyml-papers-and-projects) — Actively updated papers and projects on TinyML `paper-list` ⭐1k · 📅2025-12
 - 🟢 [awesome-AutoML](https://github.com/windmaple/awesome-AutoML) — Curated list on AutoML `awesome` ⭐945 · 📅2026-03
 - 🟢 [awesome-edge-machine-learning](https://github.com/Bisonai/awesome-edge-machine-learning) — Papers, inference engines, challenges, and books on edge machine learning `awesome` ⭐281 · 📅2026-10
@@ -1000,7 +999,7 @@ Types: `awesome`=curated list / `survey`=companion to a survey paper / `paper-li
 
 ## 🔐 Federated Learning / Privacy
 
-- 🟢 [Awesome-ML-SP-Papers](https://github.com/gnipping/Awesome-ML-SP-Papers) — ML Security & Privacy papers from the top 4 security conferences `paper-list` ⭐368 · 📅2025-11
+- 🟢 [Awesome-ML-SP-Papers](https://github.com/gnipping/Awesome-ML-SP-Papers) — ML Security & Privacy papers from the top 4 security conferences `paper-list` ⭐366 · 📅2025-11
 - 🟡 [awesome-federated-learning](https://github.com/poga/awesome-federated-learning) — Resources on federated learning and privacy in ML `awesome` ⭐544 · 📅2024-06
 - 🟡 [Awesome-Differential-Privacy-and-Meachine-Learning](https://github.com/JeffffffFu/Awesome-Differential-Privacy-and-Meachine-Learning) — Papers and implementations on federated learning/ML with differential privacy `paper-list` ⭐386 · 📅2025-09
 - 🔴 [Awesome-Federated-Learning](https://github.com/chaoyanghe/Awesome-Federated-Learning) — Federated learning research and production integration (FedML-linked) `paper-list` ⭐2k · 📅2022-09
@@ -1011,7 +1010,7 @@ Types: `awesome`=curated list / `survey`=companion to a survey paper / `paper-li
 ## ♻️ Continual Learning
 
 - 🟢 [Awesome-Incremental-Learning](https://github.com/xialeiliu/Awesome-Incremental-Learning) — Major-conference papers on incremental learning, continual learning, and catastrophic forgetting `paper-list` ⭐4.5k · 📅2026-10
-- 📑 [awesome-lifelong-learning-methods-for-llm](https://github.com/zzz47zzz/awesome-lifelong-learning-methods-for-llm) — Surveys and papers on lifelong learning for LLMs `survey` ⭐167 · 📅2025-05
+- 📑 [awesome-lifelong-learning-methods-for-llm](https://github.com/zzz47zzz/awesome-lifelong-learning-methods-for-llm) — Surveys and papers on lifelong learning for LLMs `survey` ⭐166 · 📅2025-05
 - 🟡 [Best-Incremental-Learning](https://github.com/Vision-Intelligence-and-Robots-Group/Best-Incremental-Learning) — Repository on incremental, continual, and lifelong learning `paper-list` ⭐616 · 📅2024-05
 - 🟡 [Awesome-Continual-Learning](https://github.com/feifeiobama/Awesome-Continual-Learning) — Curated list of continual learning papers with BibTeX entries `paper-list` ⭐206 · 📅2024-10
 - 🔴 [awesome-lifelong-continual-learning](https://github.com/prprbr/awesome-lifelong-continual-learning) — List of papers, blogs, datasets, and software on lifelong/continual learning `awesome` ⭐297 · 📅2021-03
@@ -1023,11 +1022,11 @@ Types: `awesome`=curated list / `survey`=companion to a survey paper / `paper-li
 - 🟢 [awesome-vector-search](https://github.com/currentslab/awesome-vector-search) — Vector search libraries, services, and papers (Faiss, Annoy, etc.) `awesome` ⭐1.6k · 📅2026-07
 - 🟢 [rtdl](https://github.com/yandex-research/rtdl) — Papers and packages for deep learning on tabular data (Yandex Research) `paper-list` ⭐1.2k · 📅2026-04
 - 🟢 [ML4DB-paper-list](https://github.com/LumingSun/ML4DB-paper-list) — Papers on enhancing DB systems with AI (learned indexes, query optimization) `paper-list` ⭐790 · 📅2026-04
-- 🟢 [ml-systems-papers](https://github.com/byungsoo-oh/ml-systems-papers) — Systematically collected papers in ML systems `paper-list` ⭐658 · 📅2026-10
-- 🟢 [awesome-AI-system](https://github.com/lambda7xx/awesome-AI-system) — List of AI systems papers and their code `paper-list` ⭐380 · 📅2026-05
+- 🟢 [ml-systems-papers](https://github.com/byungsoo-oh/ml-systems-papers) — Systematically collected papers in ML systems `paper-list` ⭐657 · 📅2026-10
+- 🟢 [awesome-AI-system](https://github.com/lambda7xx/awesome-AI-system) — List of AI systems papers and their code `paper-list` ⭐381 · 📅2026-05
 - 🟢 [awesome-vector-database](https://github.com/dangkhoasdc/awesome-vector-database) — Active curated list on high-dimensional vector search and databases `awesome` ⭐362 · 📅2026-09
 - 🟢 [Awesome-LLM-Inference-Engine](https://github.com/sihyeong/Awesome-LLM-Inference-Engine) — Comprehensive overview of LLM inference optimization classified by latency/throughput/memory `survey` ⭐249 · 📅2026-10
-- 🟢 [Tabular-Survey](https://github.com/LAMDA-Tabular/Tabular-Survey) — List accompanying the survey "Representation Learning for Tabular Data" `survey` ⭐140 · 📅2026-09
+- 🟢 [Tabular-Survey](https://github.com/LAMDA-Tabular/Tabular-Survey) — List accompanying the survey "Representation Learning for Tabular Data" `survey` ⭐141 · 📅2026-09
 - 🟢 [awesome-ai4db-paper](https://github.com/Wind-Gone/awesome-ai4db-paper) — AI4DB papers (learned indexes, cardinality estimation, learned query optimization, LLM × DB) `paper-list` ⭐115 · 📅2026-04
 - 🟡 [AI-Infra-from-Zero-to-Hero](https://github.com/HuaizhengZhang/AI-Infra-from-Zero-to-Hero) — Classic collection of AI systems papers and industry practice (OSDI/NSDI/MLSys, incl. LLM/GenAI) `awesome` ⭐4.4k · 📅2025-07
 - 🟡 [data-augmentation-review](https://github.com/AgaMiko/data-augmentation-review) — Broad review of data augmentation methods, libraries, and papers `awesome` ⭐1.6k · 📅2024-08
@@ -1035,7 +1034,7 @@ Types: `awesome`=curated list / `survey`=companion to a survey paper / `paper-li
 - 🟡 [awesome-distributed-ml](https://github.com/Shenggan/awesome-distributed-ml) — Curated projects and papers on distributed training/inference of large models `awesome` ⭐281 · 📅2024-10
 - 🟡 [Awesome-LLM-Inference](https://github.com/DefTruth/Awesome-LLM-Inference) — Papers and code on LLM/VLM inference optimization (FlashAttention, PagedAttention, MLA, etc.) `paper-list` ⭐21 · 📅2025-03
 - 🔴 [awesome-data-augmentation](https://github.com/CrazyVertigo/awesome-data-augmentation) — Curated list of data augmentation methods (AugMix, CutMix, etc.) `awesome` ⭐797 · 📅2021-03
-- 🔴 [awesome-synthetic-data](https://github.com/statice/awesome-synthetic-data) — Curated list of OSS/commercial synthetic data tools (SDV, etc.) `awesome` ⭐268 · 📅2024-01
+- 🔴 [awesome-synthetic-data](https://github.com/statice/awesome-synthetic-data) — Curated list of OSS/commercial synthetic data tools (SDV, etc.) `awesome` ⭐270 · 📅2024-01
 - 🔴 [awesome-dl-hw-resources](https://github.com/RaviVijay/awesome-dl-hw-resources) — Curated resources on hardware/chip design for deep learning `awesome` ⭐61 · 📅2018-05
 - 🔴 [awesome-ml-testing](https://github.com/yqtian-se/awesome-ml-testing) — Papers and tools on testing ML/deep learning systems `paper-list` ⭐47 · 📅2021-10
 - 🔴 [Awesome-MLSys](https://github.com/dujiangsu/Awesome-MLSys) — Academic papers in MLSys centered on large-model inference `paper-list` ⭐6 · 📅2023-09
@@ -1045,7 +1044,7 @@ Types: `awesome`=curated list / `survey`=companion to a survey paper / `paper-li
 - 🟢 [awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning) — List of OSS libraries for ML deployment, monitoring, and scaling `awesome` ⭐21k · 📅2026-10
 - 🟢 [awesome-mlops](https://github.com/kelvins/awesome-mlops) — Curated list of MLOps tools `awesome` ⭐5.3k · 📅2026-08
 - 🟢 [Awesome-Dataset-Distillation](https://github.com/Guang000/Awesome-Dataset-Distillation) — Very active classic list covering gradient/distribution matching, generative methods, and applications `awesome` ⭐2k · 📅2026-10
-- 🟢 [awesome-data-centric-ai](https://github.com/Data-Centric-AI-Community/awesome-data-centric-ai) — OSS, tutorials, and research on data-centric AI `awesome` ⭐357 · 📅2026-09
+- 🟢 [awesome-data-centric-ai](https://github.com/Data-Centric-AI-Community/awesome-data-centric-ai) — OSS, tutorials, and research on data-centric AI `awesome` ⭐358 · 📅2026-09
 - 🟢 [awesome-ml-data-quality-papers](https://github.com/SJTU-DMTai/awesome-ml-data-quality-papers) — Coverage of data valuation, data attribution, and data selection/pruning/coreset `paper-list` ⭐132 · 📅2026-06
 - 🟡 [awesome-mlops](https://github.com/visenger/awesome-mlops) — References and resources on MLOps `awesome` ⭐14.2k · 📅2024-11
 - 🟡 [awesome-data-labeling](https://github.com/HumanSignal/awesome-data-labeling) — Curated list of data labeling tools `awesome` ⭐4.4k · 📅2024-06
@@ -1059,9 +1058,9 @@ Types: `awesome`=curated list / `survey`=companion to a survey paper / `paper-li
 
 - 🟢 [Awesome-LLM-Eval](https://github.com/onejune2018/Awesome-LLM-Eval) — Curated list of LLM evaluation tools, benchmarks, leaderboards, and papers `awesome` ⭐659 · 📅2025-11
 - 🟢 [Awesome-Datasets-Hub](https://github.com/ahammadmejbah/Awesome-Datasets-Hub) — Dataset collection for LLMs (medical AI, NLP, multimodal, etc.) `awesome` ⭐149 · 📅2026-06
-- 🟢 [Awesome-LLM-Benchmark](https://github.com/SihyeongPark/Awesome-LLM-Benchmark) — List of benchmarks for large language models `awesome` ⭐12 · 📅2026-09
-- 🟢 [awesome-llm-benchmarks](https://github.com/BenchGecko/awesome-llm-benchmarks) — Collection of benchmarks, datasets, and leaderboards for LLMs/AI models `awesome` ⭐4 · 📅2026-03
-- 🟡 [llm_benchmarks](https://github.com/leobeeson/llm_benchmarks) — Collection of benchmarks and datasets for LLM evaluation `awesome` ⭐581 · 📅2024-07
+- 🟢 [Awesome-LLM-Benchmark](https://github.com/SihyeongPark/Awesome-LLM-Benchmark) — List of benchmarks for large language models `awesome` ⭐12 · 📅2026-10
+- 🟢 [awesome-llm-benchmarks](https://github.com/BenchGecko/awesome-llm-benchmarks) — Collection of benchmarks, datasets, and leaderboards for LLMs/AI models `awesome` ⭐5 · 📅2026-03
+- 🟡 [llm_benchmarks](https://github.com/leobeeson/llm_benchmarks) — Collection of benchmarks and datasets for LLM evaluation `awesome` ⭐580 · 📅2024-07
 
 ## Official proceedings & paper portals (non-GitHub)
 
