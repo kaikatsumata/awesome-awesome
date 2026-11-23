@@ -6,7 +6,7 @@
 
 涵蓋 CV / CG / NLP / RL 等所有領域，也納入未冠 `awesome-` 的 survey 倉庫(例如 [quad-meshing-survey](https://github.com/Bigger-and-Stronger/quad-meshing-survey))與 `awesome-nanobanana-pro` 之類的特定模型範例集。
 
-**共 901 筆** / 33 個領域 — 🟢 活躍 428 筆、🟡 中等 176 筆(依 2026-11-16 的 GitHub 中繼資料自動生成)。
+**共 901 筆** / 33 個領域 — 🟢 活躍 429 筆、🟡 中等 176 筆(依 2026-11-23 的 GitHub 中繼資料自動生成)。
 
 ## 圖例 / 收錄標準
 
@@ -64,14 +64,14 @@
 
 ## 🧠 機器學習通用 / 深度學習
 
-- 🟢 [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) — 依語言分類的ML框架與函式庫經典精選清單 `awesome` ⭐74.8k · 📅2026-11
-- 🟢 [awesome-ai-research-writing](https://github.com/Leey21/awesome-ai-research-writing) — 支援AI研究論文撰寫與潤飾的工具與資源集 `awesome` ⭐35.9k · 📅2026-08
-- 🟢 [awesome-datascience](https://github.com/academic/awesome-datascience) — 學習資料科學並應用於實際問題的經典資源集 `awesome` ⭐30.3k · 📅2026-11
+- 🟢 [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) — 依語言分類的ML框架與函式庫經典精選清單 `awesome` ⭐74.9k · 📅2026-11
+- 🟢 [awesome-ai-research-writing](https://github.com/Leey21/awesome-ai-research-writing) — 支援AI研究論文撰寫與潤飾的工具與資源集 `awesome` ⭐36.3k · 📅2026-08
+- 🟢 [awesome-datascience](https://github.com/academic/awesome-datascience) — 學習資料科學並應用於實際問題的經典資源集 `awesome` ⭐30.4k · 📅2026-11
 - 🟢 [anomaly-detection-resources](https://github.com/yzhao062/anomaly-detection-resources) — 涵蓋異常偵測書籍、論文、影片與工具箱的經典清單 `awesome` ⭐9.5k · 📅2026-03
 - 🟢 [kaggle-solutions](https://github.com/faridrashidi/kaggle-solutions) — 彙整Kaggle競賽解法與構想的集合 `awesome` ⭐6.6k · 📅2026-11
-- 🟢 [awesome-python-data-science](https://github.com/krzjoa/awesome-python-data-science) — 精選Python資料科學軟體的清單 `awesome` ⭐3.6k · 📅2026-04
+- 🟢 [awesome-python-data-science](https://github.com/krzjoa/awesome-python-data-science) — 精選Python資料科學軟體的清單 `awesome` ⭐3.7k · 📅2026-04
 - 🟢 [awesome-deeplearning-resources](https://github.com/endymecy/awesome-deeplearning-resources) — 依時序整理DL與深度強化學習的論文與程式碼 `paper-list` ⭐3k · 📅2026-11
-- 🟢 [paperlists](https://github.com/papercopilot/paperlists) — Paper Copilot的整理資料，依年度以JSON橫跨涵蓋主要會議並持續更新（大型） `paper-list` ⭐967 · 📅2026-11
+- 🟢 [paperlists](https://github.com/papercopilot/paperlists) — Paper Copilot的整理資料，依年度以JSON橫跨涵蓋主要會議並持續更新（大型） `paper-list` ⭐970 · 📅2026-11
 - 🟢 [ai-deadlines](https://github.com/huggingface/ai-deadlines) — 主要AI會議的截止倒數（paperswithcode版後繼，現行主流） `awesome` ⭐351 · 📅2026-09
 - 🟢 [ai_papers_scrapper](https://github.com/george-gca/ai_papers_scrapper) — 依會議×年度取得主要AI會議（2017起）PDF、作者與摘要等的爬蟲 `paper-list` ⭐52 · 📅2026-09
 - 📑 [awesome-AI-tutorials-surveys](https://github.com/qingsongedu/awesome-AI-tutorials-surveys) — 頂級AI會議的DL/ML/DM/CV/NLP/語音教學與綜述集 `survey` ⭐170 · 📅2023-02
@@ -92,7 +92,7 @@
 ## 📐 ML 理論 / 最佳化
 
 - 🟢 [awesome-ml4co](https://github.com/Thinklab-SJTU/awesome-ml4co) — 於36個以上領域涵蓋將機器學習應用於組合最佳化的論文（活躍） `paper-list` ⭐2.2k · 📅2026-11
-- 🟢 [awesome-neuro-ai-papers](https://github.com/CYHSM/awesome-neuro-ai-papers) — 深度學習與神經科學交叉領域的論文與綜述集（活躍） `paper-list` ⭐450 · 📅2026-01
+- 🟢 [awesome-neuro-ai-papers](https://github.com/CYHSM/awesome-neuro-ai-papers) — 深度學習與神經科學交叉領域的論文與綜述集（活躍） `paper-list` ⭐451 · 📅2026-01
 - 🟢 [awesome-deep-phenomena](https://github.com/MinghuiChen43/awesome-deep-phenomena) — grokking、雙重下降、樂透假說等DL經驗現象與理論論文清單 `paper-list` ⭐413 · 📅2026-11
 - 🟢 [awesome-language-model-analysis](https://github.com/Furyton/awesome-language-model-analysis) — 語言模型的理論與實證分析（湧現能力、scaling law、ICL理論、grokking） `paper-list` ⭐103 · 📅2026-07
 - 🟡 [awesome-automl-papers](https://github.com/hibayesian/awesome-automl-papers) — AutoML論文、文章、教學與專案的經典大規模清單 `paper-list` ⭐4.2k · 📅2024-06
@@ -115,10 +115,10 @@
 - 📑 [Diffusion-Models-Papers-Survey-Taxonomy](https://github.com/YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy) — 對應ACM CSUR刊載綜述的diffusion/score-based/SDE生成模型論文分類 `survey` ⭐3.4k · 📅2025-09
 - 🟡 [awesome-neural-ode](https://github.com/Zymrael/awesome-neural-ode) — 涵蓋Neural ODE/SDE/CDE、動力系統、控制與數值解法的交叉領域 `awesome` ⭐1.6k · 📅2024-09
 - 🟡 [Awesome-GFlowNets](https://github.com/zdhNarsil/Awesome-GFlowNets) — 彙整GFlowNet基礎論文、應用與教學的核心清單 `awesome` ⭐503 · 📅2024-10
-- 🟡 [Awesome-Optimal-Transport-in-Deep-Learning](https://github.com/changwxx/Awesome-Optimal-Transport-in-Deep-Learning) — 彙整深度學習中最佳傳輸的論文、程式碼與資料 `awesome` ⭐353 · 📅2024-05
-- 🟡 [Awesome-VQVAE](https://github.com/wenhaochai/Awesome-VQVAE) — Vector Quantized VAE（VQ-VAE）及其應用相關論文與資源集 `awesome` ⭐334 · 📅2025-01
+- 🟡 [Awesome-Optimal-Transport-in-Deep-Learning](https://github.com/changwxx/Awesome-Optimal-Transport-in-Deep-Learning) — 彙整深度學習中最佳傳輸的論文、程式碼與資料 `awesome` ⭐354 · 📅2024-05
+- 🟡 [Awesome-VQVAE](https://github.com/wenhaochai/Awesome-VQVAE) — Vector Quantized VAE（VQ-VAE）及其應用相關論文與資源集 `awesome` ⭐333 · 📅2025-01
 - 🔴 [Awesome-VAEs](https://github.com/matthewvowels1/Awesome-VAEs) — 彙整約900篇VAE、disentanglement、表示學習與生成模型論文 `paper-list` ⭐845 · 📅2021-07
-- 🔴 [awesome-bayesian-deep-learning](https://github.com/robi56/awesome-bayesian-deep-learning) — 依年代整理貝氏深度學習論文與學位論文的經典清單 `awesome` ⭐415 · 📅2017-05
+- 🔴 [awesome-bayesian-deep-learning](https://github.com/robi56/awesome-bayesian-deep-learning) — 依年代整理貝氏深度學習論文與學位論文的經典清單 `awesome` ⭐416 · 📅2017-05
 - 🔴 [awesome-optimal-transport](https://github.com/kilianFatras/awesome-optimal-transport) — 機器學習用最佳傳輸（OT）的論文、教學、函式庫與書籍集 `awesome` ⭐249 · 📅2021-05
 - 🔴 [Awesome-Causal-Inference](https://github.com/matthewvowels1/Awesome-Causal-Inference) — 依年代彙整偏機器學習的因果推論與因果發現論文的文獻清單 `paper-list` ⭐116 · 📅2021-05
 - 🔴 [awesome-gaussian-processes](https://github.com/RaulPL/awesome-gaussian-processes) — 彙整學習Gaussian process的書籍、影片、軟體與論文 `awesome` ⭐41 · 📅2021-07
@@ -127,38 +127,38 @@
 ## 🏗️ 新架構 (SSM・Mamba・KAN・SNN・量子 ML)
 
 - 🟢 [awesome-kan](https://github.com/mintisan/awesome-kan) — 涵蓋KAN函式庫、實作、論文與教學的事實標準清單 `awesome` ⭐3.3k · 📅2026-10
-- 🟢 [Awesome-Spiking-Neural-Networks](https://github.com/TheBrainLab/Awesome-Spiking-Neural-Networks) — 持續更新頂會與期刊的SNN論文與程式碼 `paper-list` ⭐855 · 📅2026-11
+- 🟢 [Awesome-Spiking-Neural-Networks](https://github.com/TheBrainLab/Awesome-Spiking-Neural-Networks) — 持續更新頂會與期刊的SNN論文與程式碼 `paper-list` ⭐861 · 📅2026-11
 - 🟢 [Awesome-Mamba-Collection](https://github.com/XiudingCai/Awesome-Mamba-Collection) — 跨領域涵蓋Mamba論文、教學與實作的代表性精選 `paper-list` ⭐773 · 📅2026-08
 - 🟢 [Mamba_State_Space_Model_Paper_List](https://github.com/Event-AHU/Mamba_State_Space_Model_Paper_List) — Mamba綜述附帶的依應用分類論文清單 `paper-list` ⭐754 · 📅2026-09
-- 🟢 [Awesome-Hyperbolic-Representation-and-Deep-Learning](https://github.com/marlin-codes/Awesome-Hyperbolic-Representation-and-Deep-Learning) — 活躍更新雙曲嵌入、雙曲模型與應用的最新論文 `paper-list` ⭐633 · 📅2026-11
+- 🟢 [Awesome-Hyperbolic-Representation-and-Deep-Learning](https://github.com/marlin-codes/Awesome-Hyperbolic-Representation-and-Deep-Learning) — 活躍更新雙曲嵌入、雙曲模型與應用的最新論文 `paper-list` ⭐636 · 📅2026-11
 - 🟢 [Awesome-state-space-models](https://github.com/radarFudan/Awesome-state-space-models) — 彙整從S4到Mamba的狀態空間模型偏理論論文清單 `paper-list` ⭐622 · 📅2026-10
-- 🟢 [awesome-snn-conference-paper](https://github.com/AXYZdong/awesome-snn-conference-paper) — 彙整SNN領域頂尖會議與期刊論文及程式碼實作的清單 `paper-list` ⭐474 · 📅2026-10
+- 🟢 [awesome-snn-conference-paper](https://github.com/AXYZdong/awesome-snn-conference-paper) — 彙整SNN領域頂尖會議與期刊論文及程式碼實作的清單 `paper-list` ⭐475 · 📅2026-10
 - 🟢 [Awesome-Efficient-Arch](https://github.com/weigao266/Awesome-Efficient-Arch) — LLM用高效架構（線性注意力、SSM、RWKV等）的大規模綜述 `survey` ⭐412 · 📅2025-11
 - 🟢 [Efficient_Attention_Survey](https://github.com/attention-survey/Efficient_Attention_Survey) — 依硬體效率、稀疏、線性等分類高效注意力機制的綜述 `survey` ⭐313 · 📅2025-12
+- 🟢 [Awesome_Mamba](https://github.com/xmindflow/Awesome_Mamba) — 對應醫療影像分析SSM全面綜述的清單 `survey` ⭐271 · 📅2026-11
 - 🟢 [Awesome-Mamba-in-Vision](https://github.com/vgthengane/Awesome-Mamba-in-Vision) — 彙整電腦視覺領域Mamba論文 `paper-list` ⭐36 · 📅2026-03
 - 🟢 [Awesome_Modern_Hopfield_Networks](https://github.com/Event-AHU/Awesome_Modern_Hopfield_Networks) — 現代Hopfield network的論文清單 `paper-list` ⭐28 · 📅2026-03
 - 🟢 [Awesome-Linear-Attention-Survey](https://github.com/btzyd/Awesome-Linear-Attention-Survey) — 涵蓋線性注意力演算法、理論、應用與基礎設施的綜述附帶清單 `survey` ⭐15 · 📅2026-02
 - 🟢 [KAN-Papers](https://github.com/RamtinMoslemi/KAN-Papers) — 從arXiv擷取的KAN論文完整清單 `paper-list` ⭐13 · 📅2026-05
-- 📑 [Awesome_Mamba](https://github.com/xmindflow/Awesome_Mamba) — 對應醫療影像分析SSM全面綜述的清單 `survey` ⭐271 · 📅2025-07
 - 🟡 [awesome-quantum-machine-learning](https://github.com/krishnakumarsekar/awesome-quantum-machine-learning) — 大規模收集QML基礎、演算法、教材與專案 `awesome` ⭐3.7k · 📅2024-05
-- 🟡 [awesome-quantum-ml](https://github.com/artix41/awesome-quantum-ml) — 在量子裝置上運行的ML演算法論文與資料精選 `paper-list` ⭐531 · 📅2024-06
-- 🟡 [Awesome-LLM-Reasoning-with-NeSy](https://github.com/LAMDA-NeSy/Awesome-LLM-Reasoning-with-NeSy) — 追蹤LLM時代神經符號學習最新動向的清單 `paper-list` ⭐333 · 📅2025-06
+- 🟡 [awesome-quantum-ml](https://github.com/artix41/awesome-quantum-ml) — 在量子裝置上運行的ML演算法論文與資料精選 `paper-list` ⭐530 · 📅2024-06
+- 🟡 [Awesome-LLM-Reasoning-with-NeSy](https://github.com/LAMDA-NeSy/Awesome-LLM-Reasoning-with-NeSy) — 追蹤LLM時代神經符號學習最新動向的清單 `paper-list` ⭐334 · 📅2025-06
 - 🟡 [awesome-deeplogic](https://github.com/ccclyu/awesome-deeplogic) — 以NLP應用為主的神經符號AI論文集 `paper-list` ⭐302 · 📅2024-08
 - 🟡 [Awesome-RWKV-in-Vision](https://github.com/Yaziwel/Awesome-RWKV-in-Vision) — 彙整RWKV電腦視覺應用論文的清單 `paper-list` ⭐247 · 📅2025-06
 - 🟡 [awesome-snn](https://github.com/coderonion/awesome-snn) — Spike-Driven-Transformer等公開SNN實作集 `model` ⭐242 · 📅2024-10
 - 📦 [awesome-fast-attention](https://github.com/Separius/awesome-fast-attention) — 高效注意力模組的經典全面清單 `awesome` ⭐1k · 📅2021-08
 - 🔴 [awesome-capsule-networks](https://github.com/sekwiatkowski/awesome-capsule-networks) — Dynamic Routing/EM Routing等capsule network主要論文與實作集 `awesome` ⭐974 · 📅2020-02
-- 🔴 [awesome-neuromorphic-hw](https://github.com/open-neuromorphic/awesome-neuromorphic-hw) — SNN的ASIC/FPGA等神經形態硬體論文集 `paper-list` ⭐226 · 📅2023-11
+- 🔴 [awesome-neuromorphic-hw](https://github.com/open-neuromorphic/awesome-neuromorphic-hw) — SNN的ASIC/FPGA等神經形態硬體論文集 `paper-list` ⭐227 · 📅2023-11
 - 🔴 [Neural-Symbolic-and-Probabilistic-Logic-Papers](https://github.com/thuwzy/Neural-Symbolic-and-Probabilistic-Logic-Papers) — 神經符號與機率邏輯論文精選 `paper-list` ⭐138 · 📅2023-09
 
 ## 🌱 自監督 / 表徵學習 / 基礎模型
 
 - 🟢 [awesome-self-supervised-learning](https://github.com/jason718/awesome-self-supervised-learning) — 自監督學習方法的經典精選清單 `awesome` ⭐6.4k · 📅2026-02
 - 🟢 [Awesome-Foundation-Models](https://github.com/uncbiag/Awesome-Foundation-Models) — 視覺與語言任務用基礎模型的精選清單 `paper-list` ⭐1.2k · 📅2026-09
-- 🟢 [awesome-self-supervised-multimodal-learning](https://github.com/ys-zong/awesome-self-supervised-multimodal-learning) — 自監督多模態學習資源（與T-PAMI連動） `paper-list` ⭐279 · 📅2026-11
+- 🟢 [awesome-self-supervised-multimodal-learning](https://github.com/ys-zong/awesome-self-supervised-multimodal-learning) — 自監督多模態學習資源（與T-PAMI連動） `paper-list` ⭐280 · 📅2026-11
 - 🟢 [Awesome-LLM-VLM-Foundation-Models](https://github.com/srebroa/Awesome-LLM-VLM-Foundation-Models) — LLM、VLM與基礎模型的精選清單 `awesome` ⭐9 · 📅2026-10
 - 🟡 [awesome-contrastive-self-supervised-learning](https://github.com/asheeshcric/awesome-contrastive-self-supervised-learning) — 對比式自監督學習（SimCLR/VICReg等）論文集 `paper-list` ⭐1.3k · 📅2024-09
-- 🔴 [Awesome-SSL4TS](https://github.com/qingsongedu/Awesome-SSL4TS) — 時序用自監督學習（SSL4TS）的論文、程式碼與資料集 `paper-list` ⭐389 · 📅2024-04
+- 🔴 [Awesome-SSL4TS](https://github.com/qingsongedu/Awesome-SSL4TS) — 時序用自監督學習（SSL4TS）的論文、程式碼與資料集 `paper-list` ⭐388 · 📅2024-04
 
 ## 🎓 學習範式 (元學習/遷移/少樣本/OOD/半監督)
 
@@ -180,10 +180,10 @@
 - 🟡 [awesome-source-free-test-time-adaptation](https://github.com/YuejiangLIU/awesome-source-free-test-time-adaptation) — 測試時自適應、測試時訓練與source-free領域自適應論文清單 `paper-list` ⭐548 · 📅2024-06
 - 🔴 [Awesome-Meta-Learning](https://github.com/sudharsan13296/Awesome-Meta-Learning) — 涵蓋元學習論文、程式碼、書籍、影片與資料集的經典清單 `awesome` ⭐1.6k · 📅2020-11
 - 🔴 [awesome_OpenSetRecognition_list](https://github.com/gary23ai/awesome_OpenSetRecognition_list) — 彙整開放集辨識、OOD與開放世界辨識論文的經典清單 `paper-list` ⭐1.2k · 📅2024-03
-- 🔴 [awesome-zero-shot-learning](https://github.com/sbharadwajj/awesome-zero-shot-learning) — 彙整零樣本學習論文、程式碼與資源的精選 `awesome` ⭐937 · 📅2021-07
+- 🔴 [awesome-zero-shot-learning](https://github.com/sbharadwajj/awesome-zero-shot-learning) — 彙整零樣本學習論文、程式碼與資源的精選 `awesome` ⭐936 · 📅2021-07
 - 🔴 [awesome-curriculum-learning](https://github.com/Openning07/awesome-curriculum-learning) — 依偵測/分割/分類/遷移/RL為課程學習論文加標籤 `awesome` ⭐251 · 📅2022-08
 - 🔴 [Awesome-Weak-Supervision](https://github.com/JieyuZ2/Awesome-Weak-Supervision) — 程式化/規則式弱監督學習的論文與資源集 `awesome` ⭐196 · 📅2023-03
-- 🔴 [awesome-distribution-shift](https://github.com/weitianxin/awesome-distribution-shift) — 分布偏移與基準的論文集 `awesome` ⭐132 · 📅2023-08
+- 🔴 [awesome-distribution-shift](https://github.com/weitianxin/awesome-distribution-shift) — 分布偏移與基準的論文集 `awesome` ⭐131 · 📅2023-08
 - 🔴 [awesome-few-shot-learning](https://github.com/indussky8/awesome-few-shot-learning) — 含標準資料集比較結果的few-shot學習論文精選 `paper-list` ⭐126 · 📅2021-10
 - 🔴 [Awesome-Zero-Shot-Learning](https://github.com/WilliamYi96/Awesome-Zero-Shot-Learning) — 彙整零樣本學習最新論文與資料集進展的清單 `paper-list` ⭐84 · 📅2022-08
 - 🔴 [Awesome-Failure-Detection](https://github.com/Impression2805/Awesome-Failure-Detection) — 整合處理OOD偵測與誤分類偵測（failure detection）的論文清單 `paper-list` ⭐52 · 📅2023-10
@@ -202,36 +202,36 @@
 - 🟢 [awesome-grounding](https://github.com/TheShadow29/awesome-grounding) — 影像/影片/3D的指代表達與grounding論文集 `paper-list` ⭐1.1k · 📅2026-10
 - 🟢 [SAM4MIS](https://github.com/YichiZhang98/SAM4MIS) — SAM應用於醫療影像分割的論文與OSS摘要 `paper-list` ⭐1.1k · 📅2026-11
 - 🟢 [Awesome-Open-Vocabulary](https://github.com/jianzongwu/Awesome-Open-Vocabulary) — TPAMI 2024《Towards Open Vocabulary Learning: A Survey》的companion `survey` ⭐1k · 📅2026-05
-- 🟢 [ICCV-2023-25-Papers](https://github.com/DmitryRyumin/ICCV-2023-25-Papers) — ICCV 2023-2025錄取論文精選集 `paper-list` ⭐972 · 📅2025-11
-- 🟢 [Awesome-Open-Vocabulary-Semantic-Segmentation](https://github.com/Qinying-Liu/Awesome-Open-Vocabulary-Semantic-Segmentation) — 開放詞彙/零樣本語意分割論文清單 `paper-list` ⭐909 · 📅2026-05
-- 🟢 [top-cvpr-2025-papers](https://github.com/SkalskiP/top-cvpr-2025-papers) — 精選CVPR 2025重點論文的集合 `paper-list` ⭐897 · 📅2026-04
-- 🟢 [Awesome-Referring-Image-Segmentation](https://github.com/MarkMoHR/Awesome-Referring-Image-Segmentation) — 指代影像分割的論文與資料集集 `awesome` ⭐831 · 📅2026-01
-- 🟢 [Awesome-Skeleton-based-Action-Recognition](https://github.com/firework8/Awesome-Skeleton-based-Action-Recognition) — 每月更新的骨架式動作辨識論文清單 `paper-list` ⭐732 · 📅2026-11
-- 🟢 [Awesome-Scene-Graph-Generation](https://github.com/ChocoWu/Awesome-Scene-Graph-Generation) — 涵蓋LLM/非LLM方法、2D/3D/影片的活躍場景圖生成清單 `awesome` ⭐732 · 📅2026-10
-- 🟢 [Awesome-CVPR2026-CVPR2025-ICCV2025-CVPR2024-ECCV2026-ECCV2024-AIGC](https://github.com/Kobaayyy/Awesome-CVPR2026-CVPR2025-ICCV2025-CVPR2024-ECCV2026-ECCV2024-AIGC) — 彙整主要會議AIGC相關論文與程式碼 `paper-list` ⭐676 · 📅2026-09
-- 🟢 [Awesome-Temporal-Action-Detection-Temporal-Action-Proposal-Generation](https://github.com/zhenyingfang/Awesome-Temporal-Action-Detection-Temporal-Action-Proposal-Generation) — 橫跨收集時序動作偵測、提案生成與弱監督 `paper-list` ⭐597 · 📅2026-10
+- 🟢 [ICCV-2023-25-Papers](https://github.com/DmitryRyumin/ICCV-2023-25-Papers) — ICCV 2023-2025錄取論文精選集 `paper-list` ⭐971 · 📅2025-11
+- 🟢 [Awesome-Open-Vocabulary-Semantic-Segmentation](https://github.com/Qinying-Liu/Awesome-Open-Vocabulary-Semantic-Segmentation) — 開放詞彙/零樣本語意分割論文清單 `paper-list` ⭐910 · 📅2026-05
+- 🟢 [top-cvpr-2025-papers](https://github.com/SkalskiP/top-cvpr-2025-papers) — 精選CVPR 2025重點論文的集合 `paper-list` ⭐899 · 📅2026-04
+- 🟢 [Awesome-Referring-Image-Segmentation](https://github.com/MarkMoHR/Awesome-Referring-Image-Segmentation) — 指代影像分割的論文與資料集集 `awesome` ⭐834 · 📅2026-01
+- 🟢 [Awesome-Skeleton-based-Action-Recognition](https://github.com/firework8/Awesome-Skeleton-based-Action-Recognition) — 每月更新的骨架式動作辨識論文清單 `paper-list` ⭐733 · 📅2026-11
+- 🟢 [Awesome-Scene-Graph-Generation](https://github.com/ChocoWu/Awesome-Scene-Graph-Generation) — 涵蓋LLM/非LLM方法、2D/3D/影片的活躍場景圖生成清單 `awesome` ⭐731 · 📅2026-11
+- 🟢 [Awesome-CVPR2026-CVPR2025-ICCV2025-CVPR2024-ECCV2026-ECCV2024-AIGC](https://github.com/Kobaayyy/Awesome-CVPR2026-CVPR2025-ICCV2025-CVPR2024-ECCV2026-ECCV2024-AIGC) — 彙整主要會議AIGC相關論文與程式碼 `paper-list` ⭐677 · 📅2026-09
+- 🟢 [Awesome-Temporal-Action-Detection-Temporal-Action-Proposal-Generation](https://github.com/zhenyingfang/Awesome-Temporal-Action-Detection-Temporal-Action-Proposal-Generation) — 橫跨收集時序動作偵測、提案生成與弱監督 `paper-list` ⭐597 · 📅2026-11
 - 🟢 [Awesome-Image-Harmonization](https://github.com/bcmi/Awesome-Image-Harmonization) — 影像和諧化的論文、程式碼與資源集（活躍） `awesome` ⭐536 · 📅2026-11
 - 🟢 [Awesome-Video-Object-Segmentation](https://github.com/gaomingqi/Awesome-Video-Object-Segmentation) — VOS最新論文、資料集與專案集 `awesome` ⭐525 · 📅2026-07
 - 🟢 [awesome-camouflaged-object-detection](https://github.com/visionxiang/awesome-camouflaged-object-detection) — 偽裝/隱蔽物件偵測的精選資源集 `awesome` ⭐501 · 📅2026-09
 - 🟢 [Awesome-Face-Restoration](https://github.com/TaoWangzj/Awesome-Face-Restoration) — 彙整人臉復原方法論文與儲存庫的清單 `paper-list` ⭐481 · 📅2026-03
-- 🟢 [Awesome-Object-Pose-Estimation](https://github.com/CNJianLiu/Awesome-Object-Pose-Estimation) — IJCV2026綜述《Deep Learning-Based Object Pose Estimation》專案頁 `survey` ⭐460 · 📅2026-01
-- 🟢 [awesome-ocr-resources](https://github.com/ZumingHuang/awesome-ocr-resources) — 彙整OCR論文與資料集的資源集 `awesome` ⭐443 · 📅2026-11
-- 🟢 [Awesome-FAS](https://github.com/RizhaoCai/Awesome-FAS) — 人臉防偽/PAD/liveness論文的全面集合 `paper-list` ⭐396 · 📅2026-06
+- 🟢 [Awesome-Object-Pose-Estimation](https://github.com/CNJianLiu/Awesome-Object-Pose-Estimation) — IJCV2026綜述《Deep Learning-Based Object Pose Estimation》專案頁 `survey` ⭐462 · 📅2026-01
+- 🟢 [awesome-ocr-resources](https://github.com/ZumingHuang/awesome-ocr-resources) — 彙整OCR論文與資料集的資源集 `awesome` ⭐444 · 📅2026-11
+- 🟢 [Awesome-FAS](https://github.com/RizhaoCai/Awesome-FAS) — 人臉防偽/PAD/liveness論文的全面集合 `paper-list` ⭐397 · 📅2026-06
 - 🟢 [awesome-described-object-detection](https://github.com/Charles-Xie/awesome-described-object-detection) — Described/Open-Vocabulary物件偵測與指代表達理解論文集 `paper-list` ⭐362 · 📅2026-10
-- 🟢 [awesome-concealed-object-segmentation](https://github.com/ChunmingHe/awesome-concealed-object-segmentation) — 隱蔽物件分割的資源集 `awesome` ⭐352 · 📅2026-01
+- 🟢 [awesome-concealed-object-segmentation](https://github.com/ChunmingHe/awesome-concealed-object-segmentation) — 隱蔽物件分割的資源集 `awesome` ⭐354 · 📅2026-01
 - 🟢 [Awesome-Visual-Grounding](https://github.com/linhuixiao/Awesome-Visual-Grounding) — TPAMI 2025綜述，涵蓋REC/phrase grounding/grounding MLLM（活躍） `survey` ⭐333 · 📅2026-11
-- 🟢 [Awesome-3D-Visual-Grounding](https://github.com/liudaizong/Awesome-3D-Visual-Grounding) — 專注於3D視覺grounding論文（活躍） `paper-list` ⭐289 · 📅2026-01
-- 🟢 [Awesome-Multimodal-Referring-Segmentation](https://github.com/henghuiding/Awesome-Multimodal-Referring-Segmentation) — 多模態指代分割清單 `awesome` ⭐262 · 📅2026-09
-- 🟢 [awesome-temporal-action-segmentation](https://github.com/nus-cvml/awesome-temporal-action-segmentation) — 時序動作分割的論文與資料集集（活躍） `paper-list` ⭐260 · 📅2026-10
-- 🟢 [awesome-3D-scene-graphs](https://github.com/dennisrotondi/awesome-3D-scene-graphs) — 含機器人應用的3D場景圖專門清單 `awesome` ⭐182 · 📅2026-11
+- 🟢 [Awesome-3D-Visual-Grounding](https://github.com/liudaizong/Awesome-3D-Visual-Grounding) — 專注於3D視覺grounding論文（活躍） `paper-list` ⭐288 · 📅2026-01
+- 🟢 [Awesome-Multimodal-Referring-Segmentation](https://github.com/henghuiding/Awesome-Multimodal-Referring-Segmentation) — 多模態指代分割清單 `awesome` ⭐263 · 📅2026-09
+- 🟢 [awesome-temporal-action-segmentation](https://github.com/nus-cvml/awesome-temporal-action-segmentation) — 時序動作分割的論文與資料集集（活躍） `paper-list` ⭐262 · 📅2026-10
+- 🟢 [awesome-3D-scene-graphs](https://github.com/dennisrotondi/awesome-3D-scene-graphs) — 含機器人應用的3D場景圖專門清單 `awesome` ⭐184 · 📅2026-11
 - 🟢 [awesome-video-self-supervised-learning](https://github.com/Malitha123/awesome-video-self-supervised-learning) — 影片自監督學習方法論文集 `paper-list` ⭐176 · 📅2026-11
-- 🟢 [awesome-3d-anomaly-detection](https://github.com/M-3LAB/awesome-3d-anomaly-detection) — 點雲與多模態3D異常偵測綜述儲存庫 `awesome` ⭐154 · 📅2026-11
+- 🟢 [awesome-3d-anomaly-detection](https://github.com/M-3LAB/awesome-3d-anomaly-detection) — 點雲與多模態3D異常偵測綜述儲存庫 `awesome` ⭐155 · 📅2026-11
 - 🟢 [Event_Camera_in_Top_Conference](https://github.com/Event-AHU/Event_Camera_in_Top_Conference) — 頂尖國際會議刊載的事件/脈衝相機論文集 `paper-list` ⭐128 · 📅2026-04
 - 🟢 [TPAMI26-Awesome-MLLMs-for-Video-Temporal-Grounding](https://github.com/iLearn-Lab/TPAMI26-Awesome-MLLMs-for-Video-Temporal-Grounding) — 以MLLM進行影片時序grounding（VTG-LLM）的最新論文、程式碼與資料集 `paper-list` ⭐109 · 📅2026-11
 - 🟢 [Awesome-MultiModal-Visual-Object-Tracking](https://github.com/Zhangyong-Tang/Awesome-MultiModal-Visual-Object-Tracking) — RGBT/RGBD/RGBE等多模態視覺物件追蹤綜述 `survey` ⭐90 · 📅2026-09
-- 🟢 [Awesome-Temporal-Video-Grounding](https://github.com/Tangkfan/Awesome-Temporal-Video-Grounding) — VMR/TVG/TSGV的論文清單 `paper-list` ⭐48 · 📅2026-11
+- 🟢 [Awesome-Temporal-Video-Grounding](https://github.com/Tangkfan/Awesome-Temporal-Video-Grounding) — VMR/TVG/TSGV的論文清單 `paper-list` ⭐49 · 📅2026-11
 - 🟢 [awesome-captioning-evaluation](https://github.com/aimagelab/awesome-captioning-evaluation) — MLLM時代影像描述評估相關論文集 `paper-list` ⭐37 · 📅2025-11
-- 📑 [Awesome-3D-Object-Detection-for-Autonomous-Driving](https://github.com/PointsCoder/Awesome-3D-Object-Detection-for-Autonomous-Driving) — IJCV 2023綜述，體系化LiDAR/相機/多模態3D偵測 `survey` ⭐614 · 📅2023-05
+- 📑 [Awesome-3D-Object-Detection-for-Autonomous-Driving](https://github.com/PointsCoder/Awesome-3D-Object-Detection-for-Autonomous-Driving) — IJCV 2023綜述，體系化LiDAR/相機/多模態3D偵測 `survey` ⭐615 · 📅2023-05
 - 📑 [Awesome-Image-Prior](https://github.com/yunfanLu/Awesome-Image-Prior) — 深度影像復原/增強中先驗分布的綜述 `survey` ⭐86 · 📅2025-05
 - 📑 [360_Survey](https://github.com/vlislab22/360_Survey) — 全方位視覺（深度估計、3D重建、分割）的全面綜述 `survey` ⭐23 · 📅2024-12
 - 🟡 [Awesome-Transformer-Attention](https://github.com/cmhungsteve/Awesome-Transformer-Attention) — 涵蓋ViT/Attention極為全面的論文清單 `paper-list` ⭐5k · 📅2024-07
@@ -242,22 +242,22 @@
 - 🟡 [ECCV2026-Papers-with-Code](https://github.com/amusi/ECCV2026-Papers-with-Code) — ECCV 2024論文與開源專案集 `paper-list` ⭐2.3k · 📅2024-08
 - 🟡 [Awesome-Edge-Detection-Papers](https://github.com/MarkMoHR/Awesome-Edge-Detection-Papers) — 邊緣/輪廓/邊界偵測論文與工具箱集 `paper-list` ⭐1.6k · 📅2024-12
 - 🟡 [Awesome-person-re-identification](https://github.com/bismex/Awesome-person-re-identification) — 涵蓋監督/非監督/跨模態ReID的大規模論文清單 `awesome` ⭐1.4k · 📅2024-06
-- 🟡 [awesome-point-cloud-registration](https://github.com/XuyangBai/awesome-point-cloud-registration) — 依匹配策略整理的點雲配準論文集 `paper-list` ⭐951 · 📅2024-07
+- 🟡 [awesome-point-cloud-registration](https://github.com/XuyangBai/awesome-point-cloud-registration) — 依匹配策略整理的點雲配準論文集 `paper-list` ⭐952 · 📅2024-07
 - 🟡 [HOI-Learning-List](https://github.com/DirtyHarryLYL/HOI-Learning-List) — 涵蓋資料集、基準與論文的HOI學習清單（活躍） `awesome` ⭐720 · 📅2025-10
 - 🟡 [Awesome-Optical-Flow](https://github.com/hzwer/Awesome-Optical-Flow) — 光流與相關研究的論文清單 `awesome` ⭐649 · 📅2024-11
 - 🟡 [awesome-diffusion-models-in-low-level-vision](https://github.com/ChunmingHe/awesome-diffusion-models-in-low-level-vision) — 超解析度/修復等低階視覺用diffusion model論文集 `paper-list` ⭐562 · 📅2025-02
 - 🟡 [Awesome-Gaze-Estimation](https://github.com/cvlab-uob/Awesome-Gaze-Estimation) — 視線估計論文的精選清單 `awesome` ⭐540 · 📅2025-06
-- 🟡 [CVPR-2023-24-Papers](https://github.com/DmitryRyumin/CVPR-2023-24-Papers) — 依主題整理CVPR 2023/2024錄取論文 `paper-list` ⭐453 · 📅2024-07
+- 🟡 [CVPR-2023-24-Papers](https://github.com/DmitryRyumin/CVPR-2023-24-Papers) — 依主題整理CVPR 2023/2024錄取論文 `paper-list` ⭐451 · 📅2024-07
 - 🟡 [Awesome_Long_Form_Video_Understanding](https://github.com/ttengwang/Awesome_Long_Form_Video_Understanding) — 專注於長片的論文與資料集集 `paper-list` ⭐390 · 📅2025-10
 - 🟡 [Awesome-Segment-Anything](https://github.com/Vision-Intelligence-and-Robots-Group/Awesome-Segment-Anything) — Segment Anything Model（SAM）相關論文與專案集 `paper-list` ⭐370 · 📅2024-12
 - 🟡 [Awesome-Monocular-Depth](https://github.com/choyingw/Awesome-Monocular-Depth) — 聚焦於2020年後單眼深度估計論文的清單 `paper-list` ⭐212 · 📅2024-10
 - 🟡 [awesome-micro-expression-recognition](https://github.com/Vision-Intelligence-and-Robots-Group/awesome-micro-expression-recognition) — 微表情（micro-expression）辨識、偵測與spotting的論文集 `paper-list` ⭐191 · 📅2025-08
 - 🟡 [Awesome-Gait-Recognition](https://github.com/BNU-IVC/Awesome-Gait-Recognition) — 步態辨識的論文與資料集集（收錄CVPR'25等，活躍） `paper-list` ⭐189 · 📅2025-05
 - 🟡 [Awesome-SAM2](https://github.com/GuoleiSun/Awesome-SAM2) — 影像與影片用SAM2的論文與程式碼集 `paper-list` ⭐158 · 📅2025-10
-- 🟡 [awesome-salient-object-detection](https://github.com/visionxiang/awesome-salient-object-detection) — 含RGB-D等的顯著性物件偵測資源集 `awesome` ⭐147 · 📅2024-09
+- 🟡 [awesome-salient-object-detection](https://github.com/visionxiang/awesome-salient-object-detection) — 含RGB-D等的顯著性物件偵測資源集 `awesome` ⭐148 · 📅2024-09
 - 🟡 [WACV-2024-Papers](https://github.com/DmitryRyumin/WACV-2024-Papers) — 系統性整理WACV 2024論文的集合 `paper-list` ⭐97 · 📅2024-09
 - 🟡 [awesome-human-visual-attention](https://github.com/aimagelab/awesome-human-visual-attention) — saliency、scanpath、視線預測與視覺注意力的論文/資源集 `paper-list` ⭐68 · 📅2025-05
-- 📚 [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) — 涵蓋CV全領域書籍、講義、論文、工具與資料集的經典清單 `awesome` ⭐23.6k · 📅2024-05
+- 📚 [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) — 涵蓋CV全領域書籍、講義、論文、工具與資料集的經典清單 `awesome` ⭐23.7k · 📅2024-05
 - 📚 [really-awesome-semantic-segmentation](https://github.com/nightrome/really-awesome-semantic-segmentation) — 語意分割論文清單（2018年停止更新） `paper-list` ⭐403 · 📅2018-03
 - 🔴 [awesome-semantic-segmentation](https://github.com/mrgloom/awesome-semantic-segmentation) — 語意分割的經典資源集 `awesome` ⭐10.9k · 📅2021-05
 - 🔴 [awesome-object-detection](https://github.com/amusi/awesome-object-detection) — 彙整R-CNN系列、YOLO、SSD等物件偵測論文與實作的經典清單 `awesome` ⭐7.5k · 📅2022-12
@@ -313,30 +313,30 @@
 - 🟢 [Awesome-Talking-Head-Synthesis](https://github.com/Kedreamix/Awesome-Talking-Head-Synthesis) — talking face合成的廣泛資源集 `awesome` ⭐1.6k · 📅2026-11
 - 🟢 [awesome-3d-diffusion](https://github.com/cwchenwang/awesome-3d-diffusion) — 3D生成用diffusion model論文集 `paper-list` ⭐1.3k · 📅2026-10
 - 🟢 [awesome-point-cloud-processing](https://github.com/mmolero/awesome-point-cloud-processing) — 點雲處理的函式庫、軟體與資料集 `awesome` ⭐806 · 📅2025-11
-- 🟢 [awesome-dust3r](https://github.com/ruili3/awesome-dust3r) — DUSt3R系列幾何基礎模型論文與資源追蹤 `model` ⭐802 · 📅2025-11
-- 🟢 [Awesome-AIGC-3D](https://github.com/hitcslj/Awesome-AIGC-3D) — AIGC 3D（生成、紋理、材質）論文集 `awesome` ⭐788 · 📅2026-05
+- 🟢 [awesome-dust3r](https://github.com/ruili3/awesome-dust3r) — DUSt3R系列幾何基礎模型論文與資源追蹤 `model` ⭐801 · 📅2025-11
+- 🟢 [Awesome-AIGC-3D](https://github.com/hitcslj/Awesome-AIGC-3D) — AIGC 3D（生成、紋理、材質）論文集 `awesome` ⭐788 · 📅2026-11
 - 🟢 [awesome-ray-tracing](https://github.com/dannyfritz/awesome-ray-tracing) — 光線追蹤的論文、課程與實作清單 `awesome` ⭐658 · 📅2026-10
 - 🟢 [Awesome-Text-to-3D](https://github.com/yyeboah/Awesome-Text-to-3D) — Text-to-3D/Diffusion-to-3D研究精選 `paper-list` ⭐616 · 📅2026-11
-- 🟢 [awesome-graphics-libraries](https://github.com/jslee02/awesome-graphics-libraries) — 3D繪圖函式庫精選集 `awesome` ⭐548 · 📅2026-11
+- 🟢 [awesome-graphics-libraries](https://github.com/jslee02/awesome-graphics-libraries) — 3D繪圖函式庫精選集 `awesome` ⭐550 · 📅2026-11
 - 🟢 [Awesome-4D-Spatial-Intelligence](https://github.com/yukangcao/Awesome-4D-Spatial-Intelligence) — 從影片重建4D空間智慧的綜述 `survey` ⭐534 · 📅2026-09
 - 🟢 [awesome-simulation](https://github.com/Housz/awesome-simulation) — CG物理模擬資源整理 `awesome` ⭐398 · 📅2026-06
-- 🟢 [awesome-gaussians](https://github.com/longxiang-ai/awesome-gaussians) — 每日從arXiv自動更新的3DGS論文追蹤 `paper-list` ⭐373 · 📅2026-11
-- 🟢 [Awesome-Transformer-based-SLAM](https://github.com/KwanWaiPang/Awesome-Transformer-based-SLAM) — Transformer式SLAM的綜述用論文集 `survey` ⭐316 · 📅2026-11
-- 🟢 [Awesome-3DGS-SLAM](https://github.com/KwanWaiPang/Awesome-3DGS-SLAM) — 3DGS SLAM綜述用論文集 `survey` ⭐299 · 📅2026-02
+- 🟢 [awesome-gaussians](https://github.com/longxiang-ai/awesome-gaussians) — 每日從arXiv自動更新的3DGS論文追蹤 `paper-list` ⭐375 · 📅2026-11
+- 🟢 [Awesome-Transformer-based-SLAM](https://github.com/KwanWaiPang/Awesome-Transformer-based-SLAM) — Transformer式SLAM的綜述用論文集 `survey` ⭐317 · 📅2026-11
+- 🟢 [Awesome-3DGS-SLAM](https://github.com/KwanWaiPang/Awesome-3DGS-SLAM) — 3DGS SLAM綜述用論文集 `survey` ⭐300 · 📅2026-02
 - 🟢 [Awesome-InverseRendering](https://github.com/tkuri/Awesome-InverseRendering) — 本質分解與逆渲染論文清單 `paper-list` ⭐236 · 📅2026-10
 - 🟢 [Awesome-Learning-based-VO-VIO](https://github.com/KwanWaiPang/Awesome-Learning-based-VO-VIO) — 學習式視覺里程計（VO/VIO）的綜述用論文集 `survey` ⭐221 · 📅2026-11
 - 🟢 [awesome-geometry-processing](https://github.com/zishun/awesome-geometry-processing) — 幾何處理的函式庫、工具與資料集 `awesome` ⭐178 · 📅2026-03
 - 🟢 [Awesome-SIGGRAPH-Computational-Optics](https://github.com/zhaoguangyuan123/Awesome-SIGGRAPH-Computational-Optics) — SIGGRAPH刊載計算光學論文的閱讀清單 `paper-list` ⭐109 · 📅2026-07
 - 🟢 [Awesome-3D-Reconstruction-and-Generation](https://github.com/PolySummit/Awesome-3D-Reconstruction-and-Generation) — 3D重建與生成的論文與資料集集 `paper-list` ⭐99 · 📅2026-03
-- 🟢 [quad-meshing-survey](https://github.com/Bigger-and-Stronger/quad-meshing-survey) — 四邊形網格化相關論文、程式碼與專案集 `survey` ⭐96 · 📅2026-11
+- 🟢 [quad-meshing-survey](https://github.com/Bigger-and-Stronger/quad-meshing-survey) — 四邊形網格化相關論文、程式碼與專案集 `survey` ⭐97 · 📅2026-11
 - 🟢 [awesome-dynamic-NeRF](https://github.com/pdaicode/awesome-dynamic-NeRF) — 動態場景用NeRF的論文集 `paper-list` ⭐69 · 📅2026-04
-- 🟢 [awesome-brep-reconstruction](https://github.com/Bigger-and-Stronger/awesome-brep-reconstruction) — B-rep（邊界表示）重建的論文與OSS專案集，定期更新 `survey` ⭐44 · 📅2026-10
+- 🟢 [awesome-brep-reconstruction](https://github.com/Bigger-and-Stronger/awesome-brep-reconstruction) — B-rep（邊界表示）重建的論文與OSS專案集，定期更新 `survey` ⭐45 · 📅2026-10
 - 🟢 [Awesome-Diffusion-based-SLAM](https://github.com/KwanWaiPang/Awesome-Diffusion-based-SLAM) — diffusion model式SLAM的綜述用論文集 `survey` ⭐36 · 📅2026-05
 - 🟢 [Awesome-Event-based-SLAM](https://github.com/KwanWaiPang/Awesome-Event-based-SLAM) — 事件式SLAM的綜述用論文集 `survey` ⭐34 · 📅2026-11
 - 🟢 [Awesome-BRDF](https://github.com/tkuri/Awesome-BRDF) — 依表示方式整理BRDF表示相關論文 `paper-list` ⭐32 · 📅2026-10
 - 🟢 [Awesome-3D-Human-Motion-Generation](https://github.com/Run542968/Awesome-3D-Human-Motion-Generation) — 以Text-to-Motion為主的人體動作生成論文集 `paper-list` ⭐25 · 📅2026-11
 - 🟢 [offset-mesh-survey](https://github.com/Bigger-and-Stronger/offset-mesh-survey) — 偏移網格生成相關論文、專案與程式碼的持續更新綜述 `survey` ⭐14 · 📅2026-11
-- 🟢 [awesome-3d-medial-axis](https://github.com/Bigger-and-Stronger/awesome-3d-medial-axis) — 中軸（medial axis）/骨架及其應用的論文與OSS集，定期更新 `survey` ⭐7 · 📅2026-10
+- 🟢 [awesome-3d-medial-axis](https://github.com/Bigger-and-Stronger/awesome-3d-medial-axis) — 中軸（medial axis）/骨架及其應用的論文與OSS集，定期更新 `survey` ⭐8 · 📅2026-10
 - 🟢 [direction-field-survey](https://github.com/Bigger-and-Stronger/direction-field-survey) — 方向場（direction field）相關論文、專案與程式碼的持續更新綜述 `survey` ⭐5 · 📅2026-11
 - 🟢 [parameterization-survey](https://github.com/Bigger-and-Stronger/parameterization-survey) — 網格參數化相關論文、專案與程式碼的持續更新綜述 `survey` ⭐3 · 📅2026-11
 - 📑 [Gen3D](https://github.com/weihaox/Gen3D) — 深度生成式3D-aware影像合成綜述（CSUR 2023） `survey` ⭐162 · 📅2025-02
@@ -363,13 +363,13 @@
 - 🔴 [3D-Reconstruction-with-Deep-Learning-Methods](https://github.com/natowi/3D-Reconstruction-with-Deep-Learning-Methods) — 以深度學習進行3D重建的專案一覽 `paper-list` ⭐1k · 📅2023-05
 - 🔴 [awesome-3d-reconstruction-papers](https://github.com/bluestyle97/awesome-3d-reconstruction-papers) — 深度學習時代的3D重建論文集 `paper-list` ⭐907 · 📅2023-12
 - 🔴 [awesome-3dbody-papers](https://github.com/3DFaceBody/awesome-3dbody-papers) — 3D人體（SMPL等）論文集 `paper-list` ⭐665 · 📅2024-01
-- 🔴 [Awesome-Learning-MVS](https://github.com/XYZ-qiyh/Awesome-Learning-MVS) — 基於學習的MVS論文清單 `paper-list` ⭐638 · 📅2023-11
-- 🔴 [Awsome_Deep_Geometry_Learning](https://github.com/subeeshvasu/Awsome_Deep_Geometry_Learning) — 3D形狀深度學習解決方案資料集 `paper-list` ⭐366 · 📅2021-08
+- 🔴 [Awesome-Learning-MVS](https://github.com/XYZ-qiyh/Awesome-Learning-MVS) — 基於學習的MVS論文清單 `paper-list` ⭐637 · 📅2023-11
+- 🔴 [Awsome_Deep_Geometry_Learning](https://github.com/subeeshvasu/Awsome_Deep_Geometry_Learning) — 3D形狀深度學習解決方案資料集 `paper-list` ⭐367 · 📅2021-08
 - 🔴 [awesome-mvs](https://github.com/krahets/awesome-mvs) — MVS的教學、論文與軟體集 `awesome` ⭐282 · 📅2022-08
 - 🔴 [Awesome-Avatars](https://github.com/pansanity666/Awesome-Avatars) — 人體虛擬人的生成、重建與編輯最新進展 `paper-list` ⭐277 · 📅2024-04
 - 🔴 [awesome-pbr](https://github.com/neil3d/awesome-pbr) — PBR的資料、簡報與論文綜合集 `awesome` ⭐121 · 📅2021-01
 - 🔴 [awesome-Implicit-NeRF-SLAM](https://github.com/Taeyoung96/awesome-Implicit-NeRF-SLAM) — 隱式表示與NeRF的SLAM/機器人應用論文集 `paper-list` ⭐13 · 📅2023-11
-- 🔴 [awesome-dynamic-scene-representations](https://github.com/yklcs/awesome-dynamic-scene-representations) — 動態場景表示的資料集 `paper-list` ⭐8 · 📅2024-04
+- 🔴 [awesome-dynamic-scene-representations](https://github.com/yklcs/awesome-dynamic-scene-representations) — 動態場景表示的資料集 `paper-list` ⭐7 · 📅2024-04
 - 🔴 [texture-synthesis-papers](https://github.com/lzhbrian/texture-synthesis-papers) — 紋理合成論文（附程式碼）集 `paper-list` ⭐4 · 📅2019-03
 
 ## 🖌️ 低階影像處理 / 復原 / 壓縮
@@ -380,9 +380,9 @@
 - 🟢 [Awesome-Image-Colorization](https://github.com/MarkMoHR/Awesome-Image-Colorization) — 基於深度學習的影像/影片上色論文（至2025-2026仍活躍） `awesome` ⭐1.2k · 📅2026-11
 - 🟢 [Awesome-High-Dynamic-Range-Imaging](https://github.com/rebeccaeexu/Awesome-High-Dynamic-Range-Imaging) — HDR論文集（多/單影格、HDRTV、HDR影片、色調映射） `awesome` ⭐250 · 📅2026-08
 - 🟢 [Awesome-Video-Frame-Interpolation](https://github.com/CMLab-Korea/Awesome-Video-Frame-Interpolation) — IEEE TCSVT'26錄取的VFI綜述，體系化250+論文（活躍） `survey` ⭐172 · 📅2026-11
-- 🟢 [Awesome-Image-Restoration](https://github.com/TaoWangzj/Awesome-Image-Restoration) — 綜述《Deep Image Restoration》附帶，橫跨denoise/deblur/SR/dehaze/derain等 `survey` ⭐22 · 📅2025-11
+- 🟢 [Awesome-Image-Restoration](https://github.com/TaoWangzj/Awesome-Image-Restoration) — 綜述《Deep Image Restoration》附帶，橫跨denoise/deblur/SR/dehaze/derain等 `survey` ⭐23 · 📅2025-11
 - 🟢 [Awesome-Deblurring-Resources](https://github.com/kawchar85/Awesome-Deblurring-Resources) — 依年份整理的影像與影片去模糊論文/資料集（活躍） `paper-list` ⭐14 · 📅2026-09
-- 🟡 [Awesome-Shadow-Removal](https://github.com/GuoLanqing/Awesome-Shadow-Removal) — 去陰影的論文/程式碼/資料集/指標集（活躍） `awesome` ⭐401 · 📅2025-04
+- 🟡 [Awesome-Shadow-Removal](https://github.com/GuoLanqing/Awesome-Shadow-Removal) — 去陰影的論文/程式碼/資料集/指標集（活躍） `awesome` ⭐402 · 📅2025-04
 - 🟡 [Awesome-Deep-Learning-Based-Video-Compression](https://github.com/ppingzhang/Awesome-Deep-Learning-Based-Video-Compression) — 基於深度學習的影片壓縮論文清單 `paper-list` ⭐302 · 📅2025-09
 - 🟡 [awesome-computational-photography](https://github.com/visionxiang/awesome-computational-photography) — 以深度學習進行計算攝影（影像匹配、對齊、拼接、穩定化） `paper-list` ⭐190 · 📅2025-07
 - 🟡 [awesome-video-enhancement](https://github.com/liuzhen03/awesome-video-enhancement) — 橫跨影片超解析度、插補、去噪、去模糊與修復的論文集 `paper-list` ⭐158 · 📅2024-08
@@ -400,18 +400,18 @@
 ## 🎬 動漫・動畫・插畫・字型
 
 - 🟢 [AwesomeAnimeResearch](https://github.com/SerialLain3170/AwesomeAnimeResearch) — 動畫/漫畫研究的論文與資料集集（生成、上色、角色動畫等） `awesome` ⭐1.3k · 📅2026-07
-- 🟢 [Awesome-Sketch-Based-Applications](https://github.com/MarkMoHR/Awesome-Sketch-Based-Applications) — 基於草圖的應用論文集 `paper-list` ⭐717 · 📅2026-11
-- 🟢 [Awesome-Sketch-Synthesis](https://github.com/MarkMoHR/Awesome-Sketch-Synthesis) — 草圖合成(生成)論文集 `paper-list` ⭐583 · 📅2026-11
+- 🟢 [Awesome-Sketch-Based-Applications](https://github.com/MarkMoHR/Awesome-Sketch-Based-Applications) — 基於草圖的應用論文集 `paper-list` ⭐718 · 📅2026-11
+- 🟢 [Awesome-Sketch-Synthesis](https://github.com/MarkMoHR/Awesome-Sketch-Synthesis) — 草圖合成(生成)論文集 `paper-list` ⭐584 · 📅2026-11
 - 🟢 [Awesome-Animation-Research](https://github.com/zhenglinpan/Awesome-Animation-Research) — 收集動畫(2D/卡通等)研究論文與資料集的清單 `paper-list` ⭐223 · 📅2026-11
-- 🟢 [Awesome-AI4Animation](https://github.com/yoloytang/Awesome-AI4Animation) — AI 動畫生成、插補、上色與製作輔助的論文集 `paper-list` ⭐218 · 📅2026-10
-- 🟢 [Awesome-2D-Animation](https://github.com/MarkMoHR/Awesome-2D-Animation) — 中間影格(inbetweening)與 2D 動畫的工具、資料集與論文集 `paper-list` ⭐49 · 📅2026-11
+- 🟢 [Awesome-AI4Animation](https://github.com/yoloytang/Awesome-AI4Animation) — AI 動畫生成、插補、上色與製作輔助的論文集 `paper-list` ⭐219 · 📅2026-10
+- 🟢 [Awesome-2D-Animation](https://github.com/MarkMoHR/Awesome-2D-Animation) — 中間影格(inbetweening)與 2D 動畫的工具、資料集與論文集 `paper-list` ⭐50 · 📅2026-11
 - 🟡 [TypographyResearchCollection](https://github.com/IShengFang/TypographyResearchCollection) — 字體排印相關的CG/CV/ML研究收集（含字型生成、動畫） `paper-list` ⭐165 · 📅2025-08
 - 🔴 [Sketch-Based-Deep-Learning](https://github.com/qyzdao/Sketch-Based-Deep-Learning) — 草圖式深度學習論文集（線稿上色、向量化等） `paper-list` ⭐180 · 📅2021-05
 
 ## 💬 NLP / 大型語言模型(LLM)
 
 - 🟢 [Awesome-Chinese-LLM](https://github.com/AiHubCN/Awesome-Chinese-LLM) — 整理開源中文大型語言模型（底座/領域微調/資料/教程） `awesome` ⭐22.8k · 📅2026-05
-- 🟢 [awesome-nlp](https://github.com/keon/awesome-nlp) — 彙整NLP全領域函式庫、資料與教學的經典清單 `awesome` ⭐19.2k · 📅2026-10
+- 🟢 [awesome-nlp](https://github.com/keon/awesome-nlp) — 彙整NLP全領域函式庫、資料與教學的經典清單 `awesome` ⭐19.2k · 📅2026-11
 - 🟢 [LLMsPracticalGuide](https://github.com/Mooler0410/LLMsPracticalGuide) — 彙整LLM演化譜系樹與實務應用指南的綜述集 `survey` ⭐10.2k · 📅2026-04
 - 🟢 [awesome-prompts](https://github.com/ai-boost/awesome-prompts) — 高評價GPTs提示與前沿提示工程論文集 `awesome` ⭐9.3k · 📅2026-11
 - 🟢 [awesome-LLM-resources](https://github.com/WangRongsheng/awesome-LLM-resources) — 彙整多模態生成、Agent、輔助編程、資料處理、訓練與推理等的LLM資料總整理 `awesome` ⭐9.1k · 📅2026-11
@@ -421,7 +421,7 @@
 - 🟢 [Awesome-Text2SQL](https://github.com/eosphoros-ai/Awesome-Text2SQL) — Text2SQL/Text2DSL等的教學與資源集 `awesome` ⭐3.8k · 📅2026-01
 - 🟢 [Awesome-LLM-Reasoning](https://github.com/atfortes/Awesome-LLM-Reasoning) — 從CoT到o1/DeepSeek-R1的LLM推理論文集（非常活躍） `awesome` ⭐3.7k · 📅2026-04
 - 🟢 [Awesome-Context-Engineering](https://github.com/Meirtz/Awesome-Context-Engineering) — 從提示工程到正式AI系統的context engineering綜述 `survey` ⭐3.3k · 📅2026-05
-- 🟢 [Top-AI-Conferences-Paper-with-Code](https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code) — ACL/EMNLP/NAACL/COLING等頂會附程式碼的論文集 `paper-list` ⭐2.7k · 📅2026-07
+- 🟢 [Top-AI-Conferences-Paper-with-Code](https://github.com/MLNLP-World/Top-AI-Conferences-Paper-with-Code) — ACL/EMNLP/NAACL/COLING等頂會附程式碼的論文集 `paper-list` ⭐2.7k · 📅2026-11
 - 🟢 [Awesome-GraphRAG](https://github.com/DEEP-PolyU/Awesome-GraphRAG) — 基於圖的RAG綜述、論文與基準集 `awesome` ⭐2.7k · 📅2026-06
 - 🟢 [Awesome-Graph-LLM](https://github.com/XiaoxinHe/Awesome-Graph-LLM) — 彙整圖相關LLM資源的精選集 `awesome` ⭐2.5k · 📅2025-11
 - 🟢 [prompt-in-context-learning](https://github.com/EgoAlpha/prompt-in-context-learning) — 持續更新ICL與提示工程最新資源的論文清單 `paper-list` ⭐2.3k · 📅2026-11
@@ -433,16 +433,16 @@
 - 🟢 [KnowledgeEditingPapers](https://github.com/zjunlp/KnowledgeEditingPapers) — LLM知識編輯相關論文清單 `paper-list` ⭐1.3k · 📅2026-08
 - 🟢 [awesome-hallucination-detection](https://github.com/EdinburghNLP/awesome-hallucination-detection) — 依模型整理LLM幻覺偵測論文的清單 `paper-list` ⭐1.1k · 📅2026-11
 - 🟢 [Paper-Reading-ConvAI](https://github.com/iwangjian/Paper-Reading-ConvAI) — 以對話系統與NLG為主的會話AI論文清單 `paper-list` ⭐1k · 📅2026-05
-- 🟢 [awesome-data-llm](https://github.com/OpenDataBox/awesome-data-llm) — 《LLM × DATA》綜述官方儲存庫 `survey` ⭐834 · 📅2026-10
-- 🟢 [Awesome-Efficient-Reasoning-LLMs](https://github.com/Eclipsess/Awesome-Efficient-Reasoning-LLMs) — 《Stop Overthinking》高效推理綜述（TMLR2025）論文集 `survey` ⭐794 · 📅2026-10
-- 🟢 [awesome-pretrained-models-for-information-retrieval](https://github.com/ict-bigdatalab/awesome-pretrained-models-for-information-retrieval) — IR用預訓練模型（pretraining for IR）論文集 `awesome` ⭐677 · 📅2026-10
-- 🟢 [EventExtractionPapers](https://github.com/BaptisteBlouin/EventExtractionPapers) — 以事件抽取任務為主的NLP資源清單 `paper-list` ⭐581 · 📅2026-10
+- 🟢 [awesome-data-llm](https://github.com/OpenDataBox/awesome-data-llm) — 《LLM × DATA》綜述官方儲存庫 `survey` ⭐839 · 📅2026-10
+- 🟢 [Awesome-Efficient-Reasoning-LLMs](https://github.com/Eclipsess/Awesome-Efficient-Reasoning-LLMs) — 《Stop Overthinking》高效推理綜述（TMLR2025）論文集 `survey` ⭐795 · 📅2026-10
+- 🟢 [awesome-pretrained-models-for-information-retrieval](https://github.com/ict-bigdatalab/awesome-pretrained-models-for-information-retrieval) — IR用預訓練模型（pretraining for IR）論文集 `awesome` ⭐678 · 📅2026-10
+- 🟢 [EventExtractionPapers](https://github.com/BaptisteBlouin/EventExtractionPapers) — 以事件抽取任務為主的NLP資源清單 `paper-list` ⭐580 · 📅2026-10
 - 🟢 [A-Survey-on-Mixture-of-Experts-in-LLMs](https://github.com/withinmiaov/A-Survey-on-Mixture-of-Experts-in-LLMs) — TKDE錄取《MoE in LLMs》綜述官方論文集 `survey` ⭐513 · 📅2026-08
 - 🟢 [LLM-Tool-Survey](https://github.com/quchangle1/LLM-Tool-Survey) — 工具學習綜述官方儲存庫，依task planning/tool selection等分類 `survey` ⭐492 · 📅2026-10
-- 🟢 [awesome-nlg](https://github.com/accelerated-text/awesome-nlg) — NLG整體的資源集（工具/論文/資料） `awesome` ⭐483 · 📅2026-09
-- 🟢 [Awesome-LLM-Quantization](https://github.com/pprp/Awesome-LLM-Quantization) — 專注於LLM量化的論文清單 `awesome` ⭐456 · 📅2026-10
+- 🟢 [awesome-nlg](https://github.com/accelerated-text/awesome-nlg) — NLG整體的資源集（工具/論文/資料） `awesome` ⭐484 · 📅2026-09
+- 🟢 [Awesome-LLM-Quantization](https://github.com/pprp/Awesome-LLM-Quantization) — 專注於LLM量化的論文清單 `awesome` ⭐455 · 📅2026-11
 - 🟢 [awesome-moe-inference](https://github.com/MoE-Inf/awesome-moe-inference) — 彙整MoE模型推理最佳化論文的清單 `paper-list` ⭐434 · 📅2026-03
-- 🟢 [Awesome-Inference-Time-Scaling](https://github.com/ThreeSR/Awesome-Inference-Time-Scaling) — 推理時/測試時擴展的論文清單（活躍） `awesome` ⭐407 · 📅2026-11
+- 🟢 [Awesome-Inference-Time-Scaling](https://github.com/ThreeSR/Awesome-Inference-Time-Scaling) — 推理時/測試時擴展的論文清單（活躍） `awesome` ⭐406 · 📅2026-11
 - 🟢 [Awesome_papers_on_LLMs_detection](https://github.com/Xianjun-Yang/Awesome_papers_on_LLMs_detection) — LLM生成文字與程式碼偵測的論文清單 `paper-list` ⭐294 · 📅2026-11
 - 🟢 [Awesome-RAG-Evaluation](https://github.com/YHPeter/Awesome-RAG-Evaluation) — 《Evaluation of RAG: A Survey》官方評估論文清單 `paper-list` ⭐201 · 📅2026-10
 - 🟢 [Awesome-Fake-News-Detection](https://github.com/wangbing1416/Awesome-Fake-News-Detection) — 假新聞與謠言偵測的論文清單 `awesome` ⭐164 · 📅2026-04
@@ -451,7 +451,7 @@
 - 🟢 [MT-paper-lists](https://github.com/NiuTrans/MT-paper-lists) — 依會議整理機器翻譯論文的清單 `paper-list` ⭐124 · 📅2026-10
 - 🟢 [Awesome-Parameter-Efficient-Fine-Tuning-for-Foundation-Models](https://github.com/THUDM/Awesome-Parameter-Efficient-Fine-Tuning-for-Foundation-Models) — 系統性彙整基礎模型用PEFT方法的綜述兼論文清單 `survey` ⭐115 · 📅2026-11
 - 🟢 [llm-self-correction-papers](https://github.com/ryokamoi/llm-self-correction-papers) — LLM self-correction論文清單（依綜述） `paper-list` ⭐83 · 📅2026-05
-- 🟢 [Awesome-Personalized-LLMs](https://github.com/VanillaCreamer/Awesome-Personalized-LLMs) — 個人化LLM（偏好建模、persona控制、記憶式）最新論文集 `paper-list` ⭐80 · 📅2026-11
+- 🟢 [Awesome-Personalized-LLMs](https://github.com/VanillaCreamer/Awesome-Personalized-LLMs) — 個人化LLM（偏好建模、persona控制、記憶式）最新論文集 `paper-list` ⭐81 · 📅2026-11
 - 🟢 [Awesome-Function-Callings](https://github.com/Applied-Machine-Learning-Lab/Awesome-Function-Callings) — 專注於LLM function calling的論文清單 `paper-list` ⭐71 · 📅2026-04
 - 🟢 [Awesome-Data-Efficient-LLM](https://github.com/luo-junyu/Awesome-Data-Efficient-LLM) — 資料高效與資料中心的LLM論文集（附綜述） `survey` ⭐65 · 📅2026-11
 - 🟢 [awesome-lora-adapter](https://github.com/marlin-codes/awesome-lora-adapter) — 彙整LoRA與adapter系方法的論文清單 `paper-list` ⭐26 · 📅2026-11
@@ -462,10 +462,10 @@
 - 📑 [RAG-Survey](https://github.com/hymie122/RAG-Survey) — 《RAG for AI-Generated Content》綜述的分類體系與論文集 `survey` ⭐1.8k · 📅2024-08
 - 📑 [llm-hallucination-survey](https://github.com/HillZhang1999/llm-hallucination-survey) — 《Siren's Song in the AI Ocean》幻覺綜述的閱讀清單 `survey` ⭐1.1k · 📅2025-09
 - 📑 [Awesome-Language-Model-on-Graphs](https://github.com/PeterGriffinJin/Awesome-Language-Model-on-Graphs) — 《LLMs on Graphs》TKDE綜述的論文與資源集 `survey` ⭐1k · 📅2025-03
-- 📑 [Awesome-LLMs-Evaluation-Papers](https://github.com/tjunlp-lab/Awesome-LLMs-Evaluation-Papers) — 《Evaluating LLMs: A Comprehensive Survey》論文集 `survey` ⭐812 · 📅2024-05
-- 📑 [Awesome-LLMs-as-Judges](https://github.com/CSHaitao/Awesome-LLMs-as-Judges) — 《LLMs-as-Judges》評估方法綜述官方論文集 `survey` ⭐629 · 📅2025-07
+- 📑 [Awesome-LLMs-Evaluation-Papers](https://github.com/tjunlp-lab/Awesome-LLMs-Evaluation-Papers) — 《Evaluating LLMs: A Comprehensive Survey》論文集 `survey` ⭐813 · 📅2024-05
+- 📑 [Awesome-LLMs-as-Judges](https://github.com/CSHaitao/Awesome-LLMs-as-Judges) — 《LLMs-as-Judges》評估方法綜述官方論文集 `survey` ⭐632 · 📅2025-07
 - 📑 [CNSurvey](https://github.com/NiuTrans/CNSurvey) — NLP與機器學習的中文綜述文章清單 `survey` ⭐583 · 📅2023-05
-- 📑 [ABigSurveyOfLLMs](https://github.com/NiuTrans/ABigSurveyOfLLMs) — 彙整150篇以上LLM相關綜述的集合 `survey` ⭐352 · 📅2025-02
+- 📑 [ABigSurveyOfLLMs](https://github.com/NiuTrans/ABigSurveyOfLLMs) — 彙整150篇以上LLM相關綜述的集合 `survey` ⭐353 · 📅2025-02
 - 📑 [Semantic-Retrieval-Models](https://github.com/caiyinqiong/Semantic-Retrieval-Models) — 涵蓋語意檢索模型（DPR、RAG、RepBERT等）的TOIS錄取綜述論文清單 `survey` ⭐345 · 📅2023-06
 - 📑 [CTGSurvey](https://github.com/IAAR-Shanghai/CTGSurvey) — LLM用可控文字生成綜述論文清單（分類訓練時/推理時方法） `survey` ⭐205 · 📅2024-08
 - 📑 [llm-alignment-survey](https://github.com/Magnetic2014/llm-alignment-survey) — 《LLM Alignment: A Survey》的對齊閱讀清單 `survey` ⭐82 · 📅2023-09
@@ -477,7 +477,7 @@
 - 🟡 [ToolLearningPapers](https://github.com/thunlp/ToolLearningPapers) — 基礎模型工具學習（tool learning）的必讀論文集 `paper-list` ⭐923 · 📅2024-07
 - 🟡 [ICL_PaperList](https://github.com/dqxiu/ICL_PaperList) — 基於In-Context Learning綜述的論文清單 `paper-list` ⭐874 · 📅2024-10
 - 🟡 [Awesome-Mixture-of-Experts-Papers](https://github.com/codecaution/Awesome-Mixture-of-Experts-Papers) — MoE研究閱讀清單 `paper-list` ⭐672 · 📅2024-10
-- 🟡 [awesome-llm-pretraining](https://github.com/RUCAIBox/awesome-llm-pretraining) — LLM預訓練的資料、框架與方法資源集 `awesome` ⭐423 · 📅2025-04
+- 🟡 [awesome-llm-pretraining](https://github.com/RUCAIBox/awesome-llm-pretraining) — LLM預訓練的資料、框架與方法資源集 `awesome` ⭐424 · 📅2025-04
 - 🟡 [Awesome-LLM-Watermark](https://github.com/hzy312/Awesome-LLM-Watermark) — 持續更新最新LLM浮水印論文的清單 `paper-list` ⭐378 · 📅2024-12
 - 🟡 [awesome-tool-llm](https://github.com/zorazrw/awesome-tool-llm) — 彙整工具增強LLM（ToRA、MINT等）的精選清單 `awesome` ⭐249 · 📅2024-08
 - 🟡 [Awesome_Test_Time_LLMs](https://github.com/Dereck0602/Awesome_Test_Time_LLMs) — 測試時LLM（含self-correction/refine）論文集 `awesome` ⭐159 · 📅2025-03
@@ -497,8 +497,8 @@
 - 🔴 [awesome-instruction-learning](https://github.com/RenzeLou/awesome-instruction-learning) — Instruction Tuning/Following論文與資料集集 `paper-list` ⭐513 · 📅2024-04
 - 🔴 [Named-Entity-Recognition-NER-Papers](https://github.com/pfliu-nlp/Named-Entity-Recognition-NER-Papers) — 涵蓋7個會議NER論文的清單 `paper-list` ⭐392 · 📅2022-02
 - 🔴 [ABSAPapers](https://github.com/ZhengZixiang/ABSAPapers) — 面向aspect的情感分析（ABSA）論文與資源集 `paper-list` ⭐363 · 📅2024-03
-- 🔴 [Awesome-LLM-hallucination](https://github.com/LuckyyySTA/Awesome-LLM-hallucination) — LLM幻覺相關論文清單 `paper-list` ⭐339 · 📅2024-03
-- 🔴 [Awesome-Sentence-Embedding](https://github.com/Doragd/Awesome-Sentence-Embedding) — 收錄句子表示學習論文與STS排行榜（SimCSE等） `awesome` ⭐314 · 📅2023-10
+- 🔴 [Awesome-LLM-hallucination](https://github.com/LuckyyySTA/Awesome-LLM-hallucination) — LLM幻覺相關論文清單 `paper-list` ⭐338 · 📅2024-03
+- 🔴 [Awesome-Sentence-Embedding](https://github.com/Doragd/Awesome-Sentence-Embedding) — 收錄句子表示學習論文與STS排行榜（SimCSE等） `awesome` ⭐315 · 📅2023-10
 - 🔴 [DeltaPapers](https://github.com/thunlp/DeltaPapers) — 預訓練模型參數高效調校（Delta Tuning）的必讀論文集 `paper-list` ⭐283 · 📅2023-06
 - 🔴 [LLM-Optimizers-Papers](https://github.com/AGI-Edgerunners/LLM-Optimizers-Papers) — 將LLM用作最佳化器/提示自動最佳化的必讀論文集 `paper-list` ⭐249 · 📅2024-03
 - 🔴 [Awesome-KBQA](https://github.com/RUCAIBox/Awesome-KBQA) — 知識庫QA（KBQA）的論文、工具與排行榜集 `paper-list` ⭐183 · 📅2022-04
@@ -511,7 +511,7 @@
 
 ## 🖼️ 生成式 AI / Diffusion / 影像・影片生成
 
-- 🟢 [Awesome-Video-Diffusion](https://github.com/showlab/Awesome-Video-Diffusion) — 彙整影片生成與編輯diffusion model的經典清單 `awesome` ⭐5.8k · 📅2026-10
+- 🟢 [Awesome-Video-Diffusion](https://github.com/showlab/Awesome-Video-Diffusion) — 彙整影片生成與編輯diffusion model的經典清單 `awesome` ⭐5.9k · 📅2026-10
 - 🟢 [gans-awesome-applications](https://github.com/nashory/gans-awesome-applications) — 彙整GAN應用與demo的精選清單 `awesome` ⭐5.1k · 📅2026-06
 - 🟢 [awesome-virtual-try-on](https://github.com/minar09/awesome-virtual-try-on) — 虛擬試穿的論文/程式碼/資料集經典清單 `awesome` ⭐3.2k · 📅2026-11
 - 🟢 [Awesome-Text-to-Image](https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image) — 文字生成影像的綜述式論文清單 `survey` ⭐2.4k · 📅2026-11
@@ -520,20 +520,20 @@
 - 🟢 [awesome-talking-head-generation](https://github.com/harlanhong/awesome-talking-head-generation) — talking head生成論文清單 `paper-list` ⭐1.9k · 📅2026-11
 - 🟢 [GAN-Inversion](https://github.com/weihaox/GAN-Inversion) — GAN Inversion綜述（TPAMI 2022）附帶儲存庫 `survey` ⭐1.1k · 📅2026-07
 - 🟢 [Awesome-diffusion-model-for-image-processing](https://github.com/lixinustc/Awesome-diffusion-model-for-image-processing) — 整理復原/增強/編碼/品質評估的diffusion model `survey` ⭐955 · 📅2026-04
-- 🟢 [Autoregressive-Models-in-Vision-Survey](https://github.com/ChaofanTao/Autoregressive-Models-in-Vision-Survey) — 視覺autoregressive model綜述（TMLR 2025） `survey` ⭐805 · 📅2026-05
-- 🟢 [awesome-video-generation](https://github.com/AlonzoLeeeooo/awesome-video-generation) — 彙整影片生成研究的集合 `awesome` ⭐794 · 📅2026-11
+- 🟢 [Autoregressive-Models-in-Vision-Survey](https://github.com/ChaofanTao/Autoregressive-Models-in-Vision-Survey) — 視覺autoregressive model綜述（TMLR 2025） `survey` ⭐804 · 📅2026-05
+- 🟢 [awesome-video-generation](https://github.com/AlonzoLeeeooo/awesome-video-generation) — 彙整影片生成研究的集合 `awesome` ⭐796 · 📅2026-11
 - 🟢 [awesome-text-to-image-studies](https://github.com/AlonzoLeeeooo/awesome-text-to-image-studies) — 彙整text-to-image研究的持續更新清單 `awesome` ⭐764 · 📅2026-11
-- 🟢 [awesome-text-to-video](https://github.com/jianzhnie/awesome-text-to-video) — Text-to-Video生成綜述 `survey` ⭐756 · 📅2026-11
-- 🟢 [Awesome-Video-World-Models-with-AR-Diffusion](https://github.com/gracezhao1997/Awesome-Video-World-Models-with-AR-Diffusion) — AR+diffusion的影片世界模型（演算法/應用/基礎） `awesome` ⭐720 · 📅2026-11
+- 🟢 [awesome-text-to-video](https://github.com/jianzhnie/awesome-text-to-video) — Text-to-Video生成綜述 `survey` ⭐757 · 📅2026-11
+- 🟢 [Awesome-Video-World-Models-with-AR-Diffusion](https://github.com/gracezhao1997/Awesome-Video-World-Models-with-AR-Diffusion) — AR+diffusion的影片世界模型（演算法/應用/基礎） `awesome` ⭐721 · 📅2026-11
 - 🟢 [Awesome-Deepfake-Generation-and-Detection](https://github.com/flyingby/Awesome-Deepfake-Generation-and-Detection) — Deepfake生成與偵測綜述 `survey` ⭐653 · 📅2026-10
 - 🟢 [Awesome-From-Video-Generation-to-World-Model](https://github.com/ziqihuangg/Awesome-From-Video-Generation-to-World-Model) — 整理從影片生成到世界模型的脈絡 `paper-list` ⭐523 · 📅2026-09
-- 🟢 [Awesome-AIGC-Image-Video-Detection](https://github.com/ant-research/Awesome-AIGC-Image-Video-Detection) — AI生成影像/影片偵測的最新研究集 `paper-list` ⭐495 · 📅2026-11
-- 🟢 [Awesome-Evaluation-of-Visual-Generation](https://github.com/ziqihuangg/Awesome-Evaluation-of-Visual-Generation) — 視覺生成的評估指標/模型/系統集 `paper-list` ⭐466 · 📅2026-08
-- 🟢 [Awesome-Try-On-Models](https://github.com/Zheng-Chong/Awesome-Try-On-Models) — 整理虛擬試穿模型（含2025） `paper-list` ⭐466 · 📅2026-11
-- 🟢 [awesome-image-inpainting-studies](https://github.com/AlonzoLeeeooo/awesome-image-inpainting-studies) — 影像修復研究的集合 `awesome` ⭐399 · 📅2026-11
-- 🟢 [Awesome-Comprehensive-Deepfake-Detection](https://github.com/qiqitao77/Awesome-Comprehensive-Deepfake-Detection) — Deepfake偵測的全面論文清單 `paper-list` ⭐333 · 📅2026-11
+- 🟢 [Awesome-AIGC-Image-Video-Detection](https://github.com/ant-research/Awesome-AIGC-Image-Video-Detection) — AI生成影像/影片偵測的最新研究集 `paper-list` ⭐499 · 📅2026-11
+- 🟢 [Awesome-Try-On-Models](https://github.com/Zheng-Chong/Awesome-Try-On-Models) — 整理虛擬試穿模型（含2025） `paper-list` ⭐469 · 📅2026-11
+- 🟢 [Awesome-Evaluation-of-Visual-Generation](https://github.com/ziqihuangg/Awesome-Evaluation-of-Visual-Generation) — 視覺生成的評估指標/模型/系統集 `paper-list` ⭐468 · 📅2026-08
+- 🟢 [awesome-image-inpainting-studies](https://github.com/AlonzoLeeeooo/awesome-image-inpainting-studies) — 影像修復研究的集合 `awesome` ⭐400 · 📅2026-11
+- 🟢 [Awesome-Comprehensive-Deepfake-Detection](https://github.com/qiqitao77/Awesome-Comprehensive-Deepfake-Detection) — Deepfake偵測的全面論文清單 `paper-list` ⭐335 · 📅2026-11
 - 🟢 [awesome-diffusion-v2v](https://github.com/wenhao728/awesome-diffusion-v2v) — 基於diffusion的Video-to-Video編輯論文與基準 `paper-list` ⭐295 · 📅2026-04
-- 🟢 [Awesome-Text-to-Video-Generation](https://github.com/soraw-ai/Awesome-Text-to-Video-Generation) — 依Sora綜述整理的T2V/I2V論文清單 `survey` ⭐261 · 📅2026-11
+- 🟢 [Awesome-Text-to-Video-Generation](https://github.com/soraw-si/Awesome-Text-to-Video-Generation) — 依Sora綜述整理的T2V/I2V論文清單 `survey` ⭐261 · 📅2026-11
 - 🟢 [Awesome-Consistency-Models](https://github.com/G-U-N/Awesome-Consistency-Models) — Consistency Model資源清單 `awesome` ⭐131 · 📅2026-09
 - 📑 [Awesome-Image-Editing](https://github.com/FudanCVL/Awesome-Image-Editing) — 以T2I模型進行影像編輯的綜述 `survey` ⭐472 · 📅2025-08
 - 🟡 [Awesome-Diffusion-Models](https://github.com/diff-usion/Awesome-Diffusion-Models) — 涵蓋diffusion model論文與資源最大規模之一的清單 `awesome` ⭐12.4k · 📅2024-08
@@ -542,7 +542,7 @@
 - 🟡 [awesome-image-translation](https://github.com/weihaox/awesome-image-translation) — image-to-image translation相關優良資源的集合 `awesome` ⭐1.2k · 📅2025-09
 - 🟡 [Awesome-Unified-Multimodal-Models](https://github.com/showlab/Awesome-Unified-Multimodal-Models) — 統一理解與生成的模型論文集 `paper-list` ⭐836 · 📅2025-10
 - 🟡 [awesome-discrete-diffusion-models](https://github.com/kuleshov-group/awesome-discrete-diffusion-models) — 專注於離散diffusion model的資源清單 `awesome` ⭐578 · 📅2025-09
-- 🟡 [Awesome-Controllable-Diffusion](https://github.com/atfortes/Awesome-Controllable-Diffusion) — ControlNet、DreamBooth、IP-Adapter等可控生成資源 `awesome` ⭐504 · 📅2025-06
+- 🟡 [Awesome-Controllable-Diffusion](https://github.com/atfortes/Awesome-Controllable-Diffusion) — ControlNet、DreamBooth、IP-Adapter等可控生成資源 `awesome` ⭐503 · 📅2025-06
 - 🟡 [Awesome-Autoregressive-Visual-Generation](https://github.com/lxa9867/Awesome-Autoregressive-Visual-Generation) — autoregressive視覺生成最新論文追蹤 `paper-list` ⭐433 · 📅2025-06
 - 🟡 [Awesome-High-Resolution-Diffusion](https://github.com/GuoLanqing/Awesome-High-Resolution-Diffusion) — 高解析度影像/影片合成的diffusion論文 `paper-list` ⭐170 · 📅2024-12
 - 🟡 [Awesome-Music-Generation](https://github.com/shaopengw/Awesome-Music-Generation) — 音樂生成模型MG²的資源 `model` ⭐167 · 📅2025-03
@@ -558,17 +558,17 @@
 
 - 🟢 [Awesome-Nano-Banana-images](https://github.com/PicoTrex/Awesome-Nano-Banana-images) — Gemini系Nano Banana生成範例與提示集（公開資料集） `model` ⭐24.1k · 📅2026-09
 - 🟢 [awesome-gpt-image-2-API-Prompts](https://github.com/Evolink-AI/awesome-gpt-image-2-API-Prompts) — GPT-Image-2的API與提示及範例集 `model` ⭐17.4k · 📅2026-07
-- 🟢 [awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts) — 世界最大規模之一的Nano Banana Pro提示集10,000+/16語言（每日更新） `model` ⭐13.8k · 📅2026-11
+- 🟢 [awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts) — 世界最大規模之一的Nano Banana Pro提示集10,000+/16語言（每日更新） `model` ⭐13.9k · 📅2026-11
 - 🟢 [awesome-nanobanana-pro](https://github.com/ZeroLu/awesome-nanobanana-pro) — Nano Banana Pro（Nano Banana 2）的提示與範例集 `model` ⭐10.4k · 📅2026-11
 - 🟢 [awesome-image-video-prompts](https://github.com/ai-boost/awesome-image-video-prompts) — 彙整GPT Store刊載GPT的精選 `model` ⭐3.5k · 📅2026-11
 - 🟢 [awesome-seedance-2-prompts](https://github.com/YouMind-OpenLab/awesome-seedance-2-prompts) — Seedance 2.0影片生成提示2000+（每日更新） `model` ⭐2.2k · 📅2026-11
 - 🟢 [awesome-nano-banana-pro](https://github.com/muset-ai/awesome-nano-banana-pro) — Nano Banana Pro的影像與提示範例集 `model` ⭐1.1k · 📅2025-11
 - 🟢 [awesome-grok-prompts](https://github.com/langgptai/awesome-grok-prompts) — Grok（xAI）用進階提示與範本集 `model` ⭐523 · 📅2026-11
-- 🟢 [Awesome-Chinese-Stable-Diffusion](https://github.com/leeguandong/Awesome-Chinese-Stable-Diffusion) — 中文文生圖SD模型集（含Kolors/HunyuanDiT等） `model` ⭐456 · 📅2026-10
+- 🟢 [Awesome-Chinese-Stable-Diffusion](https://github.com/leeguandong/Awesome-Chinese-Stable-Diffusion) — 中文文生圖SD模型集（含Kolors/HunyuanDiT等） `model` ⭐457 · 📅2026-11
 - 🟢 [awesome-qwen-prompt-insight](https://github.com/XiaomingX/awesome-qwen-prompt-insight) — Qwen用優質提示的大規模集合 `model` ⭐446 · 📅2026-02
 - 🟢 [awesome-llama-prompts](https://github.com/langgptai/awesome-llama-prompts) — Llama2/Llama3用提示集 `model` ⭐272 · 📅2026-11
 - 🟢 [Awesome-Open-AI-Sora](https://github.com/Curated-Awesome-Lists/Awesome-Open-AI-Sora) — Sora相關文章/影片/新聞的資源中心 `model` ⭐260 · 📅2026-09
-- 🟢 [awesome-ai-video-prompts](https://github.com/geekjourneyx/awesome-ai-video-prompts) — 橫跨多個影片模型的提示/技法集 `model` ⭐91 · 📅2026-01
+- 🟢 [awesome-ai-video-prompts](https://github.com/geekjourneyx/awesome-ai-video-prompts) — 橫跨多個影片模型的提示/技法集 `model` ⭐92 · 📅2026-01
 - 🟢 [awesome-grok-imagine-prompts](https://github.com/YouMind-OpenLab/awesome-grok-imagine-prompts) — Grok Imagine（xAI）影片生成提示集 `model` ⭐62 · 📅2026-11
 - 🟢 [awesome-qwen-image-2512](https://github.com/shauray8/awesome-qwen-image-2512) — qwen-image-2512範例/提示集 `model` ⭐0 · 📅2025-12
 - 🟡 [awesome-nano-banana](https://github.com/JimmyLv/awesome-nano-banana) — Gemini-2.5-Flash-Image（Nano Banana）範例/提示集 `model` ⭐8.8k · 📅2025-09
@@ -579,27 +579,27 @@
 
 ## 🧰 模型生態系 / 維運工具 (MCP・LLMOps・LLM 應用)
 
-- 🟢 [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) — 可執行的LLM應用/RAG/agent集合 `awesome` ⭐144.8k · 📅2026-11
-- 🟢 [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) — 最大規模的MCP（Model Context Protocol）伺服器集合 `awesome` ⭐97.7k · 📅2026-11
-- 🟢 [awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) — Claude Skill/工具的精選 `awesome` ⭐79.6k · 📅2026-09
-- 🟢 [awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) — Claude Code用skill/hook/slash-command/外掛集 `awesome` ⭐58.1k · 📅2026-11
-- 🟢 [awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) — 將DeepSeek API整合至各類軟體的官方精選 `model` ⭐39.9k · 📅2026-11
+- 🟢 [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) — 可執行的LLM應用/RAG/agent集合 `awesome` ⭐145.4k · 📅2026-11
+- 🟢 [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) — 最大規模的MCP（Model Context Protocol）伺服器集合 `awesome` ⭐98.4k · 📅2026-11
+- 🟢 [awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) — Claude Skill/工具的精選 `awesome` ⭐80.1k · 📅2026-09
+- 🟢 [awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) — Claude Code用skill/hook/slash-command/外掛集 `awesome` ⭐58.6k · 📅2026-11
+- 🟢 [awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) — 將DeepSeek API整合至各類軟體的官方精選 `model` ⭐40k · 📅2026-11
 - 🟢 [Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list) — 涵蓋PyTorch相關模型、實作與函式庫的大規模清單 `awesome` ⭐16.8k · 📅2026-09
-- 🟢 [awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) — 精選現代生成AI專案與服務的清單 `awesome` ⭐12.8k · 📅2026-10
+- 🟢 [awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) — 精選現代生成AI專案與服務的清單 `awesome` ⭐12.9k · 📅2026-11
 - 🟢 [awesome-langchain](https://github.com/kyrolabs/awesome-langchain) — LangChain框架的工具與專案清單 `awesome` ⭐9.6k · 📅2026-11
 - 🟢 [ai-collection](https://github.com/ai-collection/ai-collection) — 彙整生成AI應用的全景圖 `awesome` ⭐9.3k · 📅2026-11
 - 🟢 [awesome-ai-tools](https://github.com/mahseema/awesome-ai-tools) — 精選AI頂尖工具的清單 `awesome` ⭐6.6k · 📅2025-12
 - 🟢 [awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) — ChatGPT用awesome清單（sindresorhus系列） `awesome` ⭐6.5k · 📅2026-11
-- 🟢 [Awesome-AITools](https://github.com/ikaijua/Awesome-AITools) — 收集AI相關實用工具的集合（中英並列） `awesome` ⭐6.3k · 📅2026-11
+- 🟢 [Awesome-AITools](https://github.com/ikaijua/Awesome-AITools) — 收集AI相關實用工具的集合（中英並列） `awesome` ⭐6.4k · 📅2026-11
 - 🟢 [Awesome-LLMOps](https://github.com/tensorchord/Awesome-LLMOps) — LLM開發與運維用工具（訓練/服務/監控）的精選清單 `awesome` ⭐6k · 📅2026-11
-- 🟢 [awesome-opensource-ai](https://github.com/alvinreal/awesome-opensource-ai) — 真正開源的AI專案、模型、工具與基礎的精選清單 `awesome` ⭐5k · 📅2026-11
+- 🟢 [awesome-opensource-ai](https://github.com/alvinreal/awesome-opensource-ai) — 真正開源的AI專案、模型、工具與基礎的精選清單 `awesome` ⭐5.1k · 📅2026-11
 - 🟢 [awesome-chatgpt](https://github.com/eon01/awesome-chatgpt) — ChatGPT的函式庫/SDK/API精選 `awesome` ⭐2.4k · 📅2026-07
 - 🟢 [awesome-claude](https://github.com/webfuse-com/awesome-claude) — Anthropic Claude整體的精選清單 `awesome` ⭐1.7k · 📅2026-09
 - 🟢 [Awesome-RAG](https://github.com/Danielskry/Awesome-RAG) — 生成AI中RAG應用的awesome清單 `awesome` ⭐1.4k · 📅2026-10
-- 🟢 [awesome-deepseek-coder](https://github.com/deepseek-ai/awesome-deepseek-coder) — 彙整DeepSeek Coder相關OSS專案的官方清單 `model` ⭐846 · 📅2025-11
-- 🟢 [awesome-gemini-cli](https://github.com/Piebald-AI/awesome-gemini-cli) — Gemini CLI用工具/擴充/資源集 `awesome` ⭐625 · 📅2026-11
+- 🟢 [awesome-deepseek-coder](https://github.com/deepseek-ai/awesome-deepseek-coder) — 彙整DeepSeek Coder相關OSS專案的官方清單 `model` ⭐847 · 📅2025-11
+- 🟢 [awesome-gemini-cli](https://github.com/Piebald-AI/awesome-gemini-cli) — Gemini CLI用工具/擴充/資源集 `awesome` ⭐655 · 📅2026-11
 - 🟢 [awesome-flux-ai](https://github.com/AINativeLab/awesome-flux-ai) — Flux AI的工具/函式庫/應用收錄 `awesome` ⭐110 · 📅2026-10
-- 🟢 [awesome-stable-diffusion](https://github.com/doanbactam/awesome-stable-diffusion) — Stable Diffusion資源的精選 `awesome` ⭐82 · 📅2026-11
+- 🟢 [awesome-stable-diffusion](https://github.com/doanbactam/awesome-stable-diffusion) — Stable Diffusion資源的精選 `awesome` ⭐84 · 📅2026-11
 - 🟢 [awesome-mistral](https://github.com/samouraiworld/awesome-mistral) — Mistral AI生態系的資源/工具/專案集 `awesome` ⭐49 · 📅2026-11
 - 🟡 [awesome-gpt](https://github.com/formulahendry/awesome-gpt) — GPT/ChatGPT/OpenAI相關專案與資源集 `awesome` ⭐1k · 📅2024-05
 - 🟡 [awesome-comfyui](https://github.com/ComfyUI-Workflow/awesome-comfyui) — ComfyUI自訂節點的大規模集合 `awesome` ⭐745 · 📅2025-07
@@ -610,21 +610,21 @@
 - 🟢 [MARL-Papers](https://github.com/LantaoYu/MARL-Papers) — 多智能體RL的研究與綜述論文清單（經典） `paper-list` ⭐4.9k · 📅2026-02
 - 🟢 [Awesome-LLM-Robotics](https://github.com/GT-RIPL/Awesome-LLM-Robotics) — 彙整LLM與多模態應用於機器人/RL的論文集 `paper-list` ⭐4.5k · 📅2026-10
 - 🟢 [awesome-RLHF](https://github.com/opendilab/awesome-RLHF) — 持續更新人類回饋RL的論文與資源 `paper-list` ⭐4.4k · 📅2026-05
-- 🟢 [Awesome-RL-for-LRMs](https://github.com/TsinghuaC3I/Awesome-RL-for-LRMs) — 大型推理模型用RL的綜述論文儲存庫 `survey` ⭐2.5k · 📅2026-09
+- 🟢 [Awesome-RL-for-LRMs](https://github.com/TsinghuaC3I/Awesome-RL-for-LRMs) — 大型推理模型用RL的綜述論文儲存庫 `survey` ⭐2.5k · 📅2026-11
 - 🟢 [Awesome-World-Models](https://github.com/leofan90/Awesome-World-Models) — 世界模型（影片生成、Embodied AI、自動駕駛）論文全面收錄 `paper-list` ⭐2.1k · 📅2026-11
 - 🟢 [awesome-diffusion-model-in-rl](https://github.com/opendilab/awesome-diffusion-model-in-rl) — 持續更新強化學習中diffusion model資源的清單 `awesome` ⭐1.7k · 📅2026-05
 - 🟢 [awesome-deep-rl](https://github.com/tigerneil/awesome-deep-rl) — 廣泛收集面向Deep RL與AI未來的資源清單 `awesome` ⭐1.5k · 📅2026-11
 - 🟢 [awesome-model-based-RL](https://github.com/opendilab/awesome-model-based-RL) — 持續更新收集model-based RL論文 `paper-list` ⭐1.4k · 📅2026-10
 - 🟢 [awesome-decision-transformer](https://github.com/opendilab/awesome-decision-transformer) — Decision Transformer資源的持續更新清單 `awesome` ⭐921 · 📅2026-05
-- 🟢 [World-Model](https://github.com/tsinghua-fib-lab/World-Model) — 世界模型的全面綜述（ACM CSUR 2025錄取） `survey` ⭐884 · 📅2025-11
+- 🟢 [World-Model](https://github.com/tsinghua-fib-lab/World-Model) — 世界模型的全面綜述（ACM CSUR 2025錄取） `survey` ⭐890 · 📅2025-11
 - 🟢 [Safe-Reinforcement-Learning-Baselines](https://github.com/chauncygu/Safe-Reinforcement-Learning-Baselines) — 彙整Safe RL的baseline與論文的儲存庫 `paper-list` ⭐816 · 📅2026-03
 - 🟢 [awesome-exploration-rl](https://github.com/opendilab/awesome-exploration-rl) — 專注於exploration的RL論文清單 `paper-list` ⭐730 · 📅2026-05
 - 🟢 [awesome-multi-modal-reinforcement-learning](https://github.com/opendilab/awesome-multi-modal-reinforcement-learning) — 持續更新多模態RL資源 `paper-list` ⭐621 · 📅2026-05
 - 🟢 [Reinforcement-Learning-Papers](https://github.com/yingchengyang/Reinforcement-Learning-Papers) — 依年份整理ICLR/ICML/NeurIPS經典與最新論文 `paper-list` ⭐603 · 📅2026-02
-- 🟢 [Awesome-RL-for-Multimodal-Foundation-Models](https://github.com/weijiawu/Awesome-RL-for-Multimodal-Foundation-Models) — 整理視覺RL與多模態基礎模型用RL論文 `paper-list` ⭐458 · 📅2026-11
-- 🟢 [MARL-papers-with-code](https://github.com/TimeBreaker/MARL-papers-with-code) — 依方法整理附程式碼的MARL論文 `paper-list` ⭐436 · 📅2026-07
+- 🟢 [Awesome-RL-for-Multimodal-Foundation-Models](https://github.com/weijiawu/Awesome-RL-for-Multimodal-Foundation-Models) — 整理視覺RL與多模態基礎模型用RL論文 `paper-list` ⭐459 · 📅2026-11
+- 🟢 [MARL-papers-with-code](https://github.com/TimeBreaker/MARL-papers-with-code) — 依方法整理附程式碼的MARL論文 `paper-list` ⭐435 · 📅2026-11
+- 🟢 [awesome-RLVR](https://github.com/opendilab/awesome-RLVR) — 持續更新可驗證獎勵RL（RLVR）論文 `paper-list` ⭐371 · 📅2026-06
 - 🟢 [Reinforcement-Learning-Papers](https://github.com/Allenpandas/Reinforcement-Learning-Papers) — 涵蓋NeurIPS/ICML/ICLR/AAAI/IJCAI/AAMAS/ICRA的論文 `paper-list` ⭐369 · 📅2025-11
-- 🟢 [awesome-RLVR](https://github.com/opendilab/awesome-RLVR) — 持續更新可驗證獎勵RL（RLVR）論文 `paper-list` ⭐367 · 📅2026-06
 - 🟢 [Awesome-Causal-Reinforcement-Learning](https://github.com/libo-huang/Awesome-Causal-Reinforcement-Learning) — 因果RL綜述（TNNLS 2024）官方儲存庫 `survey` ⭐225 · 📅2026-08
 - 🟢 [awesome-deep-reinforcement-learning](https://github.com/jgvictores/awesome-deep-reinforcement-learning) — 收錄框架、模型、資料集、gym與baseline `awesome` ⭐208 · 📅2026-11
 - 🟢 [awesome-world-models-for-robots](https://github.com/operator22th/awesome-world-models-for-robots) — 機器人用世界模型論文集 `paper-list` ⭐144 · 📅2026-03
@@ -632,11 +632,11 @@
 - 📑 [AwesomeSim2Real](https://github.com/LongchaoDa/AwesomeSim2Real) — 綜述《A Survey of Sim-to-Real Methods in RL》的companion `survey` ⭐205 · 📅2025-09
 - 🟡 [awesome-rl-envs](https://github.com/clvrai/awesome-rl-envs) — 涵蓋RL用環境與模擬器的清單 `awesome` ⭐1.4k · 📅2024-05
 - 🟡 [awesome-offline-rl](https://github.com/hanjuku-kaso/awesome-offline-rl) — offline RL的演算法索引（持續更新） `paper-list` ⭐1.1k · 📅2024-05
-- 🟡 [awesome-game-ai](https://github.com/datamllab/awesome-game-ai) — 以多智能體學習為主的遊戲AI資源集 `awesome` ⭐986 · 📅2024-06
+- 🟡 [awesome-game-ai](https://github.com/datamllab/awesome-game-ai) — 以多智能體學習為主的遊戲AI資源集 `awesome` ⭐987 · 📅2024-06
 - 🟡 [awesome-deep-rl](https://github.com/kengz/awesome-deep-rl) — 整理Deep RL函式庫、環境與基準的清單 `awesome` ⭐901 · 📅2025-07
 - 🟡 [awesome-in-context-rl](https://github.com/dunnolab/awesome-in-context-rl) — In-Context RL論文精選 `paper-list` ⭐313 · 📅2025-09
 - 📚 [deep-reinforcement-learning-papers](https://github.com/junhyukoh/deep-reinforcement-learning-papers) — 依主題彙整Deep RL主要論文的經典清單 `paper-list` ⭐2.2k · 📅2016-06
-- 🔴 [awesome-rl](https://github.com/aikorea/awesome-rl) — 彙整RL全領域程式碼、講義、論文與環境的經典精選 `awesome` ⭐10k · 📅2023-05
+- 🔴 [awesome-rl](https://github.com/aikorea/awesome-rl) — 彙整RL全領域程式碼、講義、論文與環境的經典精選 `awesome` ⭐10.1k · 📅2023-05
 - 🔴 [Awesome-Imitation-Learning](https://github.com/kristery/Awesome-Imitation-Learning) — 彙整模仿學習論文與資源的清單 `paper-list` ⭐612 · 📅2024-02
 - 🔴 [awesome-real-world-rl](https://github.com/ugurkanates/awesome-real-world-rl) — 在真實世界運行強化學習的論文與專案集（含sim2real） `awesome` ⭐460 · 📅2022-10
 - 🔴 [Imitation-Learning-Paper-Lists](https://github.com/apexrl/Imitation-Learning-Paper-Lists) — 附簡介收集模仿學習論文 `paper-list` ⭐160 · 📅2022-03
@@ -651,18 +651,18 @@
 - 🟢 [Awesome-LLM-3D](https://github.com/ActiveVisionLab/Awesome-LLM-3D) — 3D世界中多模態LLM資源的全面清單 `awesome` ⭐2.3k · 📅2026-04
 - 🟢 [awesome-vlm-architectures](https://github.com/gokayfem/awesome-vlm-architectures) — 解說知名VLM及其架構的集合 `paper-list` ⭐1.4k · 📅2026-10
 - 🟢 [Awesome-Unified-Multimodal-Models](https://github.com/ATH-MaaS/Awesome-Unified-Multimodal-Models) — 整合理解與生成的多模態模型全面集（活躍） `survey` ⭐1.3k · 📅2026-03
-- 🟢 [Awesome-Prompt-Adapter-Learning-for-VLMs-CLIP](https://github.com/zhengli97/Awesome-Prompt-Adapter-Learning-for-VLMs-CLIP) — CLIP等VLM用提示/adapter學習方法的精選清單 `paper-list` ⭐803 · 📅2026-07
 - 🟢 [Awesome-Spatial-Intelligence-in-VLM](https://github.com/mll-lab-nu/Awesome-Spatial-Intelligence-in-VLM) — VLM空間推理相關論文與基準約200篇（非常活躍） `paper-list` ⭐803 · 📅2026-08
-- 🟢 [Awesome_Matching_Pretraining_Transfering](https://github.com/Paranioar/Awesome_Matching_Pretraining_Transfering) — 影像文字匹配、VL預訓練與多模態模型的大規模論文清單 `paper-list` ⭐448 · 📅2026-11
-- 🟢 [Awesome-Multimodal-Papers](https://github.com/friedrichor/Awesome-Multimodal-Papers) — 多模態研究整體的精選論文集 `awesome` ⭐348 · 📅2026-10
+- 🟢 [Awesome-Prompt-Adapter-Learning-for-VLMs-CLIP](https://github.com/zhengli97/Awesome-Prompt-Adapter-Learning-for-VLMs-CLIP) — CLIP等VLM用提示/adapter學習方法的精選清單 `paper-list` ⭐802 · 📅2026-07
+- 🟢 [Awesome_Matching_Pretraining_Transfering](https://github.com/Paranioar/Awesome_Matching_Pretraining_Transfering) — 影像文字匹配、VL預訓練與多模態模型的大規模論文清單 `paper-list` ⭐447 · 📅2026-11
+- 🟢 [Awesome-Multimodal-Papers](https://github.com/friedrichor/Awesome-Multimodal-Papers) — 多模態研究整體的精選論文集 `awesome` ⭐348 · 📅2026-11
 - 🟢 [Awesome-Chart-Understanding](https://github.com/khuangaf/Awesome-Chart-Understanding) — 依IEEE TKDE綜述整理的圖表理解（QA/captioning/fact-checking）論文集 `survey` ⭐240 · 📅2025-12
 - 🟢 [Awesome-Document-Understanding](https://github.com/harrytea/Awesome-Document-Understanding) — MLLM/OCR-free等多模態文件AI論文、程式碼與資料集集 `paper-list` ⭐202 · 📅2026-11
 - 🟢 [Evaluation-Multimodal-LLMs-Survey](https://github.com/swordlidev/Evaluation-Multimodal-LLMs-Survey) — 綜述200多個MLLM基準的評估綜述 `survey` ⭐161 · 📅2026-07
 - 🟢 [Awesome-Multimodal-LLM-for-Math-STEM](https://github.com/InfiMM/Awesome-Multimodal-LLM-for-Math-STEM) — Math/STEM/Code用多模態LLM論文集 `awesome` ⭐147 · 📅2026-08
-- 🟢 [Awesome-MLLM-Tuning](https://github.com/WenkeHuang/Awesome-MLLM-Tuning) — MLLM下游任務調校方法綜述 `paper-list` ⭐102 · 📅2026-11
+- 🟢 [Awesome-MLLM-Tuning](https://github.com/WenkeHuang/Awesome-MLLM-Tuning) — MLLM下游任務調校方法綜述 `paper-list` ⭐103 · 📅2026-11
 - 🟢 [Awesome-Composed-Multi-modal-Retrieval](https://github.com/kkzhang95/Awesome-Composed-Multi-modal-Retrieval) — 含合成影像檢索（CIR）與合成影片檢索（CVR）的CMR綜述 `survey` ⭐96 · 📅2026-07
 - 🟢 [Awesome-Multimodal-RAG](https://github.com/JarvisUSTC/Awesome-Multimodal-RAG) — 橫跨文字/影像/影片/音訊的多模態RAG論文與工具集 `paper-list` ⭐56 · 📅2026-10
-- 📑 [Efficient-Multimodal-LLMs-Survey](https://github.com/swordlidev/Efficient-Multimodal-LLMs-Survey) — 高效MLLM（輕量結構、策略）的系統性綜述 `survey` ⭐387 · 📅2025-04
+- 📑 [Efficient-Multimodal-LLMs-Survey](https://github.com/swordlidev/Efficient-Multimodal-LLMs-Survey) — 高效MLLM（輕量結構、策略）的系統性綜述 `survey` ⭐388 · 📅2025-04
 - 🟡 [Awesome-MLLM-Hallucination](https://github.com/showlab/Awesome-MLLM-Hallucination) — 多模態LLM幻覺（hallucination）相關資源的精選清單 `awesome` ⭐1k · 📅2025-09
 - 🟡 [Awesome-Table-Recognition](https://github.com/cv-small-snails/Awesome-Table-Recognition) — 整理表格辨識的論文、資料集與競賽解法 `awesome` ⭐406 · 📅2024-12
 - 🟡 [awesome-table-structure-recognition](https://github.com/Tan-Junwen/awesome-table-structure-recognition) — 表格結構辨識（TSR）的模型、論文、資料集與程式碼集 `awesome` ⭐232 · 📅2024-09
@@ -680,13 +680,13 @@
 
 - 🟢 [awesome-diarization](https://github.com/wq2012/awesome-diarization) — 涵蓋語者分段的論文、函式庫、資料集與評估工具的經典清單 `awesome` ⭐1.9k · 📅2026-10
 - 🟢 [speech-trident](https://github.com/ga642381/speech-trident) — 語音/音訊LLM、表示學習與codec模型論文集 `paper-list` ⭐1.2k · 📅2026-07
-- 🟢 [audio-ai-hub](https://github.com/BinWang28/audio-ai-hub) — 音訊大型語言模型的論文與資源集 `awesome` ⭐966 · 📅2026-11
-- 🟢 [awesome-large-audio-models](https://github.com/EmulationAI/awesome-large-audio-models) — LLM應用於Audio AI的資源集 `awesome` ⭐747 · 📅2026-11
-- 🟢 [awesome-ai-voice](https://github.com/wildminder/awesome-ai-voice) — OSS的TTS、語音複製與音樂生成模型集 `model` ⭐551 · 📅2026-11
+- 🟢 [audio-ai-hub](https://github.com/BinWang28/audio-ai-hub) — 音訊大型語言模型的論文與資源集 `awesome` ⭐967 · 📅2026-11
+- 🟢 [awesome-large-audio-models](https://github.com/EmulationAI/awesome-large-audio-models) — LLM應用於Audio AI的資源集 `awesome` ⭐748 · 📅2026-11
+- 🟢 [awesome-ai-voice](https://github.com/wildminder/awesome-ai-voice) — OSS的TTS、語音複製與音樂生成模型集 `model` ⭐565 · 📅2026-11
 - 🟢 [Awesome-Speaker-Diarization](https://github.com/DongKeon/Awesome-Speaker-Diarization) — 體系化End-to-End/聚類/多模態等的論文集（活躍） `paper-list` ⭐374 · 📅2026-03
-- 🟢 [awesome-voice-conversion](https://github.com/JeffC0628/awesome-voice-conversion) — voice conversion（音質轉換）的專案與社群集 `awesome` ⭐267 · 📅2026-10
-- 🟢 [Awesome-Sign-Language-Processing](https://github.com/VIPL-SLP/Awesome-Sign-Language-Processing) — 手語處理（辨識/翻譯/生成）的全面資源集 `awesome` ⭐266 · 📅2026-09
-- 🟢 [Awesome-Sign-Language](https://github.com/ZechengLi19/Awesome-Sign-Language) — 手語辨識（SLR）、翻譯（SLT）等的論文清單（活躍） `paper-list` ⭐232 · 📅2025-11
+- 🟢 [awesome-voice-conversion](https://github.com/JeffC0628/awesome-voice-conversion) — voice conversion（音質轉換）的專案與社群集 `awesome` ⭐270 · 📅2026-10
+- 🟢 [Awesome-Sign-Language-Processing](https://github.com/VIPL-SLP/Awesome-Sign-Language-Processing) — 手語處理（辨識/翻譯/生成）的全面資源集 `awesome` ⭐267 · 📅2026-09
+- 🟢 [Awesome-Sign-Language](https://github.com/ZechengLi19/Awesome-Sign-Language) — 手語辨識（SLR）、翻譯（SLT）等的論文清單（活躍） `paper-list` ⭐233 · 📅2025-11
 - 🟢 [Speech-and-audio-papers-Top-Conference](https://github.com/01Zhangbw/Speech-and-audio-papers-Top-Conference) — 彙整頂會（INTERSPEECH/ICASSP等）的語音與音訊論文 `paper-list` ⭐144 · 📅2026-01
 - 🟢 [awesome-llm-speech-to-speech](https://github.com/tleyden/awesome-llm-speech-to-speech) — 基於LLM的speech-to-speech模型/框架集 `awesome` ⭐72 · 📅2025-11
 - 🟢 [Awesome-Large-Speech-Model](https://github.com/huangcanan/Awesome-Large-Speech-Model) — 大規模語音/音訊模型的論文、資料、應用與工具集 `awesome` ⭐28 · 📅2025-11
@@ -718,13 +718,13 @@
 - 🟢 [Awesome-Robotics-Manipulation](https://github.com/BaiShuanghao/Awesome-Robotics-Manipulation) — 機器人操作的論文與程式碼集 `paper-list` ⭐1.2k · 📅2026-10
 - 🟢 [awesome-vla-wam](https://github.com/DravenALG/awesome-vla-wam) — VLA與World Action Model（WAM）研究精選 `awesome` ⭐1.1k · 📅2026-11
 - 🟢 [Embodied-AI-Paper-TopConf](https://github.com/Songwxuan/Embodied-AI-Paper-TopConf) — 持續收集頂會錄取的Embodied AI論文（反映至2026會議，活躍） `paper-list` ⭐786 · 📅2026-05
-- 🟢 [Awesome-VLA](https://github.com/yueen-ma/Awesome-VLA) — embodied AI用VLA模型附綜述論文的清單 `survey` ⭐697 · 📅2026-11
-- 🟢 [Awesome-VLA-Robotics](https://github.com/Jiaaqiliu/Awesome-VLA-Robotics) — 機器人VLA模型的論文、模型與資料集集 `paper-list` ⭐504 · 📅2026-10
+- 🟢 [Awesome-VLA](https://github.com/yueen-ma/Awesome-VLA) — embodied AI用VLA模型附綜述論文的清單 `survey` ⭐700 · 📅2026-11
+- 🟢 [Awesome-VLA-Robotics](https://github.com/Jiaaqiliu/Awesome-VLA-Robotics) — 機器人VLA模型的論文、模型與資料集集 `paper-list` ⭐505 · 📅2026-10
 - 🟢 [Awesome-Robotics-Diffusion](https://github.com/showlab/Awesome-Robotics-Diffusion) — 將diffusion model引入機器人學習的最新論文精選清單 `paper-list` ⭐362 · 📅2026-10
 - 🟢 [Awesome-Embodied-AI](https://github.com/wadeKeith/Awesome-Embodied-AI) — 涵蓋embodied AI綜述、VLA、資料集與模擬器等 `awesome` ⭐255 · 📅2026-11
 - 🟢 [Awesome-Robot-Learning](https://github.com/RayYoh/Awesome-Robot-Learning) — 機器人學習（主要為操作）的資源集 `awesome` ⭐209 · 📅2026-08
-- 🟢 [Awesome-VLN](https://github.com/KwanWaiPang/Awesome-VLN) — 視覺語言導航（VLN）綜述用論文集 `survey` ⭐191 · 📅2026-10
-- 🟢 [Awesome-VLA](https://github.com/KwanWaiPang/Awesome-VLA) — Vision-Language-Action（VLA）綜述用論文集 `survey` ⭐104 · 📅2026-02
+- 🟢 [Awesome-VLN](https://github.com/KwanWaiPang/Awesome-VLN) — 視覺語言導航（VLN）綜述用論文集 `survey` ⭐192 · 📅2026-10
+- 🟢 [Awesome-VLA](https://github.com/KwanWaiPang/Awesome-VLA) — Vision-Language-Action（VLA）綜述用論文集 `survey` ⭐105 · 📅2026-02
 - 🟢 [Awesome-Legged-Robot-Localization-and-Mapping](https://github.com/KwanWaiPang/Awesome-Legged-Robot-Localization-and-Mapping) — 足式機器人SLAM相關綜述用論文集 `survey` ⭐78 · 📅2026-10
 - 🔴 [awesome-robotic-tooling](https://github.com/Ly0n/awesome-robotic-tooling) — 彙整以C++/Python/ROS進行專業機器人開發工具的集合 `awesome` ⭐3.9k · 📅2023-11
 - 🔴 [awesome-legged-locomotion-learning](https://github.com/gaiyi7788/awesome-legged-locomotion-learning) — 足式運動學習的資源集 `awesome` ⭐487 · 📅2023-07
@@ -733,18 +733,18 @@
 
 - 🟢 [graph-fraud-detection-papers](https://github.com/safe-graph/graph-fraud-detection-papers) — 圖/Transformer式詐欺、異常與離群偵測論文集 `paper-list` ⭐1.9k · 📅2026-11
 - 🟢 [Awesome-TimeSeries-SpatioTemporal-Diffusion-Model](https://github.com/yyysjz1997/Awesome-TimeSeries-SpatioTemporal-Diffusion-Model) — 時序與時空資料用diffusion model的綜述與論文集（活躍） `survey` ⭐1k · 📅2026-02
-- 🟢 [awesome-gnn-systems](https://github.com/ch-wan/awesome-gnn-systems) — GNN系統與加速相關資源集 `awesome` ⭐355 · 📅2026-11
+- 🟢 [awesome-gnn-systems](https://github.com/ch-wan/awesome-gnn-systems) — GNN系統與加速相關資源集 `awesome` ⭐354 · 📅2026-11
 - 🟢 [awesome-molecular-generation](https://github.com/amorehead/awesome-molecular-generation) — 生成式分子建模與設計的論文集 `paper-list` ⭐348 · 📅2026-08
 - 🟢 [Awesome-Deep-Graph-Anomaly-Detection](https://github.com/mala-lab/Awesome-Deep-Graph-Anomaly-Detection) — 2025年TKDE綜述官方儲存庫，GNN式圖異常偵測論文與資料集 `survey` ⭐231 · 📅2026-08
 - 🟢 [awesome-molecular-diffusion-models](https://github.com/AzureLeon1/awesome-molecular-diffusion-models) — 分子diffusion model相關論文的精選清單（活躍） `paper-list` ⭐111 · 📅2026-04
 - 🟢 [Awesome-Knowledge-Graph-Reasoning](https://github.com/LIANGKE23/Awesome-Knowledge-Graph-Reasoning) — 知識圖譜推理的論文、程式碼與資料集集 `paper-list` ⭐19 · 📅2025-11
 - 📑 [awesome-graph-self-supervised-learning](https://github.com/LirongWu/awesome-graph-self-supervised-learning) — TKDE論文（對比/生成/預測型）的附帶清單 `survey` ⭐1.4k · 📅2024-08
-- 📑 [Awesome-GNN4TS](https://github.com/KimMeen/Awesome-GNN4TS) — 時序分析用GNN（TPAMI 2024）的資源集 `survey` ⭐868 · 📅2024-08
+- 📑 [Awesome-GNN4TS](https://github.com/KimMeen/Awesome-GNN4TS) — 時序分析用GNN（TPAMI 2024）的資源集 `survey` ⭐867 · 📅2024-08
 - 📑 [awesome-pretrain-on-molecules](https://github.com/junxia97/awesome-pretrain-on-molecules) — 化學預訓練模型（IJCAI 2023 survey）的論文清單 `survey` ⭐546 · 📅2023-06
 - 📑 [Generative_KG_Construction_Papers](https://github.com/zjunlp/Generative_KG_Construction_Papers) — 生成式知識圖譜構建綜述（EMNLP 2022）的論文集 `survey` ⭐112 · 📅2023-07
 - 📑 [Awesome-Trustworthy-GNNs](https://github.com/Radical3-HeZhang/Awesome-Trustworthy-GNNs) — 可信賴GNN（隱私/穩健性/公平性/可解釋性）綜述（Proc. IEEE 2024） `survey` ⭐97 · 📅2024-07
 - 🟡 [GNN4Traffic](https://github.com/jwwthu/GNN4Traffic) — 交通預測用GNN論文與程式碼的大規模集合 `paper-list` ⭐1.2k · 📅2024-08
-- 🟡 [awesome-graph-transformer](https://github.com/wehos/awesome-graph-transformer) — graph transformer論文集 `paper-list` ⭐932 · 📅2025-03
+- 🟡 [awesome-graph-transformer](https://github.com/wehos/awesome-graph-transformer) — graph transformer論文集 `paper-list` ⭐933 · 📅2025-03
 - 🟡 [Awesome-DynamicGraphLearning](https://github.com/SpaceLearner/Awesome-DynamicGraphLearning) — 動態（時序）圖與知識圖譜上的機器學習論文集 `paper-list` ⭐713 · 📅2025-06
 - 🟡 [awesome-graph-generation](https://github.com/yuanqidu/awesome-graph-generation) — 涵蓋圖與分子生成論文的最新清單 `paper-list` ⭐361 · 📅2025-01
 - 🟡 [Awesome-Hypergraph-Network](https://github.com/gzcsudo/Awesome-Hypergraph-Network) — 超圖學習、理論、資料與工具的精選集 `awesome` ⭐339 · 📅2025-02
@@ -754,13 +754,13 @@
 - 🟡 [Awesome-Graph-OOD](https://github.com/kaize0409/Awesome-Graph-OOD) — 圖OOD（泛化、訓練時/測試時自適應）論文清單 `paper-list` ⭐85 · 📅2024-10
 - 🟡 [HGNN_Collection](https://github.com/PolarisRisingWar/HGNN_Collection) — 異質圖NN的資料集與演算法集 `paper-list` ⭐62 · 📅2024-05
 - 🟡 [awesome-GNN-social-recsys](https://github.com/claws-lab/awesome-GNN-social-recsys) — 基於GNN的社交推薦論文集 `paper-list` ⭐53 · 📅2024-05
-- 🔴 [GNNPapers](https://github.com/thunlp/GNNPapers) — 圖神經網路（GNN）的必讀論文集（經典） `paper-list` ⭐16.9k · 📅2023-12
+- 🔴 [GNNPapers](https://github.com/thunlp/GNNPapers) — 圖神經網路（GNN）的必讀論文集（經典） `paper-list` ⭐16.8k · 📅2023-12
 - 🔴 [awesome-graph-classification](https://github.com/benedekrozemberczki/awesome-graph-classification) — 圖嵌入、分類與表示學習的重要論文集（附實作） `paper-list` ⭐4.8k · 📅2023-03
 - 🔴 [awesome-network-embedding](https://github.com/chihming/awesome-network-embedding) — 網路嵌入方法的經典精選清單 `awesome` ⭐2.6k · 📅2020-12
 - 🔴 [Awesome-Graph-Neural-Networks](https://github.com/TrustAGI-Lab/Awesome-Graph-Neural-Networks) — 圖神經網路論文清單 `paper-list` ⭐2.3k · 📅2023-12
 - 🔴 [knowledge-graphs](https://github.com/shaoxiongji/knowledge-graphs) — 知識圖譜研究（嵌入、補全、時序KG、應用）論文集 `paper-list` ⭐1.8k · 📅2022-10
 - 🔴 [awesome-self-supervised-gnn](https://github.com/ChandlerBang/awesome-self-supervised-gnn) — GNN預訓練與自監督學習論文集 `paper-list` ⭐1.7k · 📅2024-02
-- 🔴 [PromptKG](https://github.com/zjunlp/PromptKG) — 提示學習與知識圖譜相關的研究、工具與論文集 `paper-list` ⭐735 · 📅2024-03
+- 🔴 [PromptKG](https://github.com/zjunlp/PromptKG) — 提示學習與知識圖譜相關的研究、工具與論文集 `paper-list` ⭐734 · 📅2024-03
 - 🔴 [Awesome-Deep-Graph-Anomaly-Detection](https://github.com/XiaoxiaoMa-MQ/Awesome-Deep-Graph-Anomaly-Detection) — 以深度學習進行圖異常偵測的論文、資料集與實作集 `awesome` ⭐385 · 📅2023-07
 - 🔴 [awesome-small-molecule-ml](https://github.com/benb111/awesome-small-molecule-ml) — 小分子藥物開發用機器學習資源的精選集 `awesome` ⭐245 · 📅2023-11
 - 🔴 [awesome-graph-ood](https://github.com/THUMNLab/awesome-graph-ood) — 圖OOD泛化相關論文集 `paper-list` ⭐168 · 📅2023-06
@@ -772,7 +772,7 @@
 - 🟢 [RSPapers](https://github.com/hongleizhang/RSPapers) — 以17個類別整理推薦系統必讀論文，每週更新（亦新增LLM/Agentic RS等） `awesome` ⭐6.5k · 📅2026-10
 - 🟢 [Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising](https://github.com/guyulongcs/Awesome-Deep-Learning-Papers-for-Search-Recommendation-Advertising) — 搜尋、推薦與廣告用深度學習論文集 `paper-list` ⭐2.6k · 📅2026-11
 - 🟢 [Awesome-LLM-for-RecSys](https://github.com/CHIANGEL/Awesome-LLM-for-RecSys) — LLM相關推薦系統論文集（附TOIS錄取綜述） `survey` ⭐1.6k · 📅2026-10
-- 🟢 [Awesome-LLM4RS-Papers](https://github.com/nancheng58/Awesome-LLM4RS-Papers) — LLM增強推薦系統論文集 `paper-list` ⭐766 · 📅2026-10
+- 🟢 [Awesome-LLM4RS-Papers](https://github.com/nancheng58/Awesome-LLM4RS-Papers) — LLM增強推薦系統論文集 `paper-list` ⭐765 · 📅2026-11
 - 🟢 [Awesome-Cold-Start-Recommendation](https://github.com/YuanchenBei/Awesome-Cold-Start-Recommendation) — 冷啟動推薦資源集（附LLM時代綜述） `survey` ⭐294 · 📅2026-03
 - 📑 [LLM4Rec-Awesome-Papers](https://github.com/WLiK/LLM4Rec-Awesome-Papers) — 運用LLM的推薦系統論文與資源集（附綜述） `survey` ⭐2.3k · 📅2025-03
 - 📑 [RecDebiasing](https://github.com/jiawei-chen/RecDebiasing) — TOIS 2023《Bias and Debias in Recommender System: A Survey》的去偏方法集 `survey` ⭐469 · 📅2024-02
@@ -786,28 +786,28 @@
 
 - 🟢 [awesome-time-series-papers](https://github.com/TSCenter/awesome-time-series-papers) — 頂級AI會議最新時序論文與程式碼集 `paper-list` ⭐1.2k · 📅2026-11
 - 🟢 [Awesome_Imputation](https://github.com/WenjieDu/Awesome_Imputation) — 彙整時序缺失值補全（imputation）論文與方法的綜述儲存庫 `survey` ⭐428 · 📅2026-08
-- 🟢 [awesome-time-series-forecasting](https://github.com/TongjiFinLab/awesome-time-series-forecasting) — 時序預測的論文與程式碼集 `paper-list` ⭐321 · 📅2026-10
+- 🟢 [awesome-time-series-forecasting](https://github.com/TongjiFinLab/awesome-time-series-forecasting) — 時序預測的論文與程式碼集 `paper-list` ⭐320 · 📅2026-10
 - 🟢 [Awesome-Anomaly-Detection-Foundation-Models](https://github.com/mala-lab/Awesome-Anomaly-Detection-Foundation-Models) — 以基礎模型進行異常偵測的論文集 `paper-list` ⭐227 · 📅2026-11
 - 🟢 [awesome-multivariate-time-series-anomaly-detection-algorithms](https://github.com/lzz19980125/awesome-multivariate-time-series-anomaly-detection-algorithms) — 多變量時序異常偵測論文清單 `paper-list` ⭐82 · 📅2026-08
 - 📑 [time-series-transformers-review](https://github.com/qingsongedu/time-series-transformers-review) — 專門彙整時序用Transformer資源（論文、程式碼、資料）的綜述 `survey` ⭐3k · 📅2024-08
 - 🟡 [awesome-TS-anomaly-detection](https://github.com/rob-med/awesome-TS-anomaly-detection) — 時序資料異常偵測工具與資料集的清單 `awesome` ⭐3.2k · 📅2024-10
 - 🟡 [Awesome-TimeSeries-SpatioTemporal-LM-LLM](https://github.com/qingsongedu/Awesome-TimeSeries-SpatioTemporal-LM-LLM) — 時序、時空與事件資料用LLM/基礎模型論文集 `paper-list` ⭐1.2k · 📅2024-12
-- 🟡 [Awesome-TimeSeries-LLM-FM](https://github.com/start2020/Awesome-TimeSeries-LLM-FM) — 時序任務用LLM與基礎模型的資源集 `paper-list` ⭐153 · 📅2024-06
-- 🟡 [awesome-time-series-analysis](https://github.com/qhliu26/awesome-time-series-analysis) — 時序的論文、基準、資料集與教學集 `awesome` ⭐68 · 📅2025-09
+- 🟡 [Awesome-TimeSeries-LLM-FM](https://github.com/start2020/Awesome-TimeSeries-LLM-FM) — 時序任務用LLM與基礎模型的資源集 `paper-list` ⭐154 · 📅2024-06
+- 🟡 [awesome-time-series-analysis](https://github.com/qhliu26/awesome-time-series-analysis) — 時序的論文、基準、資料集與教學集 `awesome` ⭐69 · 📅2025-09
 - 🟡 [Awesome-Large-Models-for-Time-Series](https://github.com/SJTU-DMTai/Awesome-Large-Models-for-Time-Series) — 時序分析用LLM與基礎模型論文集 `paper-list` ⭐47 · 📅2024-10
 - 🔴 [awesome-AI-for-time-series-papers](https://github.com/qingsongedu/awesome-AI-for-time-series-papers) — 頂會與期刊的時序AI論文、教學與綜述集 `paper-list` ⭐1.6k · 📅2024-04
 
 ## 🦾 AI 代理 / LLM Agents
 
-- 🟢 [awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) — AI自主agent（專案/框架）的大規模清單 `awesome` ⭐30.9k · 📅2026-08
+- 🟢 [awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) — AI自主agent（專案/框架）的大規模清單 `awesome` ⭐31k · 📅2026-08
 - 🟢 [LLMAgentPapers](https://github.com/zjunlp/LLMAgentPapers) — LLM agent的必讀論文集 `paper-list` ⭐3.1k · 📅2026-11
 - 🟢 [Awesome-Agent-Papers](https://github.com/luo-junyu/Awesome-Agent-Papers) — LLM agent方法、應用與課題綜述論文集 `survey` ⭐2.9k · 📅2026-11
 - 🟢 [awesome-ai-agent-papers](https://github.com/VoltAgent/awesome-ai-agent-papers) — AI agent研究論文集（工程、記憶、評估、工作流程） `paper-list` ⭐1.9k · 📅2026-11
 - 🟢 [awesome-multi-agent-papers](https://github.com/kyegomez/awesome-multi-agent-papers) — 多agent論文的精選集（Swarms team） `awesome` ⭐1.7k · 📅2026-11
 - 🟢 [awesome-llm-agents](https://github.com/kaushikb11/awesome-llm-agents) — LLM agent框架的精選清單 `awesome` ⭐1.6k · 📅2026-11
 - 🟢 [Awesome-AI-Agents](https://github.com/Jenqyang/Awesome-AI-Agents) — LLM驅動的自主agent集合 `awesome` ⭐1.3k · 📅2026-11
-- 🟢 [GUI-Agents-Paper-List](https://github.com/OSU-NLP-Group/GUI-Agents-Paper-List) — GUI agent論文的精選清單 `paper-list` ⭐932 · 📅2026-11
-- 🟢 [Awesome-Memory-for-Agents](https://github.com/TsinghuaC3I/Awesome-Memory-for-Agents) — 語言agent記憶（使用者檔案、對話歷史）相關論文集 `paper-list` ⭐668 · 📅2026-09
+- 🟢 [GUI-Agents-Paper-List](https://github.com/OSU-NLP-Group/GUI-Agents-Paper-List) — GUI agent論文的精選清單 `paper-list` ⭐934 · 📅2026-11
+- 🟢 [Awesome-Memory-for-Agents](https://github.com/TsinghuaC3I/Awesome-Memory-for-Agents) — 語言agent記憶（使用者檔案、對話歷史）相關論文集 `paper-list` ⭐669 · 📅2026-11
 - 🟢 [awesome-computer-use](https://github.com/ranpox/awesome-computer-use) — Computer-use GUI agent的影片、部落格、論文與專案集 `awesome` ⭐591 · 📅2026-04
 - 🟢 [Awesome-GraphMemory](https://github.com/DEEP-PolyU/Awesome-GraphMemory) — 圖式agent記憶的綜述、論文與基準集 `survey` ⭐367 · 📅2026-06
 - 🟢 [awesome-ui-agents](https://github.com/opendilab/awesome-ui-agents) — 橫跨Web/App/OS的UI agent資源持續更新清單 `awesome` ⭐321 · 📅2026-06
@@ -826,25 +826,25 @@
 - 🟢 [MedLLMsPracticalGuide](https://github.com/AI-in-Health/MedLLMsPracticalGuide) — 醫療LLM實務指南（刊於Nature Reviews Bioengineering） `survey` ⭐2.1k · 📅2026-11
 - 🟢 [awesome-image-registration](https://github.com/Awesome-Image-Registration-Organization/awesome-image-registration) — 影像配準整體的書籍、論文與工具箱集 `awesome` ⭐1.6k · 📅2026-10
 - 🟢 [MICCAI-OpenSourcePapers](https://github.com/JunMa11/MICCAI-OpenSourcePapers) — 以附程式碼連結的表格整理MICCAI 2019-2023開源論文 `paper-list` ⭐1.3k · 📅2026-09
-- 🟢 [awesome-multimodal-in-medical-imaging](https://github.com/richard-peng-xia/awesome-multimodal-in-medical-imaging) — 多模態學習應用於醫療影像的資源集 `awesome` ⭐986 · 📅2026-10
-- 🟢 [awesome-foundation-model-single-cell-papers](https://github.com/OmicsML/awesome-foundation-model-single-cell-papers) — 專注於單細胞基礎模型的論文清單 `paper-list` ⭐603 · 📅2026-11
-- 🟢 [Awesome-Healthcare-Foundation-Models](https://github.com/Jianing-Qiu/Awesome-Healthcare-Foundation-Models) — 健康照護基礎模型的論文集合 `paper-list` ⭐526 · 📅2026-04
-- 🟢 [Awesome-Radiology-Report-Generation](https://github.com/mk-runner/Awesome-Radiology-Report-Generation) — 放射報告生成的論文、資料集與工具集（非常活躍） `paper-list` ⭐500 · 📅2026-11
-- 🟢 [awesome-AI4MolConformation-MD](https://github.com/AspirinCode/awesome-AI4MolConformation-MD) — 以生成AI/深度學習進行分子構型與分子動力學的論文集 `paper-list` ⭐307 · 📅2026-11
+- 🟢 [awesome-multimodal-in-medical-imaging](https://github.com/richard-peng-xia/awesome-multimodal-in-medical-imaging) — 多模態學習應用於醫療影像的資源集 `awesome` ⭐986 · 📅2026-11
+- 🟢 [awesome-foundation-model-single-cell-papers](https://github.com/OmicsML/awesome-foundation-model-single-cell-papers) — 專注於單細胞基礎模型的論文清單 `paper-list` ⭐609 · 📅2026-11
+- 🟢 [Awesome-Healthcare-Foundation-Models](https://github.com/Jianing-Qiu/Awesome-Healthcare-Foundation-Models) — 健康照護基礎模型的論文集合 `paper-list` ⭐525 · 📅2026-04
+- 🟢 [Awesome-Radiology-Report-Generation](https://github.com/mk-runner/Awesome-Radiology-Report-Generation) — 放射報告生成的論文、資料集與工具集（非常活躍） `paper-list` ⭐503 · 📅2026-11
+- 🟢 [awesome-AI4MolConformation-MD](https://github.com/AspirinCode/awesome-AI4MolConformation-MD) — 以生成AI/深度學習進行分子構型與分子動力學的論文集 `paper-list` ⭐310 · 📅2026-11
 - 🟢 [Awesome-Earth-Artificial-Intelligence](https://github.com/ESIPFed/Awesome-Earth-Artificial-Intelligence) — 地球科學AI的教學、軟體、資料集與論文集 `awesome` ⭐255 · 📅2026-10
-- 🟢 [awesome-mmps](https://github.com/willxxy/awesome-mmps) — EEG/ECG/EMG等生理訊號×機器學習的資源與資料集集（活躍） `awesome` ⭐168 · 📅2026-10
+- 🟢 [awesome-mmps](https://github.com/willxxy/awesome-mmps) — EEG/ECG/EMG等生理訊號×機器學習的資源與資料集集（活躍） `awesome` ⭐169 · 📅2026-10
 - 🟢 [awesome-drug-discovery](https://github.com/yboulaamane/awesome-drug-discovery) — 專注於計算藥物開發方法的精選資源清單 `awesome` ⭐160 · 📅2026-11
 - 🟢 [awesome-pathology](https://github.com/open-pathology/awesome-pathology) — 涵蓋數位/計算病理資源（自監督、特徵抽取、資料集等） `awesome` ⭐140 · 📅2026-02
 - 🟢 [SurvivalAnalysisPapers](https://github.com/shi-ang/SurvivalAnalysisPapers) — 依類別整理存活分析的論文與資源（活躍） `paper-list` ⭐101 · 📅2026-07
 - 🟢 [Awesome-DL-for-Medical-Imaging-Segmentation](https://github.com/faresbougourzi/Awesome-DL-for-Medical-Imaging-Segmentation) — 醫療影像分割的深度學習論文集 `paper-list` ⭐69 · 📅2026-07
 - 🟢 [awesome-bci-reviews](https://github.com/okbalefthanded/awesome-bci-reviews) — 依年代整理BCI經同儕審查的綜述（活躍） `survey` ⭐52 · 📅2026-10
 - 🟢 [Awesome-MICCAI-2026](https://github.com/ambicuity/Awesome-MICCAI-2026) — 從arXiv自動收集MICCAI 2026論文由bot每日更新並依領域分類 `paper-list` ⭐49 · 📅2026-09
-- 🟢 [AwesomeWSI](https://github.com/BearCleverProud/AwesomeWSI) — WSI分析與病理基礎模型的全面集合（依IJCAI 2025綜述，活躍） `survey` ⭐40 · 📅2026-07
+- 🟢 [AwesomeWSI](https://github.com/BearCleverProud/AwesomeWSI) — WSI分析與病理基礎模型的全面集合（依IJCAI 2025綜述，活躍） `survey` ⭐41 · 📅2026-07
 - 🟢 [Awesome-AI-Agents-Medicine](https://github.com/AIM-Research-Lab/Awesome-AI-Agents-Medicine) — 醫療用agentic AI最新綜述集 `paper-list` ⭐30 · 📅2026-03
-- 🟢 [Awesome-Generative-Models-in-Pathology](https://github.com/yuanzhang7/Awesome-Generative-Models-in-Pathology) — 病理中生成模型（影像合成、報告生成、跨模態）超過150篇的綜述 `survey` ⭐29 · 📅2026-07
+- 🟢 [Awesome-Generative-Models-in-Pathology](https://github.com/yuanzhang7/Awesome-Generative-Models-in-Pathology) — 病理中生成模型（影像合成、報告生成、跨模態）超過150篇的綜述 `survey` ⭐30 · 📅2026-07
 - 📑 [Awesome-Foundation-Models-in-Medical-Imaging](https://github.com/xmindflow/Awesome-Foundation-Models-in-Medical-Imaging) — 醫療影像視覺與語言基礎模型的精選清單 `survey` ⭐307 · 📅2024-06
-- 📑 [Awesome-Foundation-Models-for-Weather-and-Climate](https://github.com/shengchaochen82/Awesome-Foundation-Models-for-Weather-and-Climate) — 氣象與氣候資料理解用基礎模型的全面綜述 `survey` ⭐299 · 📅2025-02
-- 📑 [Awesome-Foundation-Models-for-Advancing-Healthcare](https://github.com/YutingHe-list/Awesome-Foundation-Models-for-Advancing-Healthcare) — 健康照護基礎模型（HFM）課題、機會與未來展望的全面綜述 `survey` ⭐257 · 📅2024-12
+- 📑 [Awesome-Foundation-Models-for-Weather-and-Climate](https://github.com/shengchaochen82/Awesome-Foundation-Models-for-Weather-and-Climate) — 氣象與氣候資料理解用基礎模型的全面綜述 `survey` ⭐300 · 📅2025-02
+- 📑 [Awesome-Foundation-Models-for-Advancing-Healthcare](https://github.com/YutingHe-list/Awesome-Foundation-Models-for-Advancing-Healthcare) — 健康照護基礎模型（HFM）課題、機會與未來展望的全面綜述 `survey` ⭐255 · 📅2024-12
 - 📑 [DL-ECG-Review](https://github.com/hsd1503/DL-ECG-Review) — ECG深度學習方法綜述與論文摘要表 `survey` ⭐252 · 📅2020-10
 - 📑 [Awesome-Active-Learning-for-Medical-Image-Analysis](https://github.com/LightersWang/Awesome-Active-Learning-for-Medical-Image-Analysis) — 醫療影像分析主動學習綜述論文與程式碼 `survey` ⭐135 · 📅2025-06
 - 📑 [MedImgReg_Survey](https://github.com/JHU-MedImage-Reg/MedImgReg_Survey) — 學習式醫療影像配準論文集，附損失函數/評估指標實作 `survey` ⭐124 · 📅2025-05
@@ -854,7 +854,7 @@
 - 🟡 [Awesome-LWMs](https://github.com/jaychempan/Awesome-LWMs) — 大型氣象模型（LWMs）集合（AI4Earth） `awesome` ⭐380 · 📅2025-06
 - 🟡 [awesome-AI-based-protein-design](https://github.com/opendilab/awesome-AI-based-protein-design) — AI式蛋白質設計的研究論文集 `paper-list` ⭐319 · 📅2024-05
 - 🟡 [Awesome-AI4BCI](https://github.com/Deepak-Mewada/Awesome-AI4BCI) — 腦訊號編碼/解碼的深度學習模型資源集 `paper-list` ⭐19 · 📅2025-09
-- 🔴 [awesome-ehr-deeplearning](https://github.com/hurcy/awesome-ehr-deeplearning) — EHR挖掘、機器學習與深度學習論文集 `awesome` ⭐431 · 📅2022-10
+- 🔴 [awesome-ehr-deeplearning](https://github.com/hurcy/awesome-ehr-deeplearning) — EHR挖掘、機器學習與深度學習論文集 `awesome` ⭐432 · 📅2022-10
 - 🔴 [Awesome-LLM-Healthcare](https://github.com/mingze-yuan/Awesome-LLM-Healthcare) — 對應醫療領域LLM綜述論文的論文清單 `paper-list` ⭐279 · 📅2023-12
 - 🔴 [Physiological-Signal-Classification-Papers](https://github.com/ziyujia/Physiological-Signal-Classification-Papers) — 依任務整理EEG/ECG/EMG/EOG的分類論文 `paper-list` ⭐253 · 📅2022-07
 - 🔴 [awesome-radiology-report-generation](https://github.com/zhjohnchan/awesome-radiology-report-generation) — 放射/醫療報告生成與相關領域的精選清單 `awesome` ⭐181 · 📅2022-05
@@ -873,30 +873,30 @@
 - 🟢 [Awesome-Remote-Sensing-Foundation-Models](https://github.com/Jack-bo1220/Awesome-Remote-Sensing-Foundation-Models) — 涵蓋RSFM論文、資料集、基準與預訓練權重（活躍） `paper-list` ⭐2k · 📅2026-05
 - 🟢 [awesome-agriculture](https://github.com/brycejohnston/awesome-agriculture) — 農業、農場與園藝用OSS技術（含ML、GIS、遙測、機器人）的經典清單 `awesome` ⭐1.9k · 📅2026-11
 - 🟢 [awesome-search](https://github.com/frutik/awesome-search) — 以電商搜尋為主，涵蓋語意搜尋、LTR、查詢理解與搜尋品質 `awesome` ⭐1.6k · 📅2026-11
-- 🟢 [best-of-atomistic-machine-learning](https://github.com/JuDFTteam/best-of-atomistic-machine-learning) — 為約510個原子論機器學習專案評分排名（活躍） `awesome` ⭐737 · 📅2026-11
+- 🟢 [best-of-atomistic-machine-learning](https://github.com/JuDFTteam/best-of-atomistic-machine-learning) — 為約510個原子論機器學習專案評分排名（活躍） `awesome` ⭐738 · 📅2026-11
 - 🟢 [Awesome-Scientific-Language-Models](https://github.com/yuz9yuz/Awesome-Scientific-Language-Models) — 數學、物理、化學、材料、生物、地球科學等科學領域預訓練模型的全面綜述 `survey` ⭐667 · 📅2026-09
 - 🟢 [awesome-materials-informatics](https://github.com/tilde-lab/awesome-materials-informatics) — 現代材料科學中材料資訊學的相關工作集 `awesome` ⭐535 · 📅2026-03
-- 🟢 [awesome-digital-humanities](https://github.com/dh-tech/awesome-digital-humanities) — 為人文學者提供的量化與計算方法軟體集（NLP、主題模型、文本分析） `awesome` ⭐434 · 📅2026-11
+- 🟢 [awesome-digital-humanities](https://github.com/dh-tech/awesome-digital-humanities) — 為人文學者提供的量化與計算方法軟體集（NLP、主題模型、文本分析） `awesome` ⭐437 · 📅2026-11
 - 🟢 [AwesomeLLM4SE](https://github.com/iSEngLab/AwesomeLLM4SE) — 整理從需求、開發、測試到維護全SE領域的LLM論文 `survey` ⭐350 · 📅2026-04
 - 🟢 [awesome-ai-llm4education](https://github.com/GeminiLight/awesome-ai-llm4education) — 收集頂會與期刊的教育用AI/LLM論文 `paper-list` ⭐225 · 📅2026-10
-- 🟢 [awesome-pinns](https://github.com/AI-in-Transportation-Lab/awesome-pinns) — PINN/物理資訊機器學習的函式庫、論文與教學精選集 `awesome` ⭐148 · 📅2026-11
-- 🟢 [PINN_Paper_List](https://github.com/Event-AHU/PINN_Paper_List) — 物理資訊神經網路（PINN）的論文清單 `paper-list` ⭐101 · 📅2026-10
+- 🟢 [awesome-pinns](https://github.com/AI-in-Transportation-Lab/awesome-pinns) — PINN/物理資訊機器學習的函式庫、論文與教學精選集 `awesome` ⭐149 · 📅2026-11
+- 🟢 [PINN_Paper_List](https://github.com/Event-AHU/PINN_Paper_List) — 物理資訊神經網路（PINN）的論文清單 `paper-list` ⭐102 · 📅2026-10
 - 📑 [FinLLMs](https://github.com/adlnlp/FinLLMs) — 論文《Large Language Models in Finance》的相關研究、基準與資料集集 `survey` ⭐390 · 📅2025-04
 - 📑 [DL4TP](https://github.com/zhaoyu-li/DL4TP) — 深度學習應用於定理證明的調查，依autoformalization、proof search等分類 `survey` ⭐231 · 📅2025-05
 - 📑 [awesome-RSFMs](https://github.com/xiaoaoran/awesome-RSFMs) — 綜述《Foundation Models for Remote Sensing and Earth Observation》官方儲存庫 `survey` ⭐53 · 📅2024-11
-- 🟡 [Awesome-Quant-Machine-Learning-Trading](https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading) — 著重機器學習的量化/演算法交易資源集 `awesome` ⭐4.1k · 📅2025-05
-- 🟡 [awesome-legal-nlp](https://github.com/maastrichtlawtech/awesome-legal-nlp) — 判決預測、合約分類、判例檢索、法務QA等LegalNLP資源集 `awesome` ⭐347 · 📅2025-10
+- 🟡 [Awesome-Quant-Machine-Learning-Trading](https://github.com/grananqvist/Awesome-Quant-Machine-Learning-Trading) — 著重機器學習的量化/演算法交易資源集 `awesome` ⭐4.2k · 📅2025-05
+- 🟡 [awesome-legal-nlp](https://github.com/maastrichtlawtech/awesome-legal-nlp) — 判決預測、合約分類、判例檢索、法務QA等LegalNLP資源集 `awesome` ⭐348 · 📅2025-10
 - 🟡 [awesome-ai4lam](https://github.com/AI4LAM/awesome-ai4lam) — 圖書館、檔案館與博物館（GLAM/LAM）用AI的專案、案例與資源集（AI4LAM社群營運） `awesome` ⭐195 · 📅2024-06
 - 🟡 [Awesome-LLM4Math](https://github.com/tongyx361/Awesome-LLM4Math) — LLM數學推理的高品質精選清單，整理訓練資料、SFT、RL與基準 `paper-list` ⭐160 · 📅2024-07
 - 🟡 [Awesome-Education-LLM](https://github.com/Geralt-Targaryen/Awesome-Education-LLM) — 整理教育用LLM研究與應用（教學輔助、題目生成、自動評分等） `paper-list` ⭐80 · 📅2024-09
-- 🟡 [LLM_X_papers](https://github.com/czyssrs/LLM_X_papers) — 持續更新金融、醫療、法務LLM論文的閱讀清單 `paper-list` ⭐55 · 📅2025-02
+- 🟡 [LLM_X_papers](https://github.com/czyssrs/LLM_X_papers) — 持續更新金融、醫療、法務LLM論文的閱讀清單 `paper-list` ⭐56 · 📅2025-02
 - 🔴 [awesome-machine-learning-on-source-code](https://github.com/src-d/awesome-machine-learning-on-source-code) — 將機器學習應用於原始碼（MLonCode）的論文與連結集 `awesome` ⭐6.7k · 📅2020-12
 - 🔴 [PINNpapers](https://github.com/idrl-lab/PINNpapers) — PINN必讀論文集，依並行化、加速、遷移學習、不確定性量化與應用整理 `paper-list` ⭐1.6k · 📅2023-12
 - 🔴 [LLM4SoftwareTesting](https://github.com/LLM-Testing/LLM4SoftwareTesting) — 運用LLM進行測試生成、測試補全等的論文集 `paper-list` ⭐532 · 📅2024-01
-- 🔴 [Awesome-LegalAI-Resources](https://github.com/CSHaitao/Awesome-LegalAI-Resources) — 彙整司法AI用語料、基準、QA與摘要資料集 `awesome` ⭐319 · 📅2023-07
+- 🔴 [Awesome-LegalAI-Resources](https://github.com/CSHaitao/Awesome-LegalAI-Resources) — 彙整司法AI用語料、基準、QA與摘要資料集 `awesome` ⭐320 · 📅2023-07
 - 🔴 [awesome-ai4eda](https://github.com/Thinklab-SJTU/awesome-ai4eda) — 將AI應用於電子設計自動化（EDA、晶片設計）的論文集 `paper-list` ⭐216 · 📅2023-12
 - 🔴 [awesome-program](https://github.com/shaohua0116/awesome-program) — 程式合成、歸納、執行、修復與programmatic RL的論文集 `paper-list` ⭐170 · 📅2021-10
-- 🔴 [Awesome-Precision-Agriculture](https://github.com/px39n/Awesome-Precision-Agriculture) — 以UAV與深度學習進行產量預測、作物偵測、雜草偵測等的論文集 `paper-list` ⭐146 · 📅2020-09
+- 🔴 [Awesome-Precision-Agriculture](https://github.com/px39n/Awesome-Precision-Agriculture) — 以UAV與深度學習進行產量預測、作物偵測、雜草偵測等的論文集 `paper-list` ⭐147 · 📅2020-09
 - 🔴 [awesome-ai4chem](https://github.com/sherrylixuecheng/awesome-ai4chem) — 化學用AI論文的精選 `paper-list` ⭐49 · 📅2023-05
 - 🔴 [Awesome-Sports-Analytics](https://github.com/wywyWang/Awesome-Sports-Analytics) — 足球、籃球、羽球等運動分析論文與程式碼集 `paper-list` ⭐23 · 📅2023-03
 
@@ -904,12 +904,12 @@
 
 - 🟢 [Awesome-Interaction-Aware-Trajectory-Prediction](https://github.com/jiachenli94/Awesome-Interaction-Aware-Trajectory-Prediction) — 考量互動的軌跡預測前沿研究資料集 `paper-list` ⭐1.7k · 📅2026-08
 - 🟢 [Awesome-Trajectory-Motion-Prediction-Papers](https://github.com/colorfulfuture/Awesome-Trajectory-Motion-Prediction-Papers) — 軌跡與運動預測的全面論文集 `paper-list` ⭐1.1k · 📅2026-07
-- 🟢 [awesome-end-to-end-autonomous-driving](https://github.com/opendilab/awesome-end-to-end-autonomous-driving) — 持續更新End-to-End自動駕駛資源的清單 `awesome` ⭐503 · 📅2026-06
+- 🟢 [awesome-end-to-end-autonomous-driving](https://github.com/opendilab/awesome-end-to-end-autonomous-driving) — 持續更新End-to-End自動駕駛資源的清單 `awesome` ⭐504 · 📅2026-06
 - 📑 [Birds-eye-view-Perception](https://github.com/OpenDriveLab/Birds-eye-view-Perception) — BEV感知研究與cookbook（IEEE T-PAMI 2023） `survey` ⭐1.4k · 📅2025-07
 - 📑 [Awesome-Data-Centric-Autonomous-Driving](https://github.com/LincanLi-X/Awesome-Data-Centric-Autonomous-Driving) — 資料中心自動駕駛綜述官方儲存庫 `survey` ⭐172 · 📅2024-03
 - 🟡 [awesome-lane-detection](https://github.com/amusi/awesome-lane-detection) — 車道偵測（lane detection）的論文清單 `paper-list` ⭐3.1k · 📅2024-08
 - 🟡 [Awesome-Autonomous-Driving](https://github.com/autodriving-heart/Awesome-Autonomous-Driving) — 自動駕駛整體的awesome清單 `awesome` ⭐1.2k · 📅2024-08
-- 🟡 [awesome-knowledge-driven-AD](https://github.com/PJLab-ADG/awesome-knowledge-driven-AD) — 知識驅動型自動駕駛的精選論文集 `paper-list` ⭐500 · 📅2024-06
+- 🟡 [awesome-knowledge-driven-AD](https://github.com/PJLab-ADG/awesome-knowledge-driven-AD) — 知識驅動型自動駕駛的精選論文集 `paper-list` ⭐501 · 📅2024-06
 - 🟡 [Awesome-Autonomous-Driving](https://github.com/PeterJaq/Awesome-Autonomous-Driving) — 自動駕駛整體的廣泛清單 `awesome` ⭐357 · 📅2024-08
 - 🟡 [Awesome-occupancy-perception](https://github.com/autodriving-heart/Awesome-occupancy-perception) — 佔據感知（Occupancy）論文集合 `paper-list` ⭐310 · 📅2024-08
 - 🟡 [CVPR-2024-Papers-Autonomous-Driving](https://github.com/autodriving-heart/CVPR-2024-Papers-Autonomous-Driving) — CVPR 2024的自動駕駛相關論文清單 `paper-list` ⭐258 · 📅2024-08
@@ -928,24 +928,24 @@
 - 🟢 [Awesome-LLM-Safety](https://github.com/ydyjya/Awesome-LLM-Safety) — LLM安全性的論文、文章、資料集與基準集 `awesome` ⭐1.9k · 📅2026-07
 - 🟢 [awesome-fraud-detection-papers](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers) — ICDM/KDD/SDM等詐欺偵測資料探勘論文的經典清單 `paper-list` ⭐1.8k · 📅2026-01
 - 🟢 [Awesome-explainable-AI](https://github.com/wangyongjie-ntu/Awesome-explainable-AI) — 可解釋AI/ML的研究資料集 `paper-list` ⭐1.7k · 📅2026-08
-- 🟢 [awesome-machine-unlearning](https://github.com/tamlhp/awesome-machine-unlearning) — machine unlearning綜述官方清單，涵蓋方法、資料集與評估指標 `awesome` ⭐976 · 📅2026-08
-- 🟢 [awesome-llm-unlearning](https://github.com/chrisliu298/awesome-llm-unlearning) — LLM machine unlearning的論文、綜述與基準集 `paper-list` ⭐638 · 📅2026-10
-- 🟢 [awesome-trustworthy-deep-learning](https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning) — OOD泛化、對抗樣本、後門等可信賴性論文（每日更新） `paper-list` ⭐395 · 📅2026-11
+- 🟢 [awesome-machine-unlearning](https://github.com/tamlhp/awesome-machine-unlearning) — machine unlearning綜述官方清單，涵蓋方法、資料集與評估指標 `awesome` ⭐978 · 📅2026-08
+- 🟢 [awesome-llm-unlearning](https://github.com/chrisliu298/awesome-llm-unlearning) — LLM machine unlearning的論文、綜述與基準集 `paper-list` ⭐640 · 📅2026-10
+- 🟢 [awesome-trustworthy-deep-learning](https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning) — OOD泛化、對抗樣本、後門等可信賴性論文（每日更新） `paper-list` ⭐394 · 📅2026-11
 - 🟢 [membership-inference-machine-learning-literature](https://github.com/HongshengHu/membership-inference-machine-learning-literature) — 專注於成員推論攻擊的文獻集 `paper-list` ⭐376 · 📅2026-10
-- 🟢 [Awesome-AI-for-cybersecurity](https://github.com/Billy1900/Awesome-AI-for-cybersecurity) — 涵蓋網路入侵偵測、防惡意軟體、WAF與防詐的AI清單 `awesome` ⭐278 · 📅2026-11
+- 🟢 [Awesome-AI-for-cybersecurity](https://github.com/Billy1900/Awesome-AI-for-cybersecurity) — 涵蓋網路入侵偵測、防惡意軟體、WAF與防詐的AI清單 `awesome` ⭐279 · 📅2026-11
 - 🟢 [Awesome-Backdoor-Research](https://github.com/zihao-ai/Awesome-Backdoor-Research) — 依攻擊類型與防禦階段整理深度學習後門攻擊與防禦的論文集（活躍） `paper-list` ⭐249 · 📅2026-11
 - 🟢 [Awesome-model-inversion-attack](https://github.com/AndrewZhou924/Awesome-model-inversion-attack) — 模型反演攻擊綜述官方清單，依CV/圖/NLP整理 `paper-list` ⭐225 · 📅2026-08
-- 🟢 [Awesome-LMMs-Mechanistic-Interpretability](https://github.com/itsqyh/Awesome-LMMs-Mechanistic-Interpretability) — 探討大型多模態模型內部表示的mechanistic interpretability資源集（活躍） `survey` ⭐224 · 📅2026-03
+- 🟢 [Awesome-LMMs-Mechanistic-Interpretability](https://github.com/itsqyh/Awesome-LMMs-Mechanistic-Interpretability) — 探討大型多模態模型內部表示的mechanistic interpretability資源集（活躍） `survey` ⭐224 · 📅2026-11
 - 🟢 [Awesome-GenAI-Unlearning](https://github.com/franciscoliu/Awesome-GenAI-Unlearning) — 依模態與用途整理生成AI的unlearning論文 `paper-list` ⭐188 · 📅2026-04
-- 🟢 [OpenRedTeaming](https://github.com/Libr-AI/OpenRedTeaming) — LLM/多模態red teaming論文集（30+方法實作） `paper-list` ⭐183 · 📅2026-07
-- 🟢 [awesome-mechanistic-interpretability](https://github.com/AI-in-Transportation-Lab/awesome-mechanistic-interpretability) — 將神經網路逆解析為可理解計算元素的mechanistic interpretability資源集 `awesome` ⭐177 · 📅2026-11
-- 🟢 [Awesome-GenAI-Watermarking](https://github.com/and-mill/Awesome-GenAI-Watermarking) — 依影像、音訊、文字整理生成AI模型用浮水印方法（活躍） `awesome` ⭐149 · 📅2026-11
-- 🟢 [awesome-fraud-detection](https://github.com/AI4Risk/awesome-fraud-detection) — 以GNN進行金融詐欺偵測的附綜述論文與程式碼集（活躍） `paper-list` ⭐53 · 📅2026-10
+- 🟢 [OpenRedTeaming](https://github.com/Libr-AI/OpenRedTeaming) — LLM/多模態red teaming論文集（30+方法實作） `paper-list` ⭐185 · 📅2026-07
+- 🟢 [awesome-mechanistic-interpretability](https://github.com/AI-in-Transportation-Lab/awesome-mechanistic-interpretability) — 將神經網路逆解析為可理解計算元素的mechanistic interpretability資源集 `awesome` ⭐180 · 📅2026-11
+- 🟢 [Awesome-GenAI-Watermarking](https://github.com/and-mill/Awesome-GenAI-Watermarking) — 依影像、音訊、文字整理生成AI模型用浮水印方法（活躍） `awesome` ⭐150 · 📅2026-11
+- 🟢 [awesome-fraud-detection](https://github.com/AI4Risk/awesome-fraud-detection) — 以GNN進行金融詐欺偵測的附綜述論文與程式碼集（活躍） `paper-list` ⭐53 · 📅2026-11
 - 📑 [Awesome-LLM-Safety-Papers](https://github.com/tjunlp-lab/Awesome-LLM-Safety-Papers) — LLM安全性綜述論文清單 `survey` ⭐58 · 📅2024-12
 - 🟡 [awesome-ml-for-cybersecurity](https://github.com/jivoi/awesome-ml-for-cybersecurity) — 將ML用於惡意軟體、入侵偵測等的工具、論文與教材經典清單 `awesome` ⭐9.6k · 📅2024-08
 - 🟡 [awesome-llm-security](https://github.com/corca-ai/awesome-llm-security) — LLM安全性的工具、文獻與專案集 `awesome` ⭐1.7k · 📅2025-08
 - 🟡 [TAADpapers](https://github.com/thunlp/TAADpapers) — 文字對抗攻擊與防禦（TAAD）的必讀論文集 `paper-list` ⭐1.6k · 📅2025-06
-- 🟡 [prompt-injection-defenses](https://github.com/tldrsec/prompt-injection-defenses) — 涵蓋prompt injection的實用與已提出防禦對策 `awesome` ⭐744 · 📅2025-02
+- 🟡 [prompt-injection-defenses](https://github.com/tldrsec/prompt-injection-defenses) — 涵蓋prompt injection的實用與已提出防禦對策 `awesome` ⭐742 · 📅2025-02
 - 🟡 [awesome-ai-safety](https://github.com/Giskard-AI/awesome-ai-safety) — AI品質與安全性相關論文與技術文章的精選清單 `paper-list` ⭐228 · 📅2025-04
 - 🟡 [trojai-literature](https://github.com/usnistgov/trojai-literature) — NIST營運的AI木馬攻擊研究文獻總覽 `paper-list` ⭐155 · 📅2024-10
 - 🟡 [Learning-Deep-Hiding](https://github.com/TracyCuiq/Learning-Deep-Hiding) — 體系化整理含影像隱寫術與浮水印的「deep hiding」論文 `paper-list` ⭐69 · 📅2024-06
@@ -964,36 +964,36 @@
 ## ⚖️ AI 倫理 / 治理 / 法規 / Human-AI Interaction
 
 - 🟢 [awesome-artificial-intelligence-regulation](https://github.com/EthicalML/awesome-artificial-intelligence-regulation) — 依地區涵蓋各國AI法規、指引、倫理規範與標準 `awesome` ⭐1.5k · 📅2026-11
-- 🟢 [awesome-computational-social-science](https://github.com/gesiscss/awesome-computational-social-science) — 計算社會科學的書籍、課程與OSS資源全面清單（GESIS營運） `awesome` ⭐966 · 📅2026-10
-- 🟢 [Awesome-LLM-in-Social-Science](https://github.com/ValueByte-AI/Awesome-LLM-in-Social-Science) — 將LLM應用於社會科學的論文集 `paper-list` ⭐653 · 📅2026-11
+- 🟢 [awesome-computational-social-science](https://github.com/gesiscss/awesome-computational-social-science) — 計算社會科學的書籍、課程與OSS資源全面清單（GESIS營運） `awesome` ⭐967 · 📅2026-10
+- 🟢 [Awesome-LLM-in-Social-Science](https://github.com/ValueByte-AI/Awesome-LLM-in-Social-Science) — 將LLM應用於社會科學的論文集 `paper-list` ⭐652 · 📅2026-11
 - 🟢 [AwesomeResponsibleAI](https://github.com/AthenaCore/AwesomeResponsibleAI) — 於17個領域彙整負責任AI的研究、書籍、法規、成熟度模型與工具 `awesome` ⭐158 · 📅2026-11
-- 🟢 [Awesome-LLM-Psychometrics](https://github.com/ValueByte-AI/Awesome-LLM-Psychometrics) — 以心理測量觀點探討LLM人格、價值觀、心智理論與認知能力的論文集 `survey` ⭐142 · 📅2026-11
+- 🟢 [Awesome-LLM-Psychometrics](https://github.com/ValueByte-AI/Awesome-LLM-Psychometrics) — 以心理測量觀點探討LLM人格、價值觀、心智理論與認知能力的論文集 `survey` ⭐144 · 📅2026-11
 - 🔴 [NLP4SocialGood_Papers](https://github.com/zhijing-jin/NLP4SocialGood_Papers) — 社會公益用NLP論文的閱讀清單（救命、QoL、公平性等） `paper-list` ⭐312 · 📅2023-09
 - 🔴 [awesome-HAI](https://github.com/bwang514/awesome-HAI) — 從HCI視角探討人類與AI互動設計的學術資料集 `awesome` ⭐297 · 📅2021-05
 
 ## ⚡ 高效化 (壓縮/量化/NAS/AutoML)
 
 - 🟢 [Awesome-Model-Quantization](https://github.com/AI-Efficiency/Awesome-Model-Quantization) — 模型量化的論文、程式碼與文件清單 `paper-list` ⭐2.5k · 📅2026-11
-- 🟢 [Awesome-LLM-Compression](https://github.com/HuangOwen/Awesome-LLM-Compression) — 量化、剪枝、蒸餾等LLM壓縮的論文與工具集 `awesome` ⭐1.9k · 📅2026-10
+- 🟢 [Awesome-LLM-Compression](https://github.com/HuangOwen/Awesome-LLM-Compression) — 量化、剪枝、蒸餾等LLM壓縮的論文與工具集 `awesome` ⭐1.9k · 📅2026-11
 - 🟢 [tinyml-papers-and-projects](https://github.com/gigwegbe/tinyml-papers-and-projects) — TinyML的論文與專案集（活躍更新） `paper-list` ⭐1k · 📅2025-12
-- 🟢 [awesome-AutoML](https://github.com/windmaple/awesome-AutoML) — AutoML精選清單 `awesome` ⭐945 · 📅2026-03
+- 🟢 [awesome-AutoML](https://github.com/windmaple/awesome-AutoML) — AutoML精選清單 `awesome` ⭐946 · 📅2026-03
 - 🟢 [awesome-edge-machine-learning](https://github.com/Bisonai/awesome-edge-machine-learning) — 涵蓋邊緣機器學習的論文、推理引擎、課題與書籍 `awesome` ⭐281 · 📅2026-10
 - 🟢 [awesome-ai-efficiency](https://github.com/PrunaAI/awesome-ai-efficiency) — AI模型加速、小型化與節能方法清單 `awesome` ⭐240 · 📅2026-10
-- 🟢 [Awesome-On-Device-AI-Systems](https://github.com/jeho-lee/Awesome-On-Device-AI-Systems) — 裝置端AI系統（推理引擎/基準/論文），活躍 `awesome` ⭐194 · 📅2026-11
+- 🟢 [Awesome-On-Device-AI-Systems](https://github.com/jeho-lee/Awesome-On-Device-AI-Systems) — 裝置端AI系統（推理引擎/基準/論文），活躍 `awesome` ⭐195 · 📅2026-11
 - 🟢 [awesome-green-ai](https://github.com/samuelrince/awesome-green-ai) — 評估與減少AI環境影響的Green AI工具/論文經典清單 `awesome` ⭐116 · 📅2026-05
 - 📑 [Awesome-Knowledge-Distillation-of-LLMs](https://github.com/Tebmer/Awesome-Knowledge-Distillation-of-LLMs) — 與LLM知識蒸餾綜述連動的論文集 `survey` ⭐1.3k · 📅2025-03
 - 🟡 [Awesome-CoreML-Models](https://github.com/likedan/Awesome-CoreML-Models) — iOS用Core ML模型的最大規模清單 `model` ⭐7.1k · 📅2025-06
 - 🟡 [Awesome-Efficient-LLM](https://github.com/horseee/Awesome-Efficient-LLM) — 高效LLM（剪枝、量化、蒸餾等）的精選清單 `awesome` ⭐2.1k · 📅2025-06
-- 🟡 [awesome-ml-model-compression](https://github.com/cedrickchee/awesome-ml-model-compression) — 模型壓縮與量化的研究論文、工具與學習資料 `awesome` ⭐548 · 📅2024-09
+- 🟡 [awesome-ml-model-compression](https://github.com/cedrickchee/awesome-ml-model-compression) — 模型壓縮與量化的研究論文、工具與學習資料 `awesome` ⭐547 · 📅2024-09
 - 🔴 [deep-learning-model-convertor](https://github.com/ysh329/deep-learning-model-convertor) — 不同深度學習框架間模型轉換工具的一覽 `awesome` ⭐3.2k · 📅2023-06
 - 🔴 [Awesome-Knowledge-Distillation](https://github.com/FLHonker/Awesome-Knowledge-Distillation) — 分類整理知識蒸餾論文（2014-2021） `paper-list` ⭐2.7k · 📅2023-05
 - 🔴 [Awesome-AutoDL](https://github.com/D-X-Y/Awesome-AutoDL) — 自動深度學習（AutoDL）的資源與詳細分析 `awesome` ⭐2.4k · 📅2022-09
-- 🔴 [awesome-emdl](https://github.com/csarron/awesome-emdl) — 嵌入式與行動深度學習的論文/函式庫/工具集 `awesome` ⭐769 · 📅2023-03
+- 🔴 [awesome-emdl](https://github.com/csarron/awesome-emdl) — 嵌入式與行動深度學習的論文/函式庫/工具集 `awesome` ⭐768 · 📅2023-03
 - 🔴 [awesome-nas-papers](https://github.com/jackguagua/awesome-nas-papers) — Neural Architecture Search論文彙整清單 `paper-list` ⭐404 · 📅2024-01
 - 🔴 [awesome-transformer-search](https://github.com/automl/awesome-transformer-search) — 結合Transformer與NAS的資源清單 `awesome` ⭐269 · 📅2023-06
 - 🔴 [awesome-model-compression](https://github.com/ChanChiChoi/awesome-model-compression) — 模型壓縮（結構、蒸餾、二值化、量化、剪枝）論文集 `paper-list` ⭐166 · 📅2023-02
 - 🔴 [NASPapers](https://github.com/NiuTrans/NASPapers) — 神經架構搜尋（NAS）的論文清單 `paper-list` ⭐135 · 📅2021-09
-- 🔴 [awesome-compression-papers](https://github.com/chenbong/awesome-compression-papers) — 壓縮與加速（剪枝、量化、蒸餾、低秩分解）論文集 `paper-list` ⭐25 · 📅2020-10
+- 🔴 [awesome-compression-papers](https://github.com/chenbong/awesome-compression-papers) — 壓縮與加速（剪枝、量化、蒸餾、低秩分解）論文集 `paper-list` ⭐26 · 📅2020-10
 - 🔴 [awesome-architecture-search](https://github.com/chenyaofo/awesome-architecture-search) — 最新追蹤NAS進展的論文清單 `paper-list` ⭐9 · 📅2022-05
 - 🔴 [Awesome-NAS](https://github.com/Openning07/Awesome-NAS) — 神經架構搜尋（NAS）資源的精選 `awesome` ⭐1 · 📅2020-04
 
@@ -1011,7 +1011,7 @@
 
 - 🟢 [Awesome-Incremental-Learning](https://github.com/xialeiliu/Awesome-Incremental-Learning) — 增量學習、持續學習與災難性遺忘的主要會議論文集 `paper-list` ⭐4.5k · 📅2026-10
 - 📑 [awesome-lifelong-learning-methods-for-llm](https://github.com/zzz47zzz/awesome-lifelong-learning-methods-for-llm) — LLM終身學習相關綜述與論文集 `survey` ⭐167 · 📅2025-05
-- 🟡 [Best-Incremental-Learning](https://github.com/Vision-Intelligence-and-Robots-Group/Best-Incremental-Learning) — 增量、持續與終身學習的儲存庫 `paper-list` ⭐614 · 📅2024-05
+- 🟡 [Best-Incremental-Learning](https://github.com/Vision-Intelligence-and-Robots-Group/Best-Incremental-Learning) — 增量、持續與終身學習的儲存庫 `paper-list` ⭐615 · 📅2024-05
 - 🟡 [Awesome-Continual-Learning](https://github.com/feifeiobama/Awesome-Continual-Learning) — 持續學習論文與BibTeX條目的精選清單 `paper-list` ⭐208 · 📅2024-10
 - 🔴 [awesome-lifelong-continual-learning](https://github.com/prprbr/awesome-lifelong-continual-learning) — 終身/持續學習的論文、部落格、資料集與軟體清單 `awesome` ⭐298 · 📅2021-03
 - 🔴 [LLM-Continual-Learning-Papers](https://github.com/AGI-Edgerunners/LLM-Continual-Learning-Papers) — LLM持續學習（continual learning）的必讀論文集 `paper-list` ⭐150 · 📅2023-11
@@ -1022,11 +1022,11 @@
 - 🟢 [data-augmentation-review](https://github.com/AgaMiko/data-augmentation-review) — 廣泛收集資料增強方法、函式庫與論文的綜述 `awesome` ⭐1.6k · 📅2026-11
 - 🟢 [awesome-vector-search](https://github.com/currentslab/awesome-vector-search) — 向量檢索的函式庫、服務與論文集（Faiss、Annoy等） `awesome` ⭐1.6k · 📅2026-07
 - 🟢 [rtdl](https://github.com/yandex-research/rtdl) — 表格資料深度學習的論文與套件集（Yandex Research） `paper-list` ⭐1.2k · 📅2026-04
-- 🟢 [ML4DB-paper-list](https://github.com/LumingSun/ML4DB-paper-list) — 以AI強化DB系統的論文集（學習式索引、查詢最佳化） `paper-list` ⭐791 · 📅2026-11
-- 🟢 [ml-systems-papers](https://github.com/byungsoo-oh/ml-systems-papers) — 系統性收集ML系統領域論文的集合 `paper-list` ⭐663 · 📅2026-10
+- 🟢 [ML4DB-paper-list](https://github.com/LumingSun/ML4DB-paper-list) — 以AI強化DB系統的論文集（學習式索引、查詢最佳化） `paper-list` ⭐794 · 📅2026-11
+- 🟢 [ml-systems-papers](https://github.com/byungsoo-oh/ml-systems-papers) — 系統性收集ML系統領域論文的集合 `paper-list` ⭐662 · 📅2026-10
 - 🟢 [awesome-AI-system](https://github.com/lambda7xx/awesome-AI-system) — 彙整AI系統論文及其程式碼的清單 `paper-list` ⭐382 · 📅2026-05
 - 🟢 [awesome-vector-database](https://github.com/dangkhoasdc/awesome-vector-database) — 高維向量檢索與資料庫相關的精選清單（活躍） `awesome` ⭐362 · 📅2026-11
-- 🟢 [Awesome-LLM-Inference-Engine](https://github.com/sihyeong/Awesome-LLM-Inference-Engine) — 依延遲/吞吐量/記憶體分類LLM推理最佳化方法的全面整理 `survey` ⭐255 · 📅2026-11
+- 🟢 [Awesome-LLM-Inference-Engine](https://github.com/sihyeong/Awesome-LLM-Inference-Engine) — 依延遲/吞吐量/記憶體分類LLM推理最佳化方法的全面整理 `survey` ⭐256 · 📅2026-11
 - 🟢 [Tabular-Survey](https://github.com/LAMDA-Tabular/Tabular-Survey) — 《Representation Learning for Tabular Data》綜述附帶清單 `survey` ⭐146 · 📅2026-11
 - 🟢 [awesome-ai4db-paper](https://github.com/Wind-Gone/awesome-ai4db-paper) — AI4DB論文集（學習式索引、基數估計、學習式查詢最佳化、LLM×DB） `paper-list` ⭐115 · 📅2026-04
 - 🟡 [AI-Infra-from-Zero-to-Hero](https://github.com/HuaizhengZhang/AI-Infra-from-Zero-to-Hero) — 彙整AI系統論文與業界實務（OSDI/NSDI/MLSys等，含LLM與GenAI）的經典 `awesome` ⭐4.5k · 📅2025-07
@@ -1047,18 +1047,18 @@
 - 🟢 [awesome-data-centric-ai](https://github.com/Data-Centric-AI-Community/awesome-data-centric-ai) — 資料中心AI的OSS、教學與研究 `awesome` ⭐360 · 📅2026-09
 - 🟢 [awesome-ml-data-quality-papers](https://github.com/SJTU-DMTai/awesome-ml-data-quality-papers) — 涵蓋資料評估、資料歸因與資料選擇/剪枝/coreset `paper-list` ⭐132 · 📅2026-06
 - 🟡 [awesome-mlops](https://github.com/visenger/awesome-mlops) — MLOps的參考文獻與資源集 `awesome` ⭐14.3k · 📅2024-11
-- 🟡 [awesome-data-labeling](https://github.com/HumanSignal/awesome-data-labeling) — 精選資料標註工具的清單 `awesome` ⭐4.4k · 📅2024-06
+- 🟡 [awesome-data-labeling](https://github.com/HumanSignal/awesome-data-labeling) — 精選資料標註工具的清單 `awesome` ⭐4.5k · 📅2024-06
 - 🟡 [data-centric-AI](https://github.com/daochenzha/data-centric-AI) — 資料中心AI的資源精選清單 `awesome` ⭐1.2k · 📅2024-06
-- 🟡 [Awesome-Coreset-Selection](https://github.com/PatrickZH/Awesome-Coreset-Selection) — coreset/子集選擇與data pruning的論文集 `awesome` ⭐184 · 📅2024-06
+- 🟡 [Awesome-Coreset-Selection](https://github.com/PatrickZH/Awesome-Coreset-Selection) — coreset/子集選擇與data pruning的論文集 `awesome` ⭐183 · 📅2024-06
 - 🔴 [releasing-research-code](https://github.com/paperswithcode/releasing-research-code) — ML研究程式碼公開的最佳實務（NeurIPS 2020官方推薦） `awesome` ⭐3k · 📅2023-05
 - 🔴 [data-centric-ai](https://github.com/HazyResearch/data-centric-ai) — 資料中心AI的資源集（Stanford HazyResearch） `awesome` ⭐1.1k · 📅2023-12
-- 🔴 [awesome-open-data-centric-ai](https://github.com/Renumics/awesome-open-data-centric-ai) — 非結構化資料用資料中心AI的OSS工具集 `awesome` ⭐740 · 📅2023-11
+- 🔴 [awesome-open-data-centric-ai](https://github.com/Renumics/awesome-open-data-centric-ai) — 非結構化資料用資料中心AI的OSS工具集 `awesome` ⭐739 · 📅2023-11
 
 ## 📊 資料集 / 基準測試
 
-- 🟢 [Awesome-LLM-Eval](https://github.com/onejune2018/Awesome-LLM-Eval) — LLM評估的工具、基準、排行榜與論文精選清單 `awesome` ⭐660 · 📅2025-11
+- 🟢 [Awesome-LLM-Eval](https://github.com/onejune2018/Awesome-LLM-Eval) — LLM評估的工具、基準、排行榜與論文精選清單 `awesome` ⭐661 · 📅2025-11
 - 🟢 [Awesome-Datasets-Hub](https://github.com/ahammadmejbah/Awesome-Datasets-Hub) — 醫療AI、NLP、多模態等LLM用資料集集 `awesome` ⭐150 · 📅2026-06
-- 🟢 [Awesome-LLM-Benchmark](https://github.com/SihyeongPark/Awesome-LLM-Benchmark) — 大型語言模型用基準一覽 `awesome` ⭐12 · 📅2026-10
+- 🟢 [Awesome-LLM-Benchmark](https://github.com/SihyeongPark/Awesome-LLM-Benchmark) — 大型語言模型用基準一覽 `awesome` ⭐12 · 📅2026-11
 - 🟢 [awesome-llm-benchmarks](https://github.com/BenchGecko/awesome-llm-benchmarks) — LLM/AI模型的基準、資料集與排行榜集 `awesome` ⭐5 · 📅2026-03
 - 🟡 [llm_benchmarks](https://github.com/leobeeson/llm_benchmarks) — LLM評估用基準與資料集的集合 `awesome` ⭐581 · 📅2024-07
 
